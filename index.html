@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>VC Counter Dashboard</title>
+    <link rel="stylesheet" href="./style.css" />
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  </head>
+  <body>
+    <main class="container">
+      <h1>VC Counter Dashboard</h1>
+      <p id="meta" class="small"></p>
+
+      <section class="card">
+        <div class="summary-row">
+          <h2>直近1週間（日次）</h2>
+          <span id="recentTotal"></span>
+        </div>
+        <canvas id="recentChart" height="180"></canvas>
+      </section>
+
+      <section class="card">
+        <div class="summary-row">
+          <h2>長期トレンド（8日目〜180日）</h2>
+          <span id="longTermTotal"></span>
+        </div>
+        <canvas id="longTermChart" height="180"></canvas>
+      </section>
+
+      <section class="card">
+        <h2>バケット詳細</h2>
+        <div id="bucketList"></div>
+      </section>
+    </main>
+    <script src="./app.js"></script>
+  </body>
+</html>
