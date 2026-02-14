@@ -1,4 +1,15 @@
-const CHART_COLORS = ["#38bdf8", "#f472b6", "#4ade80", "#fbbf24", "#a78bfa"];
+const CHART_COLORS = [
+  "#38bdf8",
+  "#f472b6",
+  "#4ade80",
+  "#fbbf24",
+  "#a78bfa",
+  "#fb7185",
+  "#22d3ee",
+  "#f97316",
+  "#84cc16",
+  "#e879f9",
+];
 
 function toHHMM(minutes) {
   const h = Math.floor(minutes / 60);
@@ -49,7 +60,7 @@ function buildChart(canvasId, buckets, title) {
     if (bucket.bucket_type === "day") return bucket.start_date;
     return `${bucket.start_date}〜${bucket.end_date}`;
   });
-  const topGames = getTopGames(buckets, 3);
+  const topGames = getTopGames(buckets, 10);
 
   new Chart(document.getElementById(canvasId), {
     type: "line",
@@ -94,13 +105,13 @@ async function loadDashboard() {
   document.getElementById("meta").textContent = `更新: ${meta.generated_at} (${meta.timezone})`;
 
   const recentBuckets = ts.buckets.filter((bucket) => bucket.bucket_type === "day");
-  const longTermBuckets = ts.buckets.filter((bucket) => bucket.bucket_type !== "day");
+  const longTermBuckets = ts.buckets;
 
   document.getElementById("recentTotal").textContent = `合計 ${toHHMM(sumBucketMinutes(recentBuckets))}`;
   document.getElementById("longTermTotal").textContent = `合計 ${toHHMM(sumBucketMinutes(longTermBuckets))}`;
 
-  buildChart("recentChart", recentBuckets, "Top 3 games / 日次");
-  buildChart("longTermChart", longTermBuckets, "Top 3 games / 週次・月次");
+  buildChart("recentChart", recentBuckets, "Top 10 games / 日次");
+  buildChart("longTermChart", longTermBuckets, "Top 10 games / 1日目〜180日");
 
   const list = document.getElementById("bucketList");
   ts.buckets.forEach((bucket) => {
