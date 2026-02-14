@@ -1,0 +1,187 @@
+{
+  "generated_at": "2026-02-14T11:42:51+09:00",
+  "timezone": "Asia/Tokyo",
+  "policy": {
+    "recent_daily_days": 7,
+    "weekly_until_days": 30,
+    "monthly_until_days": 180
+  },
+  "buckets": [
+    {
+      "bucket_type": "month",
+      "start_date": "2025-08-01",
+      "end_date": "2025-08-31",
+      "items": []
+    },
+    {
+      "bucket_type": "month",
+      "start_date": "2025-09-01",
+      "end_date": "2025-09-30",
+      "items": []
+    },
+    {
+      "bucket_type": "month",
+      "start_date": "2025-10-01",
+      "end_date": "2025-10-31",
+      "items": []
+    },
+    {
+      "bucket_type": "month",
+      "start_date": "2025-11-01",
+      "end_date": "2025-11-30",
+      "items": []
+    },
+    {
+      "bucket_type": "month",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-31",
+      "items": []
+    },
+    {
+      "bucket_type": "month",
+      "start_date": "2026-01-01",
+      "end_date": "2026-01-31",
+      "items": []
+    },
+    {
+      "bucket_type": "week",
+      "start_date": "2026-01-12",
+      "end_date": "2026-01-18",
+      "items": []
+    },
+    {
+      "bucket_type": "week",
+      "start_date": "2026-01-19",
+      "end_date": "2026-01-25",
+      "items": []
+    },
+    {
+      "bucket_type": "week",
+      "start_date": "2026-01-26",
+      "end_date": "2026-02-01",
+      "items": []
+    },
+    {
+      "bucket_type": "week",
+      "start_date": "2026-02-02",
+      "end_date": "2026-02-08",
+      "items": []
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-02-08",
+      "end_date": "2026-02-08",
+      "items": []
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-02-09",
+      "end_date": "2026-02-09",
+      "items": []
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-02-10",
+      "end_date": "2026-02-10",
+      "items": []
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-02-11",
+      "end_date": "2026-02-11",
+      "items": []
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-02-12",
+      "end_date": "2026-02-12",
+      "items": []
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-02-13",
+      "end_date": "2026-02-13",
+      "items": [
+        {
+          "game": "DNF DUEL",
+          "minutes": 732
+        },
+        {
+          "game": "Backpack Battles",
+          "minutes": 105
+        },
+        {
+          "game": "FATAL FURY: City of the Wolves",
+          "minutes": 47
+        },
+        {
+          "game": "MTGA",
+          "minutes": 47
+        },
+        {
+          "game": "Absolum",
+          "minutes": 34
+        },
+        {
+          "game": "Crimzon Clover World EXplosion",
+          "minutes": 33
+        },
+        {
+          "game": "Minecraft",
+          "minutes": 30
+        },
+        {
+          "game": "DRAGON BALL FighterZ",
+          "minutes": 29
+        },
+        {
+          "game": "Initial Drift Online",
+          "minutes": 28
+        },
+        {
+          "game": "Street Fighter™ 6",
+          "minutes": 24
+        },
+        {
+          "game": "近畿霊務局",
+          "minutes": 23
+        },
+        {
+          "game": "NoxPlayer",
+          "minutes": 19
+        },
+        {
+          "game": "SILENT HILL f",
+          "minutes": 14
+        },
+        {
+          "game": "Arknights:Endfield",
+          "minutes": 12
+        },
+        {
+          "game": "MTGArena",
+          "minutes": 4
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-02-14",
+      "end_date": "2026-02-14",
+      "items": [
+        {
+          "game": "DNF DUEL",
+          "minutes": 101
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 19
+        },
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 1
+        }
+      ]
+    }
+  ]
+}
