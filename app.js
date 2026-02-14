@@ -70,6 +70,7 @@ function buildChart(canvasId, buckets, title) {
     },
     options: {
       responsive: true,
+      maintainAspectRatio: false,
       plugins: {
         legend: { position: "bottom" },
         title: {
