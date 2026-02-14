@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-14T13:21:28+09:00",
+  "generated_at": "2026-02-14T13:26:04+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -175,7 +175,7 @@
         },
         {
           "game": "SNOWBREAK",
-          "minutes": 61
+          "minutes": 65
         },
         {
           "game": "Wuthering Waves",
