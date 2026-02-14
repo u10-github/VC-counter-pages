@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-14T13:00:59+09:00",
+  "generated_at": "2026-02-14T13:02:38+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -175,7 +175,7 @@
         },
         {
           "game": "SNOWBREAK",
-          "minutes": 40
+          "minutes": 41
         },
         {
           "game": "Wuthering Waves",
@@ -183,7 +183,7 @@
         },
         {
           "game": "BlazBlue Centralfiction",
-          "minutes": 14
+          "minutes": 15
         },
         {
           "game": "Phantom Breaker: Omnia",
