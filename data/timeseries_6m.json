@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-15T13:27:46+09:00",
+  "generated_at": "2026-02-16T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -68,10 +68,119 @@
       "items": []
     },
     {
-      "bucket_type": "day",
+      "bucket_type": "week",
       "start_date": "2026-02-09",
-      "end_date": "2026-02-09",
-      "items": []
+      "end_date": "2026-02-15",
+      "items": [
+        {
+          "game": "DNF DUEL",
+          "minutes": 1482
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 532
+        },
+        {
+          "game": "Arknights:Endfield",
+          "minutes": 512
+        },
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 271
+        },
+        {
+          "game": "Tetris The Grand Master 4 -Absolute Eye-",
+          "minutes": 251
+        },
+        {
+          "game": "SILENT HILL f",
+          "minutes": 143
+        },
+        {
+          "game": "Backpack Battles",
+          "minutes": 105
+        },
+        {
+          "game": "BlazBlue Centralfiction",
+          "minutes": 85
+        },
+        {
+          "game": "SNOWBREAK",
+          "minutes": 68
+        },
+        {
+          "game": "ぷよぷよ™テトリス® ２",
+          "minutes": 61
+        },
+        {
+          "game": "FATAL FURY: City of the Wolves",
+          "minutes": 58
+        },
+        {
+          "game": "Guns of Icarus Alliance",
+          "minutes": 49
+        },
+        {
+          "game": "MTGA",
+          "minutes": 47
+        },
+        {
+          "game": "METAL SLUG 3",
+          "minutes": 37
+        },
+        {
+          "game": "NoxPlayer",
+          "minutes": 37
+        },
+        {
+          "game": "METAL SLUG X",
+          "minutes": 35
+        },
+        {
+          "game": "Absolum",
+          "minutes": 34
+        },
+        {
+          "game": "Crimzon Clover World EXplosion",
+          "minutes": 33
+        },
+        {
+          "game": "Minecraft",
+          "minutes": 30
+        },
+        {
+          "game": "DRAGON BALL FighterZ",
+          "minutes": 29
+        },
+        {
+          "game": "Initial Drift Online",
+          "minutes": 28
+        },
+        {
+          "game": "Street Fighter™ 6",
+          "minutes": 24
+        },
+        {
+          "game": "近畿霊務局",
+          "minutes": 23
+        },
+        {
+          "game": "Mortal Kombat: Legacy Kollection",
+          "minutes": 22
+        },
+        {
+          "game": "MTGArena",
+          "minutes": 4
+        },
+        {
+          "game": "Black Desert Online",
+          "minutes": 1
+        },
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 1
+        }
+      ]
     },
     {
       "bucket_type": "day",
@@ -212,15 +321,74 @@
       "items": [
         {
           "game": "DNF DUEL",
-          "minutes": 249
+          "minutes": 627
         },
         {
           "game": "Wuthering Waves",
-          "minutes": 87
+          "minutes": 501
+        },
+        {
+          "game": "Arknights:Endfield",
+          "minutes": 388
+        },
+        {
+          "game": "Tetris The Grand Master 4 -Absolute Eye-",
+          "minutes": 251
+        },
+        {
+          "game": "Guns of Icarus Alliance",
+          "minutes": 49
         },
         {
           "game": "ぷよぷよ™テトリス® ２",
           "minutes": 48
+        },
+        {
+          "game": "SILENT HILL f",
+          "minutes": 39
+        },
+        {
+          "game": "METAL SLUG 3",
+          "minutes": 37
+        },
+        {
+          "game": "BlazBlue Centralfiction",
+          "minutes": 36
+        },
+        {
+          "game": "METAL SLUG X",
+          "minutes": 35
+        },
+        {
+          "game": "Mortal Kombat: Legacy Kollection",
+          "minutes": 22
+        },
+        {
+          "game": "FATAL FURY: City of the Wolves",
+          "minutes": 11
+        },
+        {
+          "game": "Black Desert Online",
+          "minutes": 1
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-02-16",
+      "end_date": "2026-02-16",
+      "items": [
+        {
+          "game": "DNF DUEL",
+          "minutes": 222
+        },
+        {
+          "game": "Arknights:Endfield",
+          "minutes": 167
+        },
+        {
+          "game": "Absolum",
+          "minutes": 17
         }
       ]
     }
