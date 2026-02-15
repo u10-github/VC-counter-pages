@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-14T13:26:04+09:00",
+  "generated_at": "2026-02-15T10:37:08+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -64,12 +64,6 @@
     {
       "bucket_type": "week",
       "start_date": "2026-02-02",
-      "end_date": "2026-02-08",
-      "items": []
-    },
-    {
-      "bucket_type": "day",
-      "start_date": "2026-02-08",
       "end_date": "2026-02-08",
       "items": []
     },
@@ -170,24 +164,59 @@
       "end_date": "2026-02-14",
       "items": [
         {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 271
+        },
+        {
           "game": "DNF DUEL",
-          "minutes": 101
+          "minutes": 123
+        },
+        {
+          "game": "Arknights:Endfield",
+          "minutes": 112
+        },
+        {
+          "game": "SILENT HILL f",
+          "minutes": 90
         },
         {
           "game": "SNOWBREAK",
-          "minutes": 65
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 19
+          "minutes": 68
         },
         {
           "game": "BlazBlue Centralfiction",
-          "minutes": 15
+          "minutes": 49
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 31
+        },
+        {
+          "game": "NoxPlayer",
+          "minutes": 18
+        },
+        {
+          "game": "ぷよぷよ™テトリス® ２",
+          "minutes": 13
         },
         {
           "game": "Phantom Breaker: Omnia",
           "minutes": 1
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-02-15",
+      "end_date": "2026-02-15",
+      "items": [
+        {
+          "game": "DNF DUEL",
+          "minutes": 249
+        },
+        {
+          "game": "ぷよぷよ™テトリス® ２",
+          "minutes": 48
         }
       ]
     }
