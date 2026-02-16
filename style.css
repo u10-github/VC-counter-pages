@@ -27,6 +27,12 @@ body {
 
 .chart-box {
   position: relative;
+  min-height: 210px;
+  height: 210px;
+}
+
+.chart-box--long-term {
+  min-height: 210px;
   height: 210px;
 }
 
@@ -51,6 +57,12 @@ body {
   }
 
   .chart-box {
+    min-height: 340px;
+    height: 340px;
+  }
+
+  .chart-box--long-term {
+    min-height: 340px;
     height: 340px;
   }
 }
