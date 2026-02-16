@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-16T01:00:00+09:00",
+  "generated_at": "2026-02-17T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -41,12 +41,6 @@
       "bucket_type": "month",
       "start_date": "2026-01-01",
       "end_date": "2026-01-31",
-      "items": []
-    },
-    {
-      "bucket_type": "week",
-      "start_date": "2026-01-12",
-      "end_date": "2026-01-18",
       "items": []
     },
     {
@@ -181,12 +175,6 @@
           "minutes": 1
         }
       ]
-    },
-    {
-      "bucket_type": "day",
-      "start_date": "2026-02-10",
-      "end_date": "2026-02-10",
-      "items": []
     },
     {
       "bucket_type": "day",
@@ -380,15 +368,86 @@
       "items": [
         {
           "game": "DNF DUEL",
-          "minutes": 222
+          "minutes": 894
         },
         {
           "game": "Arknights:Endfield",
+          "minutes": 708
+        },
+        {
+          "game": "GUILTY GEAR -STRIVE-",
+          "minutes": 373
+        },
+        {
+          "game": "Sakura Arms ~Radiant Duels~ Demo",
           "minutes": 167
         },
         {
+          "game": "Like a Dragon: Pirate Yakuza in Hawaii",
+          "minutes": 162
+        },
+        {
+          "game": "Guns of Icarus Alliance",
+          "minutes": 99
+        },
+        {
+          "game": "SILENT HILL f",
+          "minutes": 49
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 39
+        },
+        {
           "game": "Absolum",
-          "minutes": 17
+          "minutes": 37
+        },
+        {
+          "game": "DRAGON BALL FighterZ",
+          "minutes": 37
+        },
+        {
+          "game": "Black Desert Online",
+          "minutes": 27
+        },
+        {
+          "game": "Tetris The Grand Master 4 -Absolute Eye-",
+          "minutes": 15
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 9
+        },
+        {
+          "game": "NoxPlayer",
+          "minutes": 7
+        },
+        {
+          "game": "Medal",
+          "minutes": 1
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-02-17",
+      "end_date": "2026-02-17",
+      "items": [
+        {
+          "game": "GUILTY GEAR -STRIVE-",
+          "minutes": 142
+        },
+        {
+          "game": "DNF DUEL",
+          "minutes": 116
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 47
+        },
+        {
+          "game": "Tetris The Grand Master 4 -Absolute Eye-",
+          "minutes": 6
         }
       ]
     }
