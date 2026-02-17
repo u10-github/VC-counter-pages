@@ -1,13 +1,17 @@
 # VC-counter Pages
 
-このリポジトリは、`VC-counter` の Web UI を GitHub Pages で公開するための配信専用リポジトリです。
+このリポジトリは、`VC-counter` の **本番公開用** Web UI を GitHub Pages で配信するためのリポジトリです。
 
-## 役割
-- ダッシュボード表示用の静的ファイル（`index.html`, `app.js`, `style.css`）を保持する
-- DS218 上で生成されたデータ（`data/timeseries_6m.json`, `data/meta.json`）の公開先として利用する
+## 編集責務
+- このリポジトリ: 本番用の静的UI（`index.html`, `app.js`, `style.css`）
+- `VC-counter`: backend / JSON生成 / push制御（UIは編集しない）
+- `VC-counter-pages-dev`: 開発検証用 UI
+
+## 送信経路マトリクス
+- DS218 dev → `VC-counter-pages-dev` / `develop`
+- DS218 prod → `VC-counter-pages` / `main`
 
 ## 運用方針
-- `develop`：検証用
-- `main`：本番公開用
-
-データファイルは自動更新されるため、手動編集は原則行いません。
+- 公開ブランチ: `main`
+- `data/timeseries_6m.json` と `data/meta.json` は DS218 prod から自動更新される
+- `data/*.json` の手動編集は原則行わない
