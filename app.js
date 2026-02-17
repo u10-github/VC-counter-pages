@@ -64,7 +64,11 @@ function toShortDateLabel(dateText) {
   return `${d.getMonth() + 1}/${d.getDate()}`;
 }
 
-function formatBucketLabel(bucket, mobile) {
+function toShortRangeLabel(startDate, endDate) {
+  return `${toShortDateLabel(startDate)}〜${toShortDateLabel(endDate)}`;
+}
+
+function formatBucketLabel(bucket, mobile, compactDesktopLabel) {
   if (bucket.bucket_type === "day") {
     return mobile ? toShortDateLabel(bucket.start_date) : bucket.start_date;
   }
@@ -73,18 +77,25 @@ function formatBucketLabel(bucket, mobile) {
     return toShortDateLabel(bucket.start_date);
   }
 
+  if (compactDesktopLabel) {
+    return toShortRangeLabel(bucket.start_date, bucket.end_date);
+  }
+
   return `${bucket.start_date}〜${bucket.end_date}`;
 }
 
-function buildChart(canvasId, buckets, title) {
+function buildChart(canvasId, buckets, title, options = {}) {
   if (!buckets.length) {
     return null;
   }
 
+  const { compactDesktopLabel = false, desktopTickDivisor = 1 } = options;
   const mobile = isMobileLayout();
-  const labels = buckets.map((bucket) => formatBucketLabel(bucket, mobile));
+  const labels = buckets.map((bucket) => formatBucketLabel(bucket, mobile, compactDesktopLabel));
   const topGames = getTopGames(buckets, 10);
-  const xStep = mobile ? Math.max(1, Math.ceil(labels.length / 4)) : 1;
+  const mobileStep = Math.max(1, Math.ceil(labels.length / 4));
+  const desktopStep = Math.max(1, Math.ceil(labels.length / desktopTickDivisor));
+  const xStep = mobile ? mobileStep : desktopStep;
 
   return new Chart(document.getElementById(canvasId), {
     type: "line",
@@ -100,31 +111,48 @@ function buildChart(canvasId, buckets, title) {
           position: "bottom",
           display: !mobile,
           labels: {
-            boxWidth: mobile ? 10 : 40,
+            boxWidth: mobile ? 10 : 14,
+            font: {
+              size: mobile ? 12 : 10,
+            },
+            color: "#cbd5e1",
+            padding: mobile ? 12 : 10,
             usePointStyle: true,
           },
         },
         title: {
           display: true,
           text: `${title}（minutes）`,
+          color: "#94a3b8",
         },
       },
       scales: {
         x: {
           ticks: {
-            minRotation: mobile ? 0 : 45,
-            maxRotation: mobile ? 0 : 45,
+            color: "#94a3b8",
+            minRotation: mobile ? 0 : 35,
+            maxRotation: mobile ? 0 : 35,
             callback: (_, idx) => {
+              const isFirst = idx === 0;
               const isLast = idx === labels.length - 1;
-              if (!mobile || idx % xStep === 0 || isLast) {
+              if (isFirst || isLast || idx % xStep === 0) {
                 return labels[idx];
               }
               return "";
             },
           },
+          grid: {
+            color: "rgba(148, 163, 184, 0.08)",
+          },
         },
         y: {
           beginAtZero: true,
+          ticks: {
+            color: "#94a3b8",
+          },
+          grid: {
+            color: "rgba(148, 163, 184, 0.08)",
+          },
           title: { display: false },
         },
       },
@@ -220,8 +248,13 @@ async function loadDashboard() {
   document.getElementById("recentTotal").textContent = `合計 ${toHHMM(sumBucketMinutes(recentBuckets))}`;
   document.getElementById("longTermTotal").textContent = `合計 ${toHHMM(sumBucketMinutes(longTermBuckets))}`;
 
-  const recentChart = buildChart("recentChart", recentBuckets, "Top 10 games / 日次");
-  const longTermChart = buildChart("longTermChart", longTermBuckets, "Top 10 games / 1日目〜180日");
+  const recentChart = buildChart("recentChart", recentBuckets, "Top 10 games / 日次", {
+    desktopTickDivisor: 7,
+  });
+  const longTermChart = buildChart("longTermChart", longTermBuckets, "Top 10 games / 1日目〜180日", {
+    compactDesktopLabel: true,
+    desktopTickDivisor: 9,
+  });
 
   attachLegendToggle(recentChart, document.querySelector("#recentChart").closest(".chart-box"), "凡例");
   attachLegendToggle(longTermChart, document.querySelector("#longTermChart").closest(".chart-box"), "凡例");
