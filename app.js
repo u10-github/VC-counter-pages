@@ -11,6 +11,12 @@ const CHART_COLORS = [
   "#e879f9",
 ];
 
+const MOBILE_MEDIA_QUERY = "(max-width: 640px)";
+
+function isMobileLayout() {
+  return window.matchMedia(MOBILE_MEDIA_QUERY).matches;
+}
+
 function toHHMM(minutes) {
   const h = Math.floor(minutes / 60);
   const m = minutes % 60;
@@ -52,17 +58,35 @@ function buildLineDatasets(buckets, games) {
   }));
 }
 
+function toShortDateLabel(dateText) {
+  const d = new Date(`${dateText}T00:00:00`);
+  if (Number.isNaN(d.getTime())) return dateText;
+  return `${d.getMonth() + 1}/${d.getDate()}`;
+}
+
+function formatBucketLabel(bucket, mobile) {
+  if (bucket.bucket_type === "day") {
+    return mobile ? toShortDateLabel(bucket.start_date) : bucket.start_date;
+  }
+
+  if (mobile) {
+    return toShortDateLabel(bucket.start_date);
+  }
+
+  return `${bucket.start_date}〜${bucket.end_date}`;
+}
+
 function buildChart(canvasId, buckets, title) {
   if (!buckets.length) {
-    return;
+    return null;
   }
-  const labels = buckets.map((bucket) => {
-    if (bucket.bucket_type === "day") return bucket.start_date;
-    return `${bucket.start_date}〜${bucket.end_date}`;
-  });
-  const topGames = getTopGames(buckets, 10);
 
-  new Chart(document.getElementById(canvasId), {
+  const mobile = isMobileLayout();
+  const labels = buckets.map((bucket) => formatBucketLabel(bucket, mobile));
+  const topGames = getTopGames(buckets, 10);
+  const xStep = mobile ? Math.max(1, Math.ceil(labels.length / 4)) : 1;
+
+  return new Chart(document.getElementById(canvasId), {
     type: "line",
     data: {
       labels,
@@ -72,16 +96,36 @@ function buildChart(canvasId, buckets, title) {
       responsive: true,
       maintainAspectRatio: false,
       plugins: {
-        legend: { position: "bottom" },
+        legend: {
+          position: "bottom",
+          display: !mobile,
+          labels: {
+            boxWidth: mobile ? 10 : 40,
+            usePointStyle: true,
+          },
+        },
         title: {
           display: true,
-          text: title,
+          text: `${title}（minutes）`,
         },
       },
       scales: {
+        x: {
+          ticks: {
+            minRotation: mobile ? 0 : 45,
+            maxRotation: mobile ? 0 : 45,
+            callback: (_, idx) => {
+              const isLast = idx === labels.length - 1;
+              if (!mobile || idx % xStep === 0 || isLast) {
+                return labels[idx];
+              }
+              return "";
+            },
+          },
+        },
         y: {
           beginAtZero: true,
-          title: { display: true, text: "minutes" },
+          title: { display: false },
         },
       },
     },
@@ -93,6 +137,71 @@ function sumBucketMinutes(buckets) {
     (all, bucket) => all + bucket.items.reduce((sum, it) => sum + it.minutes, 0),
     0,
   );
+}
+
+function attachLegendToggle(chart, chartBox, label = "凡例") {
+  if (!chart) return;
+
+  const mobile = isMobileLayout();
+  if (!mobile) return;
+
+  const button = document.createElement("button");
+  button.type = "button";
+  button.className = "legend-toggle";
+
+  const renderText = () => {
+    button.textContent = chart.options.plugins.legend.display
+      ? `${label}を隠す ▲`
+      : `${label}を表示 ▼`;
+  };
+
+  renderText();
+  button.addEventListener("click", () => {
+    chart.options.plugins.legend.display = !chart.options.plugins.legend.display;
+    chart.update();
+    renderText();
+  });
+
+  chartBox.insertAdjacentElement("afterend", button);
+}
+
+function appendBucket(list, bucket) {
+  const div = document.createElement("div");
+  div.className = "bucket";
+  div.innerHTML = `
+    <div><strong>${bucket.bucket_type}</strong> ${bucket.start_date} - ${bucket.end_date}</div>
+    <div class="small">${topText(bucket.items)}</div>
+  `;
+  list.appendChild(div);
+}
+
+function renderBucketList(ts) {
+  const list = document.getElementById("bucketList");
+  list.innerHTML = "";
+
+  const dataBuckets = ts.buckets.filter((bucket) => bucket.items.length > 0);
+  const emptyBuckets = ts.buckets.filter((bucket) => bucket.items.length === 0);
+
+  dataBuckets.forEach((bucket) => appendBucket(list, bucket));
+
+  if (!emptyBuckets.length) return;
+
+  const details = document.createElement("details");
+  details.className = "bucket bucket--empty-group";
+
+  const summary = document.createElement("summary");
+  summary.className = "bucket-empty-summary";
+  summary.textContent = `データなし ${emptyBuckets.length}件`;
+  details.appendChild(summary);
+
+  emptyBuckets.forEach((bucket) => {
+    const inner = document.createElement("div");
+    inner.className = "bucket bucket--empty";
+    inner.innerHTML = `<div><strong>${bucket.bucket_type}</strong> ${bucket.start_date} - ${bucket.end_date}</div>`;
+    details.appendChild(inner);
+  });
+
+  list.appendChild(details);
 }
 
 async function loadDashboard() {
@@ -111,19 +220,13 @@ async function loadDashboard() {
   document.getElementById("recentTotal").textContent = `合計 ${toHHMM(sumBucketMinutes(recentBuckets))}`;
   document.getElementById("longTermTotal").textContent = `合計 ${toHHMM(sumBucketMinutes(longTermBuckets))}`;
 
-  buildChart("recentChart", recentBuckets, "Top 10 games / 日次");
-  buildChart("longTermChart", longTermBuckets, "Top 10 games / 1日目〜180日");
+  const recentChart = buildChart("recentChart", recentBuckets, "Top 10 games / 日次");
+  const longTermChart = buildChart("longTermChart", longTermBuckets, "Top 10 games / 1日目〜180日");
 
-  const list = document.getElementById("bucketList");
-  ts.buckets.forEach((bucket) => {
-    const div = document.createElement("div");
-    div.className = "bucket";
-    div.innerHTML = `
-      <div><strong>${bucket.bucket_type}</strong> ${bucket.start_date} - ${bucket.end_date}</div>
-      <div class="small">${topText(bucket.items)}</div>
-    `;
-    list.appendChild(div);
-  });
+  attachLegendToggle(recentChart, document.querySelector("#recentChart").closest(".chart-box"), "凡例");
+  attachLegendToggle(longTermChart, document.querySelector("#longTermChart").closest(".chart-box"), "凡例");
+
+  renderBucketList(ts);
 }
 
 loadDashboard().catch((err) => {
