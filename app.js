@@ -167,6 +167,19 @@ function sumBucketMinutes(buckets) {
   );
 }
 
+function getLatestDayDate(buckets) {
+  const dayBuckets = buckets.filter((bucket) => bucket.bucket_type === "day");
+  if (!dayBuckets.length) return null;
+  return dayBuckets.reduce((latest, bucket) => {
+    return bucket.end_date > latest ? bucket.end_date : latest;
+  }, dayBuckets[0].end_date);
+}
+
+function filterBucketsBeforeDate(buckets, cutoffDate) {
+  if (!cutoffDate) return buckets;
+  return buckets.filter((bucket) => bucket.end_date < cutoffDate);
+}
+
 function attachLegendToggle(chart, chartBox, label = "凡例") {
   if (!chart) return;
 
@@ -242,8 +255,11 @@ async function loadDashboard() {
 
   document.getElementById("meta").textContent = `更新: ${meta.generated_at} (${meta.timezone})`;
 
-  const recentBuckets = ts.buckets.filter((bucket) => bucket.bucket_type === "day");
-  const longTermBuckets = ts.buckets;
+  const latestDayDate = getLatestDayDate(ts.buckets);
+  const displayBuckets = filterBucketsBeforeDate(ts.buckets, latestDayDate);
+
+  const recentBuckets = displayBuckets.filter((bucket) => bucket.bucket_type === "day");
+  const longTermBuckets = displayBuckets;
 
   document.getElementById("recentTotal").textContent = `合計 ${toHHMM(sumBucketMinutes(recentBuckets))}`;
   document.getElementById("longTermTotal").textContent = `合計 ${toHHMM(sumBucketMinutes(longTermBuckets))}`;
@@ -259,7 +275,7 @@ async function loadDashboard() {
   attachLegendToggle(recentChart, document.querySelector("#recentChart").closest(".chart-box"), "凡例");
   attachLegendToggle(longTermChart, document.querySelector("#longTermChart").closest(".chart-box"), "凡例");
 
-  renderBucketList(ts);
+  renderBucketList({ ...ts, buckets: displayBuckets });
 }
 
 loadDashboard().catch((err) => {
