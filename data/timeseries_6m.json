@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-18T01:00:00+09:00",
+  "generated_at": "2026-02-19T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -175,12 +175,6 @@
           "minutes": 1
         }
       ]
-    },
-    {
-      "bucket_type": "day",
-      "start_date": "2026-02-12",
-      "end_date": "2026-02-12",
-      "items": []
     },
     {
       "bucket_type": "day",
@@ -481,7 +475,67 @@
       "bucket_type": "day",
       "start_date": "2026-02-18",
       "end_date": "2026-02-18",
-      "items": []
+      "items": [
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 368
+        },
+        {
+          "game": "DNF DUEL",
+          "minutes": 272
+        },
+        {
+          "game": "Romancing SaGa 3™",
+          "minutes": 106
+        },
+        {
+          "game": "Arknights:Endfield",
+          "minutes": 88
+        },
+        {
+          "game": "Like a Dragon: Pirate Yakuza in Hawaii",
+          "minutes": 62
+        },
+        {
+          "game": "SNOWBREAK",
+          "minutes": 55
+        },
+        {
+          "game": "FATAL FURY: City of the Wolves",
+          "minutes": 54
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 21
+        },
+        {
+          "game": "Street Fighter™ 6",
+          "minutes": 3
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-02-19",
+      "end_date": "2026-02-19",
+      "items": [
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 102
+        },
+        {
+          "game": "DNF DUEL",
+          "minutes": 60
+        },
+        {
+          "game": "Like a Dragon: Pirate Yakuza in Hawaii",
+          "minutes": 60
+        },
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 60
+        }
+      ]
     }
   ]
 }
