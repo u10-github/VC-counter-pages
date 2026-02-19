@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-19T01:00:00+09:00",
+  "generated_at": "2026-02-20T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -173,73 +173,6 @@
         {
           "game": "Phantom Breaker: Omnia",
           "minutes": 1
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
-      "start_date": "2026-02-13",
-      "end_date": "2026-02-13",
-      "items": [
-        {
-          "game": "DNF DUEL",
-          "minutes": 732
-        },
-        {
-          "game": "Backpack Battles",
-          "minutes": 105
-        },
-        {
-          "game": "FATAL FURY: City of the Wolves",
-          "minutes": 47
-        },
-        {
-          "game": "MTGA",
-          "minutes": 47
-        },
-        {
-          "game": "Absolum",
-          "minutes": 34
-        },
-        {
-          "game": "Crimzon Clover World EXplosion",
-          "minutes": 33
-        },
-        {
-          "game": "Minecraft",
-          "minutes": 30
-        },
-        {
-          "game": "DRAGON BALL FighterZ",
-          "minutes": 29
-        },
-        {
-          "game": "Initial Drift Online",
-          "minutes": 28
-        },
-        {
-          "game": "Street Fighter™ 6",
-          "minutes": 24
-        },
-        {
-          "game": "近畿霊務局",
-          "minutes": 23
-        },
-        {
-          "game": "NoxPlayer",
-          "minutes": 19
-        },
-        {
-          "game": "SILENT HILL f",
-          "minutes": 14
-        },
-        {
-          "game": "Arknights:Endfield",
-          "minutes": 12
-        },
-        {
-          "game": "MTGArena",
-          "minutes": 4
         }
       ]
     },
@@ -521,19 +454,70 @@
       "items": [
         {
           "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 102
+          "minutes": 593
         },
         {
-          "game": "DNF DUEL",
-          "minutes": 60
+          "game": "Arknights:Endfield",
+          "minutes": 326
         },
         {
           "game": "Like a Dragon: Pirate Yakuza in Hawaii",
-          "minutes": 60
+          "minutes": 222
+        },
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 202
         },
         {
           "game": "Phantom Breaker: Omnia",
-          "minutes": 60
+          "minutes": 141
+        },
+        {
+          "game": "Yakuza 3 Remastered",
+          "minutes": 115
+        },
+        {
+          "game": "DNF DUEL",
+          "minutes": 83
+        },
+        {
+          "game": "Guns of Icarus Alliance",
+          "minutes": 80
+        },
+        {
+          "game": "NoxPlayer",
+          "minutes": 80
+        },
+        {
+          "game": "SNOWBREAK",
+          "minutes": 57
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 48
+        },
+        {
+          "game": "Romancing SaGa 3™",
+          "minutes": 32
+        },
+        {
+          "game": "Tetris The Grand Master 4 -Absolute Eye-",
+          "minutes": 30
+        },
+        {
+          "game": "ぷよぷよ™テトリス® ２",
+          "minutes": 29
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-02-20",
+      "end_date": "2026-02-20",
+      "items": [
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 158
         }
       ]
     }
