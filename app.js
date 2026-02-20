@@ -84,6 +84,39 @@ function formatBucketLabel(bucket, mobile, compactDesktopLabel) {
   return `${bucket.start_date}〜${bucket.end_date}`;
 }
 
+function buildLegendItems(datasets) {
+  return datasets
+    .filter((dataset) => dataset && dataset.label)
+    .map((dataset) => ({
+      label: dataset.label,
+      color: dataset.borderColor || dataset.backgroundColor || "#cbd5e1",
+    }));
+}
+
+function getLegendToggleText(isVisible, label = "凡例") {
+  return isVisible ? `${label}を隠す ▲` : `${label}を表示 ▼`;
+}
+
+function renderLegendList(chart, legendList) {
+  const items = buildLegendItems(chart.data.datasets);
+  legendList.innerHTML = "";
+
+  items.forEach((item) => {
+    const entry = document.createElement("div");
+    entry.className = "legend-list__item";
+
+    const marker = document.createElement("span");
+    marker.className = "legend-list__dot";
+    marker.style.backgroundColor = item.color;
+
+    const text = document.createElement("span");
+    text.textContent = item.label;
+
+    entry.append(marker, text);
+    legendList.appendChild(entry);
+  });
+}
+
 function buildChart(canvasId, buckets, title, options = {}) {
   if (!buckets.length) {
     return null;
@@ -108,17 +141,7 @@ function buildChart(canvasId, buckets, title, options = {}) {
       maintainAspectRatio: false,
       plugins: {
         legend: {
-          position: "bottom",
-          display: !mobile,
-          labels: {
-            boxWidth: mobile ? 10 : 14,
-            font: {
-              size: mobile ? 12 : 10,
-            },
-            color: "#cbd5e1",
-            padding: mobile ? 12 : 10,
-            usePointStyle: true,
-          },
+          display: false,
         },
         title: {
           display: true,
@@ -180,30 +203,14 @@ function filterBucketsBeforeDate(buckets, cutoffDate) {
   return buckets.filter((bucket) => bucket.end_date < cutoffDate);
 }
 
-function attachLegendToggle(chart, chartBox, label = "凡例") {
-  if (!chart) return;
+function attachLegendToggle(chart, chartBox) {
+  if (!chart || !chartBox) return;
 
-  const mobile = isMobileLayout();
-  if (!mobile) return;
+  const legendList = document.createElement("div");
+  legendList.className = "legend-list";
+  renderLegendList(chart, legendList);
 
-  const button = document.createElement("button");
-  button.type = "button";
-  button.className = "legend-toggle";
-
-  const renderText = () => {
-    button.textContent = chart.options.plugins.legend.display
-      ? `${label}を隠す ▲`
-      : `${label}を表示 ▼`;
-  };
-
-  renderText();
-  button.addEventListener("click", () => {
-    chart.options.plugins.legend.display = !chart.options.plugins.legend.display;
-    chart.update();
-    renderText();
-  });
-
-  chartBox.insertAdjacentElement("afterend", button);
+  chartBox.insertAdjacentElement("afterend", legendList);
 }
 
 function appendBucket(list, bucket) {
@@ -272,12 +279,21 @@ async function loadDashboard() {
     desktopTickDivisor: 9,
   });
 
-  attachLegendToggle(recentChart, document.querySelector("#recentChart").closest(".chart-box"), "凡例");
-  attachLegendToggle(longTermChart, document.querySelector("#longTermChart").closest(".chart-box"), "凡例");
+  attachLegendToggle(recentChart, document.querySelector("#recentChart").closest(".chart-box"));
+  attachLegendToggle(longTermChart, document.querySelector("#longTermChart").closest(".chart-box"));
 
   renderBucketList({ ...ts, buckets: displayBuckets });
 }
 
-loadDashboard().catch((err) => {
-  document.getElementById("meta").textContent = `読込失敗: ${err}`;
-});
+if (typeof window !== "undefined" && typeof document !== "undefined") {
+  loadDashboard().catch((err) => {
+    document.getElementById("meta").textContent = `読込失敗: ${err}`;
+  });
+}
+
+if (typeof module !== "undefined" && module.exports) {
+  module.exports = {
+    buildLegendItems,
+    getLegendToggleText,
+  };
+}

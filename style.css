@@ -55,6 +55,28 @@ body {
   font-weight: 600;
 }
 
+.legend-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px 14px;
+  margin-top: 10px;
+  color: #cbd5e1;
+}
+
+.legend-list__item {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  min-width: 0;
+}
+
+.legend-list__dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 999px;
+  flex: 0 0 10px;
+}
+
 .legend-toggle:active {
   transform: translateY(1px);
 }
@@ -159,6 +181,11 @@ body {
   .chart-box--long-term {
     min-height: 280px;
     height: 280px;
+  }
+
+  .legend-list {
+    gap: 8px 10px;
+    font-size: 12px;
   }
 
   .bucket {
