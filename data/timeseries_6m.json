@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-20T01:00:00+09:00",
+  "generated_at": "2026-02-21T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -169,53 +169,6 @@
         {
           "game": "Black Desert Online",
           "minutes": 1
-        },
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 1
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
-      "start_date": "2026-02-14",
-      "end_date": "2026-02-14",
-      "items": [
-        {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 271
-        },
-        {
-          "game": "DNF DUEL",
-          "minutes": 123
-        },
-        {
-          "game": "Arknights:Endfield",
-          "minutes": 112
-        },
-        {
-          "game": "SILENT HILL f",
-          "minutes": 90
-        },
-        {
-          "game": "SNOWBREAK",
-          "minutes": 68
-        },
-        {
-          "game": "BlazBlue Centralfiction",
-          "minutes": 49
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 31
-        },
-        {
-          "game": "NoxPlayer",
-          "minutes": 18
-        },
-        {
-          "game": "ぷよぷよ™テトリス® ２",
-          "minutes": 13
         },
         {
           "game": "Phantom Breaker: Omnia",
@@ -516,8 +469,67 @@
       "end_date": "2026-02-20",
       "items": [
         {
+          "game": "DNF DUEL",
+          "minutes": 276
+        },
+        {
           "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 158
+          "minutes": 258
+        },
+        {
+          "game": "Arknights:Endfield",
+          "minutes": 226
+        },
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 76
+        },
+        {
+          "game": "BlazBlue Centralfiction",
+          "minutes": 34
+        },
+        {
+          "game": "Guns of Icarus Alliance",
+          "minutes": 28
+        },
+        {
+          "game": "GUILTY GEAR -STRIVE-",
+          "minutes": 25
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 5
+        },
+        {
+          "game": "gogh: Focus with Your Avatar",
+          "minutes": 2
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-02-21",
+      "end_date": "2026-02-21",
+      "items": [
+        {
+          "game": "DNF DUEL",
+          "minutes": 149
+        },
+        {
+          "game": "Guns of Icarus Alliance",
+          "minutes": 60
+        },
+        {
+          "game": "DEAD OR ALIVE 6",
+          "minutes": 37
+        },
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 33
+        },
+        {
+          "game": "GUILTY GEAR -STRIVE-",
+          "minutes": 14
         }
       ]
     }
