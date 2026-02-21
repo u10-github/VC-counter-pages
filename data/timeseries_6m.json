@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-21T01:00:00+09:00",
+  "generated_at": "2026-02-22T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -172,65 +172,6 @@
         },
         {
           "game": "Phantom Breaker: Omnia",
-          "minutes": 1
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
-      "start_date": "2026-02-15",
-      "end_date": "2026-02-15",
-      "items": [
-        {
-          "game": "DNF DUEL",
-          "minutes": 627
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 501
-        },
-        {
-          "game": "Arknights:Endfield",
-          "minutes": 388
-        },
-        {
-          "game": "Tetris The Grand Master 4 -Absolute Eye-",
-          "minutes": 251
-        },
-        {
-          "game": "Guns of Icarus Alliance",
-          "minutes": 49
-        },
-        {
-          "game": "ぷよぷよ™テトリス® ２",
-          "minutes": 48
-        },
-        {
-          "game": "SILENT HILL f",
-          "minutes": 39
-        },
-        {
-          "game": "METAL SLUG 3",
-          "minutes": 37
-        },
-        {
-          "game": "BlazBlue Centralfiction",
-          "minutes": 36
-        },
-        {
-          "game": "METAL SLUG X",
-          "minutes": 35
-        },
-        {
-          "game": "Mortal Kombat: Legacy Kollection",
-          "minutes": 22
-        },
-        {
-          "game": "FATAL FURY: City of the Wolves",
-          "minutes": 11
-        },
-        {
-          "game": "Black Desert Online",
           "minutes": 1
         }
       ]
@@ -513,23 +454,94 @@
       "items": [
         {
           "game": "DNF DUEL",
-          "minutes": 149
+          "minutes": 626
+        },
+        {
+          "game": "Arknights:Endfield",
+          "minutes": 546
         },
         {
           "game": "Guns of Icarus Alliance",
-          "minutes": 60
+          "minutes": 531
+        },
+        {
+          "game": "Rainbow Six Siege",
+          "minutes": 79
         },
         {
           "game": "DEAD OR ALIVE 6",
-          "minutes": 37
+          "minutes": 77
+        },
+        {
+          "game": "FATAL FURY: City of the Wolves",
+          "minutes": 47
+        },
+        {
+          "game": "Street Fighter™ 6",
+          "minutes": 45
         },
         {
           "game": "Phantom Breaker: Omnia",
           "minutes": 33
         },
         {
+          "game": "Ultra Fight Da Kyanta 2",
+          "minutes": 19
+        },
+        {
+          "game": "MTGArena",
+          "minutes": 17
+        },
+        {
+          "game": "gogh: Focus with Your Avatar",
+          "minutes": 17
+        },
+        {
+          "game": "アークナイツ",
+          "minutes": 17
+        },
+        {
           "game": "GUILTY GEAR -STRIVE-",
-          "minutes": 14
+          "minutes": 15
+        },
+        {
+          "game": "東方ダンマクカグラ ファンタジア・ロスト",
+          "minutes": 8
+        },
+        {
+          "game": "Black Desert Online",
+          "minutes": 1
+        },
+        {
+          "game": "Tom Clancy's Rainbow Six Siege X",
+          "minutes": 1
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-02-22",
+      "end_date": "2026-02-22",
+      "items": [
+        {
+          "game": "Guns of Icarus Alliance",
+          "minutes": 240
+        },
+        {
+          "game": "DNF DUEL",
+          "minutes": 120
+        },
+        {
+          "game": "Arknights:Endfield",
+          "minutes": 60
+        },
+        {
+          "game": "FATAL FURY: City of the Wolves",
+          "minutes": 20
+        },
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 5
         }
       ]
     }
