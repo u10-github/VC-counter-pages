@@ -1,17 +1,20 @@
-# VC-counter Pages
+# Codex Web Recommended Pack
 
-このリポジトリは、`VC-counter` の **本番公開用** Web UI を GitHub Pages で配信するためのリポジトリです。
+このフォルダは、各プロジェクトに配置して Codex Web に読ませるための最小推奨セットです。
 
-## 編集責務
-- このリポジトリ: 本番用の静的UI（`index.html`, `app.js`, `style.css`）
-- `VC-counter`: backend / JSON生成 / push制御（UIは編集しない）
-- `VC-counter-pages-dev`: 開発検証用 UI
+## 含めたもの
+- `AGENTS.md`
+- `skills/00-core/`
+  - `mode-router`
+  - `response-templates`
+  - `reporting-conventions`
+- `skills/90-utils/`
+  - `approval-rules`
+  - `todo-taskflow`
+  - `skill-run-logger`
+  - `skill-run-validator`
+  - `task-close-checklist`
 
-## 送信経路マトリクス
-- DS218 dev → `VC-counter-pages-dev` / `develop`
-- DS218 prod → `VC-counter-pages` / `main`
-
-## 運用方針
-- 公開ブランチ: `main`
-- `data/timeseries_6m.json` と `data/meta.json` は DS218 prod から自動更新される
-- `data/*.json` の手動編集は原則行わない
+## 使い方
+1. このフォルダ配下をプロジェクトルートにコピーします。
+2. 追加で必要なスキル（例: `10-requirements`, `20-implementation`, `30-quality`）は用途に応じて追加してください。
