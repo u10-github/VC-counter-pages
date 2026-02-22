@@ -1,0 +1,46 @@
+name: ci
+
+on:
+  pull_request:
+    branches: [main, master, develop]
+  push:
+    branches: [main, master, develop]
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Install
+        run: echo "No Node package. set install command if needed."
+      - name: Test
+        run: echo "No test command configured. update ci.yml."
+
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Install
+        run: echo "No Node package. set install command if needed."
+      - name: Build
+        run: echo "No build command configured. update ci.yml."
+
+  e2e_optional:
+    if: github.event_name != 'pull_request'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Install
+        run: echo "No Node package. set install command if needed."
+      - name: E2E
+        run: echo "No E2E command configured."
