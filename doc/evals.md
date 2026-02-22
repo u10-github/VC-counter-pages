@@ -6,9 +6,9 @@
 ## 対応表
 | Zone | Flow | 必須チェック | コマンド / 手順 | Owner |
 |---|---|---|---|---|
-| S1 | {CRITICAL_FLOW_1} | {CHECK_S1} | {TEST_CMD_S1} | {OWNER_TEAM} |
-| S2 | {CRITICAL_FLOW_2} | {CHECK_S2} | {TEST_CMD_S2} | {OWNER_TEAM} |
-| S3 | {CRITICAL_FLOW_3} | {CHECK_S3} | {TEST_CMD_S3} | {OWNER_TEAM} |
+| S1 | timeseriesデータを読み込んで表示できる | 主要フローが成立する | 手動: JSON更新差分確認 | u10-github |
+| S2 | 期間/項目を切り替えて可視化できる | 変更系フローが成立する | 手動: 公開ページ表示確認 | u10-github |
+| S3 | main更新で公開ページが更新される | 復旧/公開フローが成立する | 手動: mainへの反映確認 | u10-github |
 
 ## PR更新ルール
 - S1-S3の挙動変更がある場合は、この表を同じPRで更新する。

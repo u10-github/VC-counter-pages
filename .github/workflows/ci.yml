@@ -12,35 +12,21 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
-        with:
-          node-version: "20"
-      - name: Install
-        run: echo "No Node package. set install command if needed."
-      - name: Test
-        run: echo "No test command configured. update ci.yml."
+      - name: Harness docs check
+        run: |
+          test -f doc/DoD.md
+          test -f doc/evals.md
+          test -f doc/runbook.md
+          test -f .github/pull_request_template.md
 
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
-        with:
-          node-version: "20"
-      - name: Install
-        run: echo "No Node package. set install command if needed."
-      - name: Build
-        run: echo "No build command configured. update ci.yml."
-
-  e2e_optional:
-    if: github.event_name != 'pull_request'
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
-        with:
-          node-version: "20"
-      - name: Install
-        run: echo "No Node package. set install command if needed."
-      - name: E2E
-        run: echo "No E2E command configured."
+      - name: Placeholder check
+        run: |
+          if grep -R -nE '\{[A-Z0-9_]+\}' doc .github/pull_request_template.md; then
+            echo "Unresolved placeholders found"
+            exit 1
+          fi
+          echo "No unresolved placeholders"

@@ -44,7 +44,11 @@
 - 参照: `ops/skills-observability/README.md`
 
 ## HARNESS-SSOT-BEGIN
-- SSoT: `doc/DoD.md` `doc/evals.md` `doc/runbook.md`
-- 各PRでS1-S3（聖域）影響判定を必須化する。
-- インシデント対応では `doc/runbook.md` + `doc/evals.md`（必要なら `doc/DoD.md`）を同PRで更新する。
+- SSoT:   
+- 聖域定義:
+  - S1: timeseriesデータを読み込んで表示できる
+  - S2: 期間/項目を切り替えて可視化できる
+  - S3: main更新で公開ページが更新される
+- 各PRでS1-S3影響判定を必須化する。
+- インシデント対応では  + （必要なら ）を同PRで更新する。
 ## HARNESS-SSOT-END
