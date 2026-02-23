@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-23T01:00:00+09:00",
+  "generated_at": "2026-02-24T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -41,12 +41,6 @@
       "bucket_type": "month",
       "start_date": "2026-01-01",
       "end_date": "2026-01-31",
-      "items": []
-    },
-    {
-      "bucket_type": "week",
-      "start_date": "2026-01-19",
-      "end_date": "2026-01-25",
       "items": []
     },
     {
@@ -372,61 +366,6 @@
         {
           "game": "Tom Clancy's Rainbow Six Siege X",
           "minutes": 1
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
-      "start_date": "2026-02-17",
-      "end_date": "2026-02-17",
-      "items": [
-        {
-          "game": "DNF DUEL",
-          "minutes": 388
-        },
-        {
-          "game": "GUILTY GEAR -STRIVE-",
-          "minutes": 210
-        },
-        {
-          "game": "BlazBlue Centralfiction",
-          "minutes": 200
-        },
-        {
-          "game": "TEKKEN 8",
-          "minutes": 186
-        },
-        {
-          "game": "Arknights:Endfield",
-          "minutes": 140
-        },
-        {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 113
-        },
-        {
-          "game": "Like a Dragon: Pirate Yakuza in Hawaii",
-          "minutes": 85
-        },
-        {
-          "game": "Guns of Icarus Alliance",
-          "minutes": 55
-        },
-        {
-          "game": "MY HERO ACADEMIA: All’s Justice",
-          "minutes": 24
-        },
-        {
-          "game": "Guilty Gear -Strive-",
-          "minutes": 13
-        },
-        {
-          "game": "アークナイツ",
-          "minutes": 9
-        },
-        {
-          "game": "Tetris The Grand Master 4 -Absolute Eye-",
-          "minutes": 6
         }
       ]
     },
@@ -760,11 +699,35 @@
       "items": [
         {
           "game": "DNF DUEL",
-          "minutes": 120
+          "minutes": 720
+        },
+        {
+          "game": "GUILTY GEAR -STRIVE-",
+          "minutes": 473
+        },
+        {
+          "game": "Arknights:Endfield",
+          "minutes": 358
+        },
+        {
+          "game": "Guns of Icarus Alliance",
+          "minutes": 284
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 218
+        },
+        {
+          "game": "東方ダンマクカグラ ファンタジア・ロスト",
+          "minutes": 88
         },
         {
           "game": "Street Fighter 6",
-          "minutes": 42
+          "minutes": 74
+        },
+        {
+          "game": "Ultra Fight Da Kyanta 2",
+          "minutes": 34
         },
         {
           "game": "GUILTY GEAR 2 -OVERTURE-",
@@ -779,12 +742,31 @@
           "minutes": 11
         },
         {
-          "game": "Guns of Icarus Alliance",
-          "minutes": 11
+          "game": "アークナイツ",
+          "minutes": 6
         },
         {
           "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
           "minutes": 4
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-02-24",
+      "end_date": "2026-02-24",
+      "items": [
+        {
+          "game": "DNF DUEL",
+          "minutes": 223
+        },
+        {
+          "game": "GUILTY GEAR -STRIVE-",
+          "minutes": 120
+        },
+        {
+          "game": "Guilty Gear -Strive-",
+          "minutes": 11
         }
       ]
     }
