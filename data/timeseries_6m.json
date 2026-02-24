@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-24T01:00:00+09:00",
+  "generated_at": "2026-02-25T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -371,49 +371,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-02-18",
-      "end_date": "2026-02-18",
-      "items": [
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 368
-        },
-        {
-          "game": "DNF DUEL",
-          "minutes": 272
-        },
-        {
-          "game": "Romancing SaGa 3™",
-          "minutes": 106
-        },
-        {
-          "game": "Arknights:Endfield",
-          "minutes": 88
-        },
-        {
-          "game": "Like a Dragon: Pirate Yakuza in Hawaii",
-          "minutes": 62
-        },
-        {
-          "game": "SNOWBREAK",
-          "minutes": 55
-        },
-        {
-          "game": "FATAL FURY: City of the Wolves",
-          "minutes": 54
-        },
-        {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 21
-        },
-        {
-          "game": "Street Fighter™ 6",
-          "minutes": 3
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-02-19",
       "end_date": "2026-02-19",
       "items": [
@@ -758,15 +715,78 @@
       "items": [
         {
           "game": "DNF DUEL",
-          "minutes": 223
+          "minutes": 1332
         },
         {
           "game": "GUILTY GEAR -STRIVE-",
-          "minutes": 120
+          "minutes": 260
+        },
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 167
+        },
+        {
+          "game": "Arknights:Endfield",
+          "minutes": 107
+        },
+        {
+          "game": "BlazBlue Centralfiction",
+          "minutes": 102
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 85
         },
         {
           "game": "Guilty Gear -Strive-",
-          "minutes": 11
+          "minutes": 69
+        },
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 52
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 51
+        },
+        {
+          "game": "NoxPlayer",
+          "minutes": 35
+        },
+        {
+          "game": "SNOWBREAK",
+          "minutes": 33
+        },
+        {
+          "game": "Guns of Icarus Alliance",
+          "minutes": 21
+        },
+        {
+          "game": "Ghosts 'n Goblins Resurrection",
+          "minutes": 14
+        },
+        {
+          "game": "MELTY BLOOD Actress Again Current Code",
+          "minutes": 5
+        },
+        {
+          "game": "Mirage Feathers",
+          "minutes": 4
+        },
+        {
+          "game": "Street Fighter™ 6",
+          "minutes": 1
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-02-25",
+      "end_date": "2026-02-25",
+      "items": [
+        {
+          "game": "DNF DUEL",
+          "minutes": 180
         }
       ]
     }
