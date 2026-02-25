@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-25T01:00:00+09:00",
+  "generated_at": "2026-02-26T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -371,69 +371,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-02-19",
-      "end_date": "2026-02-19",
-      "items": [
-        {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 593
-        },
-        {
-          "game": "Arknights:Endfield",
-          "minutes": 326
-        },
-        {
-          "game": "Like a Dragon: Pirate Yakuza in Hawaii",
-          "minutes": 222
-        },
-        {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 202
-        },
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 141
-        },
-        {
-          "game": "Yakuza 3 Remastered",
-          "minutes": 115
-        },
-        {
-          "game": "DNF DUEL",
-          "minutes": 83
-        },
-        {
-          "game": "Guns of Icarus Alliance",
-          "minutes": 80
-        },
-        {
-          "game": "NoxPlayer",
-          "minutes": 80
-        },
-        {
-          "game": "SNOWBREAK",
-          "minutes": 57
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 48
-        },
-        {
-          "game": "Romancing SaGa 3™",
-          "minutes": 32
-        },
-        {
-          "game": "Tetris The Grand Master 4 -Absolute Eye-",
-          "minutes": 30
-        },
-        {
-          "game": "ぷよぷよ™テトリス® ２",
-          "minutes": 29
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-02-20",
       "end_date": "2026-02-20",
       "items": [
@@ -786,7 +723,50 @@
       "items": [
         {
           "game": "DNF DUEL",
-          "minutes": 180
+          "minutes": 839
+        },
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 234
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 229
+        },
+        {
+          "game": "Arknights:Endfield",
+          "minutes": 99
+        },
+        {
+          "game": "Street Fighter™ 6",
+          "minutes": 74
+        },
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 48
+        },
+        {
+          "game": "GUILTY GEAR -STRIVE-",
+          "minutes": 30
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-02-26",
+      "end_date": "2026-02-26",
+      "items": [
+        {
+          "game": "DNF DUEL",
+          "minutes": 136
+        },
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 87
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 18
         }
       ]
     }
