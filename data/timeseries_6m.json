@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-26T01:00:00+09:00",
+  "generated_at": "2026-02-27T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -7,12 +7,6 @@
     "monthly_until_days": 180
   },
   "buckets": [
-    {
-      "bucket_type": "month",
-      "start_date": "2025-08-01",
-      "end_date": "2025-08-31",
-      "items": []
-    },
     {
       "bucket_type": "month",
       "start_date": "2025-09-01",
@@ -371,49 +365,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-02-20",
-      "end_date": "2026-02-20",
-      "items": [
-        {
-          "game": "DNF DUEL",
-          "minutes": 276
-        },
-        {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 258
-        },
-        {
-          "game": "Arknights:Endfield",
-          "minutes": 226
-        },
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 76
-        },
-        {
-          "game": "BlazBlue Centralfiction",
-          "minutes": 34
-        },
-        {
-          "game": "Guns of Icarus Alliance",
-          "minutes": 28
-        },
-        {
-          "game": "GUILTY GEAR -STRIVE-",
-          "minutes": 25
-        },
-        {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 5
-        },
-        {
-          "game": "gogh: Focus with Your Avatar",
-          "minutes": 2
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-02-21",
       "end_date": "2026-02-21",
       "items": [
@@ -758,15 +709,82 @@
       "items": [
         {
           "game": "DNF DUEL",
-          "minutes": 136
+          "minutes": 1008
         },
         {
           "game": "Phantom Breaker: Omnia",
-          "minutes": 87
+          "minutes": 285
+        },
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 170
+        },
+        {
+          "game": "FATAL FURY: City of the Wolves",
+          "minutes": 169
+        },
+        {
+          "game": "GUILTY GEAR -STRIVE-",
+          "minutes": 119
+        },
+        {
+          "game": "Arknights:Endfield",
+          "minutes": 76
+        },
+        {
+          "game": "Capcom Arcade Stadium",
+          "minutes": 71
         },
         {
           "game": "Wuthering Waves",
-          "minutes": 18
+          "minutes": 61
+        },
+        {
+          "game": "Street Fighter™ 6",
+          "minutes": 49
+        },
+        {
+          "game": "Sifu",
+          "minutes": 41
+        },
+        {
+          "game": "Idol Showdown",
+          "minutes": 33
+        },
+        {
+          "game": "Demonic Mahjong",
+          "minutes": 20
+        },
+        {
+          "game": "SNK 40th Anniversary Collection",
+          "minutes": 16
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-02-27",
+      "end_date": "2026-02-27",
+      "items": [
+        {
+          "game": "DNF DUEL",
+          "minutes": 263
+        },
+        {
+          "game": "Street Fighter™ 6",
+          "minutes": 120
+        },
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 60
+        },
+        {
+          "game": "ぷよぷよ™テトリス® ２",
+          "minutes": 26
+        },
+        {
+          "game": "Idol Showdown",
+          "minutes": 3
         }
       ]
     }
