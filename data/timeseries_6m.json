@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-27T01:00:00+09:00",
+  "generated_at": "2026-02-28T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -365,77 +365,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-02-21",
-      "end_date": "2026-02-21",
-      "items": [
-        {
-          "game": "DNF DUEL",
-          "minutes": 626
-        },
-        {
-          "game": "Arknights:Endfield",
-          "minutes": 546
-        },
-        {
-          "game": "Guns of Icarus Alliance",
-          "minutes": 531
-        },
-        {
-          "game": "Rainbow Six Siege",
-          "minutes": 79
-        },
-        {
-          "game": "DEAD OR ALIVE 6",
-          "minutes": 77
-        },
-        {
-          "game": "FATAL FURY: City of the Wolves",
-          "minutes": 47
-        },
-        {
-          "game": "Street Fighter™ 6",
-          "minutes": 45
-        },
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 33
-        },
-        {
-          "game": "Ultra Fight Da Kyanta 2",
-          "minutes": 19
-        },
-        {
-          "game": "MTGArena",
-          "minutes": 17
-        },
-        {
-          "game": "gogh: Focus with Your Avatar",
-          "minutes": 17
-        },
-        {
-          "game": "アークナイツ",
-          "minutes": 17
-        },
-        {
-          "game": "GUILTY GEAR -STRIVE-",
-          "minutes": 15
-        },
-        {
-          "game": "東方ダンマクカグラ ファンタジア・ロスト",
-          "minutes": 8
-        },
-        {
-          "game": "Black Desert Online",
-          "minutes": 1
-        },
-        {
-          "game": "Tom Clancy's Rainbow Six Siege X",
-          "minutes": 1
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-02-22",
       "end_date": "2026-02-22",
       "items": [
@@ -768,23 +697,114 @@
       "items": [
         {
           "game": "DNF DUEL",
-          "minutes": 263
+          "minutes": 854
+        },
+        {
+          "game": "GUILTY GEAR -STRIVE-",
+          "minutes": 295
         },
         {
           "game": "Street Fighter™ 6",
-          "minutes": 120
+          "minutes": 208
+        },
+        {
+          "game": "Shadowverse: Worlds Beyond",
+          "minutes": 180
+        },
+        {
+          "game": "Persona 4 Arena Ultimax",
+          "minutes": 174
         },
         {
           "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 60
+          "minutes": 161
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 131
+        },
+        {
+          "game": "Arknights:Endfield",
+          "minutes": 111
+        },
+        {
+          "game": "Starward",
+          "minutes": 67
+        },
+        {
+          "game": "Guns of Icarus Alliance",
+          "minutes": 52
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH Exe:Late[cl-r]",
+          "minutes": 43
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 42
+        },
+        {
+          "game": "Elevator Action™ -Returns- S-Tribute",
+          "minutes": 27
         },
         {
           "game": "ぷよぷよ™テトリス® ２",
           "minutes": 26
         },
         {
+          "game": "Them's Fightin' Herds",
+          "minutes": 24
+        },
+        {
+          "game": "FATAL FURY: City of the Wolves",
+          "minutes": 20
+        },
+        {
+          "game": "R-Type: Dimensions EX",
+          "minutes": 16
+        },
+        {
+          "game": "Mirage Feathers",
+          "minutes": 10
+        },
+        {
+          "game": "R-Type Delta: HD Boosted",
+          "minutes": 7
+        },
+        {
+          "game": "Slay the Spire",
+          "minutes": 4
+        },
+        {
+          "game": "東方ダンマクカグラ ファンタジア・ロスト",
+          "minutes": 4
+        },
+        {
           "game": "Idol Showdown",
           "minutes": 3
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-02-28",
+      "end_date": "2026-02-28",
+      "items": [
+        {
+          "game": "DNF DUEL",
+          "minutes": 244
+        },
+        {
+          "game": "Arknights:Endfield",
+          "minutes": 64
+        },
+        {
+          "game": "Azure Striker Gunvolt 2",
+          "minutes": 9
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 1
         }
       ]
     }
