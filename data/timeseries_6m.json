@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-28T01:00:00+09:00",
+  "generated_at": "2026-03-01T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -365,109 +365,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-02-22",
-      "end_date": "2026-02-22",
-      "items": [
-        {
-          "game": "DNF DUEL",
-          "minutes": 1054
-        },
-        {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 547
-        },
-        {
-          "game": "Guns of Icarus Alliance",
-          "minutes": 478
-        },
-        {
-          "game": "Arknights:Endfield",
-          "minutes": 410
-        },
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 184
-        },
-        {
-          "game": "NARAKA: BLADEPOINT",
-          "minutes": 155
-        },
-        {
-          "game": "Minecraft",
-          "minutes": 115
-        },
-        {
-          "game": "TEKKEN 8",
-          "minutes": 107
-        },
-        {
-          "game": "Mirage Feathers",
-          "minutes": 89
-        },
-        {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 55
-        },
-        {
-          "game": "A Dance of Fire and Ice",
-          "minutes": 44
-        },
-        {
-          "game": "Idol Showdown",
-          "minutes": 42
-        },
-        {
-          "game": "GUILTY GEAR -STRIVE-",
-          "minutes": 41
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 41
-        },
-        {
-          "game": "GZDoom PSX",
-          "minutes": 39
-        },
-        {
-          "game": "FATAL FURY: City of the Wolves",
-          "minutes": 33
-        },
-        {
-          "game": "THE KING OF FIGHTERS XV",
-          "minutes": 28
-        },
-        {
-          "game": "The Rumble Fish +",
-          "minutes": 22
-        },
-        {
-          "game": "GUILTY GEAR",
-          "minutes": 21
-        },
-        {
-          "game": "The Rumble Fish 2",
-          "minutes": 12
-        },
-        {
-          "game": "Overwatch",
-          "minutes": 8
-        },
-        {
-          "game": "Tetris The Grand Master 4 -Absolute Eye-",
-          "minutes": 8
-        },
-        {
-          "game": "Rocket League",
-          "minutes": 5
-        },
-        {
-          "game": "AquaPazza: Aquaplus Dream Match",
-          "minutes": 4
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-02-23",
       "end_date": "2026-02-23",
       "items": [
@@ -792,19 +689,70 @@
       "items": [
         {
           "game": "DNF DUEL",
-          "minutes": 244
+          "minutes": 1179
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 419
+        },
+        {
+          "game": "GUILTY GEAR -STRIVE-",
+          "minutes": 280
+        },
+        {
+          "game": "Guilty Gear -Strive-",
+          "minutes": 138
         },
         {
           "game": "Arknights:Endfield",
-          "minutes": 64
+          "minutes": 101
+        },
+        {
+          "game": "Devil May Cry 4 Special Edition",
+          "minutes": 47
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 47
+        },
+        {
+          "game": "FATAL FURY: City of the Wolves",
+          "minutes": 45
+        },
+        {
+          "game": "Ultra Fight Da Kyanta 2",
+          "minutes": 33
         },
         {
           "game": "Azure Striker Gunvolt 2",
           "minutes": 9
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-03-01",
+      "end_date": "2026-03-01",
+      "items": [
+        {
+          "game": "DNF DUEL",
+          "minutes": 363
+        },
+        {
+          "game": "Guilty Gear -Strive-",
+          "minutes": 30
+        },
+        {
+          "game": "GUILTY GEAR -STRIVE-",
+          "minutes": 28
         },
         {
           "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 1
+          "minutes": 24
+        },
+        {
+          "game": "FATAL FURY: City of the Wolves",
+          "minutes": 4
         }
       ]
     }
