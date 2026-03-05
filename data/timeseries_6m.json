@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-05T01:00:00+09:00",
+  "generated_at": "2026-03-06T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -849,101 +849,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-02-27",
-      "end_date": "2026-02-27",
-      "items": [
-        {
-          "game": "DNF DUEL",
-          "minutes": 854
-        },
-        {
-          "game": "GUILTY GEAR -STRIVE-",
-          "minutes": 295
-        },
-        {
-          "game": "Street Fighter™ 6",
-          "minutes": 208
-        },
-        {
-          "game": "Shadowverse: Worlds Beyond",
-          "minutes": 180
-        },
-        {
-          "game": "Persona 4 Arena Ultimax",
-          "minutes": 174
-        },
-        {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 161
-        },
-        {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 131
-        },
-        {
-          "game": "Arknights:Endfield",
-          "minutes": 111
-        },
-        {
-          "game": "Starward",
-          "minutes": 67
-        },
-        {
-          "game": "Guns of Icarus Alliance",
-          "minutes": 52
-        },
-        {
-          "game": "UNDER NIGHT IN-BIRTH Exe:Late[cl-r]",
-          "minutes": 43
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 42
-        },
-        {
-          "game": "Elevator Action™ -Returns- S-Tribute",
-          "minutes": 27
-        },
-        {
-          "game": "ぷよぷよ™テトリス® ２",
-          "minutes": 26
-        },
-        {
-          "game": "Them's Fightin' Herds",
-          "minutes": 24
-        },
-        {
-          "game": "FATAL FURY: City of the Wolves",
-          "minutes": 20
-        },
-        {
-          "game": "R-Type: Dimensions EX",
-          "minutes": 16
-        },
-        {
-          "game": "Mirage Feathers",
-          "minutes": 10
-        },
-        {
-          "game": "R-Type Delta: HD Boosted",
-          "minutes": 7
-        },
-        {
-          "game": "Slay the Spire",
-          "minutes": 4
-        },
-        {
-          "game": "東方ダンマクカグラ ファンタジア・ロスト",
-          "minutes": 4
-        },
-        {
-          "game": "Idol Showdown",
-          "minutes": 3
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-02-28",
       "end_date": "2026-02-28",
       "items": [
@@ -1236,19 +1141,98 @@
       "items": [
         {
           "game": "DNF DUEL",
-          "minutes": 118
+          "minutes": 554
         },
         {
           "game": "Idol Showdown",
-          "minutes": 73
+          "minutes": 313
+        },
+        {
+          "game": "Street Fighter™ 6",
+          "minutes": 308
         },
         {
           "game": "Phantom Breaker: Omnia",
-          "minutes": 60
+          "minutes": 170
+        },
+        {
+          "game": "Guns of Icarus Alliance",
+          "minutes": 106
+        },
+        {
+          "game": "FATAL FURY: City of the Wolves",
+          "minutes": 105
+        },
+        {
+          "game": "Arknights:Endfield",
+          "minutes": 80
+        },
+        {
+          "game": "Rainbow Six Siege",
+          "minutes": 76
+        },
+        {
+          "game": "SNK 40th Anniversary Collection",
+          "minutes": 71
+        },
+        {
+          "game": "Shadowverse: Worlds Beyond",
+          "minutes": 47
+        },
+        {
+          "game": "Ultra Fight Da Kyanta 2",
+          "minutes": 26
+        },
+        {
+          "game": "MY HERO ACADEMIA: All’s Justice",
+          "minutes": 25
+        },
+        {
+          "game": "EARTH DEFENSE FORCE 6",
+          "minutes": 16
         },
         {
           "game": "GUILTY GEAR -STRIVE-",
           "minutes": 15
+        },
+        {
+          "game": "Black Desert Online",
+          "minutes": 6
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 5
+        },
+        {
+          "game": "Tom Clancy's Rainbow Six Siege X",
+          "minutes": 3
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-03-06",
+      "end_date": "2026-03-06",
+      "items": [
+        {
+          "game": "DNF DUEL",
+          "minutes": 185
+        },
+        {
+          "game": "Idol Showdown",
+          "minutes": 57
+        },
+        {
+          "game": "Arknights:Endfield",
+          "minutes": 17
+        },
+        {
+          "game": "Persona5: The Phantom X",
+          "minutes": 16
+        },
+        {
+          "game": "Ultimate Marvel vs. Capcom 3",
+          "minutes": 6
         }
       ]
     }
