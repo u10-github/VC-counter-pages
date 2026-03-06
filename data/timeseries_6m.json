@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-06T01:00:00+09:00",
+  "generated_at": "2026-03-07T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -849,53 +849,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-02-28",
-      "end_date": "2026-02-28",
-      "items": [
-        {
-          "game": "DNF DUEL",
-          "minutes": 1179
-        },
-        {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 419
-        },
-        {
-          "game": "GUILTY GEAR -STRIVE-",
-          "minutes": 280
-        },
-        {
-          "game": "Guilty Gear -Strive-",
-          "minutes": 138
-        },
-        {
-          "game": "Arknights:Endfield",
-          "minutes": 101
-        },
-        {
-          "game": "Devil May Cry 4 Special Edition",
-          "minutes": 47
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 47
-        },
-        {
-          "game": "FATAL FURY: City of the Wolves",
-          "minutes": 45
-        },
-        {
-          "game": "Ultra Fight Da Kyanta 2",
-          "minutes": 33
-        },
-        {
-          "game": "Azure Striker Gunvolt 2",
-          "minutes": 9
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-03-01",
       "end_date": "2026-03-01",
       "items": [
@@ -1216,11 +1169,19 @@
       "items": [
         {
           "game": "DNF DUEL",
-          "minutes": 185
+          "minutes": 761
         },
         {
           "game": "Idol Showdown",
-          "minutes": 57
+          "minutes": 67
+        },
+        {
+          "game": "GUILTY GEAR -STRIVE-",
+          "minutes": 56
+        },
+        {
+          "game": "FATAL FURY: City of the Wolves",
+          "minutes": 38
         },
         {
           "game": "Arknights:Endfield",
@@ -1231,8 +1192,27 @@
           "minutes": 16
         },
         {
+          "game": "Wuthering Waves",
+          "minutes": 15
+        },
+        {
           "game": "Ultimate Marvel vs. Capcom 3",
           "minutes": 6
+        },
+        {
+          "game": "Chill with You : Lo-Fi Story",
+          "minutes": 3
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-03-07",
+      "end_date": "2026-03-07",
+      "items": [
+        {
+          "game": "DNF DUEL",
+          "minutes": 231
         }
       ]
     }
