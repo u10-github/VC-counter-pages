@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-07T01:00:00+09:00",
+  "generated_at": "2026-03-08T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -849,53 +849,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-03-01",
-      "end_date": "2026-03-01",
-      "items": [
-        {
-          "game": "DNF DUEL",
-          "minutes": 2369
-        },
-        {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 213
-        },
-        {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 130
-        },
-        {
-          "game": "Grim Dawn",
-          "minutes": 64
-        },
-        {
-          "game": "Arknights:Endfield",
-          "minutes": 54
-        },
-        {
-          "game": "2XKO",
-          "minutes": 39
-        },
-        {
-          "game": "Guilty Gear -Strive-",
-          "minutes": 30
-        },
-        {
-          "game": "GUILTY GEAR -STRIVE-",
-          "minutes": 28
-        },
-        {
-          "game": "Persona 4 Arena Ultimax",
-          "minutes": 12
-        },
-        {
-          "game": "FATAL FURY: City of the Wolves",
-          "minutes": 4
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-03-02",
       "end_date": "2026-03-02",
       "items": [
@@ -1212,7 +1165,90 @@
       "items": [
         {
           "game": "DNF DUEL",
-          "minutes": 231
+          "minutes": 703
+        },
+        {
+          "game": "Idol Showdown",
+          "minutes": 460
+        },
+        {
+          "game": "GUILTY GEAR -STRIVE-",
+          "minutes": 126
+        },
+        {
+          "game": "Arknights:Endfield",
+          "minutes": 100
+        },
+        {
+          "game": "2XKO",
+          "minutes": 89
+        },
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 88
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 72
+        },
+        {
+          "game": "Rainbow Six Siege",
+          "minutes": 65
+        },
+        {
+          "game": "BlueStacks 5",
+          "minutes": 60
+        },
+        {
+          "game": "FATAL FURY: City of the Wolves",
+          "minutes": 47
+        },
+        {
+          "game": "Minecraft",
+          "minutes": 41
+        },
+        {
+          "game": "TEKKEN 8",
+          "minutes": 33
+        },
+        {
+          "game": "PAPERHEAD Demo",
+          "minutes": 31
+        },
+        {
+          "game": "Touhou 12.3: Hisoutensoku",
+          "minutes": 31
+        },
+        {
+          "game": "Demonic Mahjong",
+          "minutes": 28
+        },
+        {
+          "game": "Guns and Nuns: Storming Hell Demo",
+          "minutes": 26
+        },
+        {
+          "game": "Black Desert Online",
+          "minutes": 16
+        },
+        {
+          "game": "Tom Clancy's Rainbow Six Siege X",
+          "minutes": 1
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-03-08",
+      "end_date": "2026-03-08",
+      "items": [
+        {
+          "game": "Idol Showdown",
+          "minutes": 170
+        },
+        {
+          "game": "DNF DUEL",
+          "minutes": 96
         }
       ]
     }
