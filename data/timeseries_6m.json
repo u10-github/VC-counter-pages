@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-08T01:00:00+09:00",
+  "generated_at": "2026-03-09T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -848,48 +848,104 @@
       ]
     },
     {
-      "bucket_type": "day",
+      "bucket_type": "week",
       "start_date": "2026-03-02",
-      "end_date": "2026-03-02",
+      "end_date": "2026-03-08",
       "items": [
         {
           "game": "DNF DUEL",
-          "minutes": 975
-        },
-        {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 582
+          "minutes": 5276
         },
         {
           "game": "Idol Showdown",
-          "minutes": 189
+          "minutes": 2347
         },
         {
-          "game": "Ultra Fight Da Kyanta 2",
-          "minutes": 184
+          "game": "Street Fighter™ 6",
+          "minutes": 865
         },
         {
           "game": "GUILTY GEAR -STRIVE-",
-          "minutes": 168
+          "minutes": 813
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 637
+        },
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 486
         },
         {
           "game": "Arknights:Endfield",
-          "minutes": 104
+          "minutes": 421
         },
         {
           "game": "FATAL FURY: City of the Wolves",
-          "minutes": 78
+          "minutes": 312
+        },
+        {
+          "game": "Ultra Fight Da Kyanta 2",
+          "minutes": 210
+        },
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 195
         },
         {
           "game": "Wuthering Waves",
-          "minutes": 73
+          "minutes": 177
+        },
+        {
+          "game": "Guns of Icarus Alliance",
+          "minutes": 168
+        },
+        {
+          "game": "Rainbow Six Siege",
+          "minutes": 141
+        },
+        {
+          "game": "Nexus: FPV Drone Carnage",
+          "minutes": 113
+        },
+        {
+          "game": "Minecraft",
+          "minutes": 104
+        },
+        {
+          "game": "2XKO",
+          "minutes": 89
+        },
+        {
+          "game": "Slay the Spire",
+          "minutes": 74
+        },
+        {
+          "game": "SNK 40th Anniversary Collection",
+          "minutes": 71
+        },
+        {
+          "game": "BlueStacks 5",
+          "minutes": 60
         },
         {
           "game": "Vampire Crawlers Demo",
           "minutes": 50
         },
         {
-          "game": "Street Fighter™ 6",
+          "game": "Last Command",
+          "minutes": 47
+        },
+        {
+          "game": "Shadowverse: Worlds Beyond",
+          "minutes": 47
+        },
+        {
+          "game": "Black Desert Online",
+          "minutes": 39
+        },
+        {
+          "game": "Guns and Nuns: Storming Hell Demo",
           "minutes": 38
         },
         {
@@ -897,20 +953,96 @@
           "minutes": 37
         },
         {
+          "game": "TEKKEN 8",
+          "minutes": 33
+        },
+        {
+          "game": "勇者パーティはぜんめつしました。 Demo",
+          "minutes": 33
+        },
+        {
+          "game": "Pizza Tower",
+          "minutes": 32
+        },
+        {
+          "game": "PAPERHEAD Demo",
+          "minutes": 31
+        },
+        {
+          "game": "Touhou 12.3: Hisoutensoku",
+          "minutes": 31
+        },
+        {
+          "game": "BlazBlue Centralfiction",
+          "minutes": 28
+        },
+        {
+          "game": "Demonic Mahjong",
+          "minutes": 28
+        },
+        {
+          "game": "Sakura Arms ~Radiant Duels~ Demo",
+          "minutes": 27
+        },
+        {
+          "game": "MY HERO ACADEMIA: All’s Justice",
+          "minutes": 25
+        },
+        {
           "game": "Azure Striker Gunvolt 2",
-          "minutes": 15
+          "minutes": 16
         },
         {
-          "game": "Black Desert Online",
-          "minutes": 15
+          "game": "EARTH DEFENSE FORCE 6",
+          "minutes": 16
         },
         {
-          "game": "Guns of Icarus Alliance",
-          "minutes": 14
+          "game": "Persona5: The Phantom X",
+          "minutes": 16
+        },
+        {
+          "game": "Ultra Street Fighter IV",
+          "minutes": 16
+        },
+        {
+          "game": "Fight of Gods",
+          "minutes": 9
         },
         {
           "game": "Them's Fightin' Herds",
           "minutes": 9
+        },
+        {
+          "game": "アークナイツ",
+          "minutes": 9
+        },
+        {
+          "game": "Ultimate Marvel vs. Capcom 3",
+          "minutes": 6
+        },
+        {
+          "game": "Chill with You : Lo-Fi Story",
+          "minutes": 4
+        },
+        {
+          "game": "Tom Clancy's Rainbow Six Siege X",
+          "minutes": 4
+        },
+        {
+          "game": "Koihime Enbu RyoRaiRai",
+          "minutes": 2
+        },
+        {
+          "game": "MapleStory",
+          "minutes": 2
+        },
+        {
+          "game": "Guns of Icarus Online",
+          "minutes": 1
+        },
+        {
+          "game": "Sifu",
+          "minutes": 1
         }
       ]
     },
@@ -1243,12 +1375,87 @@
       "end_date": "2026-03-08",
       "items": [
         {
-          "game": "Idol Showdown",
-          "minutes": 170
+          "game": "DNF DUEL",
+          "minutes": 721
         },
         {
+          "game": "Idol Showdown",
+          "minutes": 600
+        },
+        {
+          "game": "GUILTY GEAR -STRIVE-",
+          "minutes": 199
+        },
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 107
+        },
+        {
+          "game": "Slay the Spire",
+          "minutes": 74
+        },
+        {
+          "game": "Minecraft",
+          "minutes": 63
+        },
+        {
+          "game": "Arknights:Endfield",
+          "minutes": 51
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 41
+        },
+        {
+          "game": "勇者パーティはぜんめつしました。 Demo",
+          "minutes": 33
+        },
+        {
+          "game": "Sakura Arms ~Radiant Duels~ Demo",
+          "minutes": 27
+        },
+        {
+          "game": "BlazBlue Centralfiction",
+          "minutes": 25
+        },
+        {
+          "game": "Ultra Street Fighter IV",
+          "minutes": 16
+        },
+        {
+          "game": "Guns and Nuns: Storming Hell Demo",
+          "minutes": 12
+        },
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 9
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 4
+        },
+        {
+          "game": "Koihime Enbu RyoRaiRai",
+          "minutes": 2
+        },
+        {
+          "game": "MapleStory",
+          "minutes": 2
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-03-09",
+      "end_date": "2026-03-09",
+      "items": [
+        {
           "game": "DNF DUEL",
-          "minutes": 96
+          "minutes": 392
+        },
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 27
         }
       ]
     }
