@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-09T01:00:00+09:00",
+  "generated_at": "2026-03-10T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -347,12 +347,6 @@
           "minutes": 1
         }
       ]
-    },
-    {
-      "bucket_type": "week",
-      "start_date": "2026-02-02",
-      "end_date": "2026-02-08",
-      "items": []
     },
     {
       "bucket_type": "week",
@@ -1048,73 +1042,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-03-03",
-      "end_date": "2026-03-03",
-      "items": [
-        {
-          "game": "DNF DUEL",
-          "minutes": 732
-        },
-        {
-          "game": "Idol Showdown",
-          "minutes": 595
-        },
-        {
-          "game": "GUILTY GEAR -STRIVE-",
-          "minutes": 231
-        },
-        {
-          "game": "Street Fighter™ 6",
-          "minutes": 121
-        },
-        {
-          "game": "Nexus: FPV Drone Carnage",
-          "minutes": 98
-        },
-        {
-          "game": "Last Command",
-          "minutes": 47
-        },
-        {
-          "game": "FATAL FURY: City of the Wolves",
-          "minutes": 44
-        },
-        {
-          "game": "Arknights:Endfield",
-          "minutes": 41
-        },
-        {
-          "game": "Pizza Tower",
-          "minutes": 32
-        },
-        {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 14
-        },
-        {
-          "game": "Guns of Icarus Alliance",
-          "minutes": 12
-        },
-        {
-          "game": "Fight of Gods",
-          "minutes": 9
-        },
-        {
-          "game": "BlazBlue Centralfiction",
-          "minutes": 3
-        },
-        {
-          "game": "Azure Striker Gunvolt 2",
-          "minutes": 1
-        },
-        {
-          "game": "Guns of Icarus Online",
-          "minutes": 1
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-03-04",
       "end_date": "2026-03-04",
       "items": [
@@ -1451,11 +1378,94 @@
       "items": [
         {
           "game": "DNF DUEL",
-          "minutes": 392
+          "minutes": 1527
+        },
+        {
+          "game": "GUILTY GEAR -STRIVE-",
+          "minutes": 153
+        },
+        {
+          "game": "Street Fighter 30th Anniversary Collection",
+          "minutes": 134
+        },
+        {
+          "game": "Street Fighter™ 6",
+          "minutes": 108
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 87
+        },
+        {
+          "game": "Slay the Spire 2",
+          "minutes": 70
+        },
+        {
+          "game": "Idol Showdown",
+          "minutes": 69
+        },
+        {
+          "game": "FATAL FURY: City of the Wolves",
+          "minutes": 64
+        },
+        {
+          "game": "BlazBlue Centralfiction",
+          "minutes": 57
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 37
+        },
+        {
+          "game": "Arknights:Endfield",
+          "minutes": 27
         },
         {
           "game": "Granblue Fantasy Versus: Rising",
           "minutes": 27
+        },
+        {
+          "game": "Tetris Forever",
+          "minutes": 9
+        },
+        {
+          "game": "Black Desert Online",
+          "minutes": 4
+        },
+        {
+          "game": "Chill with You : Lo-Fi Story",
+          "minutes": 1
+        },
+        {
+          "game": "Urban Myth Dissolution Center Demo",
+          "minutes": 1
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-03-10",
+      "end_date": "2026-03-10",
+      "items": [
+        {
+          "game": "DNF DUEL",
+          "minutes": 171
+        },
+        {
+          "game": "GUILTY GEAR -STRIVE-",
+          "minutes": 60
+        },
+        {
+          "game": "AquaPazza: Aquaplus Dream Match",
+          "minutes": 22
+        },
+        {
+          "game": "Arknights:Endfield",
+          "minutes": 6
+        },
+        {
+          "game": "Black Desert Online",
+          "minutes": 3
         }
       ]
     }
