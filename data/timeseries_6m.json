@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-10T01:00:00+09:00",
+  "generated_at": "2026-03-11T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1042,65 +1042,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-03-04",
-      "end_date": "2026-03-04",
-      "items": [
-        {
-          "game": "DNF DUEL",
-          "minutes": 830
-        },
-        {
-          "game": "Street Fighter™ 6",
-          "minutes": 398
-        },
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 307
-        },
-        {
-          "game": "Idol Showdown",
-          "minutes": 123
-        },
-        {
-          "game": "Guns of Icarus Alliance",
-          "minutes": 36
-        },
-        {
-          "game": "Arknights:Endfield",
-          "minutes": 28
-        },
-        {
-          "game": "GUILTY GEAR -STRIVE-",
-          "minutes": 18
-        },
-        {
-          "game": "Nexus: FPV Drone Carnage",
-          "minutes": 15
-        },
-        {
-          "game": "アークナイツ",
-          "minutes": 9
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 8
-        },
-        {
-          "game": "Black Desert Online",
-          "minutes": 2
-        },
-        {
-          "game": "Chill with You : Lo-Fi Story",
-          "minutes": 1
-        },
-        {
-          "game": "Sifu",
-          "minutes": 1
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-03-05",
       "end_date": "2026-03-05",
       "items": [
@@ -1449,23 +1390,78 @@
       "items": [
         {
           "game": "DNF DUEL",
-          "minutes": 171
+          "minutes": 475
+        },
+        {
+          "game": "BlazBlue Centralfiction",
+          "minutes": 234
+        },
+        {
+          "game": "Street Fighter™ 6",
+          "minutes": 112
         },
         {
           "game": "GUILTY GEAR -STRIVE-",
-          "minutes": 60
+          "minutes": 103
+        },
+        {
+          "game": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH",
+          "minutes": 90
+        },
+        {
+          "game": "Guns of Icarus Alliance",
+          "minutes": 77
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 74
+        },
+        {
+          "game": "Nitroplus Blasterz: Heroines Infinite Duel",
+          "minutes": 28
+        },
+        {
+          "game": "MY HERO ACADEMIA: All’s Justice",
+          "minutes": 24
         },
         {
           "game": "AquaPazza: Aquaplus Dream Match",
           "minutes": 22
         },
         {
+          "game": "FATAL FURY: City of the Wolves",
+          "minutes": 16
+        },
+        {
           "game": "Arknights:Endfield",
-          "minutes": 6
+          "minutes": 15
+        },
+        {
+          "game": "GUILTY GEAR XX ACCENT CORE PLUS R",
+          "minutes": 14
         },
         {
           "game": "Black Desert Online",
           "minutes": 3
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-03-11",
+      "end_date": "2026-03-11",
+      "items": [
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 57
+        },
+        {
+          "game": "Street Fighter™ 6",
+          "minutes": 50
+        },
+        {
+          "game": "BlazBlue Centralfiction",
+          "minutes": 32
         }
       ]
     }
