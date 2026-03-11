@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-11T01:00:00+09:00",
+  "generated_at": "2026-03-12T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1042,81 +1042,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-03-05",
-      "end_date": "2026-03-05",
-      "items": [
-        {
-          "game": "DNF DUEL",
-          "minutes": 554
-        },
-        {
-          "game": "Idol Showdown",
-          "minutes": 313
-        },
-        {
-          "game": "Street Fighter™ 6",
-          "minutes": 308
-        },
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 170
-        },
-        {
-          "game": "Guns of Icarus Alliance",
-          "minutes": 106
-        },
-        {
-          "game": "FATAL FURY: City of the Wolves",
-          "minutes": 105
-        },
-        {
-          "game": "Arknights:Endfield",
-          "minutes": 80
-        },
-        {
-          "game": "Rainbow Six Siege",
-          "minutes": 76
-        },
-        {
-          "game": "SNK 40th Anniversary Collection",
-          "minutes": 71
-        },
-        {
-          "game": "Shadowverse: Worlds Beyond",
-          "minutes": 47
-        },
-        {
-          "game": "Ultra Fight Da Kyanta 2",
-          "minutes": 26
-        },
-        {
-          "game": "MY HERO ACADEMIA: All’s Justice",
-          "minutes": 25
-        },
-        {
-          "game": "EARTH DEFENSE FORCE 6",
-          "minutes": 16
-        },
-        {
-          "game": "GUILTY GEAR -STRIVE-",
-          "minutes": 15
-        },
-        {
-          "game": "Black Desert Online",
-          "minutes": 6
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 5
-        },
-        {
-          "game": "Tom Clancy's Rainbow Six Siege X",
-          "minutes": 3
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-03-06",
       "end_date": "2026-03-06",
       "items": [
@@ -1452,16 +1377,91 @@
       "end_date": "2026-03-11",
       "items": [
         {
+          "game": "DNF DUEL",
+          "minutes": 237
+        },
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 161
+        },
+        {
+          "game": "GUILTY GEAR -STRIVE-",
+          "minutes": 89
+        },
+        {
           "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 57
+          "minutes": 73
         },
         {
           "game": "Street Fighter™ 6",
           "minutes": 50
         },
         {
+          "game": "Rainbow Six Siege",
+          "minutes": 46
+        },
+        {
+          "game": "Slay the Spire",
+          "minutes": 44
+        },
+        {
           "game": "BlazBlue Centralfiction",
           "minutes": 32
+        },
+        {
+          "game": "Arknights:Endfield",
+          "minutes": 30
+        },
+        {
+          "game": "FATAL FURY: City of the Wolves",
+          "minutes": 24
+        },
+        {
+          "game": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH",
+          "minutes": 23
+        },
+        {
+          "game": "Capcom Fighting Collection 2",
+          "minutes": 20
+        },
+        {
+          "game": "Persona5: The Phantom X",
+          "minutes": 7
+        },
+        {
+          "game": "Tom Clancy's Rainbow Six Siege X",
+          "minutes": 2
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-03-12",
+      "end_date": "2026-03-12",
+      "items": [
+        {
+          "game": "DNF DUEL",
+          "minutes": 60
+        },
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 60
+        },
+        {
+          "game": "Slay the Spire",
+          "minutes": 56
+        },
+        {
+          "game": "Limbus Company",
+          "minutes": 53
+        },
+        {
+          "game": "Persona5: The Phantom X",
+          "minutes": 7
+        },
+        {
+          "game": "Rainbow Six Siege",
+          "minutes": 4
         }
       ]
     }
