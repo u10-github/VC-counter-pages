@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-12T01:00:00+09:00",
+  "generated_at": "2026-03-13T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1042,49 +1042,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-03-06",
-      "end_date": "2026-03-06",
-      "items": [
-        {
-          "game": "DNF DUEL",
-          "minutes": 761
-        },
-        {
-          "game": "Idol Showdown",
-          "minutes": 67
-        },
-        {
-          "game": "GUILTY GEAR -STRIVE-",
-          "minutes": 56
-        },
-        {
-          "game": "FATAL FURY: City of the Wolves",
-          "minutes": 38
-        },
-        {
-          "game": "Arknights:Endfield",
-          "minutes": 17
-        },
-        {
-          "game": "Persona5: The Phantom X",
-          "minutes": 16
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 15
-        },
-        {
-          "game": "Ultimate Marvel vs. Capcom 3",
-          "minutes": 6
-        },
-        {
-          "game": "Chill with You : Lo-Fi Story",
-          "minutes": 3
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-03-07",
       "end_date": "2026-03-07",
       "items": [
@@ -1441,11 +1398,27 @@
       "items": [
         {
           "game": "DNF DUEL",
-          "minutes": 60
+          "minutes": 594
         },
         {
           "game": "Phantom Breaker: Omnia",
-          "minutes": 60
+          "minutes": 196
+        },
+        {
+          "game": "Arknights:Endfield",
+          "minutes": 184
+        },
+        {
+          "game": "SAMURAI SHODOWN",
+          "minutes": 169
+        },
+        {
+          "game": "Guns of Icarus Alliance",
+          "minutes": 124
+        },
+        {
+          "game": "beatmania IIDX INFINITAS",
+          "minutes": 58
         },
         {
           "game": "Slay the Spire",
@@ -1453,15 +1426,62 @@
         },
         {
           "game": "Limbus Company",
-          "minutes": 53
+          "minutes": 54
+        },
+        {
+          "game": "BlueStacks 5",
+          "minutes": 33
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 21
+        },
+        {
+          "game": "Minecraft",
+          "minutes": 20
+        },
+        {
+          "game": "Street Fighter 30th Anniversary Collection",
+          "minutes": 17
+        },
+        {
+          "game": "Metal Hunter",
+          "minutes": 11
+        },
+        {
+          "game": "BlazBlue Centralfiction",
+          "minutes": 9
         },
         {
           "game": "Persona5: The Phantom X",
           "minutes": 7
         },
         {
+          "game": "Ultra Street Fighter IV",
+          "minutes": 6
+        },
+        {
           "game": "Rainbow Six Siege",
           "minutes": 4
+        },
+        {
+          "game": "アークナイツ",
+          "minutes": 3
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-03-13",
+      "end_date": "2026-03-13",
+      "items": [
+        {
+          "game": "DNF DUEL",
+          "minutes": 120
+        },
+        {
+          "game": "Hunter×Hunter: Nen×Impact",
+          "minutes": 2
         }
       ]
     }
