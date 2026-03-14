@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-14T01:00:00+09:00",
+  "generated_at": "2026-03-15T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1042,81 +1042,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-03-08",
-      "end_date": "2026-03-08",
-      "items": [
-        {
-          "game": "DNF DUEL",
-          "minutes": 721
-        },
-        {
-          "game": "Idol Showdown",
-          "minutes": 600
-        },
-        {
-          "game": "GUILTY GEAR -STRIVE-",
-          "minutes": 199
-        },
-        {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 107
-        },
-        {
-          "game": "Slay the Spire",
-          "minutes": 74
-        },
-        {
-          "game": "Minecraft",
-          "minutes": 63
-        },
-        {
-          "game": "Arknights:Endfield",
-          "minutes": 51
-        },
-        {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 41
-        },
-        {
-          "game": "勇者パーティはぜんめつしました。 Demo",
-          "minutes": 33
-        },
-        {
-          "game": "Sakura Arms ~Radiant Duels~ Demo",
-          "minutes": 27
-        },
-        {
-          "game": "BlazBlue Centralfiction",
-          "minutes": 25
-        },
-        {
-          "game": "Ultra Street Fighter IV",
-          "minutes": 16
-        },
-        {
-          "game": "Guns and Nuns: Storming Hell Demo",
-          "minutes": 12
-        },
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 9
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 4
-        },
-        {
-          "game": "Koihime Enbu RyoRaiRai",
-          "minutes": 2
-        },
-        {
-          "game": "MapleStory",
-          "minutes": 2
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-03-09",
       "end_date": "2026-03-09",
       "items": [
@@ -1444,24 +1369,87 @@
       "end_date": "2026-03-14",
       "items": [
         {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 177
+          "game": "Arknights:Endfield",
+          "minutes": 557
         },
         {
           "game": "DNF DUEL",
-          "minutes": 147
+          "minutes": 502
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 441
         },
         {
           "game": "GUILTY GEAR XX ACCENT CORE PLUS R",
-          "minutes": 57
+          "minutes": 201
         },
         {
-          "game": "Arknights:Endfield",
-          "minutes": 49
+          "game": "SAMURAI SHODOWN",
+          "minutes": 70
+        },
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 45
         },
         {
           "game": "アークナイツ",
           "minutes": 36
+        },
+        {
+          "game": "GUILTY GEAR -STRIVE-",
+          "minutes": 34
+        },
+        {
+          "game": "Slay the Spire 2",
+          "minutes": 24
+        },
+        {
+          "game": "TEKKEN™8",
+          "minutes": 23
+        },
+        {
+          "game": "FATAL FURY: City of the Wolves",
+          "minutes": 22
+        },
+        {
+          "game": "Street Fighter™ 6",
+          "minutes": 22
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 18
+        },
+        {
+          "game": "ULTRA STREET FIGHTER IV",
+          "minutes": 4
+        },
+        {
+          "game": "Limbus Company",
+          "minutes": 2
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-03-15",
+      "end_date": "2026-03-15",
+      "items": [
+        {
+          "game": "AquaPazza: Aquaplus Dream Match",
+          "minutes": 96
+        },
+        {
+          "game": "Arknights:Endfield",
+          "minutes": 22
+        },
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 11
+        },
+        {
+          "game": "Street Fighter™ 6",
+          "minutes": 4
         }
       ]
     }
