@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-15T01:00:00+09:00",
+  "generated_at": "2026-03-16T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1041,57 +1041,149 @@
       ]
     },
     {
-      "bucket_type": "day",
+      "bucket_type": "week",
       "start_date": "2026-03-09",
-      "end_date": "2026-03-09",
+      "end_date": "2026-03-15",
       "items": [
         {
           "game": "DNF DUEL",
-          "minutes": 1527
+          "minutes": 4317
+        },
+        {
+          "game": "Arknights:Endfield",
+          "minutes": 1342
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 557
+        },
+        {
+          "game": "SAMURAI SHODOWN",
+          "minutes": 411
         },
         {
           "game": "GUILTY GEAR -STRIVE-",
-          "minutes": 153
+          "minutes": 397
         },
         {
-          "game": "Street Fighter 30th Anniversary Collection",
-          "minutes": 134
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 357
+        },
+        {
+          "game": "BlazBlue Centralfiction",
+          "minutes": 332
         },
         {
           "game": "Street Fighter™ 6",
-          "minutes": 108
+          "minutes": 296
+        },
+        {
+          "game": "AquaPazza: Aquaplus Dream Match",
+          "minutes": 251
+        },
+        {
+          "game": "Slay the Spire",
+          "minutes": 240
+        },
+        {
+          "game": "Marvel Rivals",
+          "minutes": 236
+        },
+        {
+          "game": "GUILTY GEAR XX ACCENT CORE PLUS R",
+          "minutes": 215
+        },
+        {
+          "game": "Guns of Icarus Alliance",
+          "minutes": 201
+        },
+        {
+          "game": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH",
+          "minutes": 181
         },
         {
           "game": "Wuthering Waves",
-          "minutes": 87
+          "minutes": 162
+        },
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 156
+        },
+        {
+          "game": "Street Fighter 30th Anniversary Collection",
+          "minutes": 151
+        },
+        {
+          "game": "FATAL FURY: City of the Wolves",
+          "minutes": 141
         },
         {
           "game": "Slay the Spire 2",
-          "minutes": 70
+          "minutes": 94
         },
         {
           "game": "Idol Showdown",
           "minutes": 69
         },
         {
-          "game": "FATAL FURY: City of the Wolves",
-          "minutes": 64
+          "game": "Like a Dragon: Pirate Yakuza in Hawaii",
+          "minutes": 66
         },
         {
-          "game": "BlazBlue Centralfiction",
-          "minutes": 57
+          "game": "beatmania IIDX INFINITAS",
+          "minutes": 58
         },
         {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 37
+          "game": "Limbus Company",
+          "minutes": 56
         },
         {
-          "game": "Arknights:Endfield",
-          "minutes": 27
+          "game": "Rainbow Six Siege",
+          "minutes": 50
         },
         {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 27
+          "game": "アークナイツ",
+          "minutes": 39
+        },
+        {
+          "game": "BlueStacks 5",
+          "minutes": 33
+        },
+        {
+          "game": "Nitroplus Blasterz: Heroines Infinite Duel",
+          "minutes": 28
+        },
+        {
+          "game": "Pizza Tower",
+          "minutes": 25
+        },
+        {
+          "game": "MY HERO ACADEMIA: All’s Justice",
+          "minutes": 24
+        },
+        {
+          "game": "TEKKEN™8",
+          "minutes": 23
+        },
+        {
+          "game": "Capcom Fighting Collection 2",
+          "minutes": 20
+        },
+        {
+          "game": "Minecraft",
+          "minutes": 20
+        },
+        {
+          "game": "Guns and Nuns: Storming Hell Demo",
+          "minutes": 15
+        },
+        {
+          "game": "Persona5: The Phantom X",
+          "minutes": 14
+        },
+        {
+          "game": "Metal Hunter",
+          "minutes": 11
         },
         {
           "game": "Tetris Forever",
@@ -1099,7 +1191,23 @@
         },
         {
           "game": "Black Desert Online",
+          "minutes": 7
+        },
+        {
+          "game": "Ultra Street Fighter IV",
+          "minutes": 6
+        },
+        {
+          "game": "ULTRA STREET FIGHTER IV",
           "minutes": 4
+        },
+        {
+          "game": "Hunter×Hunter: Nen×Impact",
+          "minutes": 2
+        },
+        {
+          "game": "Tom Clancy's Rainbow Six Siege X",
+          "minutes": 2
         },
         {
           "game": "Chill with You : Lo-Fi Story",
@@ -1436,12 +1544,40 @@
       "end_date": "2026-03-15",
       "items": [
         {
+          "game": "DNF DUEL",
+          "minutes": 416
+        },
+        {
+          "game": "Marvel Rivals",
+          "minutes": 236
+        },
+        {
           "game": "AquaPazza: Aquaplus Dream Match",
-          "minutes": 96
+          "minutes": 200
+        },
+        {
+          "game": "Slay the Spire",
+          "minutes": 140
+        },
+        {
+          "game": "SAMURAI SHODOWN",
+          "minutes": 112
         },
         {
           "game": "Arknights:Endfield",
-          "minutes": 22
+          "minutes": 48
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 36
+        },
+        {
+          "game": "Pizza Tower",
+          "minutes": 25
+        },
+        {
+          "game": "GUILTY GEAR -STRIVE-",
+          "minutes": 18
         },
         {
           "game": "Granblue Fantasy Versus: Rising",
@@ -1450,6 +1586,29 @@
         {
           "game": "Street Fighter™ 6",
           "minutes": 4
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-03-16",
+      "end_date": "2026-03-16",
+      "items": [
+        {
+          "game": "DNF DUEL",
+          "minutes": 239
+        },
+        {
+          "game": "Slay the Spire",
+          "minutes": 60
+        },
+        {
+          "game": "Street Fighter™ 6",
+          "minutes": 35
+        },
+        {
+          "game": "SAMURAI SHODOWN",
+          "minutes": 25
         }
       ]
     }
