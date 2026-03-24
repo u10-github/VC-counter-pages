@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-24T01:00:00+09:00",
+  "generated_at": "2026-03-25T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -982,12 +982,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-03-18",
-      "end_date": "2026-03-18",
-      "items": []
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-03-19",
       "end_date": "2026-03-19",
       "items": []
@@ -1072,27 +1066,94 @@
       "items": [
         {
           "game": "GUILTY GEAR -STRIVE-",
-          "minutes": 240
+          "minutes": 586
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 261
         },
         {
           "game": "Koihime Enbu RyoRaiRai",
-          "minutes": 70
+          "minutes": 126
+        },
+        {
+          "game": "FATAL FURY: City of the Wolves",
+          "minutes": 92
         },
         {
           "game": "DNF DUEL",
-          "minutes": 37
+          "minutes": 64
+        },
+        {
+          "game": "GUILTY GEAR XX ACCENT CORE PLUS R",
+          "minutes": 48
+        },
+        {
+          "game": "Guns of Icarus Alliance",
+          "minutes": 45
+        },
+        {
+          "game": "Shadow Warrior Classic Redux",
+          "minutes": 34
+        },
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 21
         },
         {
           "game": "Killer Instinct",
-          "minutes": 16
+          "minutes": 18
+        },
+        {
+          "game": "原神",
+          "minutes": 18
+        },
+        {
+          "game": "BlazBlue Centralfiction",
+          "minutes": 17
+        },
+        {
+          "game": "Arknights:Endfield",
+          "minutes": 12
         },
         {
           "game": "Idol Showdown",
           "minutes": 7
         },
         {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 7
+          "game": "Genshin Impact",
+          "minutes": 1
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-03-25",
+      "end_date": "2026-03-25",
+      "items": [
+        {
+          "game": "One Step From Eden",
+          "minutes": 29
+        },
+        {
+          "game": "GUILTY GEAR -STRIVE-",
+          "minutes": 24
+        },
+        {
+          "game": "DNF DUEL",
+          "minutes": 20
+        },
+        {
+          "game": "Apewar",
+          "minutes": 17
+        },
+        {
+          "game": "FATAL FURY: City of the Wolves",
+          "minutes": 6
+        },
+        {
+          "game": "原神",
+          "minutes": 6
         }
       ]
     }
