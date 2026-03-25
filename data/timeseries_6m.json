@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-25T01:00:00+09:00",
+  "generated_at": "2026-03-26T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -982,12 +982,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-03-19",
-      "end_date": "2026-03-19",
-      "items": []
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-03-20",
       "end_date": "2026-03-20",
       "items": []
@@ -1132,20 +1126,52 @@
       "end_date": "2026-03-25",
       "items": [
         {
-          "game": "One Step From Eden",
-          "minutes": 29
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 307
+        },
+        {
+          "game": "Street Fighter™ 6",
+          "minutes": 117
+        },
+        {
+          "game": "Marvel Rivals",
+          "minutes": 110
         },
         {
           "game": "GUILTY GEAR -STRIVE-",
-          "minutes": 24
+          "minutes": 71
+        },
+        {
+          "game": "Arknights:Endfield",
+          "minutes": 62
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 55
+        },
+        {
+          "game": "One Step From Eden",
+          "minutes": 44
         },
         {
           "game": "DNF DUEL",
           "minutes": 20
         },
         {
+          "game": "Puyo Puyo Champions - ぷよぷよ eスポーツ",
+          "minutes": 18
+        },
+        {
           "game": "Apewar",
           "minutes": 17
+        },
+        {
+          "game": "Shadow Warrior Classic Redux",
+          "minutes": 13
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 10
         },
         {
           "game": "FATAL FURY: City of the Wolves",
@@ -1154,6 +1180,37 @@
         {
           "game": "原神",
           "minutes": 6
+        },
+        {
+          "game": "YGO Omega",
+          "minutes": 5
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-03-26",
+      "end_date": "2026-03-26",
+      "items": [
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 131
+        },
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 60
+        },
+        {
+          "game": "Puyo Puyo Champions - ぷよぷよ eスポーツ",
+          "minutes": 45
+        },
+        {
+          "game": "Street Fighter™ 6",
+          "minutes": 40
+        },
+        {
+          "game": "Marvel Rivals",
+          "minutes": 34
         }
       ]
     }
