@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-26T01:00:00+09:00",
+  "generated_at": "2026-03-27T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -982,12 +982,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-03-20",
-      "end_date": "2026-03-20",
-      "items": []
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-03-21",
       "end_date": "2026-03-21",
       "items": []
@@ -1194,11 +1188,27 @@
       "items": [
         {
           "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 131
+          "minutes": 413
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 161
         },
         {
           "game": "Phantom Breaker: Omnia",
-          "minutes": 60
+          "minutes": 146
+        },
+        {
+          "game": "Arknights:Endfield",
+          "minutes": 68
+        },
+        {
+          "game": "BlazBlue Centralfiction",
+          "minutes": 50
+        },
+        {
+          "game": "Rainbow Six Siege",
+          "minutes": 46
         },
         {
           "game": "Puyo Puyo Champions - ぷよぷよ eスポーツ",
@@ -1209,8 +1219,51 @@
           "minutes": 40
         },
         {
+          "game": "FATAL FURY: City of the Wolves",
+          "minutes": 38
+        },
+        {
           "game": "Marvel Rivals",
           "minutes": 34
+        },
+        {
+          "game": "アークナイツ",
+          "minutes": 21
+        },
+        {
+          "game": "Slay the Spire 2",
+          "minutes": 19
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 4
+        },
+        {
+          "game": "Tom Clancy's Rainbow Six Siege X",
+          "minutes": 1
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-03-27",
+      "end_date": "2026-03-27",
+      "items": [
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 188
+        },
+        {
+          "game": "BlazBlue Centralfiction",
+          "minutes": 58
+        },
+        {
+          "game": "Rainbow Six Siege",
+          "minutes": 2
+        },
+        {
+          "game": "Lossless Scaling",
+          "minutes": 1
         }
       ]
     }
