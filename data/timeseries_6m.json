@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-27T01:00:00+09:00",
+  "generated_at": "2026-03-28T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -982,12 +982,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-03-21",
-      "end_date": "2026-03-21",
-      "items": []
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-03-22",
       "end_date": "2026-03-22",
       "items": []
@@ -1251,18 +1245,93 @@
       "items": [
         {
           "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 188
+          "minutes": 529
+        },
+        {
+          "game": "DNF DUEL",
+          "minutes": 160
+        },
+        {
+          "game": "Blade Strangers",
+          "minutes": 107
+        },
+        {
+          "game": "GUILTY GEAR XX ACCENT CORE PLUS R",
+          "minutes": 80
         },
         {
           "game": "BlazBlue Centralfiction",
-          "minutes": 58
+          "minutes": 78
+        },
+        {
+          "game": "ロックマンエグゼ アドバンスドコレクション Vol.2",
+          "minutes": 55
+        },
+        {
+          "game": "Starward",
+          "minutes": 52
+        },
+        {
+          "game": "FATAL FURY: City of the Wolves",
+          "minutes": 51
         },
         {
           "game": "Rainbow Six Siege",
-          "minutes": 2
+          "minutes": 45
+        },
+        {
+          "game": "Arknights:Endfield",
+          "minutes": 20
         },
         {
           "game": "Lossless Scaling",
+          "minutes": 1
+        },
+        {
+          "game": "Tom Clancy's Rainbow Six Siege X",
+          "minutes": 1
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-03-28",
+      "end_date": "2026-03-28",
+      "items": [
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 76
+        },
+        {
+          "game": "DNF DUEL",
+          "minutes": 63
+        },
+        {
+          "game": "Blade Strangers",
+          "minutes": 56
+        },
+        {
+          "game": "GUILTY GEAR -STRIVE-",
+          "minutes": 51
+        },
+        {
+          "game": "Street Fighter™ 6",
+          "minutes": 23
+        },
+        {
+          "game": "ロックマンエグゼ アドバンスドコレクション Vol.2",
+          "minutes": 23
+        },
+        {
+          "game": "FATAL FURY: City of the Wolves",
+          "minutes": 12
+        },
+        {
+          "game": "Slay the Spire 2",
+          "minutes": 2
+        },
+        {
+          "game": "GUILTY GEAR XX ACCENT CORE PLUS R",
           "minutes": 1
         }
       ]
