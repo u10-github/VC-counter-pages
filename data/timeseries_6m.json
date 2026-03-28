@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-28T01:00:00+09:00",
+  "generated_at": "2026-03-29T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -7,12 +7,6 @@
     "monthly_until_days": 180
   },
   "buckets": [
-    {
-      "bucket_type": "month",
-      "start_date": "2025-09-01",
-      "end_date": "2025-09-30",
-      "items": []
-    },
     {
       "bucket_type": "month",
       "start_date": "2025-10-01",
@@ -982,12 +976,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-03-22",
-      "end_date": "2026-03-22",
-      "items": []
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-03-23",
       "end_date": "2026-03-23",
       "items": [
@@ -1299,12 +1287,20 @@
       "end_date": "2026-03-28",
       "items": [
         {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 76
+          "game": "DNF DUEL",
+          "minutes": 231
         },
         {
-          "game": "DNF DUEL",
-          "minutes": 63
+          "game": "Street Fighter™ 6",
+          "minutes": 223
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 146
+        },
+        {
+          "game": "Slay the Spire 2",
+          "minutes": 72
         },
         {
           "game": "Blade Strangers",
@@ -1315,24 +1311,39 @@
           "minutes": 51
         },
         {
-          "game": "Street Fighter™ 6",
-          "minutes": 23
-        },
-        {
           "game": "ロックマンエグゼ アドバンスドコレクション Vol.2",
           "minutes": 23
         },
         {
-          "game": "FATAL FURY: City of the Wolves",
-          "minutes": 12
+          "game": "GUILTY GEAR XX ACCENT CORE PLUS R",
+          "minutes": 22
         },
         {
-          "game": "Slay the Spire 2",
-          "minutes": 2
+          "game": "FATAL FURY: City of the Wolves",
+          "minutes": 12
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-03-29",
+      "end_date": "2026-03-29",
+      "items": [
+        {
+          "game": "DNF DUEL",
+          "minutes": 83
+        },
+        {
+          "game": "GUILTY GEAR 2 -OVERTURE-",
+          "minutes": 70
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 59
         },
         {
           "game": "GUILTY GEAR XX ACCENT CORE PLUS R",
-          "minutes": 1
+          "minutes": 6
         }
       ]
     }
