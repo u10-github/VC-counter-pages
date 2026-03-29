@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-29T01:00:00+09:00",
+  "generated_at": "2026-03-30T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -975,57 +975,185 @@
       ]
     },
     {
-      "bucket_type": "day",
+      "bucket_type": "week",
       "start_date": "2026-03-23",
-      "end_date": "2026-03-23",
+      "end_date": "2026-03-29",
       "items": [
         {
           "game": "GUILTY GEAR -STRIVE-",
-          "minutes": 586
+          "minutes": 1354
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 1325
+        },
+        {
+          "game": "DNF DUEL",
+          "minutes": 849
+        },
+        {
+          "game": "Strinova",
+          "minutes": 515
+        },
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 479
+        },
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 434
+        },
+        {
+          "game": "Street Fighter™ 6",
+          "minutes": 380
+        },
+        {
+          "game": "Arknights:Endfield",
+          "minutes": 356
+        },
+        {
+          "game": "GUILTY GEAR 2 -OVERTURE-",
+          "minutes": 238
         },
         {
           "game": "BlazBlue Centralfiction",
-          "minutes": 91
+          "minutes": 236
+        },
+        {
+          "game": "FATAL FURY: City of the Wolves",
+          "minutes": 199
+        },
+        {
+          "game": "Guns of Icarus Alliance",
+          "minutes": 184
+        },
+        {
+          "game": "GUILTY GEAR XX ACCENT CORE PLUS R",
+          "minutes": 172
+        },
+        {
+          "game": "Blade Strangers",
+          "minutes": 163
+        },
+        {
+          "game": "Marvel Rivals",
+          "minutes": 144
+        },
+        {
+          "game": "Koihime Enbu RyoRaiRai",
+          "minutes": 126
         },
         {
           "game": "Shadow Warrior Classic Redux",
-          "minutes": 79
+          "minutes": 126
+        },
+        {
+          "game": "Rainbow Six Siege",
+          "minutes": 125
+        },
+        {
+          "game": "Slay the Spire 2",
+          "minutes": 91
+        },
+        {
+          "game": "ロックマンエグゼ アドバンスドコレクション Vol.2",
+          "minutes": 78
         },
         {
           "game": "ぷよぷよ™テトリス® ２",
           "minutes": 67
         },
         {
-          "game": "DNF DUEL",
-          "minutes": 45
+          "game": "Puyo Puyo Champions - ぷよぷよ eスポーツ",
+          "minutes": 63
         },
         {
-          "game": "GUILTY GEAR 2 -OVERTURE-",
-          "minutes": 36
+          "game": "Backpack Battles",
+          "minutes": 56
         },
         {
-          "game": "Rainbow Six Siege",
-          "minutes": 34
+          "game": "Starward",
+          "minutes": 52
         },
         {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 26
+          "game": "NARAKA: BLADEPOINT",
+          "minutes": 49
+        },
+        {
+          "game": "One Step From Eden",
+          "minutes": 44
+        },
+        {
+          "game": "Apex Legends",
+          "minutes": 42
+        },
+        {
+          "game": "Apewar",
+          "minutes": 38
+        },
+        {
+          "game": "Mirage Feathers",
+          "minutes": 38
         },
         {
           "game": "Killer Instinct",
-          "minutes": 18
+          "minutes": 36
         },
         {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 11
+          "game": "アークナイツ",
+          "minutes": 30
+        },
+        {
+          "game": "原神",
+          "minutes": 24
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 23
+        },
+        {
+          "game": "Arcana Heart 3 LOVEMAX SIXSTARS!!!!!! XTEND",
+          "minutes": 21
+        },
+        {
+          "game": "Shadowverse: Worlds Beyond",
+          "minutes": 14
         },
         {
           "game": "SNK 40th Anniversary Collection",
           "minutes": 9
         },
         {
+          "game": "Idol Showdown",
+          "minutes": 7
+        },
+        {
           "game": "Tetris The Grand Master 4 -Absolute Eye-",
           "minutes": 7
+        },
+        {
+          "game": "YGO Omega",
+          "minutes": 5
+        },
+        {
+          "game": "MoriyaRhythm",
+          "minutes": 4
+        },
+        {
+          "game": "ヘブンバーンズレッド",
+          "minutes": 4
+        },
+        {
+          "game": "Tom Clancy's Rainbow Six Siege X",
+          "minutes": 2
+        },
+        {
+          "game": "Genshin Impact",
+          "minutes": 1
+        },
+        {
+          "game": "Lossless Scaling",
+          "minutes": 1
         }
       ]
     },
@@ -1330,20 +1458,99 @@
       "end_date": "2026-03-29",
       "items": [
         {
+          "game": "Strinova",
+          "minutes": 515
+        },
+        {
           "game": "DNF DUEL",
-          "minutes": 83
+          "minutes": 329
         },
         {
           "game": "GUILTY GEAR 2 -OVERTURE-",
-          "minutes": 70
+          "minutes": 202
+        },
+        {
+          "game": "Arknights:Endfield",
+          "minutes": 194
         },
         {
           "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 59
+          "minutes": 162
+        },
+        {
+          "game": "Guns of Icarus Alliance",
+          "minutes": 139
+        },
+        {
+          "game": "GUILTY GEAR -STRIVE-",
+          "minutes": 60
+        },
+        {
+          "game": "Backpack Battles",
+          "minutes": 56
+        },
+        {
+          "game": "NARAKA: BLADEPOINT",
+          "minutes": 49
+        },
+        {
+          "game": "Apex Legends",
+          "minutes": 42
+        },
+        {
+          "game": "Mirage Feathers",
+          "minutes": 38
         },
         {
           "game": "GUILTY GEAR XX ACCENT CORE PLUS R",
-          "minutes": 6
+          "minutes": 22
+        },
+        {
+          "game": "Apewar",
+          "minutes": 21
+        },
+        {
+          "game": "Arcana Heart 3 LOVEMAX SIXSTARS!!!!!! XTEND",
+          "minutes": 21
+        },
+        {
+          "game": "Shadowverse: Worlds Beyond",
+          "minutes": 14
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 9
+        },
+        {
+          "game": "アークナイツ",
+          "minutes": 9
+        },
+        {
+          "game": "MoriyaRhythm",
+          "minutes": 4
+        },
+        {
+          "game": "ヘブンバーンズレッド",
+          "minutes": 4
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-03-30",
+      "end_date": "2026-03-30",
+      "items": [
+        {
+          "game": "Strinova",
+          "minutes": 240
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 60
+        },
+        {
+          "game": "Guilty Gear -Strive-",
+          "minutes": 21
         }
       ]
     }
