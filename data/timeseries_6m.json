@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-01T01:00:00+09:00",
+  "generated_at": "2026-04-02T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1367,69 +1367,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-03-26",
-      "end_date": "2026-03-26",
-      "items": [
-        {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 413
-        },
-        {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 161
-        },
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 146
-        },
-        {
-          "game": "Arknights:Endfield",
-          "minutes": 68
-        },
-        {
-          "game": "BlazBlue Centralfiction",
-          "minutes": 50
-        },
-        {
-          "game": "Rainbow Six Siege",
-          "minutes": 46
-        },
-        {
-          "game": "Puyo Puyo Champions - ぷよぷよ eスポーツ",
-          "minutes": 45
-        },
-        {
-          "game": "Street Fighter™ 6",
-          "minutes": 40
-        },
-        {
-          "game": "FATAL FURY: City of the Wolves",
-          "minutes": 38
-        },
-        {
-          "game": "Marvel Rivals",
-          "minutes": 34
-        },
-        {
-          "game": "アークナイツ",
-          "minutes": 21
-        },
-        {
-          "game": "Slay the Spire 2",
-          "minutes": 19
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 4
-        },
-        {
-          "game": "Tom Clancy's Rainbow Six Siege X",
-          "minutes": 1
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-03-27",
       "end_date": "2026-03-27",
       "items": [
@@ -1697,16 +1634,43 @@
       "end_date": "2026-04-01",
       "items": [
         {
-          "game": "DNF DUEL",
-          "minutes": 144
+          "game": "Strinova",
+          "minutes": 331
         },
         {
-          "game": "Strinova",
-          "minutes": 120
+          "game": "DNF DUEL",
+          "minutes": 320
+        },
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 141
+        },
+        {
+          "game": "Arknights:Endfield",
+          "minutes": 82
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 10
         },
         {
           "game": "Backpack Battles",
-          "minutes": 4
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-04-02",
+      "end_date": "2026-04-02",
+      "items": [
+        {
+          "game": "Strinova",
+          "minutes": 220
+        },
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 60
         }
       ]
     }
