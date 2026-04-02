@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-02T01:00:00+09:00",
+  "generated_at": "2026-04-03T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1367,61 +1367,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-03-27",
-      "end_date": "2026-03-27",
-      "items": [
-        {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 529
-        },
-        {
-          "game": "DNF DUEL",
-          "minutes": 160
-        },
-        {
-          "game": "Blade Strangers",
-          "minutes": 107
-        },
-        {
-          "game": "GUILTY GEAR XX ACCENT CORE PLUS R",
-          "minutes": 80
-        },
-        {
-          "game": "BlazBlue Centralfiction",
-          "minutes": 78
-        },
-        {
-          "game": "ロックマンエグゼ アドバンスドコレクション Vol.2",
-          "minutes": 55
-        },
-        {
-          "game": "Starward",
-          "minutes": 52
-        },
-        {
-          "game": "FATAL FURY: City of the Wolves",
-          "minutes": 51
-        },
-        {
-          "game": "Rainbow Six Siege",
-          "minutes": 45
-        },
-        {
-          "game": "Arknights:Endfield",
-          "minutes": 20
-        },
-        {
-          "game": "Lossless Scaling",
-          "minutes": 1
-        },
-        {
-          "game": "Tom Clancy's Rainbow Six Siege X",
-          "minutes": 1
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-03-28",
       "end_date": "2026-03-28",
       "items": [
@@ -1666,11 +1611,30 @@
       "items": [
         {
           "game": "Strinova",
-          "minutes": 220
+          "minutes": 1223
+        },
+        {
+          "game": "卡拉彼丘",
+          "minutes": 166
         },
         {
           "game": "Phantom Breaker: Omnia",
-          "minutes": 60
+          "minutes": 156
+        },
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 42
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-04-03",
+      "end_date": "2026-04-03",
+      "items": [
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 80
         }
       ]
     }
