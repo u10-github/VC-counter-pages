@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-03T01:00:00+09:00",
+  "generated_at": "2026-04-04T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1367,49 +1367,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-03-28",
-      "end_date": "2026-03-28",
-      "items": [
-        {
-          "game": "DNF DUEL",
-          "minutes": 231
-        },
-        {
-          "game": "Street Fighter™ 6",
-          "minutes": 223
-        },
-        {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 146
-        },
-        {
-          "game": "Slay the Spire 2",
-          "minutes": 72
-        },
-        {
-          "game": "Blade Strangers",
-          "minutes": 56
-        },
-        {
-          "game": "GUILTY GEAR -STRIVE-",
-          "minutes": 51
-        },
-        {
-          "game": "ロックマンエグゼ アドバンスドコレクション Vol.2",
-          "minutes": 23
-        },
-        {
-          "game": "GUILTY GEAR XX ACCENT CORE PLUS R",
-          "minutes": 22
-        },
-        {
-          "game": "FATAL FURY: City of the Wolves",
-          "minutes": 12
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-03-29",
       "end_date": "2026-03-29",
       "items": [
@@ -1633,8 +1590,79 @@
       "end_date": "2026-04-03",
       "items": [
         {
+          "game": "Strinova",
+          "minutes": 679
+        },
+        {
+          "game": "DNF DUEL",
+          "minutes": 418
+        },
+        {
           "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 80
+          "minutes": 315
+        },
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 64
+        },
+        {
+          "game": "卡拉彼丘",
+          "minutes": 53
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 36
+        },
+        {
+          "game": "Arknights:Endfield",
+          "minutes": 34
+        },
+        {
+          "game": "Guns of Icarus Alliance",
+          "minutes": 24
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 9
+        },
+        {
+          "game": "Street Fighter™ 6",
+          "minutes": 8
+        },
+        {
+          "game": "GUILTY GEAR -STRIVE-",
+          "minutes": 2
+        },
+        {
+          "game": "Escape from Tarkov",
+          "minutes": 1
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-04-04",
+      "end_date": "2026-04-04",
+      "items": [
+        {
+          "game": "Strinova",
+          "minutes": 204
+        },
+        {
+          "game": "DNF DUEL",
+          "minutes": 180
+        },
+        {
+          "game": "卡拉彼丘",
+          "minutes": 60
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 26
+        },
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 22
         }
       ]
     }
