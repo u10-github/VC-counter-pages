@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T01:00:00+09:00",
+  "generated_at": "2026-04-05T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1367,89 +1367,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-03-29",
-      "end_date": "2026-03-29",
-      "items": [
-        {
-          "game": "Strinova",
-          "minutes": 515
-        },
-        {
-          "game": "DNF DUEL",
-          "minutes": 329
-        },
-        {
-          "game": "GUILTY GEAR 2 -OVERTURE-",
-          "minutes": 202
-        },
-        {
-          "game": "Arknights:Endfield",
-          "minutes": 194
-        },
-        {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 162
-        },
-        {
-          "game": "Guns of Icarus Alliance",
-          "minutes": 139
-        },
-        {
-          "game": "GUILTY GEAR -STRIVE-",
-          "minutes": 60
-        },
-        {
-          "game": "Backpack Battles",
-          "minutes": 56
-        },
-        {
-          "game": "NARAKA: BLADEPOINT",
-          "minutes": 49
-        },
-        {
-          "game": "Apex Legends",
-          "minutes": 42
-        },
-        {
-          "game": "Mirage Feathers",
-          "minutes": 38
-        },
-        {
-          "game": "GUILTY GEAR XX ACCENT CORE PLUS R",
-          "minutes": 22
-        },
-        {
-          "game": "Apewar",
-          "minutes": 21
-        },
-        {
-          "game": "Arcana Heart 3 LOVEMAX SIXSTARS!!!!!! XTEND",
-          "minutes": 21
-        },
-        {
-          "game": "Shadowverse: Worlds Beyond",
-          "minutes": 14
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 9
-        },
-        {
-          "game": "アークナイツ",
-          "minutes": 9
-        },
-        {
-          "game": "MoriyaRhythm",
-          "minutes": 4
-        },
-        {
-          "game": "ヘブンバーンズレッド",
-          "minutes": 4
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-03-30",
       "end_date": "2026-03-30",
       "items": [
@@ -1646,23 +1563,94 @@
       "items": [
         {
           "game": "Strinova",
-          "minutes": 204
+          "minutes": 1238
         },
         {
           "game": "DNF DUEL",
-          "minutes": 180
+          "minutes": 660
         },
         {
-          "game": "卡拉彼丘",
-          "minutes": 60
+          "game": "Fatal Fury: City of the Wolves",
+          "minutes": 246
         },
         {
           "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 162
+        },
+        {
+          "game": "卡拉彼丘",
+          "minutes": 147
+        },
+        {
+          "game": "DNF Duel",
+          "minutes": 146
+        },
+        {
+          "game": "Arknights: Endfield",
+          "minutes": 85
+        },
+        {
+          "game": "League of Legends",
+          "minutes": 54
+        },
+        {
+          "game": "Minecraft",
+          "minutes": 38
+        },
+        {
+          "game": "Capcom Fighting Collection",
           "minutes": 26
         },
         {
           "game": "Phantom Breaker: Omnia",
           "minutes": 22
+        },
+        {
+          "game": "Backpack Battles",
+          "minutes": 14
+        },
+        {
+          "game": "Street Fighter 30th Anniversary Collection",
+          "minutes": 12
+        },
+        {
+          "game": "Chill with You: Lo-Fi Story",
+          "minutes": 7
+        },
+        {
+          "game": "Shadow Warrior Classic Redux",
+          "minutes": 2
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-04-05",
+      "end_date": "2026-04-05",
+      "items": [
+        {
+          "game": "Strinova",
+          "minutes": 180
+        },
+        {
+          "game": "DNF Duel",
+          "minutes": 141
+        },
+        {
+          "game": "Slay the Spire II",
+          "minutes": 60
+        },
+        {
+          "game": "DNF DUEL",
+          "minutes": 39
+        },
+        {
+          "game": "Minecraft",
+          "minutes": 38
+        },
+        {
+          "game": "Shadow Warrior Classic Redux",
+          "minutes": 8
         }
       ]
     }
