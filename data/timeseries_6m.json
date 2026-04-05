@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05T01:00:00+09:00",
+  "generated_at": "2026-04-06T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1366,33 +1366,177 @@
       ]
     },
     {
-      "bucket_type": "day",
+      "bucket_type": "week",
       "start_date": "2026-03-30",
-      "end_date": "2026-03-30",
+      "end_date": "2026-04-05",
       "items": [
         {
           "game": "Strinova",
-          "minutes": 857
-        },
-        {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 441
-        },
-        {
-          "game": "Guilty Gear -Strive-",
-          "minutes": 105
+          "minutes": 6350
         },
         {
           "game": "DNF DUEL",
-          "minutes": 101
+          "minutes": 1765
+        },
+        {
+          "game": "DNF Duel",
+          "minutes": 1113
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 639
+        },
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 415
+        },
+        {
+          "game": "Fatal Fury: City of the Wolves",
+          "minutes": 379
+        },
+        {
+          "game": "卡拉彼丘",
+          "minutes": 366
+        },
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 357
+        },
+        {
+          "game": "Guilty Gear -Strive-",
+          "minutes": 336
+        },
+        {
+          "game": "Arknights:Endfield",
+          "minutes": 169
+        },
+        {
+          "game": "Arknights: Endfield",
+          "minutes": 166
+        },
+        {
+          "game": "Blade Strangers",
+          "minutes": 165
+        },
+        {
+          "game": "Slay the Spire II",
+          "minutes": 144
+        },
+        {
+          "game": "Under Night In-Birth II Sys:Celes",
+          "minutes": 139
+        },
+        {
+          "game": "Honkai: Star Rail",
+          "minutes": 124
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 86
+        },
+        {
+          "game": "GUILTY GEAR 2 -OVERTURE-",
+          "minutes": 80
+        },
+        {
+          "game": "Minecraft",
+          "minutes": 76
+        },
+        {
+          "game": "MapleStory",
+          "minutes": 74
+        },
+        {
+          "game": "Skullgirls",
+          "minutes": 59
+        },
+        {
+          "game": "League of Legends",
+          "minutes": 54
         },
         {
           "game": "Brotato",
           "minutes": 48
         },
         {
-          "game": "Arknights:Endfield",
-          "minutes": 43
+          "game": "Street Fighter™ 6",
+          "minutes": 44
+        },
+        {
+          "game": "Capcom Fighting Collection",
+          "minutes": 26
+        },
+        {
+          "game": "Idol Showdown",
+          "minutes": 26
+        },
+        {
+          "game": "Guns of Icarus Alliance",
+          "minutes": 24
+        },
+        {
+          "game": "Backpack Battles",
+          "minutes": 21
+        },
+        {
+          "game": "ShatterRush Open Pre-Alpha",
+          "minutes": 19
+        },
+        {
+          "game": "Tetris: The Grand Master 4 - Absolute Eye",
+          "minutes": 16
+        },
+        {
+          "game": "BlazBlue Cross Tag Battle",
+          "minutes": 13
+        },
+        {
+          "game": "DRAGON BALL FighterZ",
+          "minutes": 12
+        },
+        {
+          "game": "Overwatch",
+          "minutes": 12
+        },
+        {
+          "game": "Street Fighter 30th Anniversary Collection",
+          "minutes": 12
+        },
+        {
+          "game": "Escape from Tarkov",
+          "minutes": 10
+        },
+        {
+          "game": "Shadow Warrior Classic Redux",
+          "minutes": 10
+        },
+        {
+          "game": "Chill with You: Lo-Fi Story",
+          "minutes": 7
+        },
+        {
+          "game": "Nexus: FPV Drone Carnage",
+          "minutes": 5
+        },
+        {
+          "game": "Apewar",
+          "minutes": 2
+        },
+        {
+          "game": "GUILTY GEAR -STRIVE-",
+          "minutes": 2
+        },
+        {
+          "game": "Starward",
+          "minutes": 2
+        },
+        {
+          "game": "Yu-Gi-Oh! Master Duel",
+          "minutes": 2
+        },
+        {
+          "game": "Crysis",
+          "minutes": 1
         }
       ]
     },
@@ -1629,16 +1773,48 @@
       "end_date": "2026-04-05",
       "items": [
         {
-          "game": "Strinova",
-          "minutes": 180
+          "game": "DNF Duel",
+          "minutes": 967
         },
         {
-          "game": "DNF Duel",
-          "minutes": 141
+          "game": "Strinova",
+          "minutes": 934
         },
         {
           "game": "Slay the Spire II",
-          "minutes": 60
+          "minutes": 144
+        },
+        {
+          "game": "Under Night In-Birth II Sys:Celes",
+          "minutes": 139
+        },
+        {
+          "game": "Fatal Fury: City of the Wolves",
+          "minutes": 133
+        },
+        {
+          "game": "Honkai: Star Rail",
+          "minutes": 124
+        },
+        {
+          "game": "Arknights: Endfield",
+          "minutes": 81
+        },
+        {
+          "game": "MapleStory",
+          "minutes": 74
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 67
+        },
+        {
+          "game": "Skullgirls",
+          "minutes": 59
+        },
+        {
+          "game": "Guilty Gear -Strive-",
+          "minutes": 57
         },
         {
           "game": "DNF DUEL",
@@ -1649,7 +1825,66 @@
           "minutes": 38
         },
         {
+          "game": "Street Fighter™ 6",
+          "minutes": 36
+        },
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 32
+        },
+        {
+          "game": "Idol Showdown",
+          "minutes": 26
+        },
+        {
+          "game": "Tetris: The Grand Master 4 - Absolute Eye",
+          "minutes": 16
+        },
+        {
+          "game": "DRAGON BALL FighterZ",
+          "minutes": 12
+        },
+        {
+          "game": "Overwatch",
+          "minutes": 12
+        },
+        {
+          "game": "Escape from Tarkov",
+          "minutes": 9
+        },
+        {
           "game": "Shadow Warrior Classic Redux",
+          "minutes": 8
+        },
+        {
+          "game": "Yu-Gi-Oh! Master Duel",
+          "minutes": 2
+        },
+        {
+          "game": "Crysis",
+          "minutes": 1
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-04-06",
+      "end_date": "2026-04-06",
+      "items": [
+        {
+          "game": "Strinova",
+          "minutes": 348
+        },
+        {
+          "game": "DNF Duel",
+          "minutes": 161
+        },
+        {
+          "game": "MapleStory",
+          "minutes": 13
+        },
+        {
+          "game": "Persona5: The Phantom X",
           "minutes": 8
         }
       ]
