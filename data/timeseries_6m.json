@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-06T01:00:00+09:00",
+  "generated_at": "2026-04-07T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -731,205 +731,6 @@
     },
     {
       "bucket_type": "week",
-      "start_date": "2026-03-02",
-      "end_date": "2026-03-08",
-      "items": [
-        {
-          "game": "DNF DUEL",
-          "minutes": 5276
-        },
-        {
-          "game": "Idol Showdown",
-          "minutes": 2347
-        },
-        {
-          "game": "Street Fighter™ 6",
-          "minutes": 865
-        },
-        {
-          "game": "GUILTY GEAR -STRIVE-",
-          "minutes": 813
-        },
-        {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 637
-        },
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 486
-        },
-        {
-          "game": "Arknights:Endfield",
-          "minutes": 421
-        },
-        {
-          "game": "FATAL FURY: City of the Wolves",
-          "minutes": 312
-        },
-        {
-          "game": "Ultra Fight Da Kyanta 2",
-          "minutes": 210
-        },
-        {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 195
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 177
-        },
-        {
-          "game": "Guns of Icarus Alliance",
-          "minutes": 168
-        },
-        {
-          "game": "Rainbow Six Siege",
-          "minutes": 141
-        },
-        {
-          "game": "Nexus: FPV Drone Carnage",
-          "minutes": 113
-        },
-        {
-          "game": "Minecraft",
-          "minutes": 104
-        },
-        {
-          "game": "2XKO",
-          "minutes": 89
-        },
-        {
-          "game": "Slay the Spire",
-          "minutes": 74
-        },
-        {
-          "game": "SNK 40th Anniversary Collection",
-          "minutes": 71
-        },
-        {
-          "game": "BlueStacks 5",
-          "minutes": 60
-        },
-        {
-          "game": "Vampire Crawlers Demo",
-          "minutes": 50
-        },
-        {
-          "game": "Last Command",
-          "minutes": 47
-        },
-        {
-          "game": "Shadowverse: Worlds Beyond",
-          "minutes": 47
-        },
-        {
-          "game": "Black Desert Online",
-          "minutes": 39
-        },
-        {
-          "game": "Guns and Nuns: Storming Hell Demo",
-          "minutes": 38
-        },
-        {
-          "game": "Grim Dawn",
-          "minutes": 37
-        },
-        {
-          "game": "TEKKEN 8",
-          "minutes": 33
-        },
-        {
-          "game": "勇者パーティはぜんめつしました。 Demo",
-          "minutes": 33
-        },
-        {
-          "game": "Pizza Tower",
-          "minutes": 32
-        },
-        {
-          "game": "PAPERHEAD Demo",
-          "minutes": 31
-        },
-        {
-          "game": "Touhou 12.3: Hisoutensoku",
-          "minutes": 31
-        },
-        {
-          "game": "BlazBlue Centralfiction",
-          "minutes": 28
-        },
-        {
-          "game": "Demonic Mahjong",
-          "minutes": 28
-        },
-        {
-          "game": "Sakura Arms ~Radiant Duels~ Demo",
-          "minutes": 27
-        },
-        {
-          "game": "MY HERO ACADEMIA: All’s Justice",
-          "minutes": 25
-        },
-        {
-          "game": "Azure Striker Gunvolt 2",
-          "minutes": 16
-        },
-        {
-          "game": "EARTH DEFENSE FORCE 6",
-          "minutes": 16
-        },
-        {
-          "game": "Persona5: The Phantom X",
-          "minutes": 16
-        },
-        {
-          "game": "Ultra Street Fighter IV",
-          "minutes": 16
-        },
-        {
-          "game": "Fight of Gods",
-          "minutes": 9
-        },
-        {
-          "game": "Them's Fightin' Herds",
-          "minutes": 9
-        },
-        {
-          "game": "アークナイツ",
-          "minutes": 9
-        },
-        {
-          "game": "Ultimate Marvel vs. Capcom 3",
-          "minutes": 6
-        },
-        {
-          "game": "Chill with You : Lo-Fi Story",
-          "minutes": 4
-        },
-        {
-          "game": "Tom Clancy's Rainbow Six Siege X",
-          "minutes": 4
-        },
-        {
-          "game": "Koihime Enbu RyoRaiRai",
-          "minutes": 2
-        },
-        {
-          "game": "MapleStory",
-          "minutes": 2
-        },
-        {
-          "game": "Guns of Icarus Online",
-          "minutes": 1
-        },
-        {
-          "game": "Sifu",
-          "minutes": 1
-        }
-      ]
-    },
-    {
-      "bucket_type": "week",
       "start_date": "2026-03-09",
       "end_date": "2026-03-15",
       "items": [
@@ -1542,57 +1343,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-03-31",
-      "end_date": "2026-03-31",
-      "items": [
-        {
-          "game": "Strinova",
-          "minutes": 1088
-        },
-        {
-          "game": "DNF DUEL",
-          "minutes": 227
-        },
-        {
-          "game": "Guilty Gear -Strive-",
-          "minutes": 174
-        },
-        {
-          "game": "Blade Strangers",
-          "minutes": 165
-        },
-        {
-          "game": "GUILTY GEAR 2 -OVERTURE-",
-          "minutes": 80
-        },
-        {
-          "game": "ShatterRush Open Pre-Alpha",
-          "minutes": 19
-        },
-        {
-          "game": "BlazBlue Cross Tag Battle",
-          "minutes": 13
-        },
-        {
-          "game": "Arknights:Endfield",
-          "minutes": 10
-        },
-        {
-          "game": "Nexus: FPV Drone Carnage",
-          "minutes": 5
-        },
-        {
-          "game": "Apewar",
-          "minutes": 2
-        },
-        {
-          "game": "Starward",
-          "minutes": 2
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-04-01",
       "end_date": "2026-04-01",
       "items": [
@@ -1873,19 +1623,30 @@
       "items": [
         {
           "game": "Strinova",
-          "minutes": 348
+          "minutes": 964
         },
         {
           "game": "DNF Duel",
-          "minutes": 161
+          "minutes": 515
+        },
+        {
+          "game": "Persona5: The Phantom X",
+          "minutes": 17
         },
         {
           "game": "MapleStory",
           "minutes": 13
-        },
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-04-07",
+      "end_date": "2026-04-07",
+      "items": [
         {
-          "game": "Persona5: The Phantom X",
-          "minutes": 8
+          "game": "Strinova",
+          "minutes": 307
         }
       ]
     }
