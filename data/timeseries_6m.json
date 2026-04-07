@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T01:00:00+09:00",
+  "generated_at": "2026-04-08T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1343,37 +1343,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-04-01",
-      "end_date": "2026-04-01",
-      "items": [
-        {
-          "game": "Strinova",
-          "minutes": 331
-        },
-        {
-          "game": "DNF DUEL",
-          "minutes": 320
-        },
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 141
-        },
-        {
-          "game": "Arknights:Endfield",
-          "minutes": 82
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 10
-        },
-        {
-          "game": "Backpack Battles",
-          "minutes": 7
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-04-02",
       "end_date": "2026-04-02",
       "items": [
@@ -1646,7 +1615,70 @@
       "items": [
         {
           "game": "Strinova",
-          "minutes": 307
+          "minutes": 802
+        },
+        {
+          "game": "DNF Duel",
+          "minutes": 217
+        },
+        {
+          "game": "Under Night In-Birth II Sys:Celes",
+          "minutes": 116
+        },
+        {
+          "game": "Koihime Enbu RyoRaiRai",
+          "minutes": 49
+        },
+        {
+          "game": "Ultimate Marvel vs. Capcom 3",
+          "minutes": 28
+        },
+        {
+          "game": "Starward",
+          "minutes": 22
+        },
+        {
+          "game": "Overwatch",
+          "minutes": 20
+        },
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 12
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 9
+        },
+        {
+          "game": "Skullgirls",
+          "minutes": 4
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-04-08",
+      "end_date": "2026-04-08",
+      "items": [
+        {
+          "game": "Strinova",
+          "minutes": 240
+        },
+        {
+          "game": "DNF Duel",
+          "minutes": 151
+        },
+        {
+          "game": "Under Night In-Birth II Sys:Celes",
+          "minutes": 60
+        },
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 37
+        },
+        {
+          "game": "Ultimate Marvel vs. Capcom 3",
+          "minutes": 2
         }
       ]
     }
