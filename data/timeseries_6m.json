@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-08T01:00:00+09:00",
+  "generated_at": "2026-04-09T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1343,29 +1343,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-04-02",
-      "end_date": "2026-04-02",
-      "items": [
-        {
-          "game": "Strinova",
-          "minutes": 1223
-        },
-        {
-          "game": "卡拉彼丘",
-          "minutes": 166
-        },
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 156
-        },
-        {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 42
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-04-03",
       "end_date": "2026-04-03",
       "items": [
@@ -1661,24 +1638,71 @@
       "end_date": "2026-04-08",
       "items": [
         {
-          "game": "Strinova",
-          "minutes": 240
-        },
-        {
           "game": "DNF Duel",
-          "minutes": 151
+          "minutes": 867
         },
         {
-          "game": "Under Night In-Birth II Sys:Celes",
-          "minutes": 60
+          "game": "Strinova",
+          "minutes": 758
         },
         {
           "game": "Phantom Breaker: Omnia",
-          "minutes": 37
+          "minutes": 196
+        },
+        {
+          "game": "Backpack Battles",
+          "minutes": 129
+        },
+        {
+          "game": "Under Night In-Birth II Sys:Celes",
+          "minutes": 121
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 77
+        },
+        {
+          "game": "Dragon Quest X: Inishie no Ryuu no Denshou Online",
+          "minutes": 17
+        },
+        {
+          "game": "Arknights: Endfield",
+          "minutes": 11
+        },
+        {
+          "game": "Guilty Gear XX Accent Core Plus R",
+          "minutes": 10
         },
         {
           "game": "Ultimate Marvel vs. Capcom 3",
           "minutes": 2
+        },
+        {
+          "game": "The King of Fighters '98 Ultimate Match Final Edition",
+          "minutes": 1
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-04-09",
+      "end_date": "2026-04-09",
+      "items": [
+        {
+          "game": "DNF Duel",
+          "minutes": 200
+        },
+        {
+          "game": "Strinova",
+          "minutes": 77
+        },
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 53
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 21
         }
       ]
     }
