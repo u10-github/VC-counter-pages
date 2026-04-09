@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-09T01:00:00+09:00",
+  "generated_at": "2026-04-10T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1343,61 +1343,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-04-03",
-      "end_date": "2026-04-03",
-      "items": [
-        {
-          "game": "Strinova",
-          "minutes": 679
-        },
-        {
-          "game": "DNF DUEL",
-          "minutes": 418
-        },
-        {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 315
-        },
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 64
-        },
-        {
-          "game": "卡拉彼丘",
-          "minutes": 53
-        },
-        {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 36
-        },
-        {
-          "game": "Arknights:Endfield",
-          "minutes": 34
-        },
-        {
-          "game": "Guns of Icarus Alliance",
-          "minutes": 24
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 9
-        },
-        {
-          "game": "Street Fighter™ 6",
-          "minutes": 8
-        },
-        {
-          "game": "GUILTY GEAR -STRIVE-",
-          "minutes": 2
-        },
-        {
-          "game": "Escape from Tarkov",
-          "minutes": 1
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-04-04",
       "end_date": "2026-04-04",
       "items": [
@@ -1689,20 +1634,67 @@
       "end_date": "2026-04-09",
       "items": [
         {
+          "game": "Guilty Gear: Strive",
+          "minutes": 985
+        },
+        {
           "game": "DNF Duel",
-          "minutes": 200
+          "minutes": 604
+        },
+        {
+          "game": "Desktop Mate",
+          "minutes": 87
+        },
+        {
+          "game": "Under Night In-Birth II Sys:Celes",
+          "minutes": 85
         },
         {
           "game": "Strinova",
-          "minutes": 77
+          "minutes": 78
         },
         {
           "game": "Phantom Breaker: Omnia",
           "minutes": 53
         },
         {
+          "game": "Guilty Gear Xrd: Revelator",
+          "minutes": 29
+        },
+        {
+          "game": "Arknights: Endfield",
+          "minutes": 23
+        },
+        {
+          "game": "Guns and Nuns: Storming Hell",
+          "minutes": 19
+        },
+        {
+          "game": "Guilty Gear XX Accent Core Plus R",
+          "minutes": 15
+        },
+        {
+          "game": "Starward",
+          "minutes": 9
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 6
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-04-10",
+      "end_date": "2026-04-10",
+      "items": [
+        {
           "game": "Guilty Gear: Strive",
-          "minutes": 21
+          "minutes": 276
+        },
+        {
+          "game": "Puyo Puyo Tetris 2",
+          "minutes": 29
         }
       ]
     }
