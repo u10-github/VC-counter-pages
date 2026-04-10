@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-10T01:00:00+09:00",
+  "generated_at": "2026-04-11T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1343,73 +1343,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-04-04",
-      "end_date": "2026-04-04",
-      "items": [
-        {
-          "game": "Strinova",
-          "minutes": 1238
-        },
-        {
-          "game": "DNF DUEL",
-          "minutes": 660
-        },
-        {
-          "game": "Fatal Fury: City of the Wolves",
-          "minutes": 246
-        },
-        {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 162
-        },
-        {
-          "game": "卡拉彼丘",
-          "minutes": 147
-        },
-        {
-          "game": "DNF Duel",
-          "minutes": 146
-        },
-        {
-          "game": "Arknights: Endfield",
-          "minutes": 85
-        },
-        {
-          "game": "League of Legends",
-          "minutes": 54
-        },
-        {
-          "game": "Minecraft",
-          "minutes": 38
-        },
-        {
-          "game": "Capcom Fighting Collection",
-          "minutes": 26
-        },
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 22
-        },
-        {
-          "game": "Backpack Battles",
-          "minutes": 14
-        },
-        {
-          "game": "Street Fighter 30th Anniversary Collection",
-          "minutes": 12
-        },
-        {
-          "game": "Chill with You: Lo-Fi Story",
-          "minutes": 7
-        },
-        {
-          "game": "Shadow Warrior Classic Redux",
-          "minutes": 2
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-04-05",
       "end_date": "2026-04-05",
       "items": [
@@ -1690,11 +1623,54 @@
       "items": [
         {
           "game": "Guilty Gear: Strive",
-          "minutes": 276
+          "minutes": 889
+        },
+        {
+          "game": "Chill with You: Lo-Fi Story",
+          "minutes": 220
+        },
+        {
+          "game": "Strinova",
+          "minutes": 196
+        },
+        {
+          "game": "Sky's The Limit: Mah-jong",
+          "minutes": 55
         },
         {
           "game": "Puyo Puyo Tetris 2",
           "minutes": 29
+        },
+        {
+          "game": "Arknights: Endfield",
+          "minutes": 18
+        },
+        {
+          "game": "DNF Duel",
+          "minutes": 17
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 3
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-04-11",
+      "end_date": "2026-04-11",
+      "items": [
+        {
+          "game": "Strinova",
+          "minutes": 97
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 91
+        },
+        {
+          "game": "Resident Evil 4: Ultimate HD Edition",
+          "minutes": 30
         }
       ]
     }
