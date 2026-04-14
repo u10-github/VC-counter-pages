@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-14T01:00:00+09:00",
+  "generated_at": "2026-04-15T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1311,57 +1311,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-04-08",
-      "end_date": "2026-04-08",
-      "items": [
-        {
-          "game": "DNF Duel",
-          "minutes": 867
-        },
-        {
-          "game": "Strinova",
-          "minutes": 758
-        },
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 196
-        },
-        {
-          "game": "Backpack Battles",
-          "minutes": 129
-        },
-        {
-          "game": "Under Night In-Birth II Sys:Celes",
-          "minutes": 121
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 77
-        },
-        {
-          "game": "Dragon Quest X: Inishie no Ryuu no Denshou Online",
-          "minutes": 17
-        },
-        {
-          "game": "Arknights: Endfield",
-          "minutes": 11
-        },
-        {
-          "game": "Guilty Gear XX Accent Core Plus R",
-          "minutes": 10
-        },
-        {
-          "game": "Ultimate Marvel vs. Capcom 3",
-          "minutes": 2
-        },
-        {
-          "game": "The King of Fighters '98 Ultimate Match Final Edition",
-          "minutes": 1
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-04-09",
       "end_date": "2026-04-09",
       "items": [
@@ -1614,11 +1563,70 @@
       "items": [
         {
           "game": "DNF Duel",
-          "minutes": 230
+          "minutes": 756
         },
         {
           "game": "Guilty Gear: Strive",
-          "minutes": 125
+          "minutes": 540
+        },
+        {
+          "game": "Under Night In-Birth II Sys:Celes",
+          "minutes": 132
+        },
+        {
+          "game": "Rift of the NecroDancer",
+          "minutes": 60
+        },
+        {
+          "game": "Starward",
+          "minutes": 60
+        },
+        {
+          "game": "Guilty Gear XX Accent Core Plus R",
+          "minutes": 49
+        },
+        {
+          "game": "Overwatch",
+          "minutes": 49
+        },
+        {
+          "game": "Mortal Kombat 1",
+          "minutes": 42
+        },
+        {
+          "game": "Guilty Gear Xrd: Revelator",
+          "minutes": 40
+        },
+        {
+          "game": "Skullgirls",
+          "minutes": 36
+        },
+        {
+          "game": "Strinova",
+          "minutes": 36
+        },
+        {
+          "game": "Guns and Nuns: Storming Hell",
+          "minutes": 23
+        },
+        {
+          "game": "Persona5: The Phantom X",
+          "minutes": 9
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 2
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-04-15",
+      "end_date": "2026-04-15",
+      "items": [
+        {
+          "game": "Strinova",
+          "minutes": 69
         }
       ]
     }
