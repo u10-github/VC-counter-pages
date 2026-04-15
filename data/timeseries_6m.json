@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-15T01:00:00+09:00",
+  "generated_at": "2026-04-16T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1311,61 +1311,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-04-09",
-      "end_date": "2026-04-09",
-      "items": [
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 985
-        },
-        {
-          "game": "DNF Duel",
-          "minutes": 604
-        },
-        {
-          "game": "Desktop Mate",
-          "minutes": 87
-        },
-        {
-          "game": "Under Night In-Birth II Sys:Celes",
-          "minutes": 85
-        },
-        {
-          "game": "Strinova",
-          "minutes": 78
-        },
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 53
-        },
-        {
-          "game": "Guilty Gear Xrd: Revelator",
-          "minutes": 29
-        },
-        {
-          "game": "Arknights: Endfield",
-          "minutes": 23
-        },
-        {
-          "game": "Guns and Nuns: Storming Hell",
-          "minutes": 19
-        },
-        {
-          "game": "Guilty Gear XX Accent Core Plus R",
-          "minutes": 15
-        },
-        {
-          "game": "Starward",
-          "minutes": 9
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 6
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-04-10",
       "end_date": "2026-04-10",
       "items": [
@@ -1625,8 +1570,63 @@
       "end_date": "2026-04-15",
       "items": [
         {
+          "game": "DNF Duel",
+          "minutes": 195
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 134
+        },
+        {
           "game": "Strinova",
-          "minutes": 69
+          "minutes": 93
+        },
+        {
+          "game": "Guilty Gear 2: Overture",
+          "minutes": 89
+        },
+        {
+          "game": "Puyo Puyo Tetris 2",
+          "minutes": 21
+        },
+        {
+          "game": "Tetris: The Grand Master 4 - Absolute Eye",
+          "minutes": 17
+        },
+        {
+          "game": "MapleStory",
+          "minutes": 1
+        },
+        {
+          "game": "Starward",
+          "minutes": 1
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-04-16",
+      "end_date": "2026-04-16",
+      "items": [
+        {
+          "game": "Mobile Suit Gundam Battle Operation 2",
+          "minutes": 56
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 31
+        },
+        {
+          "game": "Fatal Fury: City of the Wolves",
+          "minutes": 30
+        },
+        {
+          "game": "Strinova",
+          "minutes": 24
+        },
+        {
+          "game": "Staffer Case - Case1 & 2",
+          "minutes": 6
         }
       ]
     }
