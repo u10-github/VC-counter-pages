@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-16T01:00:00+09:00",
+  "generated_at": "2026-04-17T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1311,45 +1311,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-04-10",
-      "end_date": "2026-04-10",
-      "items": [
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 889
-        },
-        {
-          "game": "Chill with You: Lo-Fi Story",
-          "minutes": 220
-        },
-        {
-          "game": "Strinova",
-          "minutes": 196
-        },
-        {
-          "game": "Sky's The Limit: Mah-jong",
-          "minutes": 55
-        },
-        {
-          "game": "Puyo Puyo Tetris 2",
-          "minutes": 29
-        },
-        {
-          "game": "Arknights: Endfield",
-          "minutes": 18
-        },
-        {
-          "game": "DNF Duel",
-          "minutes": 17
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 3
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-04-11",
       "end_date": "2026-04-11",
       "items": [
@@ -1609,23 +1570,82 @@
       "end_date": "2026-04-16",
       "items": [
         {
-          "game": "Mobile Suit Gundam Battle Operation 2",
-          "minutes": 56
+          "game": "Guilty Gear: Strive",
+          "minutes": 166
         },
         {
-          "game": "Guilty Gear: Strive",
-          "minutes": 31
+          "game": "Puyo Puyo Champions",
+          "minutes": 135
+        },
+        {
+          "game": "DNF Duel",
+          "minutes": 93
+        },
+        {
+          "game": "Strinova",
+          "minutes": 92
+        },
+        {
+          "game": "Mobile Suit Gundam Battle Operation 2",
+          "minutes": 80
+        },
+        {
+          "game": "Staffer Case - Case1 & 2",
+          "minutes": 61
+        },
+        {
+          "game": "Skullgirls",
+          "minutes": 33
         },
         {
           "game": "Fatal Fury: City of the Wolves",
           "minutes": 30
         },
         {
-          "game": "Strinova",
-          "minutes": 24
+          "game": "Street Fighter™ 6",
+          "minutes": 30
         },
         {
-          "game": "Staffer Case - Case1 & 2",
+          "game": "Puyo Puyo Tetris 2",
+          "minutes": 26
+        },
+        {
+          "game": "Persona5: The Phantom X",
+          "minutes": 23
+        },
+        {
+          "game": "Arknights: Endfield",
+          "minutes": 21
+        },
+        {
+          "game": "One Turn Kill",
+          "minutes": 20
+        },
+        {
+          "game": "Starward",
+          "minutes": 10
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-04-17",
+      "end_date": "2026-04-17",
+      "items": [
+        {
+          "game": "Street Fighter™ 6",
+          "minutes": 32
+        },
+        {
+          "game": "Starward",
+          "minutes": 23
+        },
+        {
+          "game": "Strinova",
+          "minutes": 18
+        },
+        {
+          "game": "Overwatch",
           "minutes": 6
         }
       ]
