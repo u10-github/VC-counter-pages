@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-17T01:00:00+09:00",
+  "generated_at": "2026-04-18T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1311,61 +1311,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-04-11",
-      "end_date": "2026-04-11",
-      "items": [
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 1688
-        },
-        {
-          "game": "Strinova",
-          "minutes": 97
-        },
-        {
-          "game": "Guilty Gear -Strive-",
-          "minutes": 73
-        },
-        {
-          "game": "BlazBlue Centralfiction",
-          "minutes": 40
-        },
-        {
-          "game": "Under Night In-Birth II Sys:Celes",
-          "minutes": 39
-        },
-        {
-          "game": "Chill with You: Lo-Fi Story",
-          "minutes": 32
-        },
-        {
-          "game": "Resident Evil 4: Ultimate HD Edition",
-          "minutes": 30
-        },
-        {
-          "game": "DNF Duel",
-          "minutes": 21
-        },
-        {
-          "game": "Them's Fightin' Herds",
-          "minutes": 18
-        },
-        {
-          "game": "Invincible VS Beta",
-          "minutes": 11
-        },
-        {
-          "game": "Honkai: Star Rail",
-          "minutes": 7
-        },
-        {
-          "game": "Monster Hunter Rise",
-          "minutes": 5
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-04-12",
       "end_date": "2026-04-12",
       "items": [
@@ -1633,20 +1578,55 @@
       "end_date": "2026-04-17",
       "items": [
         {
+          "game": "Strinova",
+          "minutes": 53
+        },
+        {
+          "game": "Starward",
+          "minutes": 50
+        },
+        {
           "game": "Street Fighter™ 6",
           "minutes": 32
         },
         {
-          "game": "Starward",
-          "minutes": 23
+          "game": "Overwatch",
+          "minutes": 28
         },
         {
-          "game": "Strinova",
+          "game": "Call of Duty® Black Ops 7",
           "minutes": 18
         },
         {
-          "game": "Overwatch",
-          "minutes": 6
+          "game": "Skullgirls",
+          "minutes": 9
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-04-18",
+      "end_date": "2026-04-18",
+      "items": [
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 50
+        },
+        {
+          "game": "Arknights: Endfield",
+          "minutes": 47
+        },
+        {
+          "game": "Strinova",
+          "minutes": 42
+        },
+        {
+          "game": "Call of Duty® Black Ops 7",
+          "minutes": 2
+        },
+        {
+          "game": "Under Night In-Birth II Sys:Celes",
+          "minutes": 2
         }
       ]
     }
