@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18T01:00:00+09:00",
+  "generated_at": "2026-04-19T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1311,73 +1311,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-04-12",
-      "end_date": "2026-04-12",
-      "items": [
-        {
-          "game": "DNF Duel",
-          "minutes": 656
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 301
-        },
-        {
-          "game": "Strinova",
-          "minutes": 300
-        },
-        {
-          "game": "Arknights: Endfield",
-          "minutes": 139
-        },
-        {
-          "game": "Guilty Gear 2: Overture",
-          "minutes": 96
-        },
-        {
-          "game": "BlazBlue Centralfiction",
-          "minutes": 67
-        },
-        {
-          "game": "Starward",
-          "minutes": 43
-        },
-        {
-          "game": "Chill with You: Lo-Fi Story",
-          "minutes": 36
-        },
-        {
-          "game": "Guns and Nuns: Storming Hell",
-          "minutes": 34
-        },
-        {
-          "game": "Overwatch",
-          "minutes": 23
-        },
-        {
-          "game": "Street Fighter 30th Anniversary Collection",
-          "minutes": 18
-        },
-        {
-          "game": "Under Night In-Birth II Sys:Celes",
-          "minutes": 16
-        },
-        {
-          "game": "Slay the Spire II",
-          "minutes": 15
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 5
-        },
-        {
-          "game": "BlazBlue: Central Fiction",
-          "minutes": 3
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-04-13",
       "end_date": "2026-04-13",
       "items": [
@@ -1609,16 +1542,44 @@
       "end_date": "2026-04-18",
       "items": [
         {
-          "game": "Guilty Gear: Strive",
-          "minutes": 50
+          "game": "Arknights: Endfield",
+          "minutes": 493
         },
         {
-          "game": "Arknights: Endfield",
-          "minutes": 47
+          "game": "Guilty Gear: Strive",
+          "minutes": 316
+        },
+        {
+          "game": "Sakura Arms ~Radiant Duels~ Demo",
+          "minutes": 210
+        },
+        {
+          "game": "Aquapazza: Aquaplus Dream Match",
+          "minutes": 145
+        },
+        {
+          "game": "Skullgirls",
+          "minutes": 86
         },
         {
           "game": "Strinova",
-          "minutes": 42
+          "minutes": 77
+        },
+        {
+          "game": "Rainbow Six Siege",
+          "minutes": 53
+        },
+        {
+          "game": "Fatal Fury: City of the Wolves",
+          "minutes": 36
+        },
+        {
+          "game": "Starward",
+          "minutes": 31
+        },
+        {
+          "game": "DNF Duel",
+          "minutes": 14
         },
         {
           "game": "Call of Duty® Black Ops 7",
@@ -1626,6 +1587,33 @@
         },
         {
           "game": "Under Night In-Birth II Sys:Celes",
+          "minutes": 2
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-04-19",
+      "end_date": "2026-04-19",
+      "items": [
+        {
+          "game": "Arknights: Endfield",
+          "minutes": 190
+        },
+        {
+          "game": "DNF Duel",
+          "minutes": 92
+        },
+        {
+          "game": "Sakura Arms ~Radiant Duels~ Demo",
+          "minutes": 51
+        },
+        {
+          "game": "VRChat",
+          "minutes": 16
+        },
+        {
+          "game": "Rainbow Six Siege",
           "minutes": 2
         }
       ]
