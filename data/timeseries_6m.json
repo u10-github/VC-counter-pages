@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-19T01:00:00+09:00",
+  "generated_at": "2026-04-20T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1310,33 +1310,145 @@
       ]
     },
     {
-      "bucket_type": "day",
+      "bucket_type": "week",
       "start_date": "2026-04-13",
-      "end_date": "2026-04-13",
+      "end_date": "2026-04-19",
       "items": [
         {
           "game": "DNF Duel",
-          "minutes": 1240
+          "minutes": 2896
         },
         {
           "game": "Guilty Gear: Strive",
-          "minutes": 500
-        },
-        {
-          "game": "Strinova",
-          "minutes": 199
+          "minutes": 1724
         },
         {
           "game": "Arknights: Endfield",
-          "minutes": 69
+          "minutes": 1371
         },
         {
-          "game": "MapleStory",
-          "minutes": 45
+          "game": "Strinova",
+          "minutes": 826
+        },
+        {
+          "game": "Sakura Arms ~Radiant Duels~ Demo",
+          "minutes": 264
+        },
+        {
+          "game": "Starward",
+          "minutes": 180
+        },
+        {
+          "game": "Skullgirls",
+          "minutes": 164
+        },
+        {
+          "game": "Puyo Puyo Champions",
+          "minutes": 162
+        },
+        {
+          "game": "Aquapazza: Aquaplus Dream Match",
+          "minutes": 145
+        },
+        {
+          "game": "Mobile Suit Gundam Battle Operation 2",
+          "minutes": 134
+        },
+        {
+          "game": "Under Night In-Birth II Sys:Celes",
+          "minutes": 134
         },
         {
           "game": "Wuthering Waves",
-          "minutes": 22
+          "minutes": 114
+        },
+        {
+          "game": "Fatal Fury: City of the Wolves",
+          "minutes": 112
+        },
+        {
+          "game": "Overwatch",
+          "minutes": 109
+        },
+        {
+          "game": "Guilty Gear 2: Overture",
+          "minutes": 89
+        },
+        {
+          "game": "Rainbow Six Siege",
+          "minutes": 76
+        },
+        {
+          "game": "Street Fighter™ 6",
+          "minutes": 62
+        },
+        {
+          "game": "Staffer Case - Case1 & 2",
+          "minutes": 61
+        },
+        {
+          "game": "Rift of the NecroDancer",
+          "minutes": 60
+        },
+        {
+          "game": "Guilty Gear XX Accent Core Plus R",
+          "minutes": 49
+        },
+        {
+          "game": "Puyo Puyo Tetris 2",
+          "minutes": 47
+        },
+        {
+          "game": "MapleStory",
+          "minutes": 46
+        },
+        {
+          "game": "Mortal Kombat 1",
+          "minutes": 42
+        },
+        {
+          "game": "Guilty Gear Xrd: Revelator",
+          "minutes": 40
+        },
+        {
+          "game": "Guns and Nuns: Storming Hell",
+          "minutes": 37
+        },
+        {
+          "game": "Persona5: The Phantom X",
+          "minutes": 32
+        },
+        {
+          "game": "VRChat",
+          "minutes": 29
+        },
+        {
+          "game": "Call of Duty® Black Ops 7",
+          "minutes": 20
+        },
+        {
+          "game": "One Turn Kill",
+          "minutes": 20
+        },
+        {
+          "game": "Tetris: The Grand Master 4 - Absolute Eye",
+          "minutes": 17
+        },
+        {
+          "game": "MGCM Combat Edition",
+          "minutes": 15
+        },
+        {
+          "game": "Melty Blood Actress Again Current Code",
+          "minutes": 6
+        },
+        {
+          "game": "Melty Blood: Type Lumina",
+          "minutes": 5
+        },
+        {
+          "game": "Naraka: Bladepoint",
+          "minutes": 1
         }
       ]
     },
@@ -1598,23 +1710,114 @@
       "items": [
         {
           "game": "Arknights: Endfield",
-          "minutes": 190
+          "minutes": 788
         },
         {
           "game": "DNF Duel",
-          "minutes": 92
+          "minutes": 598
+        },
+        {
+          "game": "Strinova",
+          "minutes": 276
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 90
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 68
+        },
+        {
+          "game": "Mobile Suit Gundam Battle Operation 2",
+          "minutes": 54
         },
         {
           "game": "Sakura Arms ~Radiant Duels~ Demo",
-          "minutes": 51
+          "minutes": 54
+        },
+        {
+          "game": "Fatal Fury: City of the Wolves",
+          "minutes": 46
+        },
+        {
+          "game": "Overwatch",
+          "minutes": 32
         },
         {
           "game": "VRChat",
-          "minutes": 16
+          "minutes": 29
+        },
+        {
+          "game": "Starward",
+          "minutes": 28
+        },
+        {
+          "game": "Puyo Puyo Champions",
+          "minutes": 27
         },
         {
           "game": "Rainbow Six Siege",
+          "minutes": 23
+        },
+        {
+          "game": "MGCM Combat Edition",
+          "minutes": 15
+        },
+        {
+          "game": "Guns and Nuns: Storming Hell",
+          "minutes": 14
+        },
+        {
+          "game": "Melty Blood Actress Again Current Code",
+          "minutes": 6
+        },
+        {
+          "game": "Melty Blood: Type Lumina",
+          "minutes": 5
+        },
+        {
+          "game": "Naraka: Bladepoint",
+          "minutes": 1
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-20",
+      "items": [
+        {
+          "game": "DNF Duel",
+          "minutes": 260
+        },
+        {
+          "game": "Arknights: Endfield",
+          "minutes": 60
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 29
+        },
+        {
+          "game": "Street Fighter™ 6",
+          "minutes": 17
+        },
+        {
+          "game": "Astral Party",
+          "minutes": 4
+        },
+        {
+          "game": "ゼンレスゾーンゼロ",
           "minutes": 2
+        },
+        {
+          "game": "Mobile Suit Gundam Battle Operation 2",
+          "minutes": 1
+        },
+        {
+          "game": "Zenless Zone Zero",
+          "minutes": 1
         }
       ]
     }
