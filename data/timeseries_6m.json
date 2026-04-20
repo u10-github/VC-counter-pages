@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T01:00:00+09:00",
+  "generated_at": "2026-04-21T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -731,81 +731,6 @@
     },
     {
       "bucket_type": "week",
-      "start_date": "2026-03-16",
-      "end_date": "2026-03-22",
-      "items": [
-        {
-          "game": "DNF DUEL",
-          "minutes": 885
-        },
-        {
-          "game": "Marvel Rivals",
-          "minutes": 427
-        },
-        {
-          "game": "SAMURAI SHODOWN",
-          "minutes": 124
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 110
-        },
-        {
-          "game": "Slay the Spire",
-          "minutes": 88
-        },
-        {
-          "game": "Guilty Gear -Strive-",
-          "minutes": 67
-        },
-        {
-          "game": "Street Fighter™ 6",
-          "minutes": 62
-        },
-        {
-          "game": "Rainbow Six Siege",
-          "minutes": 61
-        },
-        {
-          "game": "Hunter×Hunter: Nen×Impact",
-          "minutes": 46
-        },
-        {
-          "game": "Arknights:Endfield",
-          "minutes": 32
-        },
-        {
-          "game": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH",
-          "minutes": 30
-        },
-        {
-          "game": "Battlefield 4",
-          "minutes": 28
-        },
-        {
-          "game": "Shadow Warrior Classic Redux",
-          "minutes": 28
-        },
-        {
-          "game": "FATAL FURY: City of the Wolves",
-          "minutes": 20
-        },
-        {
-          "game": "SNK 40th Anniversary Collection",
-          "minutes": 17
-        },
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 10
-        },
-        {
-          "game": "Tom Clancy's Rainbow Six Siege X",
-          "minutes": 2
-        }
-      ]
-    },
-    {
-      "bucket_type": "week",
       "start_date": "2026-03-23",
       "end_date": "2026-03-29",
       "items": [
@@ -1454,69 +1379,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-04-14",
-      "end_date": "2026-04-14",
-      "items": [
-        {
-          "game": "DNF Duel",
-          "minutes": 756
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 540
-        },
-        {
-          "game": "Under Night In-Birth II Sys:Celes",
-          "minutes": 132
-        },
-        {
-          "game": "Rift of the NecroDancer",
-          "minutes": 60
-        },
-        {
-          "game": "Starward",
-          "minutes": 60
-        },
-        {
-          "game": "Guilty Gear XX Accent Core Plus R",
-          "minutes": 49
-        },
-        {
-          "game": "Overwatch",
-          "minutes": 49
-        },
-        {
-          "game": "Mortal Kombat 1",
-          "minutes": 42
-        },
-        {
-          "game": "Guilty Gear Xrd: Revelator",
-          "minutes": 40
-        },
-        {
-          "game": "Skullgirls",
-          "minutes": 36
-        },
-        {
-          "game": "Strinova",
-          "minutes": 36
-        },
-        {
-          "game": "Guns and Nuns: Storming Hell",
-          "minutes": 23
-        },
-        {
-          "game": "Persona5: The Phantom X",
-          "minutes": 9
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 2
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-04-15",
       "end_date": "2026-04-15",
       "items": [
@@ -1789,19 +1651,47 @@
       "items": [
         {
           "game": "DNF Duel",
-          "minutes": 260
-        },
-        {
-          "game": "Arknights: Endfield",
-          "minutes": 60
+          "minutes": 732
         },
         {
           "game": "Guilty Gear: Strive",
-          "minutes": 29
+          "minutes": 384
+        },
+        {
+          "game": "Arknights: Endfield",
+          "minutes": 241
+        },
+        {
+          "game": "Overwatch",
+          "minutes": 109
         },
         {
           "game": "Street Fighter™ 6",
-          "minutes": 17
+          "minutes": 81
+        },
+        {
+          "game": "Rainbow Six Siege",
+          "minutes": 47
+        },
+        {
+          "game": "Resident Evil 4: Ultimate HD Edition",
+          "minutes": 18
+        },
+        {
+          "game": "Starward",
+          "minutes": 18
+        },
+        {
+          "game": "Persona5: The Phantom X",
+          "minutes": 10
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 9
+        },
+        {
+          "game": "Tetris: The Grand Master 4 - Absolute Eye",
+          "minutes": 8
         },
         {
           "game": "Astral Party",
@@ -1816,8 +1706,27 @@
           "minutes": 1
         },
         {
+          "game": "Strinova",
+          "minutes": 1
+        },
+        {
           "game": "Zenless Zone Zero",
           "minutes": 1
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-04-21",
+      "end_date": "2026-04-21",
+      "items": [
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 180
+        },
+        {
+          "game": "Arknights: Endfield",
+          "minutes": 12
         }
       ]
     }
