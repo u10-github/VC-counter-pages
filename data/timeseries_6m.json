@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-21T01:00:00+09:00",
+  "generated_at": "2026-04-22T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1379,45 +1379,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-04-15",
-      "end_date": "2026-04-15",
-      "items": [
-        {
-          "game": "DNF Duel",
-          "minutes": 195
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 134
-        },
-        {
-          "game": "Strinova",
-          "minutes": 93
-        },
-        {
-          "game": "Guilty Gear 2: Overture",
-          "minutes": 89
-        },
-        {
-          "game": "Puyo Puyo Tetris 2",
-          "minutes": 21
-        },
-        {
-          "game": "Tetris: The Grand Master 4 - Absolute Eye",
-          "minutes": 17
-        },
-        {
-          "game": "MapleStory",
-          "minutes": 1
-        },
-        {
-          "game": "Starward",
-          "minutes": 1
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-04-16",
       "end_date": "2026-04-16",
       "items": [
@@ -1722,11 +1683,82 @@
       "items": [
         {
           "game": "Guilty Gear: Strive",
-          "minutes": 180
+          "minutes": 396
+        },
+        {
+          "game": "Rainbow Six Siege",
+          "minutes": 383
+        },
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 201
+        },
+        {
+          "game": "DNF Duel",
+          "minutes": 138
         },
         {
           "game": "Arknights: Endfield",
-          "minutes": 12
+          "minutes": 101
+        },
+        {
+          "game": "Escape from Tarkov",
+          "minutes": 97
+        },
+        {
+          "game": "Mobile Suit Gundam Battle Operation 2",
+          "minutes": 48
+        },
+        {
+          "game": "Strinova",
+          "minutes": 25
+        },
+        {
+          "game": "Starward",
+          "minutes": 18
+        },
+        {
+          "game": "Under Night In-Birth II Sys:Celes",
+          "minutes": 16
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 13
+        },
+        {
+          "game": "Sakura Arms ~Radiant Duels~ Demo",
+          "minutes": 11
+        },
+        {
+          "game": "Naraka: Bladepoint",
+          "minutes": 2
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-04-22",
+      "end_date": "2026-04-22",
+      "items": [
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 155
+        },
+        {
+          "game": "DNF Duel",
+          "minutes": 120
+        },
+        {
+          "game": "Mobile Suit Gundam Battle Operation 2",
+          "minutes": 15
+        },
+        {
+          "game": "Escape from Tarkov",
+          "minutes": 14
+        },
+        {
+          "game": "MapleStory",
+          "minutes": 10
         }
       ]
     }
