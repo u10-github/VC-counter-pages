@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T01:00:00+09:00",
+  "generated_at": "2026-04-24T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1379,37 +1379,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-04-17",
-      "end_date": "2026-04-17",
-      "items": [
-        {
-          "game": "Strinova",
-          "minutes": 53
-        },
-        {
-          "game": "Starward",
-          "minutes": 50
-        },
-        {
-          "game": "Street Fighter™ 6",
-          "minutes": 32
-        },
-        {
-          "game": "Overwatch",
-          "minutes": 28
-        },
-        {
-          "game": "Call of Duty® Black Ops 7",
-          "minutes": 18
-        },
-        {
-          "game": "Skullgirls",
-          "minutes": 9
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-04-18",
       "end_date": "2026-04-18",
       "items": [
@@ -1738,27 +1707,74 @@
       "items": [
         {
           "game": "Street Fighter™ 6",
-          "minutes": 101
+          "minutes": 406
+        },
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 174
         },
         {
           "game": "Dragon Ball FighterZ",
-          "minutes": 60
+          "minutes": 117
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 109
+        },
+        {
+          "game": "Resident Evil",
+          "minutes": 96
+        },
+        {
+          "game": "MOBILE SUIT GUNDAM BATTLE OPERATION 2",
+          "minutes": 55
+        },
+        {
+          "game": "ARKNIGHTS: ENDFIELD",
+          "minutes": 47
+        },
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 39
+        },
+        {
+          "game": "Vampire Survivors",
+          "minutes": 38
         },
         {
           "game": "Strinova",
+          "minutes": 28
+        },
+        {
+          "game": "Marvel Rivals",
+          "minutes": 26
+        },
+        {
+          "game": "Fatal Fury: City of the Wolves",
+          "minutes": 25
+        },
+        {
+          "game": "Starward",
           "minutes": 25
         },
         {
           "game": "DRAGON BALL FighterZ",
           "minutes": 20
-        },
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-04-24",
+      "end_date": "2026-04-24",
+      "items": [
         {
-          "game": "Starward",
-          "minutes": 18
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 32
         },
         {
           "game": "Guilty Gear: Strive",
-          "minutes": 11
+          "minutes": 24
         }
       ]
     }
