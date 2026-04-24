@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T01:00:00+09:00",
+  "generated_at": "2026-04-25T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1379,61 +1379,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-04-18",
-      "end_date": "2026-04-18",
-      "items": [
-        {
-          "game": "Arknights: Endfield",
-          "minutes": 493
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 316
-        },
-        {
-          "game": "Sakura Arms ~Radiant Duels~ Demo",
-          "minutes": 210
-        },
-        {
-          "game": "Aquapazza: Aquaplus Dream Match",
-          "minutes": 145
-        },
-        {
-          "game": "Skullgirls",
-          "minutes": 86
-        },
-        {
-          "game": "Strinova",
-          "minutes": 77
-        },
-        {
-          "game": "Rainbow Six Siege",
-          "minutes": 53
-        },
-        {
-          "game": "Fatal Fury: City of the Wolves",
-          "minutes": 36
-        },
-        {
-          "game": "Starward",
-          "minutes": 31
-        },
-        {
-          "game": "DNF Duel",
-          "minutes": 14
-        },
-        {
-          "game": "Call of Duty® Black Ops 7",
-          "minutes": 2
-        },
-        {
-          "game": "Under Night In-Birth II Sys:Celes",
-          "minutes": 2
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-04-19",
       "end_date": "2026-04-19",
       "items": [
@@ -1769,12 +1714,71 @@
       "end_date": "2026-04-24",
       "items": [
         {
+          "game": "Fatal Fury: City of the Wolves",
+          "minutes": 175
+        },
+        {
+          "game": "Resident Evil",
+          "minutes": 124
+        },
+        {
+          "game": "Magic: The Gathering Arena",
+          "minutes": 59
+        },
+        {
+          "game": "MOBILE SUIT GUNDAM BATTLE OPERATION 2",
+          "minutes": 47
+        },
+        {
+          "game": "MTGA",
+          "minutes": 46
+        },
+        {
+          "game": "Strinova",
+          "minutes": 41
+        },
+        {
+          "game": "THE KING OF FIGHTERS XV",
+          "minutes": 35
+        },
+        {
+          "game": "The King of Fighters '98 Ultimate Match Final Edition",
+          "minutes": 34
+        },
+        {
           "game": "Granblue Fantasy Versus: Rising",
           "minutes": 32
         },
         {
           "game": "Guilty Gear: Strive",
           "minutes": 24
+        },
+        {
+          "game": "Starward",
+          "minutes": 16
+        },
+        {
+          "game": "Dragon Ball FighterZ",
+          "minutes": 15
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-04-25",
+      "end_date": "2026-04-25",
+      "items": [
+        {
+          "game": "Strinova",
+          "minutes": 133
+        },
+        {
+          "game": "Magic: The Gathering Arena",
+          "minutes": 43
+        },
+        {
+          "game": "MTGA",
+          "minutes": 20
         }
       ]
     }
