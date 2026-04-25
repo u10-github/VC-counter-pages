@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T01:00:00+09:00",
+  "generated_at": "2026-04-26T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1379,85 +1379,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-04-19",
-      "end_date": "2026-04-19",
-      "items": [
-        {
-          "game": "Arknights: Endfield",
-          "minutes": 788
-        },
-        {
-          "game": "DNF Duel",
-          "minutes": 598
-        },
-        {
-          "game": "Strinova",
-          "minutes": 276
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 90
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 68
-        },
-        {
-          "game": "Mobile Suit Gundam Battle Operation 2",
-          "minutes": 54
-        },
-        {
-          "game": "Sakura Arms ~Radiant Duels~ Demo",
-          "minutes": 54
-        },
-        {
-          "game": "Fatal Fury: City of the Wolves",
-          "minutes": 46
-        },
-        {
-          "game": "Overwatch",
-          "minutes": 32
-        },
-        {
-          "game": "VRChat",
-          "minutes": 29
-        },
-        {
-          "game": "Starward",
-          "minutes": 28
-        },
-        {
-          "game": "Puyo Puyo Champions",
-          "minutes": 27
-        },
-        {
-          "game": "Rainbow Six Siege",
-          "minutes": 23
-        },
-        {
-          "game": "MGCM Combat Edition",
-          "minutes": 15
-        },
-        {
-          "game": "Guns and Nuns: Storming Hell",
-          "minutes": 14
-        },
-        {
-          "game": "Melty Blood Actress Again Current Code",
-          "minutes": 6
-        },
-        {
-          "game": "Melty Blood: Type Lumina",
-          "minutes": 5
-        },
-        {
-          "game": "Naraka: Bladepoint",
-          "minutes": 1
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-04-20",
       "end_date": "2026-04-20",
       "items": [
@@ -1769,16 +1690,67 @@
       "end_date": "2026-04-25",
       "items": [
         {
+          "game": "DNF Duel",
+          "minutes": 477
+        },
+        {
           "game": "Strinova",
-          "minutes": 133
+          "minutes": 377
+        },
+        {
+          "game": "Puyo Puyo Tetris 2",
+          "minutes": 150
         },
         {
           "game": "Magic: The Gathering Arena",
-          "minutes": 43
+          "minutes": 141
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 111
+        },
+        {
+          "game": "THE KING OF FIGHTERS XV",
+          "minutes": 92
+        },
+        {
+          "game": "Dragon Ball FighterZ",
+          "minutes": 53
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 46
         },
         {
           "game": "MTGA",
-          "minutes": 20
+          "minutes": 42
+        },
+        {
+          "game": "Fatal Fury: City of the Wolves",
+          "minutes": 25
+        },
+        {
+          "game": "Guilty Gear XX Accent Core Plus R",
+          "minutes": 17
+        },
+        {
+          "game": "Starward",
+          "minutes": 16
+        },
+        {
+          "game": "MapleStory",
+          "minutes": 3
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-04-26",
+      "end_date": "2026-04-26",
+      "items": [
+        {
+          "game": "DNF Duel",
+          "minutes": 34
         }
       ]
     }
