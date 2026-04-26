@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-26T01:00:00+09:00",
+  "generated_at": "2026-04-27T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1378,49 +1378,153 @@
       ]
     },
     {
-      "bucket_type": "day",
+      "bucket_type": "week",
       "start_date": "2026-04-20",
-      "end_date": "2026-04-20",
+      "end_date": "2026-04-26",
       "items": [
         {
           "game": "DNF Duel",
-          "minutes": 732
+          "minutes": 1925
         },
         {
           "game": "Guilty Gear: Strive",
-          "minutes": 384
+          "minutes": 1434
         },
         {
-          "game": "Arknights: Endfield",
-          "minutes": 241
+          "game": "DRAGON BALL FighterZ",
+          "minutes": 730
         },
         {
-          "game": "Overwatch",
-          "minutes": 109
+          "game": "Strinova",
+          "minutes": 596
+        },
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 562
         },
         {
           "game": "Street Fighter™ 6",
-          "minutes": 81
+          "minutes": 540
         },
         {
           "game": "Rainbow Six Siege",
+          "minutes": 430
+        },
+        {
+          "game": "Dragon Ball FighterZ",
+          "minutes": 362
+        },
+        {
+          "game": "Arknights: Endfield",
+          "minutes": 342
+        },
+        {
+          "game": "Fatal Fury: City of the Wolves",
+          "minutes": 287
+        },
+        {
+          "game": "Magic: The Gathering Arena",
+          "minutes": 284
+        },
+        {
+          "game": "Resident Evil",
+          "minutes": 255
+        },
+        {
+          "game": "THE KING OF FIGHTERS XV",
+          "minutes": 152
+        },
+        {
+          "game": "Puyo Puyo Tetris 2",
+          "minutes": 150
+        },
+        {
+          "game": "MOBILE SUIT GUNDAM BATTLE OPERATION 2",
+          "minutes": 147
+        },
+        {
+          "game": "Overwatch",
+          "minutes": 139
+        },
+        {
+          "game": "MapleStory",
+          "minutes": 133
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 133
+        },
+        {
+          "game": "Starward",
+          "minutes": 113
+        },
+        {
+          "game": "Escape from Tarkov",
+          "minutes": 111
+        },
+        {
+          "game": "MTGA",
+          "minutes": 88
+        },
+        {
+          "game": "BlazBlue Centralfiction",
+          "minutes": 80
+        },
+        {
+          "game": "FATAL FRAME II: Crimson Butterfly REMAKE",
+          "minutes": 80
+        },
+        {
+          "game": "Mobile Suit Gundam Battle Operation 2",
+          "minutes": 64
+        },
+        {
+          "game": "ARKNIGHTS: ENDFIELD",
           "minutes": 47
+        },
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 39
+        },
+        {
+          "game": "Vampire Survivors",
+          "minutes": 38
+        },
+        {
+          "game": "The King of Fighters '98 Ultimate Match Final Edition",
+          "minutes": 34
+        },
+        {
+          "game": "Marvel Rivals",
+          "minutes": 26
+        },
+        {
+          "game": "PO'ed: Definitive Edition",
+          "minutes": 20
         },
         {
           "game": "Resident Evil 4: Ultimate HD Edition",
           "minutes": 18
         },
         {
-          "game": "Starward",
-          "minutes": 18
+          "game": "Guilty Gear XX Accent Core Plus R",
+          "minutes": 17
+        },
+        {
+          "game": "Under Night In-Birth II Sys:Celes",
+          "minutes": 16
+        },
+        {
+          "game": "Sakura Arms ~Radiant Duels~ Demo",
+          "minutes": 11
         },
         {
           "game": "Persona5: The Phantom X",
           "minutes": 10
         },
         {
-          "game": "Wuthering Waves",
-          "minutes": 9
+          "game": "Hunter x Hunter: Nen x Impact",
+          "minutes": 8
         },
         {
           "game": "Tetris: The Grand Master 4 - Absolute Eye",
@@ -1431,16 +1535,16 @@
           "minutes": 4
         },
         {
-          "game": "ゼンレスゾーンゼロ",
+          "game": "Rabbit & Steel",
+          "minutes": 4
+        },
+        {
+          "game": "Naraka: Bladepoint",
           "minutes": 2
         },
         {
-          "game": "Mobile Suit Gundam Battle Operation 2",
-          "minutes": 1
-        },
-        {
-          "game": "Strinova",
-          "minutes": 1
+          "game": "ゼンレスゾーンゼロ",
+          "minutes": 2
         },
         {
           "game": "Zenless Zone Zero",
@@ -1750,7 +1854,78 @@
       "items": [
         {
           "game": "DNF Duel",
-          "minutes": 34
+          "minutes": 251
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 201
+        },
+        {
+          "game": "Dragon Ball FighterZ",
+          "minutes": 174
+        },
+        {
+          "game": "Strinova",
+          "minutes": 123
+        },
+        {
+          "game": "Magic: The Gathering Arena",
+          "minutes": 84
+        },
+        {
+          "game": "BlazBlue Centralfiction",
+          "minutes": 80
+        },
+        {
+          "game": "FATAL FRAME II: Crimson Butterfly REMAKE",
+          "minutes": 80
+        },
+        {
+          "game": "Fatal Fury: City of the Wolves",
+          "minutes": 62
+        },
+        {
+          "game": "MOBILE SUIT GUNDAM BATTLE OPERATION 2",
+          "minutes": 45
+        },
+        {
+          "game": "Resident Evil",
+          "minutes": 35
+        },
+        {
+          "game": "Overwatch",
+          "minutes": 30
+        },
+        {
+          "game": "Street Fighter™ 6",
+          "minutes": 30
+        },
+        {
+          "game": "THE KING OF FIGHTERS XV",
+          "minutes": 25
+        },
+        {
+          "game": "PO'ed: Definitive Edition",
+          "minutes": 20
+        },
+        {
+          "game": "Starward",
+          "minutes": 18
+        },
+        {
+          "game": "MapleStory",
+          "minutes": 2
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-04-27",
+      "end_date": "2026-04-27",
+      "items": [
+        {
+          "game": "DNF Duel",
+          "minutes": 170
         }
       ]
     }
