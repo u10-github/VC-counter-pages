@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T01:00:00+09:00",
+  "generated_at": "2026-04-30T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1365,69 +1365,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-04-23",
-      "end_date": "2026-04-23",
-      "items": [
-        {
-          "game": "Street Fighter™ 6",
-          "minutes": 406
-        },
-        {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 174
-        },
-        {
-          "game": "Dragon Ball FighterZ",
-          "minutes": 117
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 109
-        },
-        {
-          "game": "Resident Evil",
-          "minutes": 96
-        },
-        {
-          "game": "MOBILE SUIT GUNDAM BATTLE OPERATION 2",
-          "minutes": 55
-        },
-        {
-          "game": "ARKNIGHTS: ENDFIELD",
-          "minutes": 47
-        },
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 39
-        },
-        {
-          "game": "Vampire Survivors",
-          "minutes": 38
-        },
-        {
-          "game": "Strinova",
-          "minutes": 28
-        },
-        {
-          "game": "Marvel Rivals",
-          "minutes": 26
-        },
-        {
-          "game": "Fatal Fury: City of the Wolves",
-          "minutes": 25
-        },
-        {
-          "game": "Starward",
-          "minutes": 25
-        },
-        {
-          "game": "DRAGON BALL FighterZ",
-          "minutes": 20
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-04-24",
       "end_date": "2026-04-24",
       "items": [
@@ -1719,20 +1656,79 @@
       "end_date": "2026-04-29",
       "items": [
         {
-          "game": "Sakura Arms ~Radiant Duels~ Demo",
-          "minutes": 122
+          "game": "DNF Duel",
+          "minutes": 535
         },
         {
-          "game": "DNF Duel",
-          "minutes": 110
+          "game": "Sakura Arms ~Radiant Duels~ Demo",
+          "minutes": 150
+        },
+        {
+          "game": "MapleStory",
+          "minutes": 123
         },
         {
           "game": "Guilty Gear: Strive",
-          "minutes": 18
+          "minutes": 108
+        },
+        {
+          "game": "Magic: The Gathering Arena",
+          "minutes": 99
+        },
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 99
         },
         {
           "game": "Dragon Ball FighterZ",
-          "minutes": 1
+          "minutes": 89
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 65
+        },
+        {
+          "game": "ARKNIGHTS: ENDFIELD",
+          "minutes": 48
+        },
+        {
+          "game": "Idol Showdown",
+          "minutes": 34
+        },
+        {
+          "game": "VRChat",
+          "minutes": 29
+        },
+        {
+          "game": "ALTF4",
+          "minutes": 27
+        },
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 20
+        },
+        {
+          "game": "Valkyrie of Phantasm",
+          "minutes": 6
+        },
+        {
+          "game": "Koihime Enbu RyoRaiRai",
+          "minutes": 5
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-04-30",
+      "end_date": "2026-04-30",
+      "items": [
+        {
+          "game": "DNF Duel",
+          "minutes": 96
+        },
+        {
+          "game": "Sakura Arms ~Radiant Duels~ Demo",
+          "minutes": 59
         }
       ]
     }
