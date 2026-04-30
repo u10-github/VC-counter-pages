@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T01:00:00+09:00",
+  "generated_at": "2026-05-01T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -724,6 +724,365 @@
       ]
     },
     {
+      "bucket_type": "month",
+      "start_date": "2026-04-01",
+      "end_date": "2026-04-30",
+      "items": [
+        {
+          "game": "DNF Duel",
+          "minutes": 10121
+        },
+        {
+          "game": "Strinova",
+          "minutes": 9100
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 8083
+        },
+        {
+          "game": "Arknights: Endfield",
+          "minutes": 2070
+        },
+        {
+          "game": "DNF DUEL",
+          "minutes": 1437
+        },
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 1105
+        },
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 1087
+        },
+        {
+          "game": "Fatal Fury: City of the Wolves",
+          "minutes": 793
+        },
+        {
+          "game": "DRAGON BALL FighterZ",
+          "minutes": 742
+        },
+        {
+          "game": "Street Fighter™ 6",
+          "minutes": 699
+        },
+        {
+          "game": "Under Night In-Birth II Sys:Celes",
+          "minutes": 666
+        },
+        {
+          "game": "Sakura Arms ~Radiant Duels~ Demo",
+          "minutes": 616
+        },
+        {
+          "game": "Dragon Ball FighterZ",
+          "minutes": 610
+        },
+        {
+          "game": "Rainbow Six Siege",
+          "minutes": 506
+        },
+        {
+          "game": "MapleStory",
+          "minutes": 504
+        },
+        {
+          "game": "Magic: The Gathering Arena",
+          "minutes": 444
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 412
+        },
+        {
+          "game": "Starward",
+          "minutes": 368
+        },
+        {
+          "game": "卡拉彼丘",
+          "minutes": 366
+        },
+        {
+          "game": "Overwatch",
+          "minutes": 330
+        },
+        {
+          "game": "Chill with You: Lo-Fi Story",
+          "minutes": 295
+        },
+        {
+          "game": "Resident Evil",
+          "minutes": 255
+        },
+        {
+          "game": "Skullgirls",
+          "minutes": 227
+        },
+        {
+          "game": "Puyo Puyo Tetris 2",
+          "minutes": 226
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 226
+        },
+        {
+          "game": "Mobile Suit Gundam Battle Operation 2",
+          "minutes": 198
+        },
+        {
+          "game": "MOBILE SUIT GUNDAM BATTLE OPERATION 2",
+          "minutes": 189
+        },
+        {
+          "game": "BlazBlue Centralfiction",
+          "minutes": 187
+        },
+        {
+          "game": "Guilty Gear 2: Overture",
+          "minutes": 185
+        },
+        {
+          "game": "FATAL FRAME II: Crimson Butterfly REMAKE",
+          "minutes": 163
+        },
+        {
+          "game": "Puyo Puyo Champions",
+          "minutes": 162
+        },
+        {
+          "game": "Slay the Spire II",
+          "minutes": 159
+        },
+        {
+          "game": "THE KING OF FIGHTERS XV",
+          "minutes": 152
+        },
+        {
+          "game": "Backpack Battles",
+          "minutes": 150
+        },
+        {
+          "game": "ARKNIGHTS: ENDFIELD",
+          "minutes": 147
+        },
+        {
+          "game": "Aquapazza: Aquaplus Dream Match",
+          "minutes": 145
+        },
+        {
+          "game": "Honkai: Star Rail",
+          "minutes": 131
+        },
+        {
+          "game": "Guilty Gear -Strive-",
+          "minutes": 130
+        },
+        {
+          "game": "Escape from Tarkov",
+          "minutes": 121
+        },
+        {
+          "game": "Arknights:Endfield",
+          "minutes": 116
+        },
+        {
+          "game": "Guilty Gear XX Accent Core Plus R",
+          "minutes": 91
+        },
+        {
+          "game": "Guns and Nuns: Storming Hell",
+          "minutes": 90
+        },
+        {
+          "game": "MTGA",
+          "minutes": 88
+        },
+        {
+          "game": "Desktop Mate",
+          "minutes": 87
+        },
+        {
+          "game": "Minecraft",
+          "minutes": 76
+        },
+        {
+          "game": "Guilty Gear Xrd: Revelator",
+          "minutes": 69
+        },
+        {
+          "game": "Staffer Case - Case1 & 2",
+          "minutes": 61
+        },
+        {
+          "game": "Idol Showdown",
+          "minutes": 60
+        },
+        {
+          "game": "Rift of the NecroDancer",
+          "minutes": 60
+        },
+        {
+          "game": "Persona5: The Phantom X",
+          "minutes": 59
+        },
+        {
+          "game": "VRChat",
+          "minutes": 58
+        },
+        {
+          "game": "Sky's The Limit: Mah-jong",
+          "minutes": 55
+        },
+        {
+          "game": "Koihime Enbu RyoRaiRai",
+          "minutes": 54
+        },
+        {
+          "game": "League of Legends",
+          "minutes": 54
+        },
+        {
+          "game": "Resident Evil 4: Ultimate HD Edition",
+          "minutes": 48
+        },
+        {
+          "game": "Mortal Kombat 1",
+          "minutes": 42
+        },
+        {
+          "game": "Tetris: The Grand Master 4 - Absolute Eye",
+          "minutes": 41
+        },
+        {
+          "game": "Vampire Survivors",
+          "minutes": 38
+        },
+        {
+          "game": "The King of Fighters '98 Ultimate Match Final Edition",
+          "minutes": 35
+        },
+        {
+          "game": "Street Fighter 30th Anniversary Collection",
+          "minutes": 30
+        },
+        {
+          "game": "Ultimate Marvel vs. Capcom 3",
+          "minutes": 30
+        },
+        {
+          "game": "ALTF4",
+          "minutes": 27
+        },
+        {
+          "game": "Capcom Fighting Collection",
+          "minutes": 26
+        },
+        {
+          "game": "Marvel Rivals",
+          "minutes": 26
+        },
+        {
+          "game": "Guns of Icarus Alliance",
+          "minutes": 24
+        },
+        {
+          "game": "Call of Duty® Black Ops 7",
+          "minutes": 20
+        },
+        {
+          "game": "One Turn Kill",
+          "minutes": 20
+        },
+        {
+          "game": "PO'ed: Definitive Edition",
+          "minutes": 20
+        },
+        {
+          "game": "Them's Fightin' Herds",
+          "minutes": 18
+        },
+        {
+          "game": "Dragon Quest X: Inishie no Ryuu no Denshou Online",
+          "minutes": 17
+        },
+        {
+          "game": "MGCM Combat Edition",
+          "minutes": 15
+        },
+        {
+          "game": "Invincible VS Beta",
+          "minutes": 11
+        },
+        {
+          "game": "Shadow Warrior Classic Redux",
+          "minutes": 10
+        },
+        {
+          "game": "Hunter x Hunter: Nen x Impact",
+          "minutes": 8
+        },
+        {
+          "game": "MELTY BLOOD: TYPE LUMINA",
+          "minutes": 7
+        },
+        {
+          "game": "Melty Blood Actress Again Current Code",
+          "minutes": 6
+        },
+        {
+          "game": "Valkyrie of Phantasm",
+          "minutes": 6
+        },
+        {
+          "game": "Melty Blood: Type Lumina",
+          "minutes": 5
+        },
+        {
+          "game": "Monster Hunter Rise",
+          "minutes": 5
+        },
+        {
+          "game": "Astral Party",
+          "minutes": 4
+        },
+        {
+          "game": "Rabbit & Steel",
+          "minutes": 4
+        },
+        {
+          "game": "BlazBlue: Central Fiction",
+          "minutes": 3
+        },
+        {
+          "game": "Naraka: Bladepoint",
+          "minutes": 3
+        },
+        {
+          "game": "GUILTY GEAR -STRIVE-",
+          "minutes": 2
+        },
+        {
+          "game": "Yu-Gi-Oh! Master Duel",
+          "minutes": 2
+        },
+        {
+          "game": "ゼンレスゾーンゼロ",
+          "minutes": 2
+        },
+        {
+          "game": "Crysis",
+          "minutes": 1
+        },
+        {
+          "game": "Zenless Zone Zero",
+          "minutes": 1
+        }
+      ]
+    },
+    {
       "bucket_type": "week",
       "start_date": "2026-03-30",
       "end_date": "2026-04-05",
@@ -1365,61 +1724,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-04-24",
-      "end_date": "2026-04-24",
-      "items": [
-        {
-          "game": "Fatal Fury: City of the Wolves",
-          "minutes": 175
-        },
-        {
-          "game": "Resident Evil",
-          "minutes": 124
-        },
-        {
-          "game": "Magic: The Gathering Arena",
-          "minutes": 59
-        },
-        {
-          "game": "MOBILE SUIT GUNDAM BATTLE OPERATION 2",
-          "minutes": 47
-        },
-        {
-          "game": "MTGA",
-          "minutes": 46
-        },
-        {
-          "game": "Strinova",
-          "minutes": 41
-        },
-        {
-          "game": "THE KING OF FIGHTERS XV",
-          "minutes": 35
-        },
-        {
-          "game": "The King of Fighters '98 Ultimate Match Final Edition",
-          "minutes": 34
-        },
-        {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 32
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 24
-        },
-        {
-          "game": "Starward",
-          "minutes": 16
-        },
-        {
-          "game": "Dragon Ball FighterZ",
-          "minutes": 15
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-04-25",
       "end_date": "2026-04-25",
       "items": [
@@ -1724,11 +2028,46 @@
       "items": [
         {
           "game": "DNF Duel",
-          "minutes": 96
+          "minutes": 333
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 299
         },
         {
           "game": "Sakura Arms ~Radiant Duels~ Demo",
-          "minutes": 59
+          "minutes": 145
+        },
+        {
+          "game": "MapleStory",
+          "minutes": 115
+        },
+        {
+          "game": "FATAL FRAME II: Crimson Butterfly REMAKE",
+          "minutes": 83
+        },
+        {
+          "game": "Strinova",
+          "minutes": 46
+        },
+        {
+          "game": "MELTY BLOOD: TYPE LUMINA",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-05-01",
+      "end_date": "2026-05-01",
+      "items": [
+        {
+          "game": "Sakura Arms ~Radiant Duels~ Demo",
+          "minutes": 17
+        },
+        {
+          "game": "Strinova",
+          "minutes": 17
         }
       ]
     }
