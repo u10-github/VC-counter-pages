@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T01:00:00+09:00",
+  "generated_at": "2026-05-02T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1724,65 +1724,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-04-25",
-      "end_date": "2026-04-25",
-      "items": [
-        {
-          "game": "DNF Duel",
-          "minutes": 477
-        },
-        {
-          "game": "Strinova",
-          "minutes": 377
-        },
-        {
-          "game": "Puyo Puyo Tetris 2",
-          "minutes": 150
-        },
-        {
-          "game": "Magic: The Gathering Arena",
-          "minutes": 141
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 111
-        },
-        {
-          "game": "THE KING OF FIGHTERS XV",
-          "minutes": 92
-        },
-        {
-          "game": "Dragon Ball FighterZ",
-          "minutes": 53
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 46
-        },
-        {
-          "game": "MTGA",
-          "minutes": 42
-        },
-        {
-          "game": "Fatal Fury: City of the Wolves",
-          "minutes": 25
-        },
-        {
-          "game": "Guilty Gear XX Accent Core Plus R",
-          "minutes": 17
-        },
-        {
-          "game": "Starward",
-          "minutes": 16
-        },
-        {
-          "game": "MapleStory",
-          "minutes": 3
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-04-26",
       "end_date": "2026-04-26",
       "items": [
@@ -2062,12 +2003,63 @@
       "end_date": "2026-05-01",
       "items": [
         {
+          "game": "DNF Duel",
+          "minutes": 290
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 178
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 127
+        },
+        {
+          "game": "ARKNIGHTS: ENDFIELD",
+          "minutes": 61
+        },
+        {
+          "game": "Invincible VS",
+          "minutes": 29
+        },
+        {
+          "game": "Blade Strangers",
+          "minutes": 27
+        },
+        {
           "game": "Sakura Arms ~Radiant Duels~ Demo",
           "minutes": 17
         },
         {
           "game": "Strinova",
           "minutes": 17
+        },
+        {
+          "game": "Hellsinker.",
+          "minutes": 4
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-05-02",
+      "end_date": "2026-05-02",
+      "items": [
+        {
+          "game": "DNF Duel",
+          "minutes": 87
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 40
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 40
+        },
+        {
+          "game": "Sakura Arms ~Radiant Duels~ Demo",
+          "minutes": 16
         }
       ]
     }
