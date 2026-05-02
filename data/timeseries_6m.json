@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T01:00:00+09:00",
+  "generated_at": "2026-05-03T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1724,77 +1724,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-04-26",
-      "end_date": "2026-04-26",
-      "items": [
-        {
-          "game": "DNF Duel",
-          "minutes": 251
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 201
-        },
-        {
-          "game": "Dragon Ball FighterZ",
-          "minutes": 174
-        },
-        {
-          "game": "Strinova",
-          "minutes": 123
-        },
-        {
-          "game": "Magic: The Gathering Arena",
-          "minutes": 84
-        },
-        {
-          "game": "BlazBlue Centralfiction",
-          "minutes": 80
-        },
-        {
-          "game": "FATAL FRAME II: Crimson Butterfly REMAKE",
-          "minutes": 80
-        },
-        {
-          "game": "Fatal Fury: City of the Wolves",
-          "minutes": 62
-        },
-        {
-          "game": "MOBILE SUIT GUNDAM BATTLE OPERATION 2",
-          "minutes": 45
-        },
-        {
-          "game": "Resident Evil",
-          "minutes": 35
-        },
-        {
-          "game": "Overwatch",
-          "minutes": 30
-        },
-        {
-          "game": "Street Fighter™ 6",
-          "minutes": 30
-        },
-        {
-          "game": "THE KING OF FIGHTERS XV",
-          "minutes": 25
-        },
-        {
-          "game": "PO'ed: Definitive Edition",
-          "minutes": 20
-        },
-        {
-          "game": "Starward",
-          "minutes": 18
-        },
-        {
-          "game": "MapleStory",
-          "minutes": 2
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-04-27",
       "end_date": "2026-04-27",
       "items": [
@@ -2047,19 +1976,62 @@
       "items": [
         {
           "game": "DNF Duel",
-          "minutes": 87
+          "minutes": 654
+        },
+        {
+          "game": "MapleStory",
+          "minutes": 269
+        },
+        {
+          "game": "WORLD HEROES PERFECT",
+          "minutes": 231
         },
         {
           "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 40
+          "minutes": 133
         },
         {
           "game": "Wuthering Waves",
+          "minutes": 103
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 89
+        },
+        {
+          "game": "Invincible VS",
+          "minutes": 61
+        },
+        {
+          "game": "Strinova",
           "minutes": 40
         },
         {
           "game": "Sakura Arms ~Radiant Duels~ Demo",
-          "minutes": 16
+          "minutes": 19
+        },
+        {
+          "game": "Blade Strangers",
+          "minutes": 17
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-05-03",
+      "end_date": "2026-05-03",
+      "items": [
+        {
+          "game": "DNF Duel",
+          "minutes": 180
+        },
+        {
+          "game": "MapleStory",
+          "minutes": 60
+        },
+        {
+          "game": "Backpack Battles",
+          "minutes": 19
         }
       ]
     }
