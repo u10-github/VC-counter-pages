@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-03T01:00:00+09:00",
+  "generated_at": "2026-05-04T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1723,44 +1723,128 @@
       ]
     },
     {
-      "bucket_type": "day",
+      "bucket_type": "week",
       "start_date": "2026-04-27",
-      "end_date": "2026-04-27",
+      "end_date": "2026-05-03",
       "items": [
         {
           "game": "DNF Duel",
-          "minutes": 395
+          "minutes": 2791
         },
         {
           "game": "Guilty Gear: Strive",
-          "minutes": 268
+          "minutes": 1065
+        },
+        {
+          "game": "WORLD HEROES PERFECT",
+          "minutes": 767
+        },
+        {
+          "game": "MapleStory",
+          "minutes": 654
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 569
+        },
+        {
+          "game": "Sakura Arms ~Radiant Duels~ Demo",
+          "minutes": 452
         },
         {
           "game": "Phantom Breaker: Omnia",
-          "minutes": 110
-        },
-        {
-          "game": "Magic: The Gathering Arena",
-          "minutes": 40
-        },
-        {
-          "game": "Strinova",
-          "minutes": 32
-        },
-        {
-          "game": "Overwatch",
-          "minutes": 21
-        },
-        {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 18
-        },
-        {
-          "game": "Starward",
-          "minutes": 1
+          "minutes": 390
         },
         {
           "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 288
+        },
+        {
+          "game": "Strinova",
+          "minutes": 277
+        },
+        {
+          "game": "Dragon Ball FighterZ",
+          "minutes": 248
+        },
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 168
+        },
+        {
+          "game": "ARKNIGHTS: ENDFIELD",
+          "minutes": 161
+        },
+        {
+          "game": "Magic: The Gathering Arena",
+          "minutes": 160
+        },
+        {
+          "game": "Invincible VS",
+          "minutes": 90
+        },
+        {
+          "game": "FATAL FRAME II: Crimson Butterfly REMAKE",
+          "minutes": 83
+        },
+        {
+          "game": "Street Fighter™ 6",
+          "minutes": 53
+        },
+        {
+          "game": "Blade Strangers",
+          "minutes": 44
+        },
+        {
+          "game": "MOBILE SUIT GUNDAM BATTLE OPERATION 2",
+          "minutes": 42
+        },
+        {
+          "game": "Idol Showdown",
+          "minutes": 34
+        },
+        {
+          "game": "VRChat",
+          "minutes": 29
+        },
+        {
+          "game": "ALTF4",
+          "minutes": 27
+        },
+        {
+          "game": "Overwatch",
+          "minutes": 27
+        },
+        {
+          "game": "Backpack Battles",
+          "minutes": 19
+        },
+        {
+          "game": "Fatal Fury: City of the Wolves",
+          "minutes": 15
+        },
+        {
+          "game": "MELTY BLOOD: TYPE LUMINA",
+          "minutes": 7
+        },
+        {
+          "game": "Valkyrie of Phantasm",
+          "minutes": 6
+        },
+        {
+          "game": "Koihime Enbu RyoRaiRai",
+          "minutes": 5
+        },
+        {
+          "game": "Hellsinker.",
+          "minutes": 4
+        },
+        {
+          "game": "ゼンレスゾーンゼロ",
+          "minutes": 4
+        },
+        {
+          "game": "Starward",
           "minutes": 1
         }
       ]
@@ -2023,15 +2107,54 @@
       "items": [
         {
           "game": "DNF Duel",
-          "minutes": 180
+          "minutes": 557
+        },
+        {
+          "game": "WORLD HEROES PERFECT",
+          "minutes": 536
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 223
         },
         {
           "game": "MapleStory",
-          "minutes": 60
+          "minutes": 147
+        },
+        {
+          "game": "Strinova",
+          "minutes": 142
+        },
+        {
+          "game": "Sakura Arms ~Radiant Duels~ Demo",
+          "minutes": 75
         },
         {
           "game": "Backpack Battles",
           "minutes": 19
+        },
+        {
+          "game": "ゼンレスゾーンゼロ",
+          "minutes": 4
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-05-04",
+      "end_date": "2026-05-04",
+      "items": [
+        {
+          "game": "Wuthering Waves",
+          "minutes": 60
+        },
+        {
+          "game": "Strinova",
+          "minutes": 49
+        },
+        {
+          "game": "Sakura Arms ~Radiant Duels~ Demo",
+          "minutes": 2
         }
       ]
     }
