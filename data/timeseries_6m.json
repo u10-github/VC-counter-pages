@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T01:00:00+09:00",
+  "generated_at": "2026-05-06T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1676,73 +1676,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-04-29",
-      "end_date": "2026-04-29",
-      "items": [
-        {
-          "game": "DNF Duel",
-          "minutes": 535
-        },
-        {
-          "game": "Sakura Arms ~Radiant Duels~ Demo",
-          "minutes": 150
-        },
-        {
-          "game": "MapleStory",
-          "minutes": 123
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 108
-        },
-        {
-          "game": "Magic: The Gathering Arena",
-          "minutes": 99
-        },
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 99
-        },
-        {
-          "game": "Dragon Ball FighterZ",
-          "minutes": 89
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 65
-        },
-        {
-          "game": "ARKNIGHTS: ENDFIELD",
-          "minutes": 48
-        },
-        {
-          "game": "Idol Showdown",
-          "minutes": 34
-        },
-        {
-          "game": "VRChat",
-          "minutes": 29
-        },
-        {
-          "game": "ALTF4",
-          "minutes": 27
-        },
-        {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 20
-        },
-        {
-          "game": "Valkyrie of Phantasm",
-          "minutes": 6
-        },
-        {
-          "game": "Koihime Enbu RyoRaiRai",
-          "minutes": 5
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-04-30",
       "end_date": "2026-04-30",
       "items": [
@@ -1986,16 +1919,111 @@
       "end_date": "2026-05-05",
       "items": [
         {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 161
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 530
         },
         {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 120
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 484
+        },
+        {
+          "game": "WORLD HEROES PERFECT",
+          "minutes": 425
+        },
+        {
+          "game": "BlazBlue Centralfiction",
+          "minutes": 209
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 206
+        },
+        {
+          "game": "Call of Duty®",
+          "minutes": 185
         },
         {
           "game": "Strinova",
-          "minutes": 6
+          "minutes": 183
+        },
+        {
+          "game": "DNF Duel",
+          "minutes": 135
+        },
+        {
+          "game": "MELTY BLOOD: TYPE LUMINA",
+          "minutes": 126
+        },
+        {
+          "game": "Sakura Arms ~Radiant Duels~ Demo",
+          "minutes": 100
+        },
+        {
+          "game": "R-TYPE DX: Music Encore",
+          "minutes": 90
+        },
+        {
+          "game": "Quantum Protocol",
+          "minutes": 85
+        },
+        {
+          "game": "Persona 4 Arena Ultimax",
+          "minutes": 83
+        },
+        {
+          "game": "MOBILE SUIT GUNDAM BATTLE OPERATION 2",
+          "minutes": 37
+        },
+        {
+          "game": "Capcom Fighting Collection",
+          "minutes": 27
+        },
+        {
+          "game": "Street Fighter™ 6",
+          "minutes": 21
+        },
+        {
+          "game": "Resident Evil 2 (1998)",
+          "minutes": 18
+        },
+        {
+          "game": "Call of Duty® Black Ops 7",
+          "minutes": 3
+        },
+        {
+          "game": "MISERY",
+          "minutes": 3
+        },
+        {
+          "game": "Call of Duty: Black Ops 7",
+          "minutes": 2
+        },
+        {
+          "game": "StarWard",
+          "minutes": 1
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-05-06",
+      "end_date": "2026-05-06",
+      "items": [
+        {
+          "game": "DNF Duel",
+          "minutes": 121
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 60
+        },
+        {
+          "game": "MapleStory",
+          "minutes": 59
+        },
+        {
+          "game": "MISERY",
+          "minutes": 39
         }
       ]
     }
