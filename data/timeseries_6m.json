@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-06T01:00:00+09:00",
+  "generated_at": "2026-05-07T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1676,41 +1676,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-04-30",
-      "end_date": "2026-04-30",
-      "items": [
-        {
-          "game": "DNF Duel",
-          "minutes": 333
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 299
-        },
-        {
-          "game": "Sakura Arms ~Radiant Duels~ Demo",
-          "minutes": 145
-        },
-        {
-          "game": "MapleStory",
-          "minutes": 115
-        },
-        {
-          "game": "FATAL FRAME II: Crimson Butterfly REMAKE",
-          "minutes": 83
-        },
-        {
-          "game": "Strinova",
-          "minutes": 46
-        },
-        {
-          "game": "MELTY BLOOD: TYPE LUMINA",
-          "minutes": 7
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-05-01",
       "end_date": "2026-05-01",
       "items": [
@@ -2011,19 +1976,118 @@
       "items": [
         {
           "game": "DNF Duel",
-          "minutes": 121
+          "minutes": 1836
         },
         {
           "game": "Guilty Gear: Strive",
-          "minutes": 60
+          "minutes": 614
+        },
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 602
         },
         {
           "game": "MapleStory",
-          "minutes": 59
+          "minutes": 360
+        },
+        {
+          "game": "ARKNIGHTS: ENDFIELD",
+          "minutes": 249
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 224
+        },
+        {
+          "game": "WORLD HEROES PERFECT",
+          "minutes": 196
+        },
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 80
+        },
+        {
+          "game": "Sakura Arms ~Radiant Duels~ Demo",
+          "minutes": 61
+        },
+        {
+          "game": "Call of Duty®",
+          "minutes": 56
         },
         {
           "game": "MISERY",
-          "minutes": 39
+          "minutes": 47
+        },
+        {
+          "game": "Persona 4 Arena Ultimax",
+          "minutes": 43
+        },
+        {
+          "game": "MTGA",
+          "minutes": 27
+        },
+        {
+          "game": "Neverness to Everness",
+          "minutes": 27
+        },
+        {
+          "game": "Dragon Ball FighterZ",
+          "minutes": 25
+        },
+        {
+          "game": "Magic: The Gathering Arena",
+          "minutes": 19
+        },
+        {
+          "game": "Zenless Zone Zero",
+          "minutes": 16
+        },
+        {
+          "game": "Call of Duty® Black Ops 7",
+          "minutes": 1
+        },
+        {
+          "game": "Strinova",
+          "minutes": 1
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-05-07",
+      "end_date": "2026-05-07",
+      "items": [
+        {
+          "game": "DNF Duel",
+          "minutes": 120
+        },
+        {
+          "game": "ARKNIGHTS: ENDFIELD",
+          "minutes": 60
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 60
+        },
+        {
+          "game": "Zenless Zone Zero",
+          "minutes": 36
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 20
+        },
+        {
+          "game": "WORLD HEROES PERFECT",
+          "minutes": 18
+        },
+        {
+          "game": "MapleStory",
+          "minutes": 17
+        },
+        {
+          "game": "MISERY",
+          "minutes": 16
         }
       ]
     }
