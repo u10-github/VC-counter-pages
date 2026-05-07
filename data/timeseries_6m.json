@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-07T01:00:00+09:00",
+  "generated_at": "2026-05-08T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1676,49 +1676,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-05-01",
-      "end_date": "2026-05-01",
-      "items": [
-        {
-          "game": "DNF Duel",
-          "minutes": 290
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 178
-        },
-        {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 127
-        },
-        {
-          "game": "ARKNIGHTS: ENDFIELD",
-          "minutes": 61
-        },
-        {
-          "game": "Invincible VS",
-          "minutes": 29
-        },
-        {
-          "game": "Blade Strangers",
-          "minutes": 27
-        },
-        {
-          "game": "Sakura Arms ~Radiant Duels~ Demo",
-          "minutes": 17
-        },
-        {
-          "game": "Strinova",
-          "minutes": 17
-        },
-        {
-          "game": "Hellsinker.",
-          "minutes": 4
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-05-02",
       "end_date": "2026-05-02",
       "items": [
@@ -2058,36 +2015,99 @@
       "end_date": "2026-05-07",
       "items": [
         {
-          "game": "DNF Duel",
-          "minutes": 120
-        },
-        {
-          "game": "ARKNIGHTS: ENDFIELD",
-          "minutes": 60
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 964
         },
         {
           "game": "Wuthering Waves",
-          "minutes": 60
+          "minutes": 438
+        },
+        {
+          "game": "Neverness to Everness",
+          "minutes": 299
+        },
+        {
+          "game": "DNF Duel",
+          "minutes": 154
+        },
+        {
+          "game": "ARKNIGHTS: ENDFIELD",
+          "minutes": 152
+        },
+        {
+          "game": "WORLD HEROES PERFECT",
+          "minutes": 134
+        },
+        {
+          "game": "MapleStory",
+          "minutes": 94
+        },
+        {
+          "game": "Strinova",
+          "minutes": 94
+        },
+        {
+          "game": "R-Type Dimensions EX",
+          "minutes": 77
+        },
+        {
+          "game": "MISERY",
+          "minutes": 55
+        },
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 39
         },
         {
           "game": "Zenless Zone Zero",
           "minutes": 36
         },
         {
+          "game": "Forza Horizon 4",
+          "minutes": 24
+        },
+        {
           "game": "Guilty Gear: Strive",
           "minutes": 20
         },
         {
-          "game": "WORLD HEROES PERFECT",
+          "game": "R-TYPE DX: Music Encore",
           "minutes": 18
         },
         {
-          "game": "MapleStory",
+          "game": "原神",
           "minutes": 17
         },
         {
-          "game": "MISERY",
-          "minutes": 16
+          "game": "Grand Theft Auto III",
+          "minutes": 6
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-05-08",
+      "end_date": "2026-05-08",
+      "items": [
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 134
+        },
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 120
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 60
+        },
+        {
+          "game": "R-Type Dimensions EX",
+          "minutes": 35
+        },
+        {
+          "game": "WORLD HEROES PERFECT",
+          "minutes": 2
         }
       ]
     }
