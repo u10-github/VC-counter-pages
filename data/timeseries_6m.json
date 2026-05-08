@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T01:00:00+09:00",
+  "generated_at": "2026-05-09T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1676,53 +1676,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-05-02",
-      "end_date": "2026-05-02",
-      "items": [
-        {
-          "game": "DNF Duel",
-          "minutes": 654
-        },
-        {
-          "game": "MapleStory",
-          "minutes": 269
-        },
-        {
-          "game": "WORLD HEROES PERFECT",
-          "minutes": 231
-        },
-        {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 133
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 103
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 89
-        },
-        {
-          "game": "Invincible VS",
-          "minutes": 61
-        },
-        {
-          "game": "Strinova",
-          "minutes": 40
-        },
-        {
-          "game": "Sakura Arms ~Radiant Duels~ Demo",
-          "minutes": 19
-        },
-        {
-          "game": "Blade Strangers",
-          "minutes": 17
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-05-03",
       "end_date": "2026-05-03",
       "items": [
@@ -2091,23 +2044,90 @@
       "items": [
         {
           "game": "Phantom Breaker: Omnia",
-          "minutes": 134
+          "minutes": 343
         },
         {
           "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 291
+        },
+        {
+          "game": "BlazBlue Centralfiction",
+          "minutes": 269
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 221
+        },
+        {
+          "game": "DNF Duel",
+          "minutes": 156
+        },
+        {
+          "game": "Neverness to Everness",
+          "minutes": 144
+        },
+        {
+          "game": "Shadow Prisoner",
+          "minutes": 101
+        },
+        {
+          "game": "Strinova",
+          "minutes": 63
+        },
+        {
+          "game": "R-Type Dimensions EX",
+          "minutes": 56
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 45
+        },
+        {
+          "game": "Fatal Fury: City of the Wolves",
+          "minutes": 31
+        },
+        {
+          "game": "WORLD HEROES PERFECT",
+          "minutes": 31
+        },
+        {
+          "game": "ARKNIGHTS: ENDFIELD",
+          "minutes": 21
+        },
+        {
+          "game": "Fantasy Strike",
+          "minutes": 21
+        },
+        {
+          "game": "2XKO",
+          "minutes": 19
+        },
+        {
+          "game": "BlazBlue: Central Fiction",
+          "minutes": 1
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-05-09",
+      "end_date": "2026-05-09",
+      "items": [
+        {
+          "game": "DNF Duel",
           "minutes": 120
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 80
+        },
+        {
+          "game": "WORLD HEROES PERFECT",
+          "minutes": 60
         },
         {
           "game": "Wuthering Waves",
           "minutes": 60
-        },
-        {
-          "game": "R-Type Dimensions EX",
-          "minutes": 35
-        },
-        {
-          "game": "WORLD HEROES PERFECT",
-          "minutes": 2
         }
       ]
     }
