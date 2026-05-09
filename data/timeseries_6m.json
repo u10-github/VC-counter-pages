@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-09T01:00:00+09:00",
+  "generated_at": "2026-05-10T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1676,45 +1676,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-05-03",
-      "end_date": "2026-05-03",
-      "items": [
-        {
-          "game": "DNF Duel",
-          "minutes": 557
-        },
-        {
-          "game": "WORLD HEROES PERFECT",
-          "minutes": 536
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 223
-        },
-        {
-          "game": "MapleStory",
-          "minutes": 147
-        },
-        {
-          "game": "Strinova",
-          "minutes": 142
-        },
-        {
-          "game": "Sakura Arms ~Radiant Duels~ Demo",
-          "minutes": 75
-        },
-        {
-          "game": "Backpack Battles",
-          "minutes": 19
-        },
-        {
-          "game": "ゼンレスゾーンゼロ",
-          "minutes": 4
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-05-04",
       "end_date": "2026-05-04",
       "items": [
@@ -2115,19 +2076,74 @@
       "items": [
         {
           "game": "DNF Duel",
-          "minutes": 120
-        },
-        {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 80
+          "minutes": 382
         },
         {
           "game": "WORLD HEROES PERFECT",
-          "minutes": 60
+          "minutes": 311
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 199
         },
         {
           "game": "Wuthering Waves",
+          "minutes": 169
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 149
+        },
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 87
+        },
+        {
+          "game": "Melty Blood Actress Again Current Code",
+          "minutes": 74
+        },
+        {
+          "game": "Neverness to Everness",
+          "minutes": 73
+        },
+        {
+          "game": "Overwatch",
+          "minutes": 44
+        },
+        {
+          "game": "Strinova",
+          "minutes": 29
+        },
+        {
+          "game": "Street Fighter™ 6",
+          "minutes": 26
+        },
+        {
+          "game": "Fallout 4",
+          "minutes": 9
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-05-10",
+      "end_date": "2026-05-10",
+      "items": [
+        {
+          "game": "Guilty Gear: Strive",
           "minutes": 60
+        },
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 23
+        },
+        {
+          "game": "Duelists of Eden",
+          "minutes": 19
+        },
+        {
+          "game": "Street Fighter™ 6",
+          "minutes": 10
         }
       ]
     }
