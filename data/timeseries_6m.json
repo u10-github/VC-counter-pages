@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-11T01:00:00+09:00",
+  "generated_at": "2026-05-12T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1084,153 +1084,6 @@
     },
     {
       "bucket_type": "week",
-      "start_date": "2026-04-06",
-      "end_date": "2026-04-12",
-      "items": [
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 3949
-        },
-        {
-          "game": "Strinova",
-          "minutes": 3195
-        },
-        {
-          "game": "DNF Duel",
-          "minutes": 2897
-        },
-        {
-          "game": "Under Night In-Birth II Sys:Celes",
-          "minutes": 377
-        },
-        {
-          "game": "Chill with You: Lo-Fi Story",
-          "minutes": 288
-        },
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 261
-        },
-        {
-          "game": "Arknights: Endfield",
-          "minutes": 191
-        },
-        {
-          "game": "Backpack Battles",
-          "minutes": 129
-        },
-        {
-          "game": "BlazBlue Centralfiction",
-          "minutes": 107
-        },
-        {
-          "game": "Guilty Gear 2: Overture",
-          "minutes": 96
-        },
-        {
-          "game": "Desktop Mate",
-          "minutes": 87
-        },
-        {
-          "game": "Starward",
-          "minutes": 74
-        },
-        {
-          "game": "Guilty Gear -Strive-",
-          "minutes": 73
-        },
-        {
-          "game": "Sky's The Limit: Mah-jong",
-          "minutes": 55
-        },
-        {
-          "game": "Guns and Nuns: Storming Hell",
-          "minutes": 53
-        },
-        {
-          "game": "Koihime Enbu RyoRaiRai",
-          "minutes": 49
-        },
-        {
-          "game": "Overwatch",
-          "minutes": 43
-        },
-        {
-          "game": "Resident Evil 4: Ultimate HD Edition",
-          "minutes": 30
-        },
-        {
-          "game": "Ultimate Marvel vs. Capcom 3",
-          "minutes": 30
-        },
-        {
-          "game": "Guilty Gear Xrd: Revelator",
-          "minutes": 29
-        },
-        {
-          "game": "Puyo Puyo Tetris 2",
-          "minutes": 29
-        },
-        {
-          "game": "Guilty Gear XX Accent Core Plus R",
-          "minutes": 25
-        },
-        {
-          "game": "Street Fighter 30th Anniversary Collection",
-          "minutes": 18
-        },
-        {
-          "game": "Them's Fightin' Herds",
-          "minutes": 18
-        },
-        {
-          "game": "Dragon Quest X: Inishie no Ryuu no Denshou Online",
-          "minutes": 17
-        },
-        {
-          "game": "Persona5: The Phantom X",
-          "minutes": 17
-        },
-        {
-          "game": "Slay the Spire II",
-          "minutes": 15
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 14
-        },
-        {
-          "game": "MapleStory",
-          "minutes": 13
-        },
-        {
-          "game": "Invincible VS Beta",
-          "minutes": 11
-        },
-        {
-          "game": "Honkai: Star Rail",
-          "minutes": 7
-        },
-        {
-          "game": "Monster Hunter Rise",
-          "minutes": 5
-        },
-        {
-          "game": "Skullgirls",
-          "minutes": 4
-        },
-        {
-          "game": "BlazBlue: Central Fiction",
-          "minutes": 3
-        },
-        {
-          "game": "The King of Fighters '98 Ultimate Match Final Edition",
-          "minutes": 1
-        }
-      ]
-    },
-    {
-      "bucket_type": "week",
       "start_date": "2026-04-13",
       "end_date": "2026-04-19",
       "items": [
@@ -1871,97 +1724,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-05-05",
-      "end_date": "2026-05-05",
-      "items": [
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 530
-        },
-        {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 484
-        },
-        {
-          "game": "WORLD HEROES PERFECT",
-          "minutes": 425
-        },
-        {
-          "game": "BlazBlue Centralfiction",
-          "minutes": 209
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 206
-        },
-        {
-          "game": "Call of Duty®",
-          "minutes": 185
-        },
-        {
-          "game": "Strinova",
-          "minutes": 183
-        },
-        {
-          "game": "DNF Duel",
-          "minutes": 135
-        },
-        {
-          "game": "MELTY BLOOD: TYPE LUMINA",
-          "minutes": 126
-        },
-        {
-          "game": "Sakura Arms ~Radiant Duels~ Demo",
-          "minutes": 100
-        },
-        {
-          "game": "R-TYPE DX: Music Encore",
-          "minutes": 90
-        },
-        {
-          "game": "Quantum Protocol",
-          "minutes": 85
-        },
-        {
-          "game": "Persona 4 Arena Ultimax",
-          "minutes": 83
-        },
-        {
-          "game": "MOBILE SUIT GUNDAM BATTLE OPERATION 2",
-          "minutes": 37
-        },
-        {
-          "game": "Capcom Fighting Collection",
-          "minutes": 27
-        },
-        {
-          "game": "Street Fighter™ 6",
-          "minutes": 21
-        },
-        {
-          "game": "Resident Evil 2 (1998)",
-          "minutes": 18
-        },
-        {
-          "game": "Call of Duty® Black Ops 7",
-          "minutes": 3
-        },
-        {
-          "game": "MISERY",
-          "minutes": 3
-        },
-        {
-          "game": "Call of Duty: Black Ops 7",
-          "minutes": 2
-        },
-        {
-          "game": "StarWard",
-          "minutes": 1
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-05-06",
       "end_date": "2026-05-06",
       "items": [
@@ -2302,11 +2064,27 @@
       "items": [
         {
           "game": "DNF Duel",
-          "minutes": 127
+          "minutes": 592
         },
         {
           "game": "Phantom Breaker: Omnia",
-          "minutes": 11
+          "minutes": 172
+        },
+        {
+          "game": "Strinova",
+          "minutes": 65
+        },
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 43
+        },
+        {
+          "game": "Koihime Enbu RyoRaiRai",
+          "minutes": 25
+        },
+        {
+          "game": "Touhou Hisoutensoku: Choudokyuu Ginyoru no Nazo wo Oe",
+          "minutes": 3
         },
         {
           "game": "Apewar",
@@ -2315,6 +2093,21 @@
         {
           "game": "Mirage Feathers",
           "minutes": 1
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-05-12",
+      "end_date": "2026-05-12",
+      "items": [
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 60
+        },
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 42
         }
       ]
     }
