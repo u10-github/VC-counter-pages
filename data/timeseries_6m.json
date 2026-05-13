@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T01:00:00+09:00",
+  "generated_at": "2026-05-14T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1724,81 +1724,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-05-07",
-      "end_date": "2026-05-07",
-      "items": [
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 964
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 438
-        },
-        {
-          "game": "Neverness to Everness",
-          "minutes": 299
-        },
-        {
-          "game": "DNF Duel",
-          "minutes": 154
-        },
-        {
-          "game": "ARKNIGHTS: ENDFIELD",
-          "minutes": 152
-        },
-        {
-          "game": "WORLD HEROES PERFECT",
-          "minutes": 134
-        },
-        {
-          "game": "MapleStory",
-          "minutes": 94
-        },
-        {
-          "game": "Strinova",
-          "minutes": 94
-        },
-        {
-          "game": "R-Type Dimensions EX",
-          "minutes": 77
-        },
-        {
-          "game": "MISERY",
-          "minutes": 55
-        },
-        {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 39
-        },
-        {
-          "game": "Zenless Zone Zero",
-          "minutes": 36
-        },
-        {
-          "game": "Forza Horizon 4",
-          "minutes": 24
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 20
-        },
-        {
-          "game": "R-TYPE DX: Music Encore",
-          "minutes": 18
-        },
-        {
-          "game": "原神",
-          "minutes": 17
-        },
-        {
-          "game": "Grand Theft Auto III",
-          "minutes": 6
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-05-08",
       "end_date": "2026-05-08",
       "items": [
@@ -2070,12 +1995,63 @@
       "end_date": "2026-05-13",
       "items": [
         {
+          "game": "DNF Duel",
+          "minutes": 468
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 236
+        },
+        {
           "game": "Sakura Arms ~Radiant Duels~ Demo",
-          "minutes": 113
+          "minutes": 197
+        },
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 132
+        },
+        {
+          "game": "Backpack Battles",
+          "minutes": 61
+        },
+        {
+          "game": "Overwatch",
+          "minutes": 46
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 43
         },
         {
           "game": "Street Fighter™ 6",
           "minutes": 41
+        },
+        {
+          "game": "MapleStory",
+          "minutes": 35
+        },
+        {
+          "game": "Strinova",
+          "minutes": 13
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-05-14",
+      "end_date": "2026-05-14",
+      "items": [
+        {
+          "game": "DNF Duel",
+          "minutes": 263
+        },
+        {
+          "game": "MapleStory",
+          "minutes": 60
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 27
         }
       ]
     }
