@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14T01:00:00+09:00",
+  "generated_at": "2026-05-15T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1724,77 +1724,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-05-08",
-      "end_date": "2026-05-08",
-      "items": [
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 343
-        },
-        {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 291
-        },
-        {
-          "game": "BlazBlue Centralfiction",
-          "minutes": 269
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 221
-        },
-        {
-          "game": "DNF Duel",
-          "minutes": 156
-        },
-        {
-          "game": "Neverness to Everness",
-          "minutes": 144
-        },
-        {
-          "game": "Shadow Prisoner",
-          "minutes": 101
-        },
-        {
-          "game": "Strinova",
-          "minutes": 63
-        },
-        {
-          "game": "R-Type Dimensions EX",
-          "minutes": 56
-        },
-        {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 45
-        },
-        {
-          "game": "Fatal Fury: City of the Wolves",
-          "minutes": 31
-        },
-        {
-          "game": "WORLD HEROES PERFECT",
-          "minutes": 31
-        },
-        {
-          "game": "ARKNIGHTS: ENDFIELD",
-          "minutes": 21
-        },
-        {
-          "game": "Fantasy Strike",
-          "minutes": 21
-        },
-        {
-          "game": "2XKO",
-          "minutes": 19
-        },
-        {
-          "game": "BlazBlue: Central Fiction",
-          "minutes": 1
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-05-09",
       "end_date": "2026-05-09",
       "items": [
@@ -2043,15 +1972,54 @@
       "items": [
         {
           "game": "DNF Duel",
-          "minutes": 263
+          "minutes": 809
+        },
+        {
+          "game": "BlazBlue Centralfiction",
+          "minutes": 405
         },
         {
           "game": "MapleStory",
-          "minutes": 60
+          "minutes": 161
+        },
+        {
+          "game": "FINAL FANTASY XIV ONLINE",
+          "minutes": 55
         },
         {
           "game": "Guilty Gear: Strive",
-          "minutes": 27
+          "minutes": 30
+        },
+        {
+          "game": "Strinova",
+          "minutes": 30
+        },
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 25
+        },
+        {
+          "game": "ARKNIGHTS: ENDFIELD",
+          "minutes": 13
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-05-15",
+      "end_date": "2026-05-15",
+      "items": [
+        {
+          "game": "DNF Duel",
+          "minutes": 147
+        },
+        {
+          "game": "MapleStory",
+          "minutes": 59
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 54
         }
       ]
     }
