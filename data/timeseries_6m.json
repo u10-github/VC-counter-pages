@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T01:00:00+09:00",
+  "generated_at": "2026-05-17T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1724,57 +1724,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-05-10",
-      "end_date": "2026-05-10",
-      "items": [
-        {
-          "game": "Wuthering Waves",
-          "minutes": 313
-        },
-        {
-          "game": "DNF Duel",
-          "minutes": 144
-        },
-        {
-          "game": "Neverness to Everness",
-          "minutes": 116
-        },
-        {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 107
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 82
-        },
-        {
-          "game": "Strinova",
-          "minutes": 62
-        },
-        {
-          "game": "ARKNIGHTS: ENDFIELD",
-          "minutes": 41
-        },
-        {
-          "game": "Overwatch",
-          "minutes": 27
-        },
-        {
-          "game": "StarWard",
-          "minutes": 25
-        },
-        {
-          "game": "Duelists of Eden",
-          "minutes": 19
-        },
-        {
-          "game": "Street Fighter™ 6",
-          "minutes": 11
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-05-11",
       "end_date": "2026-05-11",
       "items": [
@@ -1990,10 +1939,32 @@
       "end_date": "2026-05-16",
       "items": [
         {
+          "game": "DNF DUEL",
+          "minutes": 164
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 99
+        },
+        {
+          "game": "MapleStory",
+          "minutes": 91
+        },
+        {
+          "game": "DNF Duel",
+          "minutes": 75
+        },
+        {
           "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 18
+          "minutes": 66
         }
       ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-05-17",
+      "end_date": "2026-05-17",
+      "items": []
     }
   ]
 }
