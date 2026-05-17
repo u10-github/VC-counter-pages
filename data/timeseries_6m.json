@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T01:00:00+09:00",
+  "generated_at": "2026-05-18T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1723,33 +1723,113 @@
       ]
     },
     {
-      "bucket_type": "day",
+      "bucket_type": "week",
       "start_date": "2026-05-11",
-      "end_date": "2026-05-11",
+      "end_date": "2026-05-17",
       "items": [
         {
           "game": "DNF Duel",
-          "minutes": 592
+          "minutes": 2235
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 947
         },
         {
           "game": "Phantom Breaker: Omnia",
-          "minutes": 172
+          "minutes": 667
         },
         {
-          "game": "Strinova",
-          "minutes": 65
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 570
+        },
+        {
+          "game": "BlazBlue Centralfiction",
+          "minutes": 405
+        },
+        {
+          "game": "MapleStory",
+          "minutes": 361
+        },
+        {
+          "game": "Street Fighter™ 6",
+          "minutes": 324
+        },
+        {
+          "game": "Sakura Arms ~Radiant Duels~ Demo",
+          "minutes": 290
         },
         {
           "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 43
+          "minutes": 251
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 222
+        },
+        {
+          "game": "DNF DUEL",
+          "minutes": 164
+        },
+        {
+          "game": "Strinova",
+          "minutes": 148
+        },
+        {
+          "game": "Overwatch",
+          "minutes": 111
+        },
+        {
+          "game": "Backpack Battles",
+          "minutes": 65
+        },
+        {
+          "game": "ARKNIGHTS: ENDFIELD",
+          "minutes": 57
         },
         {
           "game": "Koihime Enbu RyoRaiRai",
+          "minutes": 56
+        },
+        {
+          "game": "FINAL FANTASY XIV ONLINE",
+          "minutes": 55
+        },
+        {
+          "game": "MELTY BLOOD: TYPE LUMINA",
+          "minutes": 41
+        },
+        {
+          "game": "Yu-Gi-Oh! Master Duel",
+          "minutes": 33
+        },
+        {
+          "game": "StarWard",
+          "minutes": 31
+        },
+        {
+          "game": "Fatal Fury: City of the Wolves",
+          "minutes": 27
+        },
+        {
+          "game": "Neverness to Everness",
           "minutes": 25
+        },
+        {
+          "game": "原神",
+          "minutes": 17
+        },
+        {
+          "game": "NARAKA: BLADEPOINT",
+          "minutes": 6
         },
         {
           "game": "Touhou Hisoutensoku: Choudokyuu Ginyoru no Nazo wo Oe",
           "minutes": 3
+        },
+        {
+          "game": "Genshin Impact",
+          "minutes": 2
         },
         {
           "game": "Apewar",
@@ -1964,7 +2044,75 @@
       "bucket_type": "day",
       "start_date": "2026-05-17",
       "end_date": "2026-05-17",
-      "items": []
+      "items": [
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 504
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 164
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 137
+        },
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 60
+        },
+        {
+          "game": "MELTY BLOOD: TYPE LUMINA",
+          "minutes": 41
+        },
+        {
+          "game": "ARKNIGHTS: ENDFIELD",
+          "minutes": 37
+        },
+        {
+          "game": "Yu-Gi-Oh! Master Duel",
+          "minutes": 33
+        },
+        {
+          "game": "Fatal Fury: City of the Wolves",
+          "minutes": 27
+        },
+        {
+          "game": "Neverness to Everness",
+          "minutes": 25
+        },
+        {
+          "game": "Overwatch",
+          "minutes": 24
+        },
+        {
+          "game": "Strinova",
+          "minutes": 21
+        },
+        {
+          "game": "NARAKA: BLADEPOINT",
+          "minutes": 6
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-05-18",
+      "end_date": "2026-05-18",
+      "items": [
+        {
+          "game": "Wuthering Waves",
+          "minutes": 113
+        },
+        {
+          "game": "Neverness to Everness",
+          "minutes": 7
+        },
+        {
+          "game": "Overwatch",
+          "minutes": 1
+        }
+      ]
     }
   ]
 }
