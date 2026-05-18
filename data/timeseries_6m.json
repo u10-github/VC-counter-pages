@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18T01:00:00+09:00",
+  "generated_at": "2026-05-19T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1084,149 +1084,6 @@
     },
     {
       "bucket_type": "week",
-      "start_date": "2026-04-13",
-      "end_date": "2026-04-19",
-      "items": [
-        {
-          "game": "DNF Duel",
-          "minutes": 2896
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 1724
-        },
-        {
-          "game": "Arknights: Endfield",
-          "minutes": 1371
-        },
-        {
-          "game": "Strinova",
-          "minutes": 826
-        },
-        {
-          "game": "Sakura Arms ~Radiant Duels~ Demo",
-          "minutes": 264
-        },
-        {
-          "game": "Starward",
-          "minutes": 180
-        },
-        {
-          "game": "Skullgirls",
-          "minutes": 164
-        },
-        {
-          "game": "Puyo Puyo Champions",
-          "minutes": 162
-        },
-        {
-          "game": "Aquapazza: Aquaplus Dream Match",
-          "minutes": 145
-        },
-        {
-          "game": "Mobile Suit Gundam Battle Operation 2",
-          "minutes": 134
-        },
-        {
-          "game": "Under Night In-Birth II Sys:Celes",
-          "minutes": 134
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 114
-        },
-        {
-          "game": "Fatal Fury: City of the Wolves",
-          "minutes": 112
-        },
-        {
-          "game": "Overwatch",
-          "minutes": 109
-        },
-        {
-          "game": "Guilty Gear 2: Overture",
-          "minutes": 89
-        },
-        {
-          "game": "Rainbow Six Siege",
-          "minutes": 76
-        },
-        {
-          "game": "Street Fighter™ 6",
-          "minutes": 62
-        },
-        {
-          "game": "Staffer Case - Case1 & 2",
-          "minutes": 61
-        },
-        {
-          "game": "Rift of the NecroDancer",
-          "minutes": 60
-        },
-        {
-          "game": "Guilty Gear XX Accent Core Plus R",
-          "minutes": 49
-        },
-        {
-          "game": "Puyo Puyo Tetris 2",
-          "minutes": 47
-        },
-        {
-          "game": "MapleStory",
-          "minutes": 46
-        },
-        {
-          "game": "Mortal Kombat 1",
-          "minutes": 42
-        },
-        {
-          "game": "Guilty Gear Xrd: Revelator",
-          "minutes": 40
-        },
-        {
-          "game": "Guns and Nuns: Storming Hell",
-          "minutes": 37
-        },
-        {
-          "game": "Persona5: The Phantom X",
-          "minutes": 32
-        },
-        {
-          "game": "VRChat",
-          "minutes": 29
-        },
-        {
-          "game": "Call of Duty® Black Ops 7",
-          "minutes": 20
-        },
-        {
-          "game": "One Turn Kill",
-          "minutes": 20
-        },
-        {
-          "game": "Tetris: The Grand Master 4 - Absolute Eye",
-          "minutes": 17
-        },
-        {
-          "game": "MGCM Combat Edition",
-          "minutes": 15
-        },
-        {
-          "game": "Melty Blood Actress Again Current Code",
-          "minutes": 6
-        },
-        {
-          "game": "Melty Blood: Type Lumina",
-          "minutes": 5
-        },
-        {
-          "game": "Naraka: Bladepoint",
-          "minutes": 1
-        }
-      ]
-    },
-    {
-      "bucket_type": "week",
       "start_date": "2026-04-20",
       "end_date": "2026-04-26",
       "items": [
@@ -1843,57 +1700,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-05-12",
-      "end_date": "2026-05-12",
-      "items": [
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 364
-        },
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 338
-        },
-        {
-          "game": "Street Fighter™ 6",
-          "minutes": 283
-        },
-        {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 148
-        },
-        {
-          "game": "Sakura Arms ~Radiant Duels~ Demo",
-          "minutes": 93
-        },
-        {
-          "game": "StarWard",
-          "minutes": 31
-        },
-        {
-          "game": "原神",
-          "minutes": 17
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 15
-        },
-        {
-          "game": "ARKNIGHTS: ENDFIELD",
-          "minutes": 7
-        },
-        {
-          "game": "Genshin Impact",
-          "minutes": 2
-        },
-        {
-          "game": "Strinova",
-          "minutes": 1
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-05-13",
       "end_date": "2026-05-13",
       "items": [
@@ -2101,8 +1907,32 @@
       "end_date": "2026-05-18",
       "items": [
         {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 270
+        },
+        {
           "game": "Wuthering Waves",
-          "minutes": 113
+          "minutes": 171
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 51
+        },
+        {
+          "game": "Strinova",
+          "minutes": 27
+        },
+        {
+          "game": "DNF Duel",
+          "minutes": 20
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 18
+        },
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 10
         },
         {
           "game": "Neverness to Everness",
@@ -2111,6 +1941,25 @@
         {
           "game": "Overwatch",
           "minutes": 1
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-05-19",
+      "end_date": "2026-05-19",
+      "items": [
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 140
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 120
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 7
         }
       ]
     }
