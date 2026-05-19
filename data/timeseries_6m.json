@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T01:00:00+09:00",
+  "generated_at": "2026-05-20T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1700,53 +1700,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-05-13",
-      "end_date": "2026-05-13",
-      "items": [
-        {
-          "game": "DNF Duel",
-          "minutes": 468
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 236
-        },
-        {
-          "game": "Sakura Arms ~Radiant Duels~ Demo",
-          "minutes": 197
-        },
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 132
-        },
-        {
-          "game": "Backpack Battles",
-          "minutes": 61
-        },
-        {
-          "game": "Overwatch",
-          "minutes": 46
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 43
-        },
-        {
-          "game": "Street Fighter™ 6",
-          "minutes": 41
-        },
-        {
-          "game": "MapleStory",
-          "minutes": 35
-        },
-        {
-          "game": "Strinova",
-          "minutes": 13
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-05-14",
       "end_date": "2026-05-14",
       "items": [
@@ -1950,16 +1903,79 @@
       "end_date": "2026-05-19",
       "items": [
         {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 140
+          "game": "Guilty Gear: Strive",
+          "minutes": 850
         },
         {
-          "game": "Guilty Gear: Strive",
-          "minutes": 120
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 617
+        },
+        {
+          "game": "TOHOTOPIA",
+          "minutes": 183
+        },
+        {
+          "game": "DNF DUEL",
+          "minutes": 152
+        },
+        {
+          "game": "Sakura Arms ~Radiant Duels~ Demo",
+          "minutes": 138
         },
         {
           "game": "Wuthering Waves",
-          "minutes": 7
+          "minutes": 104
+        },
+        {
+          "game": "Strinova",
+          "minutes": 41
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 40
+        },
+        {
+          "game": "Overwatch",
+          "minutes": 35
+        },
+        {
+          "game": "Neverness to Everness",
+          "minutes": 25
+        },
+        {
+          "game": "StarWard",
+          "minutes": 23
+        },
+        {
+          "game": "ARKNIGHTS: ENDFIELD",
+          "minutes": 18
+        },
+        {
+          "game": "Aaero",
+          "minutes": 2
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-05-20",
+      "end_date": "2026-05-20",
+      "items": [
+        {
+          "game": "Strinova",
+          "minutes": 120
+        },
+        {
+          "game": "Sakura Arms ~Radiant Duels~ Demo",
+          "minutes": 114
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 110
+        },
+        {
+          "game": "DNF DUEL",
+          "minutes": 60
         }
       ]
     }
