@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T01:00:00+09:00",
+  "generated_at": "2026-05-22T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1700,41 +1700,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-05-15",
-      "end_date": "2026-05-15",
-      "items": [
-        {
-          "game": "DNF Duel",
-          "minutes": 291
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 81
-        },
-        {
-          "game": "MapleStory",
-          "minutes": 74
-        },
-        {
-          "game": "Overwatch",
-          "minutes": 41
-        },
-        {
-          "game": "Koihime Enbu RyoRaiRai",
-          "minutes": 31
-        },
-        {
-          "game": "Strinova",
-          "minutes": 18
-        },
-        {
-          "game": "Backpack Battles",
-          "minutes": 4
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-05-16",
       "end_date": "2026-05-16",
       "items": [
@@ -1990,12 +1955,75 @@
       "end_date": "2026-05-21",
       "items": [
         {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 333
+        },
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 322
+        },
+        {
           "game": "Guilty Gear: Strive",
-          "minutes": 180
+          "minutes": 301
+        },
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 241
         },
         {
           "game": "DNF DUEL",
-          "minutes": 136
+          "minutes": 137
+        },
+        {
+          "game": "Microsoft​ Edge",
+          "minutes": 102
+        },
+        {
+          "game": "MapleStory",
+          "minutes": 84
+        },
+        {
+          "game": "Strinova",
+          "minutes": 23
+        },
+        {
+          "game": "Neverness to Everness",
+          "minutes": 4
+        },
+        {
+          "game": "Sakura Arms ~Radiant Duels~ Demo",
+          "minutes": 1
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-05-22",
+      "end_date": "2026-05-22",
+      "items": [
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 125
+        },
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 60
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 58
+        },
+        {
+          "game": "Strinova",
+          "minutes": 53
+        },
+        {
+          "game": "Sakura Arms ~Radiant Duels~ Demo",
+          "minutes": 50
+        },
+        {
+          "game": "アラド戦記",
+          "minutes": 3
         }
       ]
     }
