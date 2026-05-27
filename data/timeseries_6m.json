@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T01:00:00+09:00",
+  "generated_at": "2026-05-28T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1644,53 +1644,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-05-21",
-      "end_date": "2026-05-21",
-      "items": [
-        {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 333
-        },
-        {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 322
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 301
-        },
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 241
-        },
-        {
-          "game": "DNF DUEL",
-          "minutes": 137
-        },
-        {
-          "game": "Microsoft​ Edge",
-          "minutes": 102
-        },
-        {
-          "game": "MapleStory",
-          "minutes": 84
-        },
-        {
-          "game": "Strinova",
-          "minutes": 23
-        },
-        {
-          "game": "Neverness to Everness",
-          "minutes": 4
-        },
-        {
-          "game": "Sakura Arms ~Radiant Duels~ Demo",
-          "minutes": 1
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-05-22",
       "end_date": "2026-05-22",
       "items": [
@@ -1987,23 +1940,66 @@
       "items": [
         {
           "game": "DNF Duel",
-          "minutes": 72
+          "minutes": 691
         },
         {
           "game": "Phantom Breaker: Omnia",
-          "minutes": 64
+          "minutes": 206
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 158
+        },
+        {
+          "game": "Strinova",
+          "minutes": 131
         },
         {
           "game": "Neverness to Everness",
-          "minutes": 60
+          "minutes": 113
+        },
+        {
+          "game": "mtch.gg",
+          "minutes": 48
         },
         {
           "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
           "minutes": 40
         },
         {
+          "game": "Guilty Gear: Strive",
+          "minutes": 26
+        },
+        {
+          "game": "Star Wars Battlefront II: Celebration Edition",
+          "minutes": 24
+        },
+        {
+          "game": "ARKNIGHTS: ENDFIELD",
+          "minutes": 7
+        },
+        {
           "game": "Sakura Arms ~Radiant Duels~ Demo",
           "minutes": 4
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-05-28",
+      "end_date": "2026-05-28",
+      "items": [
+        {
+          "game": "DNF Duel",
+          "minutes": 287
+        },
+        {
+          "game": "Strinova",
+          "minutes": 158
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 20
         }
       ]
     }
