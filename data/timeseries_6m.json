@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T01:00:00+09:00",
+  "generated_at": "2026-05-30T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1638,65 +1638,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-05-23",
-      "end_date": "2026-05-23",
-      "items": [
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 1314
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 527
-        },
-        {
-          "game": "Neverness to Everness",
-          "minutes": 267
-        },
-        {
-          "game": "Sakura Arms ~Radiant Duels~ Demo",
-          "minutes": 184
-        },
-        {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 164
-        },
-        {
-          "game": "ARKNIGHTS: ENDFIELD",
-          "minutes": 23
-        },
-        {
-          "game": "NARAKA: BLADEPOINT",
-          "minutes": 23
-        },
-        {
-          "game": "StarWard",
-          "minutes": 22
-        },
-        {
-          "game": "DNF Duel",
-          "minutes": 16
-        },
-        {
-          "game": "Fatal Fury: City of the Wolves",
-          "minutes": 13
-        },
-        {
-          "game": "Overwatch",
-          "minutes": 12
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 12
-        },
-        {
-          "game": "Strinova",
-          "minutes": 2
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-05-24",
       "end_date": "2026-05-24",
       "items": [
@@ -1984,20 +1925,111 @@
       "end_date": "2026-05-29",
       "items": [
         {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 120
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 569
         },
         {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 120
+          "game": "TEKKEN 8",
+          "minutes": 346
+        },
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 330
+        },
+        {
+          "game": "The Rumble Fish +",
+          "minutes": 262
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 148
+        },
+        {
+          "game": "Yu-Gi-Oh! Master Duel",
+          "minutes": 116
+        },
+        {
+          "game": "Strinova",
+          "minutes": 99
+        },
+        {
+          "game": "VRChat",
+          "minutes": 92
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 88
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 74
+        },
+        {
+          "game": "Dragon Quest X: Inishie no Ryuu no Denshou Online",
+          "minutes": 41
+        },
+        {
+          "game": "FANTASY LIFE i: The Girl Who Steals Time",
+          "minutes": 39
+        },
+        {
+          "game": "DNF Duel",
+          "minutes": 31
         },
         {
           "game": "Sakura Arms ~Radiant Duels~ Demo",
           "minutes": 27
         },
         {
-          "game": "Wuthering Waves",
+          "game": "MELTY BLOOD: TYPE LUMINA",
+          "minutes": 18
+        },
+        {
+          "game": "MTGA",
+          "minutes": 16
+        },
+        {
+          "game": "ARKNIGHTS: ENDFIELD",
+          "minutes": 15
+        },
+        {
+          "game": "Million Arthur: Arcana Blood",
+          "minutes": 12
+        },
+        {
+          "game": "StarWard",
+          "minutes": 12
+        },
+        {
+          "game": "Overwatch",
           "minutes": 3
+        },
+        {
+          "game": "Desktop Mate",
+          "minutes": 2
+        },
+        {
+          "game": "Neverness to Everness",
+          "minutes": 2
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-05-30",
+      "end_date": "2026-05-30",
+      "items": [
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 180
+        },
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 120
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 60
         }
       ]
     }
