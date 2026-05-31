@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T01:00:00+09:00",
+  "generated_at": "2026-06-01T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1083,47 +1083,47 @@
       "items": [
         {
           "game": "Phantom Breaker: Omnia",
-          "minutes": 10271
+          "minutes": 10498
         },
         {
           "game": "DNF Duel",
-          "minutes": 8441
+          "minutes": 8649
         },
         {
           "game": "Guilty Gear: Strive",
-          "minutes": 5149
+          "minutes": 5617
         },
         {
           "game": "Wuthering Waves",
-          "minutes": 3737
+          "minutes": 3746
         },
         {
           "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 2698
-        },
-        {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 2426
+          "minutes": 2922
         },
         {
           "game": "Strinova",
-          "minutes": 2349
+          "minutes": 2632
         },
         {
           "game": "Sakura Arms ~Radiant Duels~ Demo",
-          "minutes": 2309
+          "minutes": 2536
+        },
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 2462
         },
         {
           "game": "WORLD HEROES PERFECT",
           "minutes": 2065
         },
         {
-          "game": "MapleStory",
-          "minutes": 1513
+          "game": "Neverness to Everness",
+          "minutes": 1525
         },
         {
-          "game": "Neverness to Everness",
-          "minutes": 1350
+          "game": "MapleStory",
+          "minutes": 1513
         },
         {
           "game": "BlazBlue Centralfiction",
@@ -1154,12 +1154,16 @@
           "minutes": 368
         },
         {
+          "game": "Ultimate Marvel vs. Capcom 3",
+          "minutes": 298
+        },
+        {
           "game": "TOHOTOPIA",
           "minutes": 296
         },
         {
           "game": "StarWard",
-          "minutes": 287
+          "minutes": 291
         },
         {
           "game": "Overwatch",
@@ -1206,6 +1210,10 @@
           "minutes": 101
         },
         {
+          "game": "Street Fighter 6",
+          "minutes": 92
+        },
+        {
           "game": "VRChat",
           "minutes": 92
         },
@@ -1224,10 +1232,6 @@
         {
           "game": "Backpack Battles",
           "minutes": 84
-        },
-        {
-          "game": "Street Fighter 6",
-          "minutes": 82
         },
         {
           "game": "アラド戦記",
@@ -1346,6 +1350,10 @@
           "minutes": 9
         },
         {
+          "game": "ゼンレスゾーンゼロ",
+          "minutes": 7
+        },
+        {
           "game": "Grand Theft Auto III",
           "minutes": 6
         },
@@ -1355,10 +1363,6 @@
         },
         {
           "game": "Hellsinker.",
-          "minutes": 4
-        },
-        {
-          "game": "ゼンレスゾーンゼロ",
           "minutes": 4
         },
         {
@@ -1391,10 +1395,6 @@
         },
         {
           "game": "Mirage Feathers",
-          "minutes": 1
-        },
-        {
-          "game": "Ultimate Marvel vs. Capcom 3",
           "minutes": 1
         }
       ]
@@ -1960,45 +1960,129 @@
       ]
     },
     {
-      "bucket_type": "day",
+      "bucket_type": "week",
       "start_date": "2026-05-25",
-      "end_date": "2026-05-25",
+      "end_date": "2026-05-31",
       "items": [
         {
           "game": "Phantom Breaker: Omnia",
-          "minutes": 730
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 629
-        },
-        {
-          "game": "Sakura Arms ~Radiant Duels~ Demo",
-          "minutes": 162
+          "minutes": 2825
         },
         {
           "game": "DNF Duel",
-          "minutes": 138
+          "minutes": 1983
         },
         {
-          "game": "ARKNIGHTS: ENDFIELD",
-          "minutes": 52
-        },
-        {
-          "game": "アラド戦記",
-          "minutes": 43
+          "game": "Guilty Gear: Strive",
+          "minutes": 1281
         },
         {
           "game": "Strinova",
-          "minutes": 35
+          "minutes": 1055
         },
         {
-          "game": "StarWard",
-          "minutes": 24
+          "game": "Sakura Arms ~Radiant Duels~ Demo",
+          "minutes": 1033
         },
         {
           "game": "Wuthering Waves",
-          "minutes": 4
+          "minutes": 843
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 645
+        },
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 514
+        },
+        {
+          "game": "Neverness to Everness",
+          "minutes": 464
+        },
+        {
+          "game": "TEKKEN 8",
+          "minutes": 368
+        },
+        {
+          "game": "Ultimate Marvel vs. Capcom 3",
+          "minutes": 298
+        },
+        {
+          "game": "The Rumble Fish +",
+          "minutes": 262
+        },
+        {
+          "game": "ARKNIGHTS: ENDFIELD",
+          "minutes": 123
+        },
+        {
+          "game": "Yu-Gi-Oh! Master Duel",
+          "minutes": 116
+        },
+        {
+          "game": "Street Fighter 6",
+          "minutes": 92
+        },
+        {
+          "game": "VRChat",
+          "minutes": 92
+        },
+        {
+          "game": "アラド戦記",
+          "minutes": 60
+        },
+        {
+          "game": "FANTASY LIFE i: The Girl Who Steals Time",
+          "minutes": 58
+        },
+        {
+          "game": "mtch.gg",
+          "minutes": 49
+        },
+        {
+          "game": "Dragon Quest X: Inishie no Ryuu no Denshou Online",
+          "minutes": 41
+        },
+        {
+          "game": "StarWard",
+          "minutes": 40
+        },
+        {
+          "game": "Ultra Fight Da! Kyanta 2",
+          "minutes": 34
+        },
+        {
+          "game": "MELTY BLOOD: TYPE LUMINA",
+          "minutes": 24
+        },
+        {
+          "game": "Star Wars Battlefront II: Celebration Edition",
+          "minutes": 24
+        },
+        {
+          "game": "MTGA",
+          "minutes": 16
+        },
+        {
+          "game": "Million Arthur: Arcana Blood",
+          "minutes": 12
+        },
+        {
+          "game": "Black Desert",
+          "minutes": 5
+        },
+        {
+          "game": "Overwatch",
+          "minutes": 3
+        },
+        {
+          "game": "ゼンレスゾーンゼロ",
+          "minutes": 3
+        },
+        {
+          "game": "Desktop Mate",
+          "minutes": 2
         }
       ]
     },
@@ -2315,28 +2399,79 @@
       "end_date": "2026-05-31",
       "items": [
         {
-          "game": "DNF Duel",
-          "minutes": 158
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 102
-        },
-        {
-          "game": "Street Fighter 6",
-          "minutes": 60
-        },
-        {
           "game": "Guilty Gear: Strive",
-          "minutes": 30
+          "minutes": 498
+        },
+        {
+          "game": "DNF Duel",
+          "minutes": 366
+        },
+        {
+          "game": "Ultimate Marvel vs. Capcom 3",
+          "minutes": 297
+        },
+        {
+          "game": "Strinova",
+          "minutes": 283
         },
         {
           "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 8
+          "minutes": 232
+        },
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 227
+        },
+        {
+          "game": "Sakura Arms ~Radiant Duels~ Demo",
+          "minutes": 227
+        },
+        {
+          "game": "Neverness to Everness",
+          "minutes": 175
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 111
+        },
+        {
+          "game": "Street Fighter 6",
+          "minutes": 70
+        },
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 36
+        },
+        {
+          "game": "StarWard",
+          "minutes": 4
+        },
+        {
+          "game": "ゼンレスゾーンゼロ",
+          "minutes": 3
         },
         {
           "game": "mtch.gg",
           "minutes": 1
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-01",
+      "items": [
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 120
+        },
+        {
+          "game": "Sakura Arms ~Radiant Duels~ Demo",
+          "minutes": 75
+        },
+        {
+          "game": "Ultimate Marvel vs. Capcom 3",
+          "minutes": 60
         }
       ]
     }
