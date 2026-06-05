@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T01:00:00+09:00",
+  "generated_at": "2026-06-06T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1961,57 +1961,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-05-30",
-      "end_date": "2026-05-30",
-      "items": [
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 372
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 261
-        },
-        {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 219
-        },
-        {
-          "game": "DNF Duel",
-          "minutes": 95
-        },
-        {
-          "game": "Neverness to Everness",
-          "minutes": 41
-        },
-        {
-          "game": "Strinova",
-          "minutes": 33
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 30
-        },
-        {
-          "game": "Street Fighter 6",
-          "minutes": 22
-        },
-        {
-          "game": "TEKKEN 8",
-          "minutes": 22
-        },
-        {
-          "game": "ARKNIGHTS: ENDFIELD",
-          "minutes": 7
-        },
-        {
-          "game": "MELTY BLOOD: TYPE LUMINA",
-          "minutes": 6
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-05-31",
       "end_date": "2026-05-31",
       "items": [
@@ -2303,16 +2252,39 @@
       "end_date": "2026-06-05",
       "items": [
         {
-          "game": "Guilty Gear: Strive",
-          "minutes": 60
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 140
         },
         {
           "game": "Phantom Breaker: Omnia",
-          "minutes": 60
+          "minutes": 104
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 85
+        },
+        {
+          "game": "ARKNIGHTS: ENDFIELD",
+          "minutes": 16
         },
         {
           "game": "Strinova",
-          "minutes": 10
+          "minutes": 14
+        },
+        {
+          "game": "StarWard",
+          "minutes": 3
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-06-06",
+      "end_date": "2026-06-06",
+      "items": [
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 120
         }
       ]
     }
