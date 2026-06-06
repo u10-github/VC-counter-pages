@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T01:00:00+09:00",
+  "generated_at": "2026-06-07T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1961,69 +1961,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-05-31",
-      "end_date": "2026-05-31",
-      "items": [
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 498
-        },
-        {
-          "game": "DNF Duel",
-          "minutes": 366
-        },
-        {
-          "game": "Ultimate Marvel vs. Capcom 3",
-          "minutes": 297
-        },
-        {
-          "game": "Strinova",
-          "minutes": 283
-        },
-        {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 232
-        },
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 227
-        },
-        {
-          "game": "Sakura Arms ~Radiant Duels~ Demo",
-          "minutes": 227
-        },
-        {
-          "game": "Neverness to Everness",
-          "minutes": 175
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 111
-        },
-        {
-          "game": "Street Fighter 6",
-          "minutes": 70
-        },
-        {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 36
-        },
-        {
-          "game": "StarWard",
-          "minutes": 4
-        },
-        {
-          "game": "ゼンレスゾーンゼロ",
-          "minutes": 3
-        },
-        {
-          "game": "mtch.gg",
-          "minutes": 1
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-06-01",
       "end_date": "2026-06-01",
       "items": [
@@ -2283,8 +2220,59 @@
       "end_date": "2026-06-06",
       "items": [
         {
+          "game": "Guilty Gear: Strive",
+          "minutes": 498
+        },
+        {
+          "game": "Ultimate Marvel vs. Capcom 3",
+          "minutes": 338
+        },
+        {
           "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 120
+          "minutes": 247
+        },
+        {
+          "game": "ARKNIGHTS: ENDFIELD",
+          "minutes": 144
+        },
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 102
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 101
+        },
+        {
+          "game": "Neverness to Everness",
+          "minutes": 34
+        },
+        {
+          "game": "MELTY BLOOD: TYPE LUMINA",
+          "minutes": 17
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-06-07",
+      "end_date": "2026-06-07",
+      "items": [
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 134
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 60
+        },
+        {
+          "game": "ARKNIGHTS: ENDFIELD",
+          "minutes": 17
+        },
+        {
+          "game": "MELTY BLOOD: TYPE LUMINA",
+          "minutes": 15
         }
       ]
     }
