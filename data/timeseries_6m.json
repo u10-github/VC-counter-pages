@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T01:00:00+09:00",
+  "generated_at": "2026-06-10T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1893,61 +1893,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-06-03",
-      "end_date": "2026-06-03",
-      "items": [
-        {
-          "game": "DNF Duel",
-          "minutes": 414
-        },
-        {
-          "game": "Sakura Arms ~Radiant Duels~ Demo",
-          "minutes": 295
-        },
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 145
-        },
-        {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 95
-        },
-        {
-          "game": "Strinova",
-          "minutes": 74
-        },
-        {
-          "game": "Backpack Battles",
-          "minutes": 60
-        },
-        {
-          "game": "アラド戦記",
-          "minutes": 50
-        },
-        {
-          "game": "ARKNIGHTS: ENDFIELD",
-          "minutes": 45
-        },
-        {
-          "game": "TEKKEN 8",
-          "minutes": 26
-        },
-        {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 15
-        },
-        {
-          "game": "Fatal Fury: City of the Wolves",
-          "minutes": 14
-        },
-        {
-          "game": "Guns of Icarus Alliance",
-          "minutes": 10
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-06-04",
       "end_date": "2026-06-04",
       "items": [
@@ -2228,15 +2173,23 @@
       "items": [
         {
           "game": "Phantom Breaker: Omnia",
-          "minutes": 137
-        },
-        {
-          "game": "Neverness to Everness",
-          "minutes": 60
+          "minutes": 460
         },
         {
           "game": "Wuthering Waves",
-          "minutes": 50
+          "minutes": 159
+        },
+        {
+          "game": "Sakura Arms ~Radiant Duels~ Demo",
+          "minutes": 94
+        },
+        {
+          "game": "DNF Duel",
+          "minutes": 83
+        },
+        {
+          "game": "Neverness to Everness",
+          "minutes": 69
         },
         {
           "game": "Strinova",
@@ -2247,8 +2200,27 @@
           "minutes": 17
         },
         {
+          "game": "ARKNIGHTS: ENDFIELD",
+          "minutes": 4
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-06-10",
+      "end_date": "2026-06-10",
+      "items": [
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 120
+        },
+        {
           "game": "DNF Duel",
-          "minutes": 1
+          "minutes": 21
+        },
+        {
+          "game": "Sakura Arms ~Radiant Duels~ Demo",
+          "minutes": 5
         }
       ]
     }
