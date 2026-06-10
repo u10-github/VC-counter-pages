@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T01:00:00+09:00",
+  "generated_at": "2026-06-11T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1893,49 +1893,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-06-04",
-      "end_date": "2026-06-04",
-      "items": [
-        {
-          "game": "Sakura Arms ~Radiant Duels~ Demo",
-          "minutes": 450
-        },
-        {
-          "game": "DNF Duel",
-          "minutes": 359
-        },
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 176
-        },
-        {
-          "game": "The Rumble Fish +",
-          "minutes": 82
-        },
-        {
-          "game": "MapleStory",
-          "minutes": 34
-        },
-        {
-          "game": "Strinova",
-          "minutes": 30
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 29
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 9
-        },
-        {
-          "game": "アラド戦記",
-          "minutes": 2
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-06-05",
       "end_date": "2026-06-05",
       "items": [
@@ -2212,15 +2169,70 @@
       "items": [
         {
           "game": "Phantom Breaker: Omnia",
-          "minutes": 120
+          "minutes": 374
         },
         {
           "game": "DNF Duel",
-          "minutes": 21
+          "minutes": 350
         },
         {
           "game": "Sakura Arms ~Radiant Duels~ Demo",
-          "minutes": 5
+          "minutes": 218
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 196
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 117
+        },
+        {
+          "game": "Strinova",
+          "minutes": 75
+        },
+        {
+          "game": "Dead by Daylight",
+          "minutes": 61
+        },
+        {
+          "game": "Neverness to Everness",
+          "minutes": 27
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-06-11",
+      "end_date": "2026-06-11",
+      "items": [
+        {
+          "game": "Strinova",
+          "minutes": 120
+        },
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 81
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 60
+        },
+        {
+          "game": "DNF Duel",
+          "minutes": 34
+        },
+        {
+          "game": "Dragon Ball: The Breakers",
+          "minutes": 33
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 25
+        },
+        {
+          "game": "Sakura Arms ~Radiant Duels~ Demo",
+          "minutes": 21
         }
       ]
     }
