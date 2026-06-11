@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T01:00:00+09:00",
+  "generated_at": "2026-06-12T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1893,37 +1893,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-06-05",
-      "end_date": "2026-06-05",
-      "items": [
-        {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 140
-        },
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 104
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 85
-        },
-        {
-          "game": "ARKNIGHTS: ENDFIELD",
-          "minutes": 16
-        },
-        {
-          "game": "Strinova",
-          "minutes": 14
-        },
-        {
-          "game": "StarWard",
-          "minutes": 3
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-06-06",
       "end_date": "2026-06-06",
       "items": [
@@ -2207,32 +2176,87 @@
       "end_date": "2026-06-11",
       "items": [
         {
-          "game": "Strinova",
-          "minutes": 120
-        },
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 81
+          "game": "Guilty Gear: Strive",
+          "minutes": 628
         },
         {
           "game": "Wuthering Waves",
-          "minutes": 60
+          "minutes": 393
+        },
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 291
+        },
+        {
+          "game": "Strinova",
+          "minutes": 176
+        },
+        {
+          "game": "ELDEN RING NIGHTREIGN",
+          "minutes": 81
+        },
+        {
+          "game": "Dragon Ball: The Breakers",
+          "minutes": 54
+        },
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 39
         },
         {
           "game": "DNF Duel",
           "minutes": 34
         },
         {
-          "game": "Dragon Ball: The Breakers",
-          "minutes": 33
+          "game": "Atelier Resleriana: The Red Alchemist & The White Guardian",
+          "minutes": 32
         },
         {
-          "game": "Guilty Gear: Strive",
-          "minutes": 25
+          "game": "Astral Party",
+          "minutes": 27
+        },
+        {
+          "game": "Neverness to Everness",
+          "minutes": 26
         },
         {
           "game": "Sakura Arms ~Radiant Duels~ Demo",
           "minutes": 21
+        },
+        {
+          "game": "Dead by Daylight",
+          "minutes": 3
+        },
+        {
+          "game": "StarWard",
+          "minutes": 2
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-06-12",
+      "end_date": "2026-06-12",
+      "items": [
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 120
+        },
+        {
+          "game": "Atelier Resleriana: The Red Alchemist & The White Guardian",
+          "minutes": 60
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 60
+        },
+        {
+          "game": "Rainbow Six Siege",
+          "minutes": 41
+        },
+        {
+          "game": "MOBILE SUIT GUNDAM BATTLE OPERATION 2",
+          "minutes": 8
         }
       ]
     }
