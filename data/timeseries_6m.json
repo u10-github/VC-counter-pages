@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T01:00:00+09:00",
+  "generated_at": "2026-06-13T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1893,45 +1893,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-06-06",
-      "end_date": "2026-06-06",
-      "items": [
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 498
-        },
-        {
-          "game": "Ultimate Marvel vs. Capcom 3",
-          "minutes": 338
-        },
-        {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 247
-        },
-        {
-          "game": "ARKNIGHTS: ENDFIELD",
-          "minutes": 144
-        },
-        {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 102
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 101
-        },
-        {
-          "game": "Neverness to Everness",
-          "minutes": 34
-        },
-        {
-          "game": "MELTY BLOOD: TYPE LUMINA",
-          "minutes": 17
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-06-07",
       "end_date": "2026-06-07",
       "items": [
@@ -2239,24 +2200,67 @@
       "end_date": "2026-06-12",
       "items": [
         {
+          "game": "Wuthering Waves",
+          "minutes": 325
+        },
+        {
           "game": "Phantom Breaker: Omnia",
-          "minutes": 120
+          "minutes": 292
         },
         {
           "game": "Atelier Resleriana: The Red Alchemist & The White Guardian",
-          "minutes": 60
+          "minutes": 86
         },
         {
-          "game": "Wuthering Waves",
-          "minutes": 60
+          "game": "Dead by Daylight",
+          "minutes": 68
         },
         {
           "game": "Rainbow Six Siege",
-          "minutes": 41
+          "minutes": 67
+        },
+        {
+          "game": "Strinova",
+          "minutes": 67
+        },
+        {
+          "game": "Astral Party",
+          "minutes": 60
+        },
+        {
+          "game": "Persona5: The Phantom X",
+          "minutes": 45
+        },
+        {
+          "game": "Samurai Shodown V Special",
+          "minutes": 15
+        },
+        {
+          "game": "ゼンレスゾーンゼロ",
+          "minutes": 13
+        },
+        {
+          "game": "MTGA",
+          "minutes": 12
         },
         {
           "game": "MOBILE SUIT GUNDAM BATTLE OPERATION 2",
           "minutes": 8
+        },
+        {
+          "game": "Neverness to Everness",
+          "minutes": 3
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-06-13",
+      "end_date": "2026-06-13",
+      "items": [
+        {
+          "game": "Wuthering Waves",
+          "minutes": 60
         }
       ]
     }
