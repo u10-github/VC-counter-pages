@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T01:00:00+09:00",
+  "generated_at": "2026-06-14T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1893,97 +1893,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-06-07",
-      "end_date": "2026-06-07",
-      "items": [
-        {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 262
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 215
-        },
-        {
-          "game": "Neverness to Everness",
-          "minutes": 207
-        },
-        {
-          "game": "DNF Duel",
-          "minutes": 108
-        },
-        {
-          "game": "Strinova",
-          "minutes": 102
-        },
-        {
-          "game": "Dead by Daylight",
-          "minutes": 99
-        },
-        {
-          "game": "ARKNIGHTS: ENDFIELD",
-          "minutes": 94
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 90
-        },
-        {
-          "game": "Sakura Arms ~Radiant Duels~ Demo",
-          "minutes": 84
-        },
-        {
-          "game": "Forza Horizon 6",
-          "minutes": 78
-        },
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 49
-        },
-        {
-          "game": "Yu-Gi-Oh! Master Duel",
-          "minutes": 42
-        },
-        {
-          "game": "Hunter x Hunter: Nen x Impact",
-          "minutes": 33
-        },
-        {
-          "game": "Ultimate Marvel vs. Capcom 3",
-          "minutes": 33
-        },
-        {
-          "game": "MELTY BLOOD: TYPE LUMINA",
-          "minutes": 26
-        },
-        {
-          "game": "Street Fighter 6",
-          "minutes": 18
-        },
-        {
-          "game": "Astral Party",
-          "minutes": 12
-        },
-        {
-          "game": "Invincible VS",
-          "minutes": 10
-        },
-        {
-          "game": "WTF",
-          "minutes": 4
-        },
-        {
-          "game": "StarWard",
-          "minutes": 2
-        },
-        {
-          "game": "Ultra Fight Da! Kyanta 2",
-          "minutes": 1
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-06-08",
       "end_date": "2026-06-08",
       "items": [
@@ -2260,7 +2169,74 @@
       "items": [
         {
           "game": "Wuthering Waves",
+          "minutes": 509
+        },
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 264
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 221
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 220
+        },
+        {
+          "game": "DNF Duel",
+          "minutes": 136
+        },
+        {
+          "game": "MTGA",
           "minutes": 60
+        },
+        {
+          "game": "Strinova",
+          "minutes": 39
+        },
+        {
+          "game": "Astral Party",
+          "minutes": 32
+        },
+        {
+          "game": "Fatal Fury: City of the Wolves",
+          "minutes": 26
+        },
+        {
+          "game": "Street Fighter 6",
+          "minutes": 22
+        },
+        {
+          "game": "Dragon Quest X: Inishie no Ryuu no Denshou Online",
+          "minutes": 18
+        },
+        {
+          "game": "StarWard",
+          "minutes": 14
+        },
+        {
+          "game": "Rivals of Aether",
+          "minutes": 6
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-06-14",
+      "end_date": "2026-06-14",
+      "items": [
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 169
+        },
+        {
+          "game": "DNF Duel",
+          "minutes": 119
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 1
         }
       ]
     }
