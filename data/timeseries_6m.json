@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T01:00:00+09:00",
+  "generated_at": "2026-06-15T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1892,45 +1892,101 @@
       ]
     },
     {
-      "bucket_type": "day",
+      "bucket_type": "week",
       "start_date": "2026-06-08",
-      "end_date": "2026-06-08",
+      "end_date": "2026-06-14",
       "items": [
         {
           "game": "Phantom Breaker: Omnia",
-          "minutes": 752
+          "minutes": 3328
         },
         {
           "game": "Wuthering Waves",
-          "minutes": 537
-        },
-        {
-          "game": "Neverness to Everness",
-          "minutes": 215
+          "minutes": 2534
         },
         {
           "game": "Guilty Gear: Strive",
-          "minutes": 133
+          "minutes": 1430
         },
         {
           "game": "DNF Duel",
-          "minutes": 62
+          "minutes": 906
+        },
+        {
+          "game": "Strinova",
+          "minutes": 522
+        },
+        {
+          "game": "Neverness to Everness",
+          "minutes": 436
+        },
+        {
+          "game": "Sakura Arms ~Radiant Duels~ Demo",
+          "minutes": 333
         },
         {
           "game": "Dead by Daylight",
-          "minutes": 52
+          "minutes": 279
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 245
+        },
+        {
+          "game": "Atelier Resleriana: The Red Alchemist & The White Guardian",
+          "minutes": 223
+        },
+        {
+          "game": "Persona5: The Phantom X",
+          "minutes": 186
+        },
+        {
+          "game": "Astral Party",
+          "minutes": 145
+        },
+        {
+          "game": "棋桜",
+          "minutes": 108
+        },
+        {
+          "game": "GRADIUS ORIGINS",
+          "minutes": 82
+        },
+        {
+          "game": "MTGA",
+          "minutes": 82
+        },
+        {
+          "game": "ELDEN RING NIGHTREIGN",
+          "minutes": 81
+        },
+        {
+          "game": "FINAL FANTASY XIV ONLINE",
+          "minutes": 78
         },
         {
           "game": "ARKNIGHTS: ENDFIELD",
-          "minutes": 42
+          "minutes": 67
+        },
+        {
+          "game": "Rainbow Six Siege",
+          "minutes": 67
+        },
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 60
+        },
+        {
+          "game": "Dragon Ball: The Breakers",
+          "minutes": 54
+        },
+        {
+          "game": "TETR.IO",
+          "minutes": 53
         },
         {
           "game": "Mortal Kombat: Legacy Kollection",
           "minutes": 36
-        },
-        {
-          "game": "GRADIUS ORIGINS",
-          "minutes": 35
         },
         {
           "game": "Mortal Kombat 1",
@@ -1941,23 +1997,47 @@
           "minutes": 32
         },
         {
-          "game": "Astral Party",
+          "game": "Fatal Fury: City of the Wolves",
           "minutes": 26
         },
         {
-          "game": "MTGA",
-          "minutes": 10
+          "game": "StarWard",
+          "minutes": 22
         },
         {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 10
+          "game": "Street Fighter 6",
+          "minutes": 22
+        },
+        {
+          "game": "Dragon Quest X: Inishie no Ryuu no Denshou Online",
+          "minutes": 18
+        },
+        {
+          "game": "Guilty Gear Xrd: Revelator",
+          "minutes": 17
+        },
+        {
+          "game": "Samurai Shodown V Special",
+          "minutes": 15
+        },
+        {
+          "game": "ゼンレスゾーンゼロ",
+          "minutes": 13
+        },
+        {
+          "game": "Shadowverse: Worlds Beyond",
+          "minutes": 9
         },
         {
           "game": "仮面ライダー クライマックスファイターズ",
           "minutes": 9
         },
         {
-          "game": "StarWard",
+          "game": "MOBILE SUIT GUNDAM BATTLE OPERATION 2",
+          "minutes": 8
+        },
+        {
+          "game": "Rivals of Aether",
           "minutes": 6
         }
       ]
@@ -2228,15 +2308,98 @@
       "items": [
         {
           "game": "Phantom Breaker: Omnia",
-          "minutes": 169
+          "minutes": 895
         },
         {
-          "game": "DNF Duel",
-          "minutes": 119
+          "game": "Wuthering Waves",
+          "minutes": 415
         },
         {
           "game": "Guilty Gear: Strive",
-          "minutes": 1
+          "minutes": 332
+        },
+        {
+          "game": "DNF Duel",
+          "minutes": 241
+        },
+        {
+          "game": "Persona5: The Phantom X",
+          "minutes": 141
+        },
+        {
+          "game": "Strinova",
+          "minutes": 139
+        },
+        {
+          "game": "棋桜",
+          "minutes": 108
+        },
+        {
+          "game": "Atelier Resleriana: The Red Alchemist & The White Guardian",
+          "minutes": 105
+        },
+        {
+          "game": "Neverness to Everness",
+          "minutes": 96
+        },
+        {
+          "game": "Dead by Daylight",
+          "minutes": 95
+        },
+        {
+          "game": "FINAL FANTASY XIV ONLINE",
+          "minutes": 78
+        },
+        {
+          "game": "TETR.IO",
+          "minutes": 53
+        },
+        {
+          "game": "GRADIUS ORIGINS",
+          "minutes": 30
+        },
+        {
+          "game": "ARKNIGHTS: ENDFIELD",
+          "minutes": 21
+        },
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 21
+        },
+        {
+          "game": "Guilty Gear Xrd: Revelator",
+          "minutes": 17
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 14
+        },
+        {
+          "game": "Shadowverse: Worlds Beyond",
+          "minutes": 9
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-06-15",
+      "end_date": "2026-06-15",
+      "items": [
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 120
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 60
+        },
+        {
+          "game": "Dead by Daylight",
+          "minutes": 55
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 39
         }
       ]
     }
