@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T01:00:00+09:00",
+  "generated_at": "2026-06-16T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1401,125 +1401,6 @@
     },
     {
       "bucket_type": "week",
-      "start_date": "2026-05-11",
-      "end_date": "2026-05-17",
-      "items": [
-        {
-          "game": "DNF Duel",
-          "minutes": 2235
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 947
-        },
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 667
-        },
-        {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 570
-        },
-        {
-          "game": "BlazBlue Centralfiction",
-          "minutes": 405
-        },
-        {
-          "game": "MapleStory",
-          "minutes": 361
-        },
-        {
-          "game": "Street Fighter™ 6",
-          "minutes": 324
-        },
-        {
-          "game": "Sakura Arms ~Radiant Duels~ Demo",
-          "minutes": 290
-        },
-        {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 251
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 222
-        },
-        {
-          "game": "DNF DUEL",
-          "minutes": 164
-        },
-        {
-          "game": "Strinova",
-          "minutes": 148
-        },
-        {
-          "game": "Overwatch",
-          "minutes": 111
-        },
-        {
-          "game": "Backpack Battles",
-          "minutes": 65
-        },
-        {
-          "game": "ARKNIGHTS: ENDFIELD",
-          "minutes": 57
-        },
-        {
-          "game": "Koihime Enbu RyoRaiRai",
-          "minutes": 56
-        },
-        {
-          "game": "FINAL FANTASY XIV ONLINE",
-          "minutes": 55
-        },
-        {
-          "game": "MELTY BLOOD: TYPE LUMINA",
-          "minutes": 41
-        },
-        {
-          "game": "Yu-Gi-Oh! Master Duel",
-          "minutes": 33
-        },
-        {
-          "game": "StarWard",
-          "minutes": 31
-        },
-        {
-          "game": "Fatal Fury: City of the Wolves",
-          "minutes": 27
-        },
-        {
-          "game": "Neverness to Everness",
-          "minutes": 25
-        },
-        {
-          "game": "原神",
-          "minutes": 17
-        },
-        {
-          "game": "NARAKA: BLADEPOINT",
-          "minutes": 6
-        },
-        {
-          "game": "Touhou Hisoutensoku: Choudokyuu Ginyoru no Nazo wo Oe",
-          "minutes": 3
-        },
-        {
-          "game": "Genshin Impact",
-          "minutes": 2
-        },
-        {
-          "game": "Apewar",
-          "minutes": 1
-        },
-        {
-          "game": "Mirage Feathers",
-          "minutes": 1
-        }
-      ]
-    },
-    {
-      "bucket_type": "week",
       "start_date": "2026-05-18",
       "end_date": "2026-05-24",
       "items": [
@@ -2044,45 +1925,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-06-09",
-      "end_date": "2026-06-09",
-      "items": [
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 460
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 159
-        },
-        {
-          "game": "Sakura Arms ~Radiant Duels~ Demo",
-          "minutes": 94
-        },
-        {
-          "game": "DNF Duel",
-          "minutes": 83
-        },
-        {
-          "game": "Neverness to Everness",
-          "minutes": 69
-        },
-        {
-          "game": "Strinova",
-          "minutes": 26
-        },
-        {
-          "game": "GRADIUS ORIGINS",
-          "minutes": 17
-        },
-        {
-          "game": "ARKNIGHTS: ENDFIELD",
-          "minutes": 4
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-06-10",
       "end_date": "2026-06-10",
       "items": [
@@ -2387,19 +2229,38 @@
       "items": [
         {
           "game": "Phantom Breaker: Omnia",
-          "minutes": 120
+          "minutes": 503
         },
         {
           "game": "Wuthering Waves",
-          "minutes": 60
+          "minutes": 346
         },
         {
           "game": "Dead by Daylight",
-          "minutes": 55
+          "minutes": 135
         },
         {
           "game": "Guilty Gear: Strive",
-          "minutes": 39
+          "minutes": 88
+        },
+        {
+          "game": "StarWard",
+          "minutes": 13
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-06-16",
+      "end_date": "2026-06-16",
+      "items": [
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 120
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 100
         }
       ]
     }
