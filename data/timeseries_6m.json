@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T01:00:00+09:00",
+  "generated_at": "2026-06-17T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1925,45 +1925,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-06-10",
-      "end_date": "2026-06-10",
-      "items": [
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 374
-        },
-        {
-          "game": "DNF Duel",
-          "minutes": 350
-        },
-        {
-          "game": "Sakura Arms ~Radiant Duels~ Demo",
-          "minutes": 218
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 196
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 117
-        },
-        {
-          "game": "Strinova",
-          "minutes": 75
-        },
-        {
-          "game": "Dead by Daylight",
-          "minutes": 61
-        },
-        {
-          "game": "Neverness to Everness",
-          "minutes": 27
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-06-11",
       "end_date": "2026-06-11",
       "items": [
@@ -2255,12 +2216,63 @@
       "end_date": "2026-06-16",
       "items": [
         {
+          "game": "Guilty Gear: Strive",
+          "minutes": 748
+        },
+        {
           "game": "Phantom Breaker: Omnia",
+          "minutes": 439
+        },
+        {
+          "game": "Sakura Arms ~Radiant Duels~ Demo",
+          "minutes": 266
+        },
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 70
+        },
+        {
+          "game": "DNF Duel",
+          "minutes": 58
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 49
+        },
+        {
+          "game": "Dead by Daylight",
+          "minutes": 35
+        },
+        {
+          "game": "NARAKA: BLADEPOINT",
+          "minutes": 24
+        },
+        {
+          "game": "Rhythm Doctor",
+          "minutes": 15
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-06-17",
+      "end_date": "2026-06-17",
+      "items": [
+        {
+          "game": "Guilty Gear: Strive",
           "minutes": 120
         },
         {
-          "game": "Guilty Gear: Strive",
-          "minutes": 100
+          "game": "DNF Duel",
+          "minutes": 60
+        },
+        {
+          "game": "Sakura Arms ~Radiant Duels~ Demo",
+          "minutes": 37
+        },
+        {
+          "game": "MapleStory",
+          "minutes": 8
         }
       ]
     }
