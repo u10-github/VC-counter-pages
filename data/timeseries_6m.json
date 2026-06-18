@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T01:00:00+09:00",
+  "generated_at": "2026-06-19T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1925,65 +1925,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-06-12",
-      "end_date": "2026-06-12",
-      "items": [
-        {
-          "game": "Wuthering Waves",
-          "minutes": 325
-        },
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 292
-        },
-        {
-          "game": "Atelier Resleriana: The Red Alchemist & The White Guardian",
-          "minutes": 86
-        },
-        {
-          "game": "Dead by Daylight",
-          "minutes": 68
-        },
-        {
-          "game": "Rainbow Six Siege",
-          "minutes": 67
-        },
-        {
-          "game": "Strinova",
-          "minutes": 67
-        },
-        {
-          "game": "Astral Party",
-          "minutes": 60
-        },
-        {
-          "game": "Persona5: The Phantom X",
-          "minutes": 45
-        },
-        {
-          "game": "Samurai Shodown V Special",
-          "minutes": 15
-        },
-        {
-          "game": "ゼンレスゾーンゼロ",
-          "minutes": 13
-        },
-        {
-          "game": "MTGA",
-          "minutes": 12
-        },
-        {
-          "game": "MOBILE SUIT GUNDAM BATTLE OPERATION 2",
-          "minutes": 8
-        },
-        {
-          "game": "Neverness to Everness",
-          "minutes": 3
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-06-13",
       "end_date": "2026-06-13",
       "items": [
@@ -2231,8 +2172,59 @@
       "end_date": "2026-06-18",
       "items": [
         {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 243
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 47
+        },
+        {
           "game": "DNF Duel",
           "minutes": 25
+        },
+        {
+          "game": "StarWard",
+          "minutes": 24
+        },
+        {
+          "game": "Dead by Daylight",
+          "minutes": 23
+        },
+        {
+          "game": "Strinova",
+          "minutes": 6
+        },
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 5
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-06-19",
+      "end_date": "2026-06-19",
+      "items": [
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 100
+        },
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 34
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 10
+        },
+        {
+          "game": "Neverness to Everness",
+          "minutes": 4
+        },
+        {
+          "game": "Overwatch",
+          "minutes": 3
         }
       ]
     }
