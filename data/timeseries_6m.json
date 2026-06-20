@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T01:00:00+09:00",
+  "generated_at": "2026-06-21T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1925,85 +1925,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-06-14",
-      "end_date": "2026-06-14",
-      "items": [
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 895
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 415
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 332
-        },
-        {
-          "game": "DNF Duel",
-          "minutes": 241
-        },
-        {
-          "game": "Persona5: The Phantom X",
-          "minutes": 141
-        },
-        {
-          "game": "Strinova",
-          "minutes": 139
-        },
-        {
-          "game": "棋桜",
-          "minutes": 108
-        },
-        {
-          "game": "Atelier Resleriana: The Red Alchemist & The White Guardian",
-          "minutes": 105
-        },
-        {
-          "game": "Neverness to Everness",
-          "minutes": 96
-        },
-        {
-          "game": "Dead by Daylight",
-          "minutes": 95
-        },
-        {
-          "game": "FINAL FANTASY XIV ONLINE",
-          "minutes": 78
-        },
-        {
-          "game": "TETR.IO",
-          "minutes": 53
-        },
-        {
-          "game": "GRADIUS ORIGINS",
-          "minutes": 30
-        },
-        {
-          "game": "ARKNIGHTS: ENDFIELD",
-          "minutes": 21
-        },
-        {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 21
-        },
-        {
-          "game": "Guilty Gear Xrd: Revelator",
-          "minutes": 17
-        },
-        {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 14
-        },
-        {
-          "game": "Shadowverse: Worlds Beyond",
-          "minutes": 9
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-06-15",
       "end_date": "2026-06-15",
       "items": [
@@ -2188,19 +2109,46 @@
       "items": [
         {
           "game": "Phantom Breaker: Omnia",
-          "minutes": 120
+          "minutes": 267
+        },
+        {
+          "game": "Arcana Heart 3 LOVEMAX SIXSTARS!!!!!! XTEND",
+          "minutes": 187
         },
         {
           "game": "Guilty Gear: Strive",
-          "minutes": 61
+          "minutes": 130
         },
         {
-          "game": "Wuthering Waves",
-          "minutes": 26
+          "game": "TEVI",
+          "minutes": 130
         },
         {
           "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 23
+          "minutes": 103
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 71
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-06-21",
+      "end_date": "2026-06-21",
+      "items": [
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 106
+        },
+        {
+          "game": "Arcana Heart 3 LOVEMAX SIXSTARS!!!!!! XTEND",
+          "minutes": 60
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 22
         }
       ]
     }
