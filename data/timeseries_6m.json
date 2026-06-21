@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T01:00:00+09:00",
+  "generated_at": "2026-06-22T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1924,29 +1924,85 @@
       ]
     },
     {
-      "bucket_type": "day",
+      "bucket_type": "week",
       "start_date": "2026-06-15",
-      "end_date": "2026-06-15",
+      "end_date": "2026-06-21",
       "items": [
         {
+          "game": "Guilty Gear: Strive",
+          "minutes": 2047
+        },
+        {
           "game": "Phantom Breaker: Omnia",
-          "minutes": 503
+          "minutes": 1647
         },
         {
           "game": "Wuthering Waves",
-          "minutes": 346
+          "minutes": 760
+        },
+        {
+          "game": "Sakura Arms ~Radiant Duels~ Demo",
+          "minutes": 584
+        },
+        {
+          "game": "DNF Duel",
+          "minutes": 451
         },
         {
           "game": "Dead by Daylight",
-          "minutes": 135
+          "minutes": 350
         },
         {
-          "game": "Guilty Gear: Strive",
-          "minutes": 88
+          "game": "Arcana Heart 3 LOVEMAX SIXSTARS!!!!!! XTEND",
+          "minutes": 329
+        },
+        {
+          "game": "Strinova",
+          "minutes": 283
+        },
+        {
+          "game": "MELTY BLOOD: TYPE LUMINA",
+          "minutes": 247
+        },
+        {
+          "game": "TEVI",
+          "minutes": 185
+        },
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 163
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 129
+        },
+        {
+          "game": "MapleStory",
+          "minutes": 97
         },
         {
           "game": "StarWard",
-          "minutes": 13
+          "minutes": 89
+        },
+        {
+          "game": "Neverness to Everness",
+          "minutes": 44
+        },
+        {
+          "game": "Touhou Danmaku Kagura: Phantasia Lost",
+          "minutes": 26
+        },
+        {
+          "game": "NARAKA: BLADEPOINT",
+          "minutes": 24
+        },
+        {
+          "game": "Rhythm Doctor",
+          "minutes": 15
+        },
+        {
+          "game": "Overwatch",
+          "minutes": 3
         }
       ]
     },
@@ -2140,15 +2196,74 @@
       "items": [
         {
           "game": "Guilty Gear: Strive",
-          "minutes": 106
-        },
-        {
-          "game": "Arcana Heart 3 LOVEMAX SIXSTARS!!!!!! XTEND",
-          "minutes": 60
+          "minutes": 836
         },
         {
           "game": "Wuthering Waves",
-          "minutes": 22
+          "minutes": 294
+        },
+        {
+          "game": "Sakura Arms ~Radiant Duels~ Demo",
+          "minutes": 281
+        },
+        {
+          "game": "MELTY BLOOD: TYPE LUMINA",
+          "minutes": 247
+        },
+        {
+          "game": "Strinova",
+          "minutes": 185
+        },
+        {
+          "game": "Arcana Heart 3 LOVEMAX SIXSTARS!!!!!! XTEND",
+          "minutes": 142
+        },
+        {
+          "game": "Dead by Daylight",
+          "minutes": 66
+        },
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 54
+        },
+        {
+          "game": "StarWard",
+          "minutes": 52
+        },
+        {
+          "game": "DNF Duel",
+          "minutes": 50
+        },
+        {
+          "game": "Neverness to Everness",
+          "minutes": 40
+        },
+        {
+          "game": "Touhou Danmaku Kagura: Phantasia Lost",
+          "minutes": 26
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 16
+        },
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 3
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-06-22",
+      "end_date": "2026-06-22",
+      "items": [
+        {
+          "game": "Sakura Arms ~Radiant Duels~ Demo",
+          "minutes": 80
+        },
+        {
+          "game": "Dead by Daylight",
+          "minutes": 24
         }
       ]
     }
