@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T01:00:00+09:00",
+  "generated_at": "2026-06-23T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1401,125 +1401,6 @@
     },
     {
       "bucket_type": "week",
-      "start_date": "2026-05-18",
-      "end_date": "2026-05-24",
-      "items": [
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 4220
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 2138
-        },
-        {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 1165
-        },
-        {
-          "game": "Sakura Arms ~Radiant Duels~ Demo",
-          "minutes": 939
-        },
-        {
-          "game": "DNF DUEL",
-          "minutes": 896
-        },
-        {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 618
-        },
-        {
-          "game": "Strinova",
-          "minutes": 600
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 509
-        },
-        {
-          "game": "NARAKA: BLADEPOINT",
-          "minutes": 364
-        },
-        {
-          "game": "Neverness to Everness",
-          "minutes": 310
-        },
-        {
-          "game": "TOHOTOPIA",
-          "minutes": 296
-        },
-        {
-          "game": "MapleStory",
-          "minutes": 282
-        },
-        {
-          "game": "StarWard",
-          "minutes": 194
-        },
-        {
-          "game": "DNF Duel",
-          "minutes": 123
-        },
-        {
-          "game": "Microsoft​ Edge",
-          "minutes": 102
-        },
-        {
-          "game": "ARKNIGHTS: ENDFIELD",
-          "minutes": 98
-        },
-        {
-          "game": "Overwatch",
-          "minutes": 90
-        },
-        {
-          "game": "Battle Fantasia -Revised Edition-",
-          "minutes": 86
-        },
-        {
-          "game": "Fatal Fury: City of the Wolves",
-          "minutes": 62
-        },
-        {
-          "game": "Touhou Hisoutensoku: Choudokyuu Ginyoru no Nazo wo Oe",
-          "minutes": 59
-        },
-        {
-          "game": "Celeste",
-          "minutes": 33
-        },
-        {
-          "game": "BlazBlue Centralfiction",
-          "minutes": 31
-        },
-        {
-          "game": "Black Desert",
-          "minutes": 30
-        },
-        {
-          "game": "Yu-Gi-Oh! Master Duel",
-          "minutes": 24
-        },
-        {
-          "game": "WORLD HEROES PERFECT",
-          "minutes": 22
-        },
-        {
-          "game": "アラド戦記",
-          "minutes": 15
-        },
-        {
-          "game": "Aaero",
-          "minutes": 2
-        },
-        {
-          "game": "mtch.gg",
-          "minutes": 1
-        }
-      ]
-    },
-    {
-      "bucket_type": "week",
       "start_date": "2026-05-25",
       "end_date": "2026-05-31",
       "items": [
@@ -2008,49 +1889,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-06-16",
-      "end_date": "2026-06-16",
-      "items": [
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 748
-        },
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 439
-        },
-        {
-          "game": "Sakura Arms ~Radiant Duels~ Demo",
-          "minutes": 266
-        },
-        {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 70
-        },
-        {
-          "game": "DNF Duel",
-          "minutes": 58
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 49
-        },
-        {
-          "game": "Dead by Daylight",
-          "minutes": 35
-        },
-        {
-          "game": "NARAKA: BLADEPOINT",
-          "minutes": 24
-        },
-        {
-          "game": "Rhythm Doctor",
-          "minutes": 15
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-06-17",
       "end_date": "2026-06-17",
       "items": [
@@ -2258,12 +2096,99 @@
       "end_date": "2026-06-22",
       "items": [
         {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 230
+        },
+        {
           "game": "Sakura Arms ~Radiant Duels~ Demo",
           "minutes": 80
         },
         {
+          "game": "MELTY BLOOD: TYPE LUMINA",
+          "minutes": 50
+        },
+        {
           "game": "Dead by Daylight",
-          "minutes": 24
+          "minutes": 47
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 34
+        },
+        {
+          "game": "StarWard",
+          "minutes": 27
+        },
+        {
+          "game": "Kiou",
+          "minutes": 22
+        },
+        {
+          "game": "DOOM",
+          "minutes": 21
+        },
+        {
+          "game": "DJMAX RESPECT V",
+          "minutes": 19
+        },
+        {
+          "game": "Rhythm Doctor",
+          "minutes": 18
+        },
+        {
+          "game": "Strinova",
+          "minutes": 15
+        },
+        {
+          "game": "Neverness to Everness",
+          "minutes": 5
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-06-23",
+      "end_date": "2026-06-23",
+      "items": [
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 169
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 79
+        },
+        {
+          "game": "Atelier Resleriana: The Red Alchemist & The White Guardian",
+          "minutes": 45
+        },
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 41
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 37
+        },
+        {
+          "game": "MELTY BLOOD: TYPE LUMINA",
+          "minutes": 36
+        },
+        {
+          "game": "DJMAX RESPECT V",
+          "minutes": 10
+        },
+        {
+          "game": "DOOM",
+          "minutes": 8
+        },
+        {
+          "game": "Far Cry® 4",
+          "minutes": 4
+        },
+        {
+          "game": "Guilty Gear -Strive-",
+          "minutes": 1
         }
       ]
     }
