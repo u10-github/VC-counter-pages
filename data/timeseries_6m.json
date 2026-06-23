@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T01:00:00+09:00",
+  "generated_at": "2026-06-24T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1889,41 +1889,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-06-17",
-      "end_date": "2026-06-17",
-      "items": [
-        {
-          "game": "DNF Duel",
-          "minutes": 318
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 132
-        },
-        {
-          "game": "MapleStory",
-          "minutes": 97
-        },
-        {
-          "game": "TEVI",
-          "minutes": 55
-        },
-        {
-          "game": "Dead by Daylight",
-          "minutes": 49
-        },
-        {
-          "game": "Sakura Arms ~Radiant Duels~ Demo",
-          "minutes": 37
-        },
-        {
-          "game": "Strinova",
-          "minutes": 26
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-06-18",
       "end_date": "2026-06-18",
       "items": [
@@ -2151,43 +2116,86 @@
       "end_date": "2026-06-23",
       "items": [
         {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 169
-        },
-        {
           "game": "Guilty Gear: Strive",
-          "minutes": 79
+          "minutes": 801
         },
         {
-          "game": "Atelier Resleriana: The Red Alchemist & The White Guardian",
-          "minutes": 45
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 481
+        },
+        {
+          "game": "Sakura Arms ~Radiant Duels~ Demo",
+          "minutes": 253
         },
         {
           "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 41
+          "minutes": 219
+        },
+        {
+          "game": "Strinova",
+          "minutes": 211
         },
         {
           "game": "Wuthering Waves",
-          "minutes": 37
-        },
-        {
-          "game": "MELTY BLOOD: TYPE LUMINA",
-          "minutes": 36
+          "minutes": 193
         },
         {
           "game": "DJMAX RESPECT V",
-          "minutes": 10
+          "minutes": 79
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 75
+        },
+        {
+          "game": "Atelier Resleriana: The Red Alchemist & The White Guardian",
+          "minutes": 65
+        },
+        {
+          "game": "MELTY BLOOD: TYPE LUMINA",
+          "minutes": 48
+        },
+        {
+          "game": "Far Cry® 4",
+          "minutes": 37
+        },
+        {
+          "game": "DNF Duel",
+          "minutes": 16
         },
         {
           "game": "DOOM",
           "minutes": 8
         },
         {
-          "game": "Far Cry® 4",
-          "minutes": 4
+          "game": "Guilty Gear -Strive-",
+          "minutes": 1
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-06-24",
+      "end_date": "2026-06-24",
+      "items": [
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 120
         },
         {
-          "game": "Guilty Gear -Strive-",
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 102
+        },
+        {
+          "game": "Sakura Arms ~Radiant Duels~ Demo",
+          "minutes": 80
+        },
+        {
+          "game": "Yu-Gi-Oh! Master Duel",
+          "minutes": 13
+        },
+        {
+          "game": "Guilty Gear: Strive",
           "minutes": 1
         }
       ]
