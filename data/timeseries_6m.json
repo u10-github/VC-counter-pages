@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T01:00:00+09:00",
+  "generated_at": "2026-06-25T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1889,41 +1889,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-06-18",
-      "end_date": "2026-06-18",
-      "items": [
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 243
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 47
-        },
-        {
-          "game": "DNF Duel",
-          "minutes": 25
-        },
-        {
-          "game": "StarWard",
-          "minutes": 24
-        },
-        {
-          "game": "Dead by Daylight",
-          "minutes": 23
-        },
-        {
-          "game": "Strinova",
-          "minutes": 6
-        },
-        {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 5
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-06-19",
       "end_date": "2026-06-19",
       "items": [
@@ -2180,23 +2145,74 @@
       "items": [
         {
           "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 120
+          "minutes": 287
         },
         {
           "game": "Phantom Breaker: Omnia",
-          "minutes": 102
+          "minutes": 260
+        },
+        {
+          "game": "DNF Duel",
+          "minutes": 230
         },
         {
           "game": "Sakura Arms ~Radiant Duels~ Demo",
-          "minutes": 80
+          "minutes": 191
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 91
         },
         {
           "game": "Yu-Gi-Oh! Master Duel",
-          "minutes": 13
+          "minutes": 59
+        },
+        {
+          "game": "Dead by Daylight",
+          "minutes": 43
+        },
+        {
+          "game": "Strinova",
+          "minutes": 29
         },
         {
           "game": "Guilty Gear: Strive",
-          "minutes": 1
+          "minutes": 24
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-06-25",
+      "end_date": "2026-06-25",
+      "items": [
+        {
+          "game": "DNF Duel",
+          "minutes": 110
+        },
+        {
+          "game": "Sakura Arms ~Radiant Duels~ Demo",
+          "minutes": 42
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 41
+        },
+        {
+          "game": "Dead by Daylight",
+          "minutes": 22
+        },
+        {
+          "game": "Yu-Gi-Oh! Master Duel",
+          "minutes": 14
+        },
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 8
+        },
+        {
+          "game": "StarWard",
+          "minutes": 5
         }
       ]
     }
