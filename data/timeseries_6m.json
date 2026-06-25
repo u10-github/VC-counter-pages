@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T01:00:00+09:00",
+  "generated_at": "2026-06-26T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1889,45 +1889,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-06-19",
-      "end_date": "2026-06-19",
-      "items": [
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 192
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 66
-        },
-        {
-          "game": "Strinova",
-          "minutes": 66
-        },
-        {
-          "game": "Dead by Daylight",
-          "minutes": 42
-        },
-        {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 34
-        },
-        {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 10
-        },
-        {
-          "game": "Neverness to Everness",
-          "minutes": 4
-        },
-        {
-          "game": "Overwatch",
-          "minutes": 3
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-06-20",
       "end_date": "2026-06-20",
       "items": [
@@ -2188,31 +2149,58 @@
       "items": [
         {
           "game": "DNF Duel",
-          "minutes": 110
+          "minutes": 146
         },
         {
           "game": "Sakura Arms ~Radiant Duels~ Demo",
-          "minutes": 42
+          "minutes": 143
         },
         {
-          "game": "Wuthering Waves",
-          "minutes": 41
+          "game": "TEVI",
+          "minutes": 133
         },
         {
           "game": "Dead by Daylight",
-          "minutes": 22
+          "minutes": 71
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 70
+        },
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 53
         },
         {
           "game": "Yu-Gi-Oh! Master Duel",
           "minutes": 14
         },
         {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 8
-        },
-        {
           "game": "StarWard",
           "minutes": 5
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-06-26",
+      "end_date": "2026-06-26",
+      "items": [
+        {
+          "game": "TEVI",
+          "minutes": 44
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 24
+        },
+        {
+          "game": "Dead by Daylight",
+          "minutes": 3
+        },
+        {
+          "game": "Sakura Arms ~Radiant Duels~ Demo",
+          "minutes": 1
         }
       ]
     }
