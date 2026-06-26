@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T01:00:00+09:00",
+  "generated_at": "2026-06-27T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1889,37 +1889,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-06-20",
-      "end_date": "2026-06-20",
-      "items": [
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 267
-        },
-        {
-          "game": "Arcana Heart 3 LOVEMAX SIXSTARS!!!!!! XTEND",
-          "minutes": 187
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 130
-        },
-        {
-          "game": "TEVI",
-          "minutes": 130
-        },
-        {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 103
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 71
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-06-21",
       "end_date": "2026-06-21",
       "items": [
@@ -2188,19 +2157,66 @@
       "items": [
         {
           "game": "TEVI",
-          "minutes": 44
+          "minutes": 160
+        },
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 142
+        },
+        {
+          "game": "Strinova",
+          "minutes": 135
+        },
+        {
+          "game": "BlazBlue: Cross Tag Battle",
+          "minutes": 130
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 89
         },
         {
           "game": "Guilty Gear: Strive",
-          "minutes": 24
+          "minutes": 84
         },
         {
           "game": "Dead by Daylight",
-          "minutes": 3
+          "minutes": 45
+        },
+        {
+          "game": "ELDEN RING NIGHTREIGN",
+          "minutes": 45
+        },
+        {
+          "game": "MELTY BLOOD: TYPE LUMINA",
+          "minutes": 17
         },
         {
           "game": "Sakura Arms ~Radiant Duels~ Demo",
           "minutes": 1
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-06-27",
+      "end_date": "2026-06-27",
+      "items": [
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 120
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 33
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 31
+        },
+        {
+          "game": "Last Command",
+          "minutes": 18
         }
       ]
     }
