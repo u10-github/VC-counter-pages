@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T01:00:00+09:00",
+  "generated_at": "2026-06-28T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1889,69 +1889,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-06-21",
-      "end_date": "2026-06-21",
-      "items": [
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 836
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 294
-        },
-        {
-          "game": "Sakura Arms ~Radiant Duels~ Demo",
-          "minutes": 281
-        },
-        {
-          "game": "MELTY BLOOD: TYPE LUMINA",
-          "minutes": 247
-        },
-        {
-          "game": "Strinova",
-          "minutes": 185
-        },
-        {
-          "game": "Arcana Heart 3 LOVEMAX SIXSTARS!!!!!! XTEND",
-          "minutes": 142
-        },
-        {
-          "game": "Dead by Daylight",
-          "minutes": 66
-        },
-        {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 54
-        },
-        {
-          "game": "StarWard",
-          "minutes": 52
-        },
-        {
-          "game": "DNF Duel",
-          "minutes": 50
-        },
-        {
-          "game": "Neverness to Everness",
-          "minutes": 40
-        },
-        {
-          "game": "Touhou Danmaku Kagura: Phantasia Lost",
-          "minutes": 26
-        },
-        {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 16
-        },
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 3
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-06-22",
       "end_date": "2026-06-22",
       "items": [
@@ -2203,20 +2140,99 @@
       "end_date": "2026-06-27",
       "items": [
         {
+          "game": "Guilty Gear: Strive",
+          "minutes": 750
+        },
+        {
           "game": "Phantom Breaker: Omnia",
-          "minutes": 120
+          "minutes": 509
         },
         {
           "game": "Wuthering Waves",
-          "minutes": 33
+          "minutes": 185
         },
         {
-          "game": "Guilty Gear: Strive",
-          "minutes": 31
+          "game": "DNF Duel",
+          "minutes": 121
+        },
+        {
+          "game": "TEVI",
+          "minutes": 114
+        },
+        {
+          "game": "Strinova",
+          "minutes": 98
+        },
+        {
+          "game": "Atelier Resleriana: Forgotten Alchemy and the Polar Night Liberator",
+          "minutes": 92
+        },
+        {
+          "game": "Dead by Daylight",
+          "minutes": 66
+        },
+        {
+          "game": "The Rumble Fish 2",
+          "minutes": 51
+        },
+        {
+          "game": "Kiou",
+          "minutes": 43
+        },
+        {
+          "game": "ゼンレスゾーンゼロ",
+          "minutes": 36
+        },
+        {
+          "game": "Vampire Survivors",
+          "minutes": 19
         },
         {
           "game": "Last Command",
           "minutes": 18
+        },
+        {
+          "game": "無双アビス",
+          "minutes": 10
+        },
+        {
+          "game": "サンリオキャラクターズ スマッシュフェスタ！",
+          "minutes": 6
+        },
+        {
+          "game": "Devil May Cry® HD Collection",
+          "minutes": 5
+        },
+        {
+          "game": "機動戦士ガンダム　バトルオペレーション２",
+          "minutes": 5
+        },
+        {
+          "game": "Street Fighter 6",
+          "minutes": 2
+        },
+        {
+          "game": "Zenless Zone Zero",
+          "minutes": 1
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-06-28",
+      "end_date": "2026-06-28",
+      "items": [
+        {
+          "game": "DNF Duel",
+          "minutes": 89
+        },
+        {
+          "game": "BlazBlue: Cross Tag Battle",
+          "minutes": 46
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 9
         }
       ]
     }
