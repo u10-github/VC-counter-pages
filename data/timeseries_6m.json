@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T01:00:00+09:00",
+  "generated_at": "2026-07-03T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -2238,53 +2238,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-06-26",
-      "end_date": "2026-06-26",
-      "items": [
-        {
-          "game": "TEVI",
-          "minutes": 160
-        },
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 142
-        },
-        {
-          "game": "Strinova",
-          "minutes": 135
-        },
-        {
-          "game": "BlazBlue: Cross Tag Battle",
-          "minutes": 130
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 89
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 84
-        },
-        {
-          "game": "Dead by Daylight",
-          "minutes": 45
-        },
-        {
-          "game": "ELDEN RING NIGHTREIGN",
-          "minutes": 45
-        },
-        {
-          "game": "MELTY BLOOD: TYPE LUMINA",
-          "minutes": 17
-        },
-        {
-          "game": "Sakura Arms ~Radiant Duels~ Demo",
-          "minutes": 1
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-06-27",
       "end_date": "2026-06-27",
       "items": [
@@ -2564,20 +2517,51 @@
       "end_date": "2026-07-02",
       "items": [
         {
+          "game": "Guilty Gear: Strive",
+          "minutes": 214
+        },
+        {
           "game": "Phantom Breaker: Omnia",
-          "minutes": 60
+          "minutes": 159
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 143
         },
         {
           "game": "Strinova",
-          "minutes": 60
+          "minutes": 127
         },
         {
           "game": "FINAL FANTASY XIV ONLINE",
           "minutes": 52
         },
         {
-          "game": "Wuthering Waves",
-          "minutes": 6
+          "game": "Neverness to Everness",
+          "minutes": 17
+        },
+        {
+          "game": "Arknights Endfield",
+          "minutes": 2
+        },
+        {
+          "game": "ARKNIGHTS: ENDFIELD",
+          "minutes": 1
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-07-03",
+      "end_date": "2026-07-03",
+      "items": [
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 122
+        },
+        {
+          "game": "Strinova",
+          "minutes": 57
         }
       ]
     }
