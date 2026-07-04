@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T01:00:00+09:00",
+  "generated_at": "2026-07-05T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -2238,81 +2238,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-06-28",
-      "end_date": "2026-06-28",
-      "items": [
-        {
-          "game": "BlazBlue Centralfiction",
-          "minutes": 471
-        },
-        {
-          "game": "Dead by Daylight",
-          "minutes": 155
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 127
-        },
-        {
-          "game": "Neverness to Everness",
-          "minutes": 113
-        },
-        {
-          "game": "DNF Duel",
-          "minutes": 89
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 89
-        },
-        {
-          "game": "Sakura Arms ~Radiant Duels~ Demo",
-          "minutes": 81
-        },
-        {
-          "game": "TETR.IO",
-          "minutes": 75
-        },
-        {
-          "game": "BlazBlue: Cross Tag Battle",
-          "minutes": 62
-        },
-        {
-          "game": "Strinova",
-          "minutes": 33
-        },
-        {
-          "game": "Persona5: The Phantom X",
-          "minutes": 27
-        },
-        {
-          "game": "Bleach: Rebirth of Souls",
-          "minutes": 9
-        },
-        {
-          "game": "Arknights Endfield",
-          "minutes": 7
-        },
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 6
-        },
-        {
-          "game": "Street Fighter 6",
-          "minutes": 5
-        },
-        {
-          "game": "ARKNIGHTS: ENDFIELD",
-          "minutes": 1
-        },
-        {
-          "game": "BlazBlue: Central Fiction",
-          "minutes": 1
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-06-29",
       "end_date": "2026-06-29",
       "items": [
@@ -2510,7 +2435,67 @@
       "bucket_type": "day",
       "start_date": "2026-07-04",
       "end_date": "2026-07-04",
-      "items": []
+      "items": [
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 234
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 125
+        },
+        {
+          "game": "DNF Duel",
+          "minutes": 103
+        },
+        {
+          "game": "MEmu",
+          "minutes": 65
+        },
+        {
+          "game": "Strinova",
+          "minutes": 14
+        },
+        {
+          "game": "The Rumble Fish 2",
+          "minutes": 4
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-07-05",
+      "end_date": "2026-07-05",
+      "items": [
+        {
+          "game": "Strinova",
+          "minutes": 65
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 57
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 29
+        },
+        {
+          "game": "Fatal Fury: City of the Wolves",
+          "minutes": 15
+        },
+        {
+          "game": "Arknights Endfield",
+          "minutes": 10
+        },
+        {
+          "game": "DNF Duel",
+          "minutes": 3
+        },
+        {
+          "game": "ARKNIGHTS: ENDFIELD",
+          "minutes": 2
+        }
+      ]
     }
   ]
 }
