@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T01:00:00+09:00",
+  "generated_at": "2026-07-06T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -2237,33 +2237,113 @@
       ]
     },
     {
-      "bucket_type": "day",
+      "bucket_type": "week",
       "start_date": "2026-06-29",
-      "end_date": "2026-06-29",
+      "end_date": "2026-07-05",
       "items": [
         {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 352
-        },
-        {
-          "game": "Dead by Daylight",
-          "minutes": 143
+          "game": "Guilty Gear: Strive",
+          "minutes": 1404
         },
         {
           "game": "Strinova",
-          "minutes": 59
+          "minutes": 1022
         },
         {
-          "game": "Persona5: The Phantom X",
-          "minutes": 19
-        },
-        {
-          "game": "Neverness to Everness",
-          "minutes": 15
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 739
         },
         {
           "game": "Wuthering Waves",
-          "minutes": 9
+          "minutes": 514
+        },
+        {
+          "game": "Dead by Daylight",
+          "minutes": 289
+        },
+        {
+          "game": "NARAKA: BLADEPOINT",
+          "minutes": 177
+        },
+        {
+          "game": "Atelier Resleriana: Forgotten Alchemy and the Polar Night Liberator",
+          "minutes": 158
+        },
+        {
+          "game": "DNF Duel",
+          "minutes": 112
+        },
+        {
+          "game": "MECCHA CHAMELEON",
+          "minutes": 99
+        },
+        {
+          "game": "Atelier Resleriana: The Red Alchemist & The White Guardian",
+          "minutes": 94
+        },
+        {
+          "game": "Street Fighter 6",
+          "minutes": 68
+        },
+        {
+          "game": "FINAL FANTASY XIV ONLINE",
+          "minutes": 67
+        },
+        {
+          "game": "MEmu",
+          "minutes": 65
+        },
+        {
+          "game": "Sakura Arms ~Radiant Duels~ Demo",
+          "minutes": 56
+        },
+        {
+          "game": "Neverness to Everness",
+          "minutes": 39
+        },
+        {
+          "game": "Fatal Fury: City of the Wolves",
+          "minutes": 38
+        },
+        {
+          "game": "Shadowverse: Worlds Beyond",
+          "minutes": 35
+        },
+        {
+          "game": "Kiou",
+          "minutes": 24
+        },
+        {
+          "game": "Persona5: The Phantom X",
+          "minutes": 24
+        },
+        {
+          "game": "Arknights Endfield",
+          "minutes": 12
+        },
+        {
+          "game": "Overwatch",
+          "minutes": 11
+        },
+        {
+          "game": "StarWard",
+          "minutes": 7
+        },
+        {
+          "game": "The Rumble Fish 2",
+          "minutes": 4
+        },
+        {
+          "game": "ARKNIGHTS: ENDFIELD",
+          "minutes": 3
+        },
+        {
+          "game": "Unity Hub",
+          "minutes": 3
+        },
+        {
+          "game": "The Sushi Spinnery",
+          "minutes": 2
         }
       ]
     },
@@ -2468,20 +2548,36 @@
       "end_date": "2026-07-05",
       "items": [
         {
-          "game": "Strinova",
-          "minutes": 65
+          "game": "Guilty Gear: Strive",
+          "minutes": 293
         },
         {
-          "game": "Guilty Gear: Strive",
-          "minutes": 57
+          "game": "Strinova",
+          "minutes": 273
         },
         {
           "game": "Wuthering Waves",
-          "minutes": 29
+          "minutes": 218
+        },
+        {
+          "game": "NARAKA: BLADEPOINT",
+          "minutes": 177
+        },
+        {
+          "game": "MECCHA CHAMELEON",
+          "minutes": 99
+        },
+        {
+          "game": "Street Fighter 6",
+          "minutes": 68
         },
         {
           "game": "Fatal Fury: City of the Wolves",
-          "minutes": 15
+          "minutes": 38
+        },
+        {
+          "game": "Dead by Daylight",
+          "minutes": 14
         },
         {
           "game": "Arknights Endfield",
@@ -2492,8 +2588,27 @@
           "minutes": 3
         },
         {
+          "game": "Unity Hub",
+          "minutes": 3
+        },
+        {
           "game": "ARKNIGHTS: ENDFIELD",
           "minutes": 2
+        },
+        {
+          "game": "StarWard",
+          "minutes": 2
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-07-06",
+      "end_date": "2026-07-06",
+      "items": [
+        {
+          "game": "Wuthering Waves",
+          "minutes": 60
         }
       ]
     }
