@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T01:00:00+09:00",
+  "generated_at": "2026-07-08T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -2222,41 +2222,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-07-01",
-      "end_date": "2026-07-01",
-      "items": [
-        {
-          "game": "Strinova",
-          "minutes": 312
-        },
-        {
-          "game": "Atelier Resleriana: Forgotten Alchemy and the Polar Night Liberator",
-          "minutes": 144
-        },
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 108
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 96
-        },
-        {
-          "game": "Shadowverse: Worlds Beyond",
-          "minutes": 35
-        },
-        {
-          "game": "FINAL FANTASY XIV ONLINE",
-          "minutes": 15
-        },
-        {
-          "game": "Persona5: The Phantom X",
-          "minutes": 5
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-07-02",
       "end_date": "2026-07-02",
       "items": [
@@ -2452,16 +2417,55 @@
       "end_date": "2026-07-07",
       "items": [
         {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 72
-        },
-        {
-          "game": "Strinova",
-          "minutes": 60
+          "game": "BlazBlue Centralfiction",
+          "minutes": 242
         },
         {
           "game": "Guilty Gear: Strive",
-          "minutes": 59
+          "minutes": 240
+        },
+        {
+          "game": "DNF Duel",
+          "minutes": 202
+        },
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 193
+        },
+        {
+          "game": "Strinova",
+          "minutes": 99
+        },
+        {
+          "game": "Sakura Arms ~Radiant Duels~ Demo",
+          "minutes": 82
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 49
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-07-08",
+      "end_date": "2026-07-08",
+      "items": [
+        {
+          "game": "Wuthering Waves",
+          "minutes": 60
+        },
+        {
+          "game": "DNF Duel",
+          "minutes": 48
+        },
+        {
+          "game": "BlazBlue Centralfiction",
+          "minutes": 20
+        },
+        {
+          "game": "Atelier Resleriana: The Red Alchemist & The White Guardian",
+          "minutes": 2
         }
       ]
     }
