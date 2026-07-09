@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T01:00:00+09:00",
+  "generated_at": "2026-07-10T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -2222,45 +2222,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-07-03",
-      "end_date": "2026-07-03",
-      "items": [
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 417
-        },
-        {
-          "game": "Strinova",
-          "minutes": 145
-        },
-        {
-          "game": "Dead by Daylight",
-          "minutes": 55
-        },
-        {
-          "game": "Kiou",
-          "minutes": 24
-        },
-        {
-          "game": "Neverness to Everness",
-          "minutes": 7
-        },
-        {
-          "game": "DNF Duel",
-          "minutes": 6
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 4
-        },
-        {
-          "game": "StarWard",
-          "minutes": 3
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-07-04",
       "end_date": "2026-07-04",
       "items": [
@@ -2456,12 +2417,75 @@
       "end_date": "2026-07-09",
       "items": [
         {
+          "game": "Neverness to Everness",
+          "minutes": 98
+        },
+        {
+          "game": "Strinova",
+          "minutes": 84
+        },
+        {
+          "game": "Call of Duty®: Black Ops 6",
+          "minutes": 43
+        },
+        {
           "game": "Mary Skelter Finale",
           "minutes": 27
         },
         {
           "game": "DNF Duel",
           "minutes": 23
+        },
+        {
+          "game": "StarWard",
+          "minutes": 21
+        },
+        {
+          "game": "theHunter: Call of the Wild",
+          "minutes": 15
+        },
+        {
+          "game": "Shadowverse: Worlds Beyond",
+          "minutes": 6
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 5
+        },
+        {
+          "game": "NTE: Neverness to Everness",
+          "minutes": 3
+        },
+        {
+          "game": "Wallpaper Engine",
+          "minutes": 3
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-07-10",
+      "end_date": "2026-07-10",
+      "items": [
+        {
+          "game": "Neverness to Everness",
+          "minutes": 60
+        },
+        {
+          "game": "Overwatch",
+          "minutes": 32
+        },
+        {
+          "game": "Strinova",
+          "minutes": 10
+        },
+        {
+          "game": "Aimlabs",
+          "minutes": 9
+        },
+        {
+          "game": "StarWard",
+          "minutes": 2
         }
       ]
     }
