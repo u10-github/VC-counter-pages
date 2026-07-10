@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T01:00:00+09:00",
+  "generated_at": "2026-07-11T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -2222,37 +2222,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-07-04",
-      "end_date": "2026-07-04",
-      "items": [
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 234
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 125
-        },
-        {
-          "game": "DNF Duel",
-          "minutes": 103
-        },
-        {
-          "game": "MEmu",
-          "minutes": 65
-        },
-        {
-          "game": "Strinova",
-          "minutes": 14
-        },
-        {
-          "game": "The Rumble Fish 2",
-          "minutes": 4
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-07-05",
       "end_date": "2026-07-05",
       "items": [
@@ -2468,8 +2437,28 @@
       "end_date": "2026-07-10",
       "items": [
         {
+          "game": "Wuthering Waves",
+          "minutes": 146
+        },
+        {
+          "game": "The Rumble Fish 2",
+          "minutes": 72
+        },
+        {
           "game": "Neverness to Everness",
-          "minutes": 60
+          "minutes": 71
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 69
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 64
+        },
+        {
+          "game": "Fatal Fury: City of the Wolves",
+          "minutes": 40
         },
         {
           "game": "Overwatch",
@@ -2477,7 +2466,11 @@
         },
         {
           "game": "Strinova",
-          "minutes": 10
+          "minutes": 22
+        },
+        {
+          "game": "MECCHA CHAMELEON",
+          "minutes": 19
         },
         {
           "game": "Aimlabs",
@@ -2486,6 +2479,41 @@
         {
           "game": "StarWard",
           "minutes": 2
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-07-11",
+      "end_date": "2026-07-11",
+      "items": [
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 61
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 24
+        },
+        {
+          "game": "BlazBlue Centralfiction",
+          "minutes": 17
+        },
+        {
+          "game": "Dead by Daylight",
+          "minutes": 3
+        },
+        {
+          "game": "NARAKA: BLADEPOINT",
+          "minutes": 3
+        },
+        {
+          "game": "StarWard",
+          "minutes": 2
+        },
+        {
+          "game": "BlazBlue: Central Fiction",
+          "minutes": 1
         }
       ]
     }
