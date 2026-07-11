@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T01:00:00+09:00",
+  "generated_at": "2026-07-12T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -2222,65 +2222,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-07-05",
-      "end_date": "2026-07-05",
-      "items": [
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 293
-        },
-        {
-          "game": "Strinova",
-          "minutes": 273
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 218
-        },
-        {
-          "game": "NARAKA: BLADEPOINT",
-          "minutes": 177
-        },
-        {
-          "game": "MECCHA CHAMELEON",
-          "minutes": 99
-        },
-        {
-          "game": "Street Fighter 6",
-          "minutes": 68
-        },
-        {
-          "game": "Fatal Fury: City of the Wolves",
-          "minutes": 38
-        },
-        {
-          "game": "Dead by Daylight",
-          "minutes": 14
-        },
-        {
-          "game": "Arknights Endfield",
-          "minutes": 10
-        },
-        {
-          "game": "DNF Duel",
-          "minutes": 3
-        },
-        {
-          "game": "Unity Hub",
-          "minutes": 3
-        },
-        {
-          "game": "ARKNIGHTS: ENDFIELD",
-          "minutes": 2
-        },
-        {
-          "game": "StarWard",
-          "minutes": 2
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-07-06",
       "end_date": "2026-07-06",
       "items": [
@@ -2489,11 +2430,23 @@
       "items": [
         {
           "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 61
+          "minutes": 221
+        },
+        {
+          "game": "Strinova",
+          "minutes": 84
+        },
+        {
+          "game": "DNF Duel",
+          "minutes": 78
+        },
+        {
+          "game": "Kiou",
+          "minutes": 54
         },
         {
           "game": "Guilty Gear: Strive",
-          "minutes": 24
+          "minutes": 37
         },
         {
           "game": "BlazBlue Centralfiction",
@@ -2514,6 +2467,21 @@
         {
           "game": "BlazBlue: Central Fiction",
           "minutes": 1
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-07-12",
+      "end_date": "2026-07-12",
+      "items": [
+        {
+          "game": "Strinova",
+          "minutes": 31
+        },
+        {
+          "game": "Dead by Daylight",
+          "minutes": 12
         }
       ]
     }
