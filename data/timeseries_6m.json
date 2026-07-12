@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T01:00:00+09:00",
+  "generated_at": "2026-07-13T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -2221,25 +2221,129 @@
       ]
     },
     {
-      "bucket_type": "day",
+      "bucket_type": "week",
       "start_date": "2026-07-06",
-      "end_date": "2026-07-06",
+      "end_date": "2026-07-12",
       "items": [
         {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 249
+          "game": "DNF Duel",
+          "minutes": 894
         },
         {
           "game": "Guilty Gear: Strive",
-          "minutes": 105
+          "minutes": 560
         },
         {
           "game": "Wuthering Waves",
-          "minutes": 70
+          "minutes": 514
+        },
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 442
         },
         {
           "game": "Strinova",
-          "minutes": 21
+          "minutes": 422
+        },
+        {
+          "game": "Palworld",
+          "minutes": 315
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 285
+        },
+        {
+          "game": "BlazBlue Centralfiction",
+          "minutes": 284
+        },
+        {
+          "game": "Neverness to Everness",
+          "minutes": 182
+        },
+        {
+          "game": "MapleStory",
+          "minutes": 124
+        },
+        {
+          "game": "Call of Duty®: Black Ops 6",
+          "minutes": 95
+        },
+        {
+          "game": "JoJo’s Bizarre Adventure: All-Star Battle R",
+          "minutes": 82
+        },
+        {
+          "game": "Sakura Arms ~Radiant Duels~ Demo",
+          "minutes": 82
+        },
+        {
+          "game": "The Rumble Fish 2",
+          "minutes": 72
+        },
+        {
+          "game": "Atelier Resleriana: The Red Alchemist & The White Guardian",
+          "minutes": 61
+        },
+        {
+          "game": "Fatal Fury: City of the Wolves",
+          "minutes": 55
+        },
+        {
+          "game": "Kiou",
+          "minutes": 54
+        },
+        {
+          "game": "Mary Skelter Finale",
+          "minutes": 54
+        },
+        {
+          "game": "Overwatch",
+          "minutes": 38
+        },
+        {
+          "game": "StarWard",
+          "minutes": 25
+        },
+        {
+          "game": "MECCHA CHAMELEON",
+          "minutes": 19
+        },
+        {
+          "game": "Dead by Daylight",
+          "minutes": 15
+        },
+        {
+          "game": "theHunter: Call of the Wild",
+          "minutes": 15
+        },
+        {
+          "game": "Aimlabs",
+          "minutes": 9
+        },
+        {
+          "game": "Persona5: The Phantom X",
+          "minutes": 7
+        },
+        {
+          "game": "Shadowverse: Worlds Beyond",
+          "minutes": 6
+        },
+        {
+          "game": "NARAKA: BLADEPOINT",
+          "minutes": 3
+        },
+        {
+          "game": "NTE: Neverness to Everness",
+          "minutes": 3
+        },
+        {
+          "game": "Wallpaper Engine",
+          "minutes": 3
+        },
+        {
+          "game": "BlazBlue: Central Fiction",
+          "minutes": 1
         }
       ]
     },
@@ -2476,12 +2580,67 @@
       "end_date": "2026-07-12",
       "items": [
         {
+          "game": "Palworld",
+          "minutes": 315
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 174
+        },
+        {
+          "game": "DNF Duel",
+          "minutes": 171
+        },
+        {
+          "game": "MapleStory",
+          "minutes": 124
+        },
+        {
+          "game": "JoJo’s Bizarre Adventure: All-Star Battle R",
+          "minutes": 82
+        },
+        {
           "game": "Strinova",
-          "minutes": 31
+          "minutes": 67
+        },
+        {
+          "game": "Call of Duty®: Black Ops 6",
+          "minutes": 52
+        },
+        {
+          "game": "Fatal Fury: City of the Wolves",
+          "minutes": 15
+        },
+        {
+          "game": "Neverness to Everness",
+          "minutes": 13
         },
         {
           "game": "Dead by Daylight",
           "minutes": 12
+        },
+        {
+          "game": "BlazBlue Centralfiction",
+          "minutes": 5
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-07-13",
+      "end_date": "2026-07-13",
+      "items": [
+        {
+          "game": "Palworld",
+          "minutes": 120
+        },
+        {
+          "game": "DNF Duel",
+          "minutes": 12
+        },
+        {
+          "game": "MapleStory",
+          "minutes": 1
         }
       ]
     }
