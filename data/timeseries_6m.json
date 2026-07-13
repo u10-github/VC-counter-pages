@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T01:00:00+09:00",
+  "generated_at": "2026-07-14T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1706,157 +1706,6 @@
     },
     {
       "bucket_type": "week",
-      "start_date": "2026-06-08",
-      "end_date": "2026-06-14",
-      "items": [
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 3328
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 2534
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 1430
-        },
-        {
-          "game": "DNF Duel",
-          "minutes": 906
-        },
-        {
-          "game": "Strinova",
-          "minutes": 522
-        },
-        {
-          "game": "Neverness to Everness",
-          "minutes": 436
-        },
-        {
-          "game": "Sakura Arms ~Radiant Duels~ Demo",
-          "minutes": 333
-        },
-        {
-          "game": "Dead by Daylight",
-          "minutes": 279
-        },
-        {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 245
-        },
-        {
-          "game": "Atelier Resleriana: The Red Alchemist & The White Guardian",
-          "minutes": 223
-        },
-        {
-          "game": "Persona5: The Phantom X",
-          "minutes": 186
-        },
-        {
-          "game": "Astral Party",
-          "minutes": 145
-        },
-        {
-          "game": "棋桜",
-          "minutes": 108
-        },
-        {
-          "game": "GRADIUS ORIGINS",
-          "minutes": 82
-        },
-        {
-          "game": "MTGA",
-          "minutes": 82
-        },
-        {
-          "game": "ELDEN RING NIGHTREIGN",
-          "minutes": 81
-        },
-        {
-          "game": "FINAL FANTASY XIV ONLINE",
-          "minutes": 78
-        },
-        {
-          "game": "ARKNIGHTS: ENDFIELD",
-          "minutes": 67
-        },
-        {
-          "game": "Rainbow Six Siege",
-          "minutes": 67
-        },
-        {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 60
-        },
-        {
-          "game": "Dragon Ball: The Breakers",
-          "minutes": 54
-        },
-        {
-          "game": "TETR.IO",
-          "minutes": 53
-        },
-        {
-          "game": "Mortal Kombat: Legacy Kollection",
-          "minutes": 36
-        },
-        {
-          "game": "Mortal Kombat 1",
-          "minutes": 35
-        },
-        {
-          "game": "Yu-Gi-Oh! Master Duel",
-          "minutes": 32
-        },
-        {
-          "game": "Fatal Fury: City of the Wolves",
-          "minutes": 26
-        },
-        {
-          "game": "StarWard",
-          "minutes": 22
-        },
-        {
-          "game": "Street Fighter 6",
-          "minutes": 22
-        },
-        {
-          "game": "Dragon Quest X: Inishie no Ryuu no Denshou Online",
-          "minutes": 18
-        },
-        {
-          "game": "Guilty Gear Xrd: Revelator",
-          "minutes": 17
-        },
-        {
-          "game": "Samurai Shodown V Special",
-          "minutes": 15
-        },
-        {
-          "game": "ゼンレスゾーンゼロ",
-          "minutes": 13
-        },
-        {
-          "game": "Shadowverse: Worlds Beyond",
-          "minutes": 9
-        },
-        {
-          "game": "仮面ライダー クライマックスファイターズ",
-          "minutes": 9
-        },
-        {
-          "game": "MOBILE SUIT GUNDAM BATTLE OPERATION 2",
-          "minutes": 8
-        },
-        {
-          "game": "Rivals of Aether",
-          "minutes": 6
-        }
-      ]
-    },
-    {
-      "bucket_type": "week",
       "start_date": "2026-06-15",
       "end_date": "2026-06-21",
       "items": [
@@ -2349,41 +2198,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-07-07",
-      "end_date": "2026-07-07",
-      "items": [
-        {
-          "game": "BlazBlue Centralfiction",
-          "minutes": 242
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 240
-        },
-        {
-          "game": "DNF Duel",
-          "minutes": 202
-        },
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 193
-        },
-        {
-          "game": "Strinova",
-          "minutes": 99
-        },
-        {
-          "game": "Sakura Arms ~Radiant Duels~ Demo",
-          "minutes": 82
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 49
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-07-08",
       "end_date": "2026-07-08",
       "items": [
@@ -2631,16 +2445,67 @@
       "end_date": "2026-07-13",
       "items": [
         {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 373
+        },
+        {
           "game": "Palworld",
-          "minutes": 120
+          "minutes": 268
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 121
+        },
+        {
+          "game": "Strinova",
+          "minutes": 65
+        },
+        {
+          "game": "StarWard",
+          "minutes": 30
+        },
+        {
+          "game": "Neverness to Everness",
+          "minutes": 14
         },
         {
           "game": "DNF Duel",
           "minutes": 12
         },
         {
+          "game": "Dead by Daylight",
+          "minutes": 10
+        },
+        {
           "game": "MapleStory",
           "minutes": 1
+        },
+        {
+          "game": "Overwatch",
+          "minutes": 1
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-07-14",
+      "end_date": "2026-07-14",
+      "items": [
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 180
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 60
+        },
+        {
+          "game": "Neverness to Everness",
+          "minutes": 25
+        },
+        {
+          "game": "Dead by Daylight",
+          "minutes": 16
         }
       ]
     }
