@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T01:00:00+09:00",
+  "generated_at": "2026-07-15T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -2198,49 +2198,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-07-08",
-      "end_date": "2026-07-08",
-      "items": [
-        {
-          "game": "DNF Duel",
-          "minutes": 420
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 109
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 70
-        },
-        {
-          "game": "Atelier Resleriana: The Red Alchemist & The White Guardian",
-          "minutes": 61
-        },
-        {
-          "game": "Strinova",
-          "minutes": 45
-        },
-        {
-          "game": "Mary Skelter Finale",
-          "minutes": 27
-        },
-        {
-          "game": "BlazBlue Centralfiction",
-          "minutes": 20
-        },
-        {
-          "game": "Persona5: The Phantom X",
-          "minutes": 7
-        },
-        {
-          "game": "Overwatch",
-          "minutes": 6
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-07-09",
       "end_date": "2026-07-09",
       "items": [
@@ -2493,19 +2450,50 @@
       "items": [
         {
           "game": "Phantom Breaker: Omnia",
-          "minutes": 180
+          "minutes": 398
         },
         {
           "game": "Wuthering Waves",
-          "minutes": 60
+          "minutes": 307
+        },
+        {
+          "game": "Palworld",
+          "minutes": 112
+        },
+        {
+          "game": "DNF Duel",
+          "minutes": 73
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 50
         },
         {
           "game": "Neverness to Everness",
-          "minutes": 25
+          "minutes": 30
         },
         {
           "game": "Dead by Daylight",
           "minutes": 16
+        },
+        {
+          "game": "Strinova",
+          "minutes": 6
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-07-15",
+      "end_date": "2026-07-15",
+      "items": [
+        {
+          "game": "Palworld",
+          "minutes": 120
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 120
         }
       ]
     }
