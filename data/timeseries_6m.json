@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T01:00:00+09:00",
+  "generated_at": "2026-07-17T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -2198,57 +2198,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-07-10",
-      "end_date": "2026-07-10",
-      "items": [
-        {
-          "game": "Wuthering Waves",
-          "minutes": 146
-        },
-        {
-          "game": "The Rumble Fish 2",
-          "minutes": 72
-        },
-        {
-          "game": "Neverness to Everness",
-          "minutes": 71
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 69
-        },
-        {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 64
-        },
-        {
-          "game": "Fatal Fury: City of the Wolves",
-          "minutes": 40
-        },
-        {
-          "game": "Overwatch",
-          "minutes": 32
-        },
-        {
-          "game": "Strinova",
-          "minutes": 22
-        },
-        {
-          "game": "MECCHA CHAMELEON",
-          "minutes": 19
-        },
-        {
-          "game": "Aimlabs",
-          "minutes": 9
-        },
-        {
-          "game": "StarWard",
-          "minutes": 2
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-07-11",
       "end_date": "2026-07-11",
       "items": [
@@ -2460,8 +2409,63 @@
       "end_date": "2026-07-16",
       "items": [
         {
+          "game": "Guilty Gear: Strive",
+          "minutes": 152
+        },
+        {
           "game": "DNF Duel",
-          "minutes": 80
+          "minutes": 135
+        },
+        {
+          "game": "ARKNIGHTS: ENDFIELD",
+          "minutes": 130
+        },
+        {
+          "game": "Neverness to Everness",
+          "minutes": 120
+        },
+        {
+          "game": "Arknights: Endfield",
+          "minutes": 118
+        },
+        {
+          "game": "Strinova",
+          "minutes": 49
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 29
+        },
+        {
+          "game": "NTE: Neverness to Everness",
+          "minutes": 4
+        },
+        {
+          "game": "Palworld",
+          "minutes": 3
+        },
+        {
+          "game": "StarWard",
+          "minutes": 2
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-07-17",
+      "end_date": "2026-07-17",
+      "items": [
+        {
+          "game": "Palworld",
+          "minutes": 94
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 67
+        },
+        {
+          "game": "ARKNIGHTS: ENDFIELD",
+          "minutes": 4
         }
       ]
     }
