@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T01:00:00+09:00",
+  "generated_at": "2026-07-18T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -2198,53 +2198,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-07-11",
-      "end_date": "2026-07-11",
-      "items": [
-        {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 221
-        },
-        {
-          "game": "Strinova",
-          "minutes": 84
-        },
-        {
-          "game": "DNF Duel",
-          "minutes": 78
-        },
-        {
-          "game": "Kiou",
-          "minutes": 54
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 37
-        },
-        {
-          "game": "BlazBlue Centralfiction",
-          "minutes": 17
-        },
-        {
-          "game": "Dead by Daylight",
-          "minutes": 3
-        },
-        {
-          "game": "NARAKA: BLADEPOINT",
-          "minutes": 3
-        },
-        {
-          "game": "StarWard",
-          "minutes": 2
-        },
-        {
-          "game": "BlazBlue: Central Fiction",
-          "minutes": 1
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-07-12",
       "end_date": "2026-07-12",
       "items": [
@@ -2457,15 +2410,50 @@
       "items": [
         {
           "game": "Palworld",
-          "minutes": 94
+          "minutes": 802
         },
         {
           "game": "Guilty Gear: Strive",
           "minutes": 67
         },
         {
+          "game": "Wuthering Waves",
+          "minutes": 51
+        },
+        {
+          "game": "Strinova",
+          "minutes": 30
+        },
+        {
+          "game": "Neverness to Everness",
+          "minutes": 25
+        },
+        {
           "game": "ARKNIGHTS: ENDFIELD",
           "minutes": 4
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 4
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-07-18",
+      "end_date": "2026-07-18",
+      "items": [
+        {
+          "game": "Palworld",
+          "minutes": 120
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 41
+        },
+        {
+          "game": "Strinova",
+          "minutes": 8
         }
       ]
     }
