@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T01:00:00+09:00",
+  "generated_at": "2026-07-19T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -2198,57 +2198,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-07-12",
-      "end_date": "2026-07-12",
-      "items": [
-        {
-          "game": "Palworld",
-          "minutes": 315
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 174
-        },
-        {
-          "game": "DNF Duel",
-          "minutes": 171
-        },
-        {
-          "game": "MapleStory",
-          "minutes": 124
-        },
-        {
-          "game": "JoJo’s Bizarre Adventure: All-Star Battle R",
-          "minutes": 82
-        },
-        {
-          "game": "Strinova",
-          "minutes": 67
-        },
-        {
-          "game": "Call of Duty®: Black Ops 6",
-          "minutes": 52
-        },
-        {
-          "game": "Fatal Fury: City of the Wolves",
-          "minutes": 15
-        },
-        {
-          "game": "Neverness to Everness",
-          "minutes": 13
-        },
-        {
-          "game": "Dead by Daylight",
-          "minutes": 12
-        },
-        {
-          "game": "BlazBlue Centralfiction",
-          "minutes": 5
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-07-13",
       "end_date": "2026-07-13",
       "items": [
@@ -2445,15 +2394,78 @@
       "items": [
         {
           "game": "Palworld",
-          "minutes": 120
+          "minutes": 216
+        },
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 99
+        },
+        {
+          "game": "JoJo’s Bizarre Adventure: All-Star Battle R",
+          "minutes": 76
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 64
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 57
+        },
+        {
+          "game": "DNF Duel",
+          "minutes": 49
         },
         {
           "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
           "minutes": 41
         },
         {
+          "game": "Fatal Fury: City of the Wolves",
+          "minutes": 21
+        },
+        {
+          "game": "BlazBlue Centralfiction",
+          "minutes": 17
+        },
+        {
           "game": "Strinova",
           "minutes": 8
+        },
+        {
+          "game": "Arknights: Endfield",
+          "minutes": 4
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-07-19",
+      "end_date": "2026-07-19",
+      "items": [
+        {
+          "game": "Wuthering Waves",
+          "minutes": 21
+        },
+        {
+          "game": "Strinova",
+          "minutes": 15
+        },
+        {
+          "game": "Guilty Gear Xrd: Revelator",
+          "minutes": 14
+        },
+        {
+          "game": "Neverness to Everness",
+          "minutes": 14
+        },
+        {
+          "game": "DNF Duel",
+          "minutes": 3
+        },
+        {
+          "game": "Fatal Fury: City of the Wolves",
+          "minutes": 1
         }
       ]
     }
