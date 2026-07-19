@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T01:00:00+09:00",
+  "generated_at": "2026-07-20T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -2197,41 +2197,97 @@
       ]
     },
     {
-      "bucket_type": "day",
+      "bucket_type": "week",
       "start_date": "2026-07-13",
-      "end_date": "2026-07-13",
+      "end_date": "2026-07-19",
       "items": [
         {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 373
-        },
-        {
           "game": "Palworld",
-          "minutes": 268
+          "minutes": 1746
         },
         {
           "game": "Wuthering Waves",
-          "minutes": 121
+          "minutes": 1042
         },
         {
-          "game": "Strinova",
-          "minutes": 65
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 870
         },
         {
-          "game": "StarWard",
-          "minutes": 30
-        },
-        {
-          "game": "Neverness to Everness",
-          "minutes": 14
+          "game": "Guilty Gear: Strive",
+          "minutes": 425
         },
         {
           "game": "DNF Duel",
-          "minutes": 12
+          "minutes": 388
+        },
+        {
+          "game": "Genshin Impact",
+          "minutes": 345
+        },
+        {
+          "game": "Neverness to Everness",
+          "minutes": 333
+        },
+        {
+          "game": "Strinova",
+          "minutes": 315
+        },
+        {
+          "game": "Arknights: Endfield",
+          "minutes": 254
+        },
+        {
+          "game": "ELDEN RING NIGHTREIGN",
+          "minutes": 151
+        },
+        {
+          "game": "Atelier Resleriana: Forgotten Alchemy and the Polar Night Liberator",
+          "minutes": 143
+        },
+        {
+          "game": "ARKNIGHTS: ENDFIELD",
+          "minutes": 136
+        },
+        {
+          "game": "JoJo’s Bizarre Adventure: All-Star Battle R",
+          "minutes": 116
+        },
+        {
+          "game": "Street Fighter 6",
+          "minutes": 86
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 45
+        },
+        {
+          "game": "StarWard",
+          "minutes": 34
         },
         {
           "game": "Dead by Daylight",
-          "minutes": 10
+          "minutes": 26
+        },
+        {
+          "game": "Fatal Fury: City of the Wolves",
+          "minutes": 22
+        },
+        {
+          "game": "Guilty Gear Xrd: Revelator",
+          "minutes": 22
+        },
+        {
+          "game": "BlazBlue Centralfiction",
+          "minutes": 17
+        },
+        {
+          "game": "BlazBlue: Cross Tag Battle",
+          "minutes": 12
+        },
+        {
+          "game": "NTE: Neverness to Everness",
+          "minutes": 7
         },
         {
           "game": "MapleStory",
@@ -2444,28 +2500,91 @@
       "end_date": "2026-07-19",
       "items": [
         {
+          "game": "Genshin Impact",
+          "minutes": 345
+        },
+        {
           "game": "Wuthering Waves",
-          "minutes": 21
+          "minutes": 244
         },
         {
-          "game": "Strinova",
-          "minutes": 15
+          "game": "Palworld",
+          "minutes": 154
         },
         {
-          "game": "Guilty Gear Xrd: Revelator",
-          "minutes": 14
+          "game": "ELDEN RING NIGHTREIGN",
+          "minutes": 151
         },
         {
           "game": "Neverness to Everness",
-          "minutes": 14
+          "minutes": 144
+        },
+        {
+          "game": "Atelier Resleriana: Forgotten Alchemy and the Polar Night Liberator",
+          "minutes": 143
+        },
+        {
+          "game": "Arknights: Endfield",
+          "minutes": 132
+        },
+        {
+          "game": "Strinova",
+          "minutes": 119
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 92
+        },
+        {
+          "game": "Street Fighter 6",
+          "minutes": 86
+        },
+        {
+          "game": "JoJo’s Bizarre Adventure: All-Star Battle R",
+          "minutes": 40
+        },
+        {
+          "game": "Guilty Gear Xrd: Revelator",
+          "minutes": 22
+        },
+        {
+          "game": "BlazBlue: Cross Tag Battle",
+          "minutes": 12
         },
         {
           "game": "DNF Duel",
           "minutes": 3
         },
         {
+          "game": "NTE: Neverness to Everness",
+          "minutes": 3
+        },
+        {
+          "game": "ARKNIGHTS: ENDFIELD",
+          "minutes": 2
+        },
+        {
+          "game": "StarWard",
+          "minutes": 2
+        },
+        {
           "game": "Fatal Fury: City of the Wolves",
           "minutes": 1
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-07-20",
+      "end_date": "2026-07-20",
+      "items": [
+        {
+          "game": "Street Fighter 6",
+          "minutes": 60
+        },
+        {
+          "game": "Strinova",
+          "minutes": 37
         }
       ]
     }
