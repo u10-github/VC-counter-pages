@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T01:00:00+09:00",
+  "generated_at": "2026-07-21T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1706,89 +1706,6 @@
     },
     {
       "bucket_type": "week",
-      "start_date": "2026-06-15",
-      "end_date": "2026-06-21",
-      "items": [
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 2047
-        },
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 1647
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 760
-        },
-        {
-          "game": "Sakura Arms ~Radiant Duels~ Demo",
-          "minutes": 584
-        },
-        {
-          "game": "DNF Duel",
-          "minutes": 451
-        },
-        {
-          "game": "Dead by Daylight",
-          "minutes": 350
-        },
-        {
-          "game": "Arcana Heart 3 LOVEMAX SIXSTARS!!!!!! XTEND",
-          "minutes": 329
-        },
-        {
-          "game": "Strinova",
-          "minutes": 283
-        },
-        {
-          "game": "MELTY BLOOD: TYPE LUMINA",
-          "minutes": 247
-        },
-        {
-          "game": "TEVI",
-          "minutes": 185
-        },
-        {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 163
-        },
-        {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 129
-        },
-        {
-          "game": "MapleStory",
-          "minutes": 97
-        },
-        {
-          "game": "StarWard",
-          "minutes": 89
-        },
-        {
-          "game": "Neverness to Everness",
-          "minutes": 44
-        },
-        {
-          "game": "Touhou Danmaku Kagura: Phantasia Lost",
-          "minutes": 26
-        },
-        {
-          "game": "NARAKA: BLADEPOINT",
-          "minutes": 24
-        },
-        {
-          "game": "Rhythm Doctor",
-          "minutes": 15
-        },
-        {
-          "game": "Overwatch",
-          "minutes": 3
-        }
-      ]
-    },
-    {
-      "bucket_type": "week",
       "start_date": "2026-06-22",
       "end_date": "2026-06-28",
       "items": [
@@ -2301,45 +2218,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-07-14",
-      "end_date": "2026-07-14",
-      "items": [
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 398
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 307
-        },
-        {
-          "game": "Palworld",
-          "minutes": 112
-        },
-        {
-          "game": "DNF Duel",
-          "minutes": 73
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 50
-        },
-        {
-          "game": "Neverness to Everness",
-          "minutes": 30
-        },
-        {
-          "game": "Dead by Daylight",
-          "minutes": 16
-        },
-        {
-          "game": "Strinova",
-          "minutes": 6
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-07-15",
       "end_date": "2026-07-15",
       "items": [
@@ -2579,12 +2457,75 @@
       "end_date": "2026-07-20",
       "items": [
         {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 249
+        },
+        {
+          "game": "Neverness to Everness",
+          "minutes": 176
+        },
+        {
+          "game": "Palworld",
+          "minutes": 171
+        },
+        {
+          "game": "DNF Duel",
+          "minutes": 121
+        },
+        {
+          "game": "BlazBlue Centralfiction",
+          "minutes": 72
+        },
+        {
           "game": "Street Fighter 6",
-          "minutes": 60
+          "minutes": 68
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 40
         },
         {
           "game": "Strinova",
           "minutes": 37
+        },
+        {
+          "game": "Fatal Fury: City of the Wolves",
+          "minutes": 20
+        },
+        {
+          "game": "JoJo’s Bizarre Adventure: All-Star Battle R",
+          "minutes": 18
+        },
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 7
+        },
+        {
+          "game": "BlazBlue: Central Fiction",
+          "minutes": 1
+        },
+        {
+          "game": "Dead by Daylight",
+          "minutes": 1
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-07-21",
+      "end_date": "2026-07-21",
+      "items": [
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 120
+        },
+        {
+          "game": "Palworld",
+          "minutes": 92
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 74
         }
       ]
     }
