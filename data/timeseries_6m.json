@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T01:00:00+09:00",
+  "generated_at": "2026-07-22T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -2218,29 +2218,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-07-15",
-      "end_date": "2026-07-15",
-      "items": [
-        {
-          "game": "Wuthering Waves",
-          "minutes": 233
-        },
-        {
-          "game": "Palworld",
-          "minutes": 191
-        },
-        {
-          "game": "DNF Duel",
-          "minutes": 116
-        },
-        {
-          "game": "Strinova",
-          "minutes": 38
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-07-16",
       "end_date": "2026-07-16",
       "items": [
@@ -2516,16 +2493,59 @@
       "end_date": "2026-07-21",
       "items": [
         {
+          "game": "Guilty Gear: Strive",
+          "minutes": 326
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 303
+        },
+        {
           "game": "Phantom Breaker: Omnia",
-          "minutes": 120
+          "minutes": 193
+        },
+        {
+          "game": "DNF Duel",
+          "minutes": 123
         },
         {
           "game": "Palworld",
           "minutes": 92
         },
         {
+          "game": "Sakura Arms ~Radiant Duels~ Demo",
+          "minutes": 68
+        },
+        {
+          "game": "Strinova",
+          "minutes": 50
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-07-22",
+      "end_date": "2026-07-22",
+      "items": [
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 152
+        },
+        {
+          "game": "DNF Duel",
+          "minutes": 60
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 23
+        },
+        {
           "game": "Wuthering Waves",
-          "minutes": 74
+          "minutes": 12
+        },
+        {
+          "game": "Sakura Arms ~Radiant Duels~ Demo",
+          "minutes": 9
         }
       ]
     }
