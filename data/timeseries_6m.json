@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T01:00:00+09:00",
+  "generated_at": "2026-07-23T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -2218,53 +2218,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-07-16",
-      "end_date": "2026-07-16",
-      "items": [
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 152
-        },
-        {
-          "game": "DNF Duel",
-          "minutes": 135
-        },
-        {
-          "game": "ARKNIGHTS: ENDFIELD",
-          "minutes": 130
-        },
-        {
-          "game": "Neverness to Everness",
-          "minutes": 120
-        },
-        {
-          "game": "Arknights: Endfield",
-          "minutes": 118
-        },
-        {
-          "game": "Strinova",
-          "minutes": 49
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 29
-        },
-        {
-          "game": "NTE: Neverness to Everness",
-          "minutes": 4
-        },
-        {
-          "game": "Palworld",
-          "minutes": 3
-        },
-        {
-          "game": "StarWard",
-          "minutes": 2
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-07-17",
       "end_date": "2026-07-17",
       "items": [
@@ -2528,24 +2481,47 @@
       "end_date": "2026-07-22",
       "items": [
         {
-          "game": "Guilty Gear: Strive",
-          "minutes": 152
+          "game": "DNF Duel",
+          "minutes": 347
         },
         {
-          "game": "DNF Duel",
-          "minutes": 60
+          "game": "Guilty Gear: Strive",
+          "minutes": 222
         },
         {
           "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 23
+          "minutes": 194
         },
         {
           "game": "Wuthering Waves",
-          "minutes": 12
+          "minutes": 45
+        },
+        {
+          "game": "GODDESS OF VICTORY: NIKKE",
+          "minutes": 24
         },
         {
           "game": "Sakura Arms ~Radiant Duels~ Demo",
           "minutes": 9
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-07-23",
+      "end_date": "2026-07-23",
+      "items": [
+        {
+          "game": "DNF Duel",
+          "minutes": 71
+        },
+        {
+          "game": "MapleStory",
+          "minutes": 31
+        },
+        {
+          "game": "GODDESS OF VICTORY: NIKKE",
+          "minutes": 20
         }
       ]
     }
