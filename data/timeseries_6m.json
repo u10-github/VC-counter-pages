@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T01:00:00+09:00",
+  "generated_at": "2026-07-24T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -2218,41 +2218,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-07-17",
-      "end_date": "2026-07-17",
-      "items": [
-        {
-          "game": "Palworld",
-          "minutes": 802
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 67
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 51
-        },
-        {
-          "game": "Strinova",
-          "minutes": 30
-        },
-        {
-          "game": "Neverness to Everness",
-          "minutes": 25
-        },
-        {
-          "game": "ARKNIGHTS: ENDFIELD",
-          "minutes": 4
-        },
-        {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 4
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-07-18",
       "end_date": "2026-07-18",
       "items": [
@@ -2512,6 +2477,14 @@
       "end_date": "2026-07-23",
       "items": [
         {
+          "game": "Strinova",
+          "minutes": 325
+        },
+        {
+          "game": "TEKKEN 8",
+          "minutes": 110
+        },
+        {
           "game": "DNF Duel",
           "minutes": 71
         },
@@ -2522,6 +2495,33 @@
         {
           "game": "GODDESS OF VICTORY: NIKKE",
           "minutes": 20
+        },
+        {
+          "game": "MTGA",
+          "minutes": 13
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 7
+        },
+        {
+          "game": "Neverness to Everness",
+          "minutes": 5
+        },
+        {
+          "game": "Escape from Tarkov",
+          "minutes": 3
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-07-24",
+      "end_date": "2026-07-24",
+      "items": [
+        {
+          "game": "Strinova",
+          "minutes": 240
         }
       ]
     }
