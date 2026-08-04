@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T01:00:00+09:00",
+  "generated_at": "2026-08-05T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -2343,29 +2343,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-07-29",
-      "end_date": "2026-07-29",
-      "items": [
-        {
-          "game": "DNF Duel",
-          "minutes": 184
-        },
-        {
-          "game": "Street Fighter 6",
-          "minutes": 77
-        },
-        {
-          "game": "Strinova",
-          "minutes": 52
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 39
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-07-30",
       "end_date": "2026-07-30",
       "items": [
@@ -2498,29 +2475,47 @@
       "items": [
         {
           "game": "Wuthering Waves",
-          "minutes": 99
+          "minutes": 225
         },
         {
           "game": "Phantom Breaker: Omnia",
-          "minutes": 60
+          "minutes": 101
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 96
         },
         {
           "game": "Neverness to Everness",
-          "minutes": 36
+          "minutes": 95
+        },
+        {
+          "game": "Strinova",
+          "minutes": 71
+        },
+        {
+          "game": "Fatal Fury: City of the Wolves",
+          "minutes": 30
         },
         {
           "game": "NARAKA: BLADEPOINT",
           "minutes": 29
         },
         {
-          "game": "Guilty Gear: Strive",
-          "minutes": 28
+          "game": "StarWard",
+          "minutes": 7
         },
         {
           "game": "NTE: Neverness to Everness",
           "minutes": 1
         }
       ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-08-05",
+      "end_date": "2026-08-05",
+      "items": []
     }
   ]
 }
