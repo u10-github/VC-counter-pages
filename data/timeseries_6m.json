@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T01:00:00+09:00",
+  "generated_at": "2026-08-06T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -2343,25 +2343,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-07-30",
-      "end_date": "2026-07-30",
-      "items": [
-        {
-          "game": "Wuthering Waves",
-          "minutes": 145
-        },
-        {
-          "game": "Strinova",
-          "minutes": 36
-        },
-        {
-          "game": "DNF Duel",
-          "minutes": 9
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-07-31",
       "end_date": "2026-07-31",
       "items": [
@@ -2515,7 +2496,39 @@
       "bucket_type": "day",
       "start_date": "2026-08-05",
       "end_date": "2026-08-05",
-      "items": []
+      "items": [
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 34
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 12
+        },
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 11
+        },
+        {
+          "game": "DNF Duel",
+          "minutes": 10
+        },
+        {
+          "game": "Strinova",
+          "minutes": 10
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-08-06",
+      "end_date": "2026-08-06",
+      "items": [
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 4
+        }
+      ]
     }
   ]
 }
