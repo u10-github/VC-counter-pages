@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T01:00:00+09:00",
+  "generated_at": "2026-08-07T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -2343,37 +2343,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-07-31",
-      "end_date": "2026-07-31",
-      "items": [
-        {
-          "game": "Wuthering Waves",
-          "minutes": 481
-        },
-        {
-          "game": "BlazBlue: Calamity Trigger",
-          "minutes": 84
-        },
-        {
-          "game": "Neverness to Everness",
-          "minutes": 11
-        },
-        {
-          "game": "StarWard",
-          "minutes": 5
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 4
-        },
-        {
-          "game": "BlazBlue: Continuum Shift Extend",
-          "minutes": 1
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-08-01",
       "end_date": "2026-08-01",
       "items": [
@@ -2526,9 +2495,23 @@
       "items": [
         {
           "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 4
+          "minutes": 65
+        },
+        {
+          "game": "Strinova",
+          "minutes": 37
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 34
         }
       ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-08-07",
+      "end_date": "2026-08-07",
+      "items": []
     }
   ]
 }
