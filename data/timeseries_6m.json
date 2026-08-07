@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T01:00:00+09:00",
+  "generated_at": "2026-08-08T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -2343,33 +2343,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-08-01",
-      "end_date": "2026-08-01",
-      "items": [
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 252
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 181
-        },
-        {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 67
-        },
-        {
-          "game": "DNF Duel",
-          "minutes": 59
-        },
-        {
-          "game": "Atelier Resleriana: Forgotten Alchemy and the Polar Night Liberator",
-          "minutes": 51
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-08-02",
       "end_date": "2026-08-02",
       "items": [
@@ -2511,7 +2484,31 @@
       "bucket_type": "day",
       "start_date": "2026-08-07",
       "end_date": "2026-08-07",
-      "items": []
+      "items": [
+        {
+          "game": "Marvel Tokon: Fighting Souls",
+          "minutes": 591
+        },
+        {
+          "game": "DNF Duel",
+          "minutes": 170
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-08-08",
+      "end_date": "2026-08-08",
+      "items": [
+        {
+          "game": "DNF Duel",
+          "minutes": 84
+        },
+        {
+          "game": "Marvel Tokon: Fighting Souls",
+          "minutes": 75
+        }
+      ]
     }
   ]
 }
