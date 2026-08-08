@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T01:00:00+09:00",
+  "generated_at": "2026-08-09T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -2343,33 +2343,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-08-02",
-      "end_date": "2026-08-02",
-      "items": [
-        {
-          "game": "Avatar Legends: The Fighting Game",
-          "minutes": 99
-        },
-        {
-          "game": "Strinova",
-          "minutes": 87
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 84
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 24
-        },
-        {
-          "game": "DNF Duel",
-          "minutes": 13
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-08-03",
       "end_date": "2026-08-03",
       "items": [
@@ -2501,12 +2474,31 @@
       "end_date": "2026-08-08",
       "items": [
         {
-          "game": "DNF Duel",
-          "minutes": 84
+          "game": "Marvel Tokon: Fighting Souls",
+          "minutes": 512
         },
         {
+          "game": "DNF Duel",
+          "minutes": 154
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-08-09",
+      "end_date": "2026-08-09",
+      "items": [
+        {
           "game": "Marvel Tokon: Fighting Souls",
+          "minutes": 214
+        },
+        {
+          "game": "DNF Duel",
           "minutes": 75
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 18
         }
       ]
     }
