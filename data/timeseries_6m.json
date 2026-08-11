@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T01:00:00+09:00",
+  "generated_at": "2026-08-12T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -14,11 +14,11 @@
       "items": [
         {
           "game": "DNF DUEL",
-          "minutes": 11007
+          "minutes": 10275
         },
         {
           "game": "Arknights:Endfield",
-          "minutes": 3808
+          "minutes": 3796
         },
         {
           "game": "GUILTY GEAR -STRIVE-",
@@ -49,16 +49,16 @@
           "minutes": 531
         },
         {
-          "game": "FATAL FURY: City of the Wolves",
-          "minutes": 426
-        },
-        {
           "game": "BlazBlue Centralfiction",
           "minutes": 421
         },
         {
           "game": "Street Fighter™ 6",
-          "minutes": 404
+          "minutes": 380
+        },
+        {
+          "game": "FATAL FURY: City of the Wolves",
+          "minutes": 379
         },
         {
           "game": "Tetris The Grand Master 4 -Absolute Eye-",
@@ -77,12 +77,12 @@
           "minutes": 213
         },
         {
-          "game": "SILENT HILL f",
-          "minutes": 192
-        },
-        {
           "game": "Shadowverse: Worlds Beyond",
           "minutes": 180
+        },
+        {
+          "game": "SILENT HILL f",
+          "minutes": 178
         },
         {
           "game": "Persona 4 Arena Ultimax",
@@ -93,16 +93,12 @@
           "minutes": 167
         },
         {
-          "game": "NoxPlayer",
-          "minutes": 159
-        },
-        {
           "game": "NARAKA: BLADEPOINT",
           "minutes": 155
         },
         {
-          "game": "Minecraft",
-          "minutes": 145
+          "game": "NoxPlayer",
+          "minutes": 140
         },
         {
           "game": "Romancing SaGa 3™",
@@ -113,12 +109,12 @@
           "minutes": 116
         },
         {
-          "game": "Yakuza 3 Remastered",
+          "game": "Minecraft",
           "minutes": 115
         },
         {
-          "game": "Backpack Battles",
-          "minutes": 105
+          "game": "Yakuza 3 Remastered",
+          "minutes": 115
         },
         {
           "game": "Mirage Feathers",
@@ -149,10 +145,6 @@
           "minutes": 74
         },
         {
-          "game": "Absolum",
-          "minutes": 71
-        },
-        {
           "game": "Capcom Arcade Stadium",
           "minutes": 71
         },
@@ -161,19 +153,11 @@
           "minutes": 67
         },
         {
-          "game": "DRAGON BALL FighterZ",
-          "minutes": 66
-        },
-        {
           "game": "A Dance of Fire and Ice",
           "minutes": 55
         },
         {
           "game": "Devil May Cry 4 Special Edition",
-          "minutes": 47
-        },
-        {
-          "game": "MTGA",
           "minutes": 47
         },
         {
@@ -189,6 +173,14 @@
           "minutes": 39
         },
         {
+          "game": "Absolum",
+          "minutes": 37
+        },
+        {
+          "game": "DRAGON BALL FighterZ",
+          "minutes": 37
+        },
+        {
           "game": "METAL SLUG 3",
           "minutes": 37
         },
@@ -197,20 +189,12 @@
           "minutes": 35
         },
         {
-          "game": "Crimzon Clover World EXplosion",
-          "minutes": 33
-        },
-        {
           "game": "アークナイツ",
           "minutes": 32
         },
         {
           "game": "Black Desert Online",
           "minutes": 29
-        },
-        {
-          "game": "Initial Drift Online",
-          "minutes": 28
         },
         {
           "game": "THE KING OF FIGHTERS XV",
@@ -229,10 +213,6 @@
           "minutes": 24
         },
         {
-          "game": "近畿霊務局",
-          "minutes": 23
-        },
-        {
           "game": "Mortal Kombat: Legacy Kollection",
           "minutes": 22
         },
@@ -245,16 +225,16 @@
           "minutes": 21
         },
         {
-          "game": "MTGArena",
-          "minutes": 21
-        },
-        {
           "game": "Demonic Mahjong",
           "minutes": 20
         },
         {
           "game": "gogh: Focus with Your Avatar",
           "minutes": 19
+        },
+        {
+          "game": "MTGArena",
+          "minutes": 17
         },
         {
           "game": "R-Type: Dimensions EX",
@@ -2275,33 +2255,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-08-05",
-      "end_date": "2026-08-05",
-      "items": [
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 34
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 12
-        },
-        {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 11
-        },
-        {
-          "game": "DNF Duel",
-          "minutes": 10
-        },
-        {
-          "game": "Strinova",
-          "minutes": 10
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-08-06",
       "end_date": "2026-08-06",
       "items": [
@@ -2393,16 +2346,31 @@
       "end_date": "2026-08-11",
       "items": [
         {
+          "game": "Marvel Tokon: Fighting Souls",
+          "minutes": 1381
+        },
+        {
           "game": "Phantom Breaker: Omnia",
-          "minutes": 94
+          "minutes": 132
         },
         {
           "game": "BlazBlue: Cross Tag Battle",
-          "minutes": 19
+          "minutes": 109
         },
         {
+          "game": "Wuthering Waves",
+          "minutes": 39
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-08-12",
+      "end_date": "2026-08-12",
+      "items": [
+        {
           "game": "Marvel Tokon: Fighting Souls",
-          "minutes": 16
+          "minutes": 60
         }
       ]
     }
