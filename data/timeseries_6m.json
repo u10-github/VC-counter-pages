@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T01:00:00+09:00",
+  "generated_at": "2026-08-13T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -14,11 +14,11 @@
       "items": [
         {
           "game": "DNF DUEL",
-          "minutes": 10275
+          "minutes": 10152
         },
         {
           "game": "Arknights:Endfield",
-          "minutes": 3796
+          "minutes": 3684
         },
         {
           "game": "GUILTY GEAR -STRIVE-",
@@ -34,23 +34,19 @@
         },
         {
           "game": "Phantom Breaker: Omnia",
-          "minutes": 1374
-        },
-        {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 1332
+          "minutes": 1373
         },
         {
           "game": "Wuthering Waves",
-          "minutes": 1312
+          "minutes": 1281
+        },
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 1061
         },
         {
           "game": "Like a Dragon: Pirate Yakuza in Hawaii",
           "minutes": 531
-        },
-        {
-          "game": "BlazBlue Centralfiction",
-          "minutes": 421
         },
         {
           "game": "Street Fighter™ 6",
@@ -59,6 +55,10 @@
         {
           "game": "FATAL FURY: City of the Wolves",
           "minutes": 379
+        },
+        {
+          "game": "BlazBlue Centralfiction",
+          "minutes": 372
         },
         {
           "game": "Tetris The Grand Master 4 -Absolute Eye-",
@@ -73,16 +73,8 @@
           "minutes": 220
         },
         {
-          "game": "SNOWBREAK",
-          "minutes": 213
-        },
-        {
           "game": "Shadowverse: Worlds Beyond",
           "minutes": 180
-        },
-        {
-          "game": "SILENT HILL f",
-          "minutes": 178
         },
         {
           "game": "Persona 4 Arena Ultimax",
@@ -97,16 +89,16 @@
           "minutes": 155
         },
         {
-          "game": "NoxPlayer",
-          "minutes": 140
+          "game": "SNOWBREAK",
+          "minutes": 145
         },
         {
           "game": "Romancing SaGa 3™",
           "minutes": 138
         },
         {
-          "game": "ぷよぷよ™テトリス® ２",
-          "minutes": 116
+          "game": "NoxPlayer",
+          "minutes": 122
         },
         {
           "game": "Minecraft",
@@ -121,8 +113,16 @@
           "minutes": 103
         },
         {
+          "game": "ぷよぷよ™テトリス® ２",
+          "minutes": 103
+        },
+        {
           "game": "東方ダンマクカグラ ファンタジア・ロスト",
           "minutes": 100
+        },
+        {
+          "game": "SILENT HILL f",
+          "minutes": 88
         },
         {
           "game": "Ultra Fight Da Kyanta 2",
@@ -2255,25 +2255,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-08-06",
-      "end_date": "2026-08-06",
-      "items": [
-        {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 65
-        },
-        {
-          "game": "Strinova",
-          "minutes": 37
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 34
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-08-07",
       "end_date": "2026-08-07",
       "items": [
@@ -2370,9 +2351,19 @@
       "items": [
         {
           "game": "Marvel Tokon: Fighting Souls",
-          "minutes": 60
+          "minutes": 374
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 52
         }
       ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-08-13",
+      "end_date": "2026-08-13",
+      "items": []
     }
   ]
 }
