@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T01:00:00+09:00",
+  "generated_at": "2026-08-14T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -14,11 +14,11 @@
       "items": [
         {
           "game": "DNF DUEL",
-          "minutes": 10152
+          "minutes": 9525
         },
         {
           "game": "Arknights:Endfield",
-          "minutes": 3684
+          "minutes": 3296
         },
         {
           "game": "GUILTY GEAR -STRIVE-",
@@ -30,19 +30,19 @@
         },
         {
           "game": "Guns of Icarus Alliance",
-          "minutes": 1677
+          "minutes": 1628
         },
         {
           "game": "Phantom Breaker: Omnia",
           "minutes": 1373
         },
         {
-          "game": "Wuthering Waves",
-          "minutes": 1281
-        },
-        {
           "game": "Granblue Fantasy Versus: Rising",
           "minutes": 1061
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 780
         },
         {
           "game": "Like a Dragon: Pirate Yakuza in Hawaii",
@@ -54,15 +54,11 @@
         },
         {
           "game": "FATAL FURY: City of the Wolves",
-          "minutes": 379
+          "minutes": 368
         },
         {
           "game": "BlazBlue Centralfiction",
-          "minutes": 372
-        },
-        {
-          "game": "Tetris The Grand Master 4 -Absolute Eye-",
-          "minutes": 310
+          "minutes": 336
         },
         {
           "game": "TEKKEN 8",
@@ -113,16 +109,8 @@
           "minutes": 103
         },
         {
-          "game": "ぷよぷよ™テトリス® ２",
-          "minutes": 103
-        },
-        {
           "game": "東方ダンマクカグラ ファンタジア・ロスト",
           "minutes": 100
-        },
-        {
-          "game": "SILENT HILL f",
-          "minutes": 88
         },
         {
           "game": "Ultra Fight Da Kyanta 2",
@@ -153,8 +141,20 @@
           "minutes": 67
         },
         {
+          "game": "Tetris The Grand Master 4 -Absolute Eye-",
+          "minutes": 59
+        },
+        {
           "game": "A Dance of Fire and Ice",
           "minutes": 55
+        },
+        {
+          "game": "ぷよぷよ™テトリス® ２",
+          "minutes": 55
+        },
+        {
+          "game": "SILENT HILL f",
+          "minutes": 49
         },
         {
           "game": "Devil May Cry 4 Special Edition",
@@ -181,20 +181,12 @@
           "minutes": 37
         },
         {
-          "game": "METAL SLUG 3",
-          "minutes": 37
-        },
-        {
-          "game": "METAL SLUG X",
-          "minutes": 35
-        },
-        {
           "game": "アークナイツ",
           "minutes": 32
         },
         {
           "game": "Black Desert Online",
-          "minutes": 29
+          "minutes": 28
         },
         {
           "game": "THE KING OF FIGHTERS XV",
@@ -211,10 +203,6 @@
         {
           "game": "Them's Fightin' Herds",
           "minutes": 24
-        },
-        {
-          "game": "Mortal Kombat: Legacy Kollection",
-          "minutes": 22
         },
         {
           "game": "The Rumble Fish +",
@@ -2255,21 +2243,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-08-07",
-      "end_date": "2026-08-07",
-      "items": [
-        {
-          "game": "Marvel Tokon: Fighting Souls",
-          "minutes": 591
-        },
-        {
-          "game": "DNF Duel",
-          "minutes": 170
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-08-08",
       "end_date": "2026-08-08",
       "items": [
@@ -2363,7 +2336,27 @@
       "bucket_type": "day",
       "start_date": "2026-08-13",
       "end_date": "2026-08-13",
-      "items": []
+      "items": [
+        {
+          "game": "BlazBlue: Cross Tag Battle",
+          "minutes": 194
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 126
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-08-14",
+      "end_date": "2026-08-14",
+      "items": [
+        {
+          "game": "BlazBlue: Cross Tag Battle",
+          "minutes": 31
+        }
+      ]
     }
   ]
 }
