@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T01:00:00+09:00",
+  "generated_at": "2026-08-16T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -14,23 +14,23 @@
       "items": [
         {
           "game": "DNF DUEL",
-          "minutes": 8631
+          "minutes": 8243
         },
         {
           "game": "Arknights:Endfield",
-          "minutes": 2588
+          "minutes": 2448
         },
         {
           "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 1884
+          "minutes": 1771
         },
         {
           "game": "GUILTY GEAR -STRIVE-",
-          "minutes": 1748
+          "minutes": 1538
         },
         {
           "game": "Guns of Icarus Alliance",
-          "minutes": 1529
+          "minutes": 1474
         },
         {
           "game": "Phantom Breaker: Omnia",
@@ -49,24 +49,16 @@
           "minutes": 380
         },
         {
-          "game": "Like a Dragon: Pirate Yakuza in Hawaii",
-          "minutes": 369
-        },
-        {
           "game": "FATAL FURY: City of the Wolves",
           "minutes": 368
         },
         {
-          "game": "BlazBlue Centralfiction",
-          "minutes": 336
-        },
-        {
-          "game": "TEKKEN 8",
-          "minutes": 293
+          "game": "Like a Dragon: Pirate Yakuza in Hawaii",
+          "minutes": 284
         },
         {
           "game": "Guilty Gear -Strive-",
-          "minutes": 220
+          "minutes": 207
         },
         {
           "game": "Shadowverse: Worlds Beyond",
@@ -89,6 +81,10 @@
           "minutes": 138
         },
         {
+          "game": "BlazBlue Centralfiction",
+          "minutes": 136
+        },
+        {
           "game": "Minecraft",
           "minutes": 115
         },
@@ -99,6 +95,10 @@
         {
           "game": "Yakuza 3 Remastered",
           "minutes": 115
+        },
+        {
+          "game": "TEKKEN 8",
+          "minutes": 107
         },
         {
           "game": "Mirage Feathers",
@@ -149,10 +149,6 @@
           "minutes": 47
         },
         {
-          "game": "Tetris The Grand Master 4 -Absolute Eye-",
-          "minutes": 44
-        },
-        {
           "game": "UNDER NIGHT IN-BIRTH Exe:Late[cl-r]",
           "minutes": 43
         },
@@ -165,8 +161,8 @@
           "minutes": 39
         },
         {
-          "game": "アークナイツ",
-          "minutes": 32
+          "game": "Tetris The Grand Master 4 -Absolute Eye-",
+          "minutes": 38
         },
         {
           "game": "THE KING OF FIGHTERS XV",
@@ -177,12 +173,12 @@
           "minutes": 27
         },
         {
-          "game": "MY HERO ACADEMIA: All’s Justice",
+          "game": "Them's Fightin' Herds",
           "minutes": 24
         },
         {
-          "game": "Them's Fightin' Herds",
-          "minutes": 24
+          "game": "アークナイツ",
+          "minutes": 23
         },
         {
           "game": "The Rumble Fish +",
@@ -2223,25 +2219,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-08-09",
-      "end_date": "2026-08-09",
-      "items": [
-        {
-          "game": "Marvel Tokon: Fighting Souls",
-          "minutes": 1119
-        },
-        {
-          "game": "DNF Duel",
-          "minutes": 219
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 18
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-08-10",
       "end_date": "2026-08-10",
       "items": [
@@ -2353,18 +2330,24 @@
       "end_date": "2026-08-15",
       "items": [
         {
-          "game": "DNF Duel",
-          "minutes": 202
+          "game": "Marvel Tokon: Fighting Souls",
+          "minutes": 283
         },
         {
-          "game": "Marvel Tokon: Fighting Souls",
-          "minutes": 83
+          "game": "DNF Duel",
+          "minutes": 257
         },
         {
           "game": "MapleStory",
           "minutes": 4
         }
       ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-08-16",
+      "end_date": "2026-08-16",
+      "items": []
     }
   ]
 }
