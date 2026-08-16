@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T01:00:00+09:00",
+  "generated_at": "2026-08-17T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -14,15 +14,15 @@
       "items": [
         {
           "game": "DNF DUEL",
-          "minutes": 8243
+          "minutes": 7971
         },
         {
           "game": "Arknights:Endfield",
-          "minutes": 2448
+          "minutes": 2360
         },
         {
           "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 1771
+          "minutes": 1750
         },
         {
           "game": "GUILTY GEAR -STRIVE-",
@@ -33,12 +33,12 @@
           "minutes": 1474
         },
         {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 1373
-        },
-        {
           "game": "Granblue Fantasy Versus: Rising",
           "minutes": 1061
+        },
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 1005
         },
         {
           "game": "Wuthering Waves",
@@ -46,15 +46,15 @@
         },
         {
           "game": "Street Fighter™ 6",
-          "minutes": 380
+          "minutes": 377
         },
         {
           "game": "FATAL FURY: City of the Wolves",
-          "minutes": 368
+          "minutes": 314
         },
         {
           "game": "Like a Dragon: Pirate Yakuza in Hawaii",
-          "minutes": 284
+          "minutes": 222
         },
         {
           "game": "Guilty Gear -Strive-",
@@ -71,14 +71,6 @@
         {
           "game": "NARAKA: BLADEPOINT",
           "minutes": 155
-        },
-        {
-          "game": "SNOWBREAK",
-          "minutes": 145
-        },
-        {
-          "game": "Romancing SaGa 3™",
-          "minutes": 138
         },
         {
           "game": "BlazBlue Centralfiction",
@@ -107,6 +99,10 @@
         {
           "game": "東方ダンマクカグラ ファンタジア・ロスト",
           "minutes": 100
+        },
+        {
+          "game": "SNOWBREAK",
+          "minutes": 90
         },
         {
           "game": "Ultra Fight Da Kyanta 2",
@@ -163,6 +159,10 @@
         {
           "game": "Tetris The Grand Master 4 -Absolute Eye-",
           "minutes": 38
+        },
+        {
+          "game": "Romancing SaGa 3™",
+          "minutes": 32
         },
         {
           "game": "THE KING OF FIGHTERS XV",
@@ -2218,21 +2218,53 @@
       ]
     },
     {
-      "bucket_type": "day",
+      "bucket_type": "week",
       "start_date": "2026-08-10",
-      "end_date": "2026-08-10",
+      "end_date": "2026-08-16",
       "items": [
         {
           "game": "Marvel Tokon: Fighting Souls",
-          "minutes": 510
+          "minutes": 3280
+        },
+        {
+          "game": "DNF Duel",
+          "minutes": 636
+        },
+        {
+          "game": "BlazBlue: Cross Tag Battle",
+          "minutes": 334
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 290
         },
         {
           "game": "Phantom Breaker: Omnia",
-          "minutes": 119
+          "minutes": 251
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 129
+        },
+        {
+          "game": "Strinova",
+          "minutes": 77
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 52
         },
         {
           "game": "Mushihimesama",
           "minutes": 24
+        },
+        {
+          "game": "Dead by Daylight",
+          "minutes": 6
+        },
+        {
+          "game": "MapleStory",
+          "minutes": 4
         }
       ]
     },
@@ -2347,7 +2379,27 @@
       "bucket_type": "day",
       "start_date": "2026-08-16",
       "end_date": "2026-08-16",
-      "items": []
+      "items": [
+        {
+          "game": "Marvel Tokon: Fighting Souls",
+          "minutes": 613
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 106
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-08-17",
+      "end_date": "2026-08-17",
+      "items": [
+        {
+          "game": "Marvel Tokon: Fighting Souls",
+          "minutes": 180
+        }
+      ]
     }
   ]
 }
