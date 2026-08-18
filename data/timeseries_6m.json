@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T01:00:00+09:00",
+  "generated_at": "2026-08-19T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -14,35 +14,35 @@
       "items": [
         {
           "game": "DNF DUEL",
-          "minutes": 7888
+          "minutes": 7612
         },
         {
           "game": "Arknights:Endfield",
-          "minutes": 2034
+          "minutes": 1808
         },
         {
           "game": "GUILTY GEAR -STRIVE-",
-          "minutes": 1538
+          "minutes": 1513
         },
         {
           "game": "Guns of Icarus Alliance",
-          "minutes": 1394
+          "minutes": 1366
         },
         {
           "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 1157
+          "minutes": 1152
         },
         {
           "game": "Phantom Breaker: Omnia",
-          "minutes": 864
-        },
-        {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 859
+          "minutes": 788
         },
         {
           "game": "Wuthering Waves",
           "minutes": 723
+        },
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 601
         },
         {
           "game": "Street Fighter™ 6",
@@ -69,10 +69,6 @@
           "minutes": 155
         },
         {
-          "game": "BlazBlue Centralfiction",
-          "minutes": 136
-        },
-        {
           "game": "Minecraft",
           "minutes": 115
         },
@@ -83,6 +79,10 @@
         {
           "game": "Mirage Feathers",
           "minutes": 103
+        },
+        {
+          "game": "BlazBlue Centralfiction",
+          "minutes": 102
         },
         {
           "game": "東方ダンマクカグラ ファンタジア・ロスト",
@@ -177,11 +177,11 @@
           "minutes": 20
         },
         {
-          "game": "gogh: Focus with Your Avatar",
-          "minutes": 19
+          "game": "MTGArena",
+          "minutes": 17
         },
         {
-          "game": "MTGArena",
+          "game": "gogh: Focus with Your Avatar",
           "minutes": 17
         },
         {
@@ -2155,21 +2155,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-08-12",
-      "end_date": "2026-08-12",
-      "items": [
-        {
-          "game": "Marvel Tokon: Fighting Souls",
-          "minutes": 374
-        },
-        {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 52
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-08-13",
       "end_date": "2026-08-13",
       "items": [
@@ -2274,7 +2259,30 @@
       "items": [
         {
           "game": "Phantom Breaker: Omnia",
-          "minutes": 134
+          "minutes": 339
+        },
+        {
+          "game": "Marvel Tokon: Fighting Souls",
+          "minutes": 165
+        },
+        {
+          "game": "DNF DUEL",
+          "minutes": 45
+        },
+        {
+          "game": "Strinova",
+          "minutes": 34
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-08-19",
+      "end_date": "2026-08-19",
+      "items": [
+        {
+          "game": "Marvel Tokon: Fighting Souls",
+          "minutes": 63
         }
       ]
     }
