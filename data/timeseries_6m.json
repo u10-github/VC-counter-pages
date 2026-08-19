@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T01:00:00+09:00",
+  "generated_at": "2026-08-20T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -14,27 +14,27 @@
       "items": [
         {
           "game": "DNF DUEL",
-          "minutes": 7612
-        },
-        {
-          "game": "Arknights:Endfield",
-          "minutes": 1808
+          "minutes": 6986
         },
         {
           "game": "GUILTY GEAR -STRIVE-",
-          "minutes": 1513
+          "minutes": 1498
         },
         {
-          "game": "Guns of Icarus Alliance",
-          "minutes": 1366
+          "game": "Arknights:Endfield",
+          "minutes": 1262
         },
         {
           "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
           "minutes": 1152
         },
         {
+          "game": "Guns of Icarus Alliance",
+          "minutes": 835
+        },
+        {
           "game": "Phantom Breaker: Omnia",
-          "minutes": 788
+          "minutes": 755
         },
         {
           "game": "Wuthering Waves",
@@ -46,11 +46,11 @@
         },
         {
           "game": "Street Fighter™ 6",
-          "minutes": 377
+          "minutes": 332
         },
         {
           "game": "FATAL FURY: City of the Wolves",
-          "minutes": 314
+          "minutes": 267
         },
         {
           "game": "Guilty Gear -Strive-",
@@ -86,23 +86,11 @@
         },
         {
           "game": "東方ダンマクカグラ ファンタジア・ロスト",
-          "minutes": 100
-        },
-        {
-          "game": "Ultra Fight Da Kyanta 2",
-          "minutes": 86
-        },
-        {
-          "game": "Rainbow Six Siege",
-          "minutes": 79
+          "minutes": 92
         },
         {
           "game": "Idol Showdown",
           "minutes": 78
-        },
-        {
-          "game": "DEAD OR ALIVE 6",
-          "minutes": 77
         },
         {
           "game": "Street Fighter 6",
@@ -114,6 +102,10 @@
         },
         {
           "game": "Starward",
+          "minutes": 67
+        },
+        {
+          "game": "Ultra Fight Da Kyanta 2",
           "minutes": 67
         },
         {
@@ -161,10 +153,6 @@
           "minutes": 24
         },
         {
-          "game": "アークナイツ",
-          "minutes": 23
-        },
-        {
           "game": "The Rumble Fish +",
           "minutes": 22
         },
@@ -175,14 +163,6 @@
         {
           "game": "Demonic Mahjong",
           "minutes": 20
-        },
-        {
-          "game": "MTGArena",
-          "minutes": 17
-        },
-        {
-          "game": "gogh: Focus with Your Avatar",
-          "minutes": 17
         },
         {
           "game": "R-Type: Dimensions EX",
@@ -225,6 +205,10 @@
           "minutes": 7
         },
         {
+          "game": "アークナイツ",
+          "minutes": 6
+        },
+        {
           "game": "MELTY BLOOD Actress Again Current Code",
           "minutes": 5
         },
@@ -239,14 +223,6 @@
         {
           "game": "Slay the Spire",
           "minutes": 4
-        },
-        {
-          "game": "Black Desert Online",
-          "minutes": 1
-        },
-        {
-          "game": "Tom Clancy's Rainbow Six Siege X",
-          "minutes": 1
         }
       ]
     },
@@ -2155,21 +2131,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-08-13",
-      "end_date": "2026-08-13",
-      "items": [
-        {
-          "game": "BlazBlue: Cross Tag Battle",
-          "minutes": 194
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 126
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-08-14",
       "end_date": "2026-08-14",
       "items": [
@@ -2281,8 +2242,27 @@
       "end_date": "2026-08-19",
       "items": [
         {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 86
+        },
+        {
           "game": "Marvel Tokon: Fighting Souls",
           "minutes": 63
+        },
+        {
+          "game": "Strinova",
+          "minutes": 39
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-08-20",
+      "end_date": "2026-08-20",
+      "items": [
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 60
         }
       ]
     }
