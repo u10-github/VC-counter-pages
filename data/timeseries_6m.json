@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T01:00:00+09:00",
+  "generated_at": "2026-08-22T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -14,23 +14,15 @@
       "items": [
         {
           "game": "DNF DUEL",
-          "minutes": 5932
+          "minutes": 5212
         },
         {
           "game": "GUILTY GEAR -STRIVE-",
-          "minutes": 1457
-        },
-        {
-          "game": "Arknights:Endfield",
-          "minutes": 852
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 682
+          "minutes": 984
         },
         {
           "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 605
+          "minutes": 601
         },
         {
           "game": "Phantom Breaker: Omnia",
@@ -41,8 +33,12 @@
           "minutes": 546
         },
         {
-          "game": "Guns of Icarus Alliance",
-          "minutes": 357
+          "game": "Arknights:Endfield",
+          "minutes": 494
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 464
         },
         {
           "game": "Street Fighter™ 6",
@@ -69,12 +65,8 @@
           "minutes": 102
         },
         {
-          "game": "東方ダンマクカグラ ファンタジア・ロスト",
-          "minutes": 92
-        },
-        {
-          "game": "Street Fighter 6",
-          "minutes": 74
+          "game": "Guns of Icarus Alliance",
+          "minutes": 73
         },
         {
           "game": "Capcom Arcade Stadium",
@@ -82,10 +74,6 @@
         },
         {
           "game": "Starward",
-          "minutes": 67
-        },
-        {
-          "game": "Ultra Fight Da Kyanta 2",
           "minutes": 67
         },
         {
@@ -113,6 +101,10 @@
           "minutes": 33
         },
         {
+          "game": "Ultra Fight Da Kyanta 2",
+          "minutes": 33
+        },
+        {
           "game": "Elevator Action™ -Returns- S-Tribute",
           "minutes": 27
         },
@@ -137,24 +129,12 @@
           "minutes": 16
         },
         {
-          "game": "GUILTY GEAR 2 -OVERTURE-",
-          "minutes": 14
-        },
-        {
           "game": "Ghosts 'n Goblins Resurrection",
           "minutes": 14
         },
         {
           "game": "Mirage Feathers",
           "minutes": 14
-        },
-        {
-          "game": "Persona5: The Phantom X",
-          "minutes": 12
-        },
-        {
-          "game": "A Dance of Fire and Ice",
-          "minutes": 11
         },
         {
           "game": "Azure Striker Gunvolt 2",
@@ -165,15 +145,15 @@
           "minutes": 7
         },
         {
-          "game": "アークナイツ",
-          "minutes": 6
-        },
-        {
           "game": "MELTY BLOOD Actress Again Current Code",
           "minutes": 5
         },
         {
           "game": "Slay the Spire",
+          "minutes": 4
+        },
+        {
+          "game": "東方ダンマクカグラ ファンタジア・ロスト",
           "minutes": 4
         }
       ]
@@ -2083,25 +2063,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-08-15",
-      "end_date": "2026-08-15",
-      "items": [
-        {
-          "game": "Marvel Tokon: Fighting Souls",
-          "minutes": 283
-        },
-        {
-          "game": "DNF Duel",
-          "minutes": 257
-        },
-        {
-          "game": "MapleStory",
-          "minutes": 4
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-08-16",
       "end_date": "2026-08-16",
       "items": [
@@ -2214,11 +2175,34 @@
       "items": [
         {
           "game": "Marvel Tokon: Fighting Souls",
-          "minutes": 133
+          "minutes": 383
+        },
+        {
+          "game": "Palworld",
+          "minutes": 212
         },
         {
           "game": "Wuthering Waves",
-          "minutes": 45
+          "minutes": 189
+        },
+        {
+          "game": "DNF DUEL",
+          "minutes": 96
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 29
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-08-22",
+      "end_date": "2026-08-22",
+      "items": [
+        {
+          "game": "Marvel Tokon: Fighting Souls",
+          "minutes": 60
         }
       ]
     }
