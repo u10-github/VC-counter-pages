@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T01:00:00+09:00",
+  "generated_at": "2026-08-23T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -14,43 +14,39 @@
       "items": [
         {
           "game": "DNF DUEL",
-          "minutes": 5212
+          "minutes": 3880
         },
         {
           "game": "GUILTY GEAR -STRIVE-",
-          "minutes": 984
+          "minutes": 724
         },
         {
           "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 601
+          "minutes": 550
         },
         {
           "game": "Phantom Breaker: Omnia",
-          "minutes": 571
-        },
-        {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 546
+          "minutes": 519
         },
         {
           "game": "Arknights:Endfield",
-          "minutes": 494
+          "minutes": 387
+        },
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 379
         },
         {
           "game": "Wuthering Waves",
-          "minutes": 464
+          "minutes": 379
         },
         {
           "game": "Street Fighter™ 6",
-          "minutes": 332
+          "minutes": 331
         },
         {
           "game": "FATAL FURY: City of the Wolves",
           "minutes": 234
-        },
-        {
-          "game": "Guilty Gear -Strive-",
-          "minutes": 207
         },
         {
           "game": "Shadowverse: Worlds Beyond",
@@ -61,12 +57,8 @@
           "minutes": 174
         },
         {
-          "game": "BlazBlue Centralfiction",
-          "minutes": 102
-        },
-        {
-          "game": "Guns of Icarus Alliance",
-          "minutes": 73
+          "game": "Guilty Gear -Strive-",
+          "minutes": 138
         },
         {
           "game": "Capcom Arcade Stadium",
@@ -75,6 +67,10 @@
         {
           "game": "Starward",
           "minutes": 67
+        },
+        {
+          "game": "Guns of Icarus Alliance",
+          "minutes": 52
         },
         {
           "game": "Devil May Cry 4 Special Edition",
@@ -91,14 +87,6 @@
         {
           "game": "Idol Showdown",
           "minutes": 36
-        },
-        {
-          "game": "NoxPlayer",
-          "minutes": 35
-        },
-        {
-          "game": "SNOWBREAK",
-          "minutes": 33
         },
         {
           "game": "Ultra Fight Da Kyanta 2",
@@ -129,12 +117,8 @@
           "minutes": 16
         },
         {
-          "game": "Ghosts 'n Goblins Resurrection",
-          "minutes": 14
-        },
-        {
           "game": "Mirage Feathers",
-          "minutes": 14
+          "minutes": 10
         },
         {
           "game": "Azure Striker Gunvolt 2",
@@ -143,10 +127,6 @@
         {
           "game": "R-Type Delta: HD Boosted",
           "minutes": 7
-        },
-        {
-          "game": "MELTY BLOOD Actress Again Current Code",
-          "minutes": 5
         },
         {
           "game": "Slay the Spire",
@@ -2063,21 +2043,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-08-16",
-      "end_date": "2026-08-16",
-      "items": [
-        {
-          "game": "Marvel Tokon: Fighting Souls",
-          "minutes": 613
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 106
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-08-17",
       "end_date": "2026-08-17",
       "items": [
@@ -2202,7 +2167,30 @@
       "items": [
         {
           "game": "Marvel Tokon: Fighting Souls",
+          "minutes": 298
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 37
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-08-23",
+      "end_date": "2026-08-23",
+      "items": [
+        {
+          "game": "Marvel Tokon: Fighting Souls",
           "minutes": 60
+        },
+        {
+          "game": "Overwatch",
+          "minutes": 22
+        },
+        {
+          "game": "Strinova",
+          "minutes": 14
         }
       ]
     }
