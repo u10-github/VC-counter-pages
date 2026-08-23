@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T01:00:00+09:00",
+  "generated_at": "2026-08-24T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -14,35 +14,31 @@
       "items": [
         {
           "game": "DNF DUEL",
-          "minutes": 3880
+          "minutes": 3041
         },
         {
           "game": "GUILTY GEAR -STRIVE-",
-          "minutes": 724
+          "minutes": 694
         },
         {
           "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
           "minutes": 550
         },
         {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 519
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 331
         },
         {
           "game": "Arknights:Endfield",
-          "minutes": 387
+          "minutes": 288
         },
         {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 379
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 379
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 285
         },
         {
           "game": "Street Fighter™ 6",
-          "minutes": 331
+          "minutes": 257
         },
         {
           "game": "FATAL FURY: City of the Wolves",
@@ -55,6 +51,10 @@
         {
           "game": "Persona 4 Arena Ultimax",
           "minutes": 174
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 150
         },
         {
           "game": "Guilty Gear -Strive-",
@@ -2042,17 +2042,53 @@
       ]
     },
     {
-      "bucket_type": "day",
+      "bucket_type": "week",
       "start_date": "2026-08-17",
-      "end_date": "2026-08-17",
+      "end_date": "2026-08-23",
       "items": [
         {
           "game": "Marvel Tokon: Fighting Souls",
-          "minutes": 317
+          "minutes": 1640
         },
         {
           "game": "Phantom Breaker: Omnia",
-          "minutes": 45
+          "minutes": 451
+        },
+        {
+          "game": "DNF DUEL",
+          "minutes": 263
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 256
+        },
+        {
+          "game": "Palworld",
+          "minutes": 212
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 162
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 119
+        },
+        {
+          "game": "Strinova",
+          "minutes": 87
+        },
+        {
+          "game": "Overwatch",
+          "minutes": 34
+        },
+        {
+          "game": "Neverness to Everness",
+          "minutes": 10
+        },
+        {
+          "game": "Cookie Clicker",
+          "minutes": 7
         }
       ]
     },
@@ -2182,15 +2218,34 @@
       "items": [
         {
           "game": "Marvel Tokon: Fighting Souls",
-          "minutes": 60
+          "minutes": 280
         },
         {
           "game": "Overwatch",
-          "minutes": 22
+          "minutes": 34
         },
         {
           "game": "Strinova",
           "minutes": 14
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 8
+        },
+        {
+          "game": "Cookie Clicker",
+          "minutes": 7
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-24",
+      "items": [
+        {
+          "game": "Marvel Tokon: Fighting Souls",
+          "minutes": 120
         }
       ]
     }
