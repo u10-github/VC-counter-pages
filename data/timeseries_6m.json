@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T01:00:00+09:00",
+  "generated_at": "2026-08-25T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -14,35 +14,23 @@
       "items": [
         {
           "game": "DNF DUEL",
-          "minutes": 3041
+          "minutes": 2033
         },
         {
           "game": "GUILTY GEAR -STRIVE-",
-          "minutes": 694
+          "minutes": 575
         },
         {
           "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
           "minutes": 550
         },
         {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 331
-        },
-        {
           "game": "Arknights:Endfield",
-          "minutes": 288
-        },
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 285
+          "minutes": 212
         },
         {
           "game": "Street Fighter™ 6",
-          "minutes": 257
-        },
-        {
-          "game": "FATAL FURY: City of the Wolves",
-          "minutes": 234
+          "minutes": 208
         },
         {
           "game": "Shadowverse: Worlds Beyond",
@@ -53,20 +41,24 @@
           "minutes": 174
         },
         {
-          "game": "Wuthering Waves",
-          "minutes": 150
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 161
         },
         {
           "game": "Guilty Gear -Strive-",
           "minutes": 138
         },
         {
-          "game": "Capcom Arcade Stadium",
-          "minutes": 71
+          "game": "Wuthering Waves",
+          "minutes": 89
         },
         {
           "game": "Starward",
           "minutes": 67
+        },
+        {
+          "game": "FATAL FURY: City of the Wolves",
+          "minutes": 65
         },
         {
           "game": "Guns of Icarus Alliance",
@@ -79,14 +71,6 @@
         {
           "game": "UNDER NIGHT IN-BIRTH Exe:Late[cl-r]",
           "minutes": 43
-        },
-        {
-          "game": "Sifu",
-          "minutes": 41
-        },
-        {
-          "game": "Idol Showdown",
-          "minutes": 36
         },
         {
           "game": "Ultra Fight Da Kyanta 2",
@@ -105,15 +89,7 @@
           "minutes": 24
         },
         {
-          "game": "Demonic Mahjong",
-          "minutes": 20
-        },
-        {
           "game": "R-Type: Dimensions EX",
-          "minutes": 16
-        },
-        {
-          "game": "SNK 40th Anniversary Collection",
           "minutes": 16
         },
         {
@@ -135,6 +111,10 @@
         {
           "game": "東方ダンマクカグラ ファンタジア・ロスト",
           "minutes": 4
+        },
+        {
+          "game": "Idol Showdown",
+          "minutes": 3
         }
       ]
     },
@@ -1739,117 +1719,6 @@
     },
     {
       "bucket_type": "week",
-      "start_date": "2026-07-20",
-      "end_date": "2026-07-26",
-      "items": [
-        {
-          "game": "MARVEL Tōkon: Fighting Souls OPEN BETA",
-          "minutes": 2364
-        },
-        {
-          "game": "Strinova",
-          "minutes": 772
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 716
-        },
-        {
-          "game": "DNF Duel",
-          "minutes": 662
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 470
-        },
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 442
-        },
-        {
-          "game": "Palworld",
-          "minutes": 263
-        },
-        {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 194
-        },
-        {
-          "game": "Neverness to Everness",
-          "minutes": 181
-        },
-        {
-          "game": "TEKKEN 8",
-          "minutes": 110
-        },
-        {
-          "game": "Sakura Arms ~Radiant Duels~ Demo",
-          "minutes": 77
-        },
-        {
-          "game": "BlazBlue Centralfiction",
-          "minutes": 72
-        },
-        {
-          "game": "Street Fighter 6",
-          "minutes": 68
-        },
-        {
-          "game": "BlueStacks 5",
-          "minutes": 56
-        },
-        {
-          "game": "GODDESS OF VICTORY: NIKKE",
-          "minutes": 44
-        },
-        {
-          "game": "MapleStory",
-          "minutes": 31
-        },
-        {
-          "game": "Arknights: Endfield",
-          "minutes": 24
-        },
-        {
-          "game": "Fatal Fury: City of the Wolves",
-          "minutes": 20
-        },
-        {
-          "game": "JoJo’s Bizarre Adventure: All-Star Battle R",
-          "minutes": 18
-        },
-        {
-          "game": "Dragon Quest X: Inishie no Ryuu no Denshou Online",
-          "minutes": 17
-        },
-        {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 17
-        },
-        {
-          "game": "MTGA",
-          "minutes": 13
-        },
-        {
-          "game": "Escape from Tarkov",
-          "minutes": 3
-        },
-        {
-          "game": "ARKNIGHTS: ENDFIELD",
-          "minutes": 1
-        },
-        {
-          "game": "BlazBlue: Central Fiction",
-          "minutes": 1
-        },
-        {
-          "game": "Dead by Daylight",
-          "minutes": 1
-        }
-      ]
-    },
-    {
-      "bucket_type": "week",
       "start_date": "2026-07-27",
       "end_date": "2026-08-02",
       "items": [
@@ -2094,29 +1963,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-08-18",
-      "end_date": "2026-08-18",
-      "items": [
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 339
-        },
-        {
-          "game": "Marvel Tokon: Fighting Souls",
-          "minutes": 165
-        },
-        {
-          "game": "DNF DUEL",
-          "minutes": 45
-        },
-        {
-          "game": "Strinova",
-          "minutes": 34
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-08-19",
       "end_date": "2026-08-19",
       "items": [
@@ -2245,7 +2091,38 @@
       "items": [
         {
           "game": "Marvel Tokon: Fighting Souls",
-          "minutes": 120
+          "minutes": 363
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 30
+        },
+        {
+          "game": "Backpack Battles",
+          "minutes": 16
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 15
+        },
+        {
+          "game": "Strinova",
+          "minutes": 10
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-08-25",
+      "end_date": "2026-08-25",
+      "items": [
+        {
+          "game": "Marvel Tokon: Fighting Souls",
+          "minutes": 170
+        },
+        {
+          "game": "Strinova",
+          "minutes": 3
         }
       ]
     }
