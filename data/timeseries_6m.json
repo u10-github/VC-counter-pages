@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T01:00:00+09:00",
+  "generated_at": "2026-08-26T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -14,107 +14,43 @@
       "items": [
         {
           "game": "DNF DUEL",
-          "minutes": 2033
-        },
-        {
-          "game": "GUILTY GEAR -STRIVE-",
-          "minutes": 575
+          "minutes": 1179
         },
         {
           "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 550
+          "minutes": 419
         },
         {
-          "game": "Arknights:Endfield",
-          "minutes": 212
-        },
-        {
-          "game": "Street Fighter™ 6",
-          "minutes": 208
-        },
-        {
-          "game": "Shadowverse: Worlds Beyond",
-          "minutes": 180
-        },
-        {
-          "game": "Persona 4 Arena Ultimax",
-          "minutes": 174
-        },
-        {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 161
+          "game": "GUILTY GEAR -STRIVE-",
+          "minutes": 280
         },
         {
           "game": "Guilty Gear -Strive-",
           "minutes": 138
         },
         {
-          "game": "Wuthering Waves",
-          "minutes": 89
-        },
-        {
-          "game": "Starward",
-          "minutes": 67
-        },
-        {
-          "game": "FATAL FURY: City of the Wolves",
-          "minutes": 65
-        },
-        {
-          "game": "Guns of Icarus Alliance",
-          "minutes": 52
+          "game": "Arknights:Endfield",
+          "minutes": 101
         },
         {
           "game": "Devil May Cry 4 Special Edition",
           "minutes": 47
         },
         {
-          "game": "UNDER NIGHT IN-BIRTH Exe:Late[cl-r]",
-          "minutes": 43
+          "game": "Wuthering Waves",
+          "minutes": 47
+        },
+        {
+          "game": "FATAL FURY: City of the Wolves",
+          "minutes": 45
         },
         {
           "game": "Ultra Fight Da Kyanta 2",
           "minutes": 33
         },
         {
-          "game": "Elevator Action™ -Returns- S-Tribute",
-          "minutes": 27
-        },
-        {
-          "game": "ぷよぷよ™テトリス® ２",
-          "minutes": 26
-        },
-        {
-          "game": "Them's Fightin' Herds",
-          "minutes": 24
-        },
-        {
-          "game": "R-Type: Dimensions EX",
-          "minutes": 16
-        },
-        {
-          "game": "Mirage Feathers",
-          "minutes": 10
-        },
-        {
           "game": "Azure Striker Gunvolt 2",
           "minutes": 9
-        },
-        {
-          "game": "R-Type Delta: HD Boosted",
-          "minutes": 7
-        },
-        {
-          "game": "Slay the Spire",
-          "minutes": 4
-        },
-        {
-          "game": "東方ダンマクカグラ ファンタジア・ロスト",
-          "minutes": 4
-        },
-        {
-          "game": "Idol Showdown",
-          "minutes": 3
         }
       ]
     },
@@ -1963,25 +1899,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-08-19",
-      "end_date": "2026-08-19",
-      "items": [
-        {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 86
-        },
-        {
-          "game": "Marvel Tokon: Fighting Souls",
-          "minutes": 63
-        },
-        {
-          "game": "Strinova",
-          "minutes": 39
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-08-20",
       "end_date": "2026-08-20",
       "items": [
@@ -2118,13 +2035,31 @@
       "items": [
         {
           "game": "Marvel Tokon: Fighting Souls",
-          "minutes": 170
+          "minutes": 675
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 300
+        },
+        {
+          "game": "Overwatch",
+          "minutes": 81
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 60
         },
         {
           "game": "Strinova",
           "minutes": 3
         }
       ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-08-26",
+      "end_date": "2026-08-26",
+      "items": []
     }
   ]
 }
