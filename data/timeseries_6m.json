@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T01:00:00+09:00",
+  "generated_at": "2026-08-28T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -14,15 +14,15 @@
       "items": [
         {
           "game": "DNF DUEL",
-          "minutes": 14024
+          "minutes": 11655
         },
         {
           "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 3090
+          "minutes": 2960
         },
         {
           "game": "GUILTY GEAR -STRIVE-",
-          "minutes": 2592
+          "minutes": 2564
         },
         {
           "game": "Strinova",
@@ -34,7 +34,7 @@
         },
         {
           "game": "Arknights:Endfield",
-          "minutes": 2258
+          "minutes": 2204
         },
         {
           "game": "Street Fighter™ 6",
@@ -45,16 +45,16 @@
           "minutes": 1332
         },
         {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 998
-        },
-        {
           "game": "Marvel Rivals",
           "minutes": 807
         },
         {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 785
+        },
+        {
           "game": "FATAL FURY: City of the Wolves",
-          "minutes": 676
+          "minutes": 672
         },
         {
           "game": "BlazBlue Centralfiction",
@@ -86,7 +86,7 @@
         },
         {
           "game": "Guilty Gear -Strive-",
-          "minutes": 376
+          "minutes": 346
         },
         {
           "game": "Blade Strangers",
@@ -121,10 +121,6 @@
           "minutes": 151
         },
         {
-          "game": "2XKO",
-          "minutes": 128
-        },
-        {
           "game": "Koihime Enbu RyoRaiRai",
           "minutes": 128
         },
@@ -137,16 +133,16 @@
           "minutes": 118
         },
         {
-          "game": "Grim Dawn",
-          "minutes": 101
-        },
-        {
           "game": "SNK 40th Anniversary Collection",
           "minutes": 97
         },
         {
           "game": "BlueStacks 5",
           "minutes": 93
+        },
+        {
+          "game": "2XKO",
+          "minutes": 89
         },
         {
           "game": "アークナイツ",
@@ -241,6 +237,10 @@
           "minutes": 38
         },
         {
+          "game": "Grim Dawn",
+          "minutes": 37
+        },
+        {
           "game": "Killer Instinct",
           "minutes": 36
         },
@@ -315,10 +315,6 @@
         {
           "game": "BlazBlue Cross Tag Battle",
           "minutes": 13
-        },
-        {
-          "game": "Persona 4 Arena Ultimax",
-          "minutes": 12
         },
         {
           "game": "Metal Hunter",
@@ -1852,33 +1848,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-08-21",
-      "end_date": "2026-08-21",
-      "items": [
-        {
-          "game": "Marvel Tokon: Fighting Souls",
-          "minutes": 383
-        },
-        {
-          "game": "Palworld",
-          "minutes": 212
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 189
-        },
-        {
-          "game": "DNF DUEL",
-          "minutes": 96
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 29
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-08-22",
       "end_date": "2026-08-22",
       "items": [
@@ -1991,7 +1960,50 @@
       "items": [
         {
           "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 60
+          "minutes": 68
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 51
+        },
+        {
+          "game": "Marvel Tokon: Fighting Souls",
+          "minutes": 40
+        },
+        {
+          "game": "Yu-Gi-Oh! Master Duel",
+          "minutes": 28
+        },
+        {
+          "game": "Strinova",
+          "minutes": 16
+        },
+        {
+          "game": "Dead by Daylight",
+          "minutes": 14
+        },
+        {
+          "game": "Origin of Storms Demo",
+          "minutes": 10
+        },
+        {
+          "game": "Arknights: Endfield",
+          "minutes": 3
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 1
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-08-28",
+      "end_date": "2026-08-28",
+      "items": [
+        {
+          "game": "Dead by Daylight",
+          "minutes": 16
         }
       ]
     }
