@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T01:00:00+09:00",
+  "generated_at": "2026-08-29T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -14,31 +14,31 @@
       "items": [
         {
           "game": "DNF DUEL",
-          "minutes": 11655
-        },
-        {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 2960
-        },
-        {
-          "game": "GUILTY GEAR -STRIVE-",
-          "minutes": 2564
+          "minutes": 10680
         },
         {
           "game": "Strinova",
           "minutes": 2460
         },
         {
+          "game": "GUILTY GEAR -STRIVE-",
+          "minutes": 2396
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 2378
+        },
+        {
           "game": "Idol Showdown",
-          "minutes": 2423
+          "minutes": 2234
         },
         {
           "game": "Arknights:Endfield",
-          "minutes": 2204
+          "minutes": 2100
         },
         {
           "game": "Street Fighter™ 6",
-          "minutes": 1603
+          "minutes": 1565
         },
         {
           "game": "Phantom Breaker: Omnia",
@@ -53,28 +53,28 @@
           "minutes": 785
         },
         {
-          "game": "FATAL FURY: City of the Wolves",
-          "minutes": 672
-        },
-        {
           "game": "BlazBlue Centralfiction",
           "minutes": 596
         },
         {
+          "game": "FATAL FURY: City of the Wolves",
+          "minutes": 594
+        },
+        {
           "game": "Guns of Icarus Alliance",
-          "minutes": 553
+          "minutes": 539
         },
         {
           "game": "SAMURAI SHODOWN",
           "minutes": 535
         },
         {
-          "game": "Wuthering Waves",
-          "minutes": 472
-        },
-        {
           "game": "Slay the Spire",
           "minutes": 402
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 399
         },
         {
           "game": "GUILTY GEAR XX ACCENT CORE PLUS R",
@@ -103,10 +103,6 @@
         {
           "game": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH",
           "minutes": 211
-        },
-        {
-          "game": "Ultra Fight Da Kyanta 2",
-          "minutes": 210
         },
         {
           "game": "Slay the Spire 2",
@@ -193,10 +189,6 @@
           "minutes": 53
         },
         {
-          "game": "Vampire Crawlers Demo",
-          "minutes": 50
-        },
-        {
           "game": "MY HERO ACADEMIA: All’s Justice",
           "minutes": 49
         },
@@ -217,10 +209,6 @@
           "minutes": 47
         },
         {
-          "game": "Black Desert Online",
-          "minutes": 46
-        },
-        {
           "game": "One Step From Eden",
           "minutes": 44
         },
@@ -237,10 +225,6 @@
           "minutes": 38
         },
         {
-          "game": "Grim Dawn",
-          "minutes": 37
-        },
-        {
           "game": "Killer Instinct",
           "minutes": 36
         },
@@ -251,6 +235,10 @@
         {
           "game": "勇者パーティはぜんめつしました。 Demo",
           "minutes": 33
+        },
+        {
+          "game": "Black Desert Online",
+          "minutes": 31
         },
         {
           "game": "PAPERHEAD Demo",
@@ -281,6 +269,10 @@
           "minutes": 27
         },
         {
+          "game": "Ultra Fight Da Kyanta 2",
+          "minutes": 26
+        },
+        {
           "game": "原神",
           "minutes": 24
         },
@@ -305,10 +297,6 @@
           "minutes": 19
         },
         {
-          "game": "Azure Striker Gunvolt 2",
-          "minutes": 16
-        },
-        {
           "game": "EARTH DEFENSE FORCE 6",
           "minutes": 16
         },
@@ -330,10 +318,6 @@
         },
         {
           "game": "Tetris Forever",
-          "minutes": 9
-        },
-        {
-          "game": "Them's Fightin' Herds",
           "minutes": 9
         },
         {
@@ -367,6 +351,10 @@
         {
           "game": "MapleStory",
           "minutes": 2
+        },
+        {
+          "game": "Azure Striker Gunvolt 2",
+          "minutes": 1
         },
         {
           "game": "Genshin Impact",
@@ -1848,21 +1836,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-08-22",
-      "end_date": "2026-08-22",
-      "items": [
-        {
-          "game": "Marvel Tokon: Fighting Souls",
-          "minutes": 298
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 37
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-08-23",
       "end_date": "2026-08-23",
       "items": [
@@ -2002,8 +1975,43 @@
       "end_date": "2026-08-28",
       "items": [
         {
+          "game": "DNF DUEL",
+          "minutes": 397
+        },
+        {
+          "game": "Marvel Tokon: Fighting Souls",
+          "minutes": 109
+        },
+        {
           "game": "Dead by Daylight",
           "minutes": 16
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-08-29",
+      "end_date": "2026-08-29",
+      "items": [
+        {
+          "game": "Marvel Tokon: Fighting Souls",
+          "minutes": 52
+        },
+        {
+          "game": "Bleach: Rebirth of Souls",
+          "minutes": 29
+        },
+        {
+          "game": "DNF DUEL",
+          "minutes": 26
+        },
+        {
+          "game": "TEKKEN 8",
+          "minutes": 8
+        },
+        {
+          "game": "Avatar Legends: The Fighting Game",
+          "minutes": 4
         }
       ]
     }
