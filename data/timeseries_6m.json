@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T01:00:00+09:00",
+  "generated_at": "2026-08-31T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -14,7 +14,7 @@
       "items": [
         {
           "game": "DNF DUEL",
-          "minutes": 9948
+          "minutes": 9118
         },
         {
           "game": "Strinova",
@@ -26,23 +26,23 @@
         },
         {
           "game": "GUILTY GEAR -STRIVE-",
-          "minutes": 2165
+          "minutes": 2147
         },
         {
           "game": "Arknights:Endfield",
-          "minutes": 2059
+          "minutes": 2031
         },
         {
           "game": "Idol Showdown",
-          "minutes": 1639
+          "minutes": 1516
         },
         {
           "game": "Street Fighter™ 6",
-          "minutes": 1444
+          "minutes": 1046
         },
         {
           "game": "Phantom Breaker: Omnia",
-          "minutes": 1332
+          "minutes": 1025
         },
         {
           "game": "Marvel Rivals",
@@ -66,7 +66,7 @@
         },
         {
           "game": "Guns of Icarus Alliance",
-          "minutes": 527
+          "minutes": 491
         },
         {
           "game": "Slay the Spire",
@@ -74,7 +74,7 @@
         },
         {
           "game": "Wuthering Waves",
-          "minutes": 399
+          "minutes": 391
         },
         {
           "game": "GUILTY GEAR XX ACCENT CORE PLUS R",
@@ -137,12 +137,12 @@
           "minutes": 89
         },
         {
-          "game": "アークナイツ",
+          "game": "ロックマンエグゼ アドバンスドコレクション Vol.2",
           "minutes": 78
         },
         {
-          "game": "ロックマンエグゼ アドバンスドコレクション Vol.2",
-          "minutes": 78
+          "game": "アークナイツ",
+          "minutes": 69
         },
         {
           "game": "ぷよぷよ™テトリス® ２",
@@ -225,10 +225,6 @@
           "minutes": 33
         },
         {
-          "game": "Black Desert Online",
-          "minutes": 31
-        },
-        {
           "game": "PAPERHEAD Demo",
           "minutes": 31
         },
@@ -239,6 +235,10 @@
         {
           "game": "Persona5: The Phantom X",
           "minutes": 30
+        },
+        {
+          "game": "Black Desert Online",
+          "minutes": 29
         },
         {
           "game": "Battlefield 4",
@@ -285,10 +285,6 @@
           "minutes": 20
         },
         {
-          "game": "Nexus: FPV Drone Carnage",
-          "minutes": 20
-        },
-        {
           "game": "ShatterRush Open Pre-Alpha",
           "minutes": 19
         },
@@ -321,12 +317,16 @@
           "minutes": 6
         },
         {
-          "game": "Chill with You : Lo-Fi Story",
+          "game": "Nexus: FPV Drone Carnage",
           "minutes": 5
         },
         {
           "game": "YGO Omega",
           "minutes": 5
+        },
+        {
+          "game": "Chill with You : Lo-Fi Story",
+          "minutes": 4
         },
         {
           "game": "MoriyaRhythm",
@@ -350,10 +350,6 @@
         },
         {
           "game": "Lossless Scaling",
-          "minutes": 1
-        },
-        {
-          "game": "Sifu",
           "minutes": 1
         },
         {
@@ -1575,6 +1571,133 @@
       ]
     },
     {
+      "bucket_type": "month",
+      "start_date": "2026-08-01",
+      "end_date": "2026-08-31",
+      "items": [
+        {
+          "game": "Marvel Tokon: Fighting Souls",
+          "minutes": 8608
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 1339
+        },
+        {
+          "game": "DNF Duel",
+          "minutes": 1261
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 1254
+        },
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 893
+        },
+        {
+          "game": "DNF DUEL",
+          "minutes": 686
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 520
+        },
+        {
+          "game": "Strinova",
+          "minutes": 429
+        },
+        {
+          "game": "BlazBlue: Cross Tag Battle",
+          "minutes": 334
+        },
+        {
+          "game": "Palworld",
+          "minutes": 212
+        },
+        {
+          "game": "Neverness to Everness",
+          "minutes": 153
+        },
+        {
+          "game": "Overwatch",
+          "minutes": 115
+        },
+        {
+          "game": "Avatar Legends: The Fighting Game",
+          "minutes": 103
+        },
+        {
+          "game": "Atelier Resleriana: Forgotten Alchemy and the Polar Night Liberator",
+          "minutes": 51
+        },
+        {
+          "game": "Dead by Daylight",
+          "minutes": 36
+        },
+        {
+          "game": "Fatal Fury: City of the Wolves",
+          "minutes": 30
+        },
+        {
+          "game": "Bleach: Rebirth of Souls",
+          "minutes": 29
+        },
+        {
+          "game": "NARAKA: BLADEPOINT",
+          "minutes": 29
+        },
+        {
+          "game": "Yu-Gi-Oh! Master Duel",
+          "minutes": 28
+        },
+        {
+          "game": "Mushihimesama",
+          "minutes": 24
+        },
+        {
+          "game": "Backpack Battles",
+          "minutes": 16
+        },
+        {
+          "game": "Slay the Spire II",
+          "minutes": 15
+        },
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 11
+        },
+        {
+          "game": "Origin of Storms Demo",
+          "minutes": 10
+        },
+        {
+          "game": "TEKKEN 8",
+          "minutes": 8
+        },
+        {
+          "game": "Cookie Clicker",
+          "minutes": 7
+        },
+        {
+          "game": "StarWard",
+          "minutes": 7
+        },
+        {
+          "game": "MapleStory",
+          "minutes": 4
+        },
+        {
+          "game": "Arknights: Endfield",
+          "minutes": 3
+        },
+        {
+          "game": "NTE: Neverness to Everness",
+          "minutes": 1
+        }
+      ]
+    },
+    {
       "bucket_type": "week",
       "start_date": "2026-07-27",
       "end_date": "2026-08-02",
@@ -1819,29 +1942,73 @@
       ]
     },
     {
-      "bucket_type": "day",
+      "bucket_type": "week",
       "start_date": "2026-08-24",
-      "end_date": "2026-08-24",
+      "end_date": "2026-08-30",
       "items": [
         {
           "game": "Marvel Tokon: Fighting Souls",
-          "minutes": 363
+          "minutes": 1395
+        },
+        {
+          "game": "DNF DUEL",
+          "minutes": 423
         },
         {
           "game": "Guilty Gear: Strive",
+          "minutes": 381
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 174
+        },
+        {
+          "game": "Overwatch",
+          "minutes": 81
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 76
+        },
+        {
+          "game": "Dead by Daylight",
           "minutes": 30
+        },
+        {
+          "game": "Bleach: Rebirth of Souls",
+          "minutes": 29
+        },
+        {
+          "game": "Strinova",
+          "minutes": 29
+        },
+        {
+          "game": "Yu-Gi-Oh! Master Duel",
+          "minutes": 28
         },
         {
           "game": "Backpack Battles",
           "minutes": 16
         },
         {
-          "game": "Wuthering Waves",
+          "game": "Slay the Spire II",
           "minutes": 15
         },
         {
-          "game": "Strinova",
+          "game": "Origin of Storms Demo",
           "minutes": 10
+        },
+        {
+          "game": "TEKKEN 8",
+          "minutes": 8
+        },
+        {
+          "game": "Avatar Legends: The Fighting Game",
+          "minutes": 4
+        },
+        {
+          "game": "Arknights: Endfield",
+          "minutes": 3
         }
       ]
     },
@@ -1980,7 +2147,27 @@
       "bucket_type": "day",
       "start_date": "2026-08-30",
       "end_date": "2026-08-30",
-      "items": []
+      "items": [
+        {
+          "game": "Marvel Tokon: Fighting Souls",
+          "minutes": 156
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-08-31",
+      "end_date": "2026-08-31",
+      "items": [
+        {
+          "game": "Marvel Tokon: Fighting Souls",
+          "minutes": 71
+        },
+        {
+          "game": "Neverness to Everness",
+          "minutes": 48
+        }
+      ]
     }
   ]
 }
