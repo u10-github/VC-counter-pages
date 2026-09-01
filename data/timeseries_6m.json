@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T01:00:00+09:00",
+  "generated_at": "2026-09-02T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -14,7 +14,7 @@
       "items": [
         {
           "game": "DNF DUEL",
-          "minutes": 8564
+          "minutes": 7803
         },
         {
           "game": "Strinova",
@@ -26,15 +26,15 @@
         },
         {
           "game": "GUILTY GEAR -STRIVE-",
-          "minutes": 2132
+          "minutes": 2076
         },
         {
           "game": "Arknights:Endfield",
-          "minutes": 1951
+          "minutes": 1934
         },
         {
           "game": "Idol Showdown",
-          "minutes": 1203
+          "minutes": 1136
         },
         {
           "game": "Phantom Breaker: Omnia",
@@ -62,7 +62,7 @@
         },
         {
           "game": "FATAL FURY: City of the Wolves",
-          "minutes": 445
+          "minutes": 407
         },
         {
           "game": "Slay the Spire",
@@ -73,12 +73,12 @@
           "minutes": 387
         },
         {
-          "game": "Wuthering Waves",
-          "minutes": 386
-        },
-        {
           "game": "Guns of Icarus Alliance",
           "minutes": 385
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 371
         },
         {
           "game": "Guilty Gear -Strive-",
@@ -221,10 +221,6 @@
           "minutes": 31
         },
         {
-          "game": "Persona5: The Phantom X",
-          "minutes": 30
-        },
-        {
           "game": "Battlefield 4",
           "minutes": 28
         },
@@ -281,6 +277,10 @@
           "minutes": 19
         },
         {
+          "game": "Persona5: The Phantom X",
+          "minutes": 14
+        },
+        {
           "game": "Shadowverse: Worlds Beyond",
           "minutes": 14
         },
@@ -305,20 +305,12 @@
           "minutes": 7
         },
         {
-          "game": "Ultimate Marvel vs. Capcom 3",
-          "minutes": 6
-        },
-        {
           "game": "Nexus: FPV Drone Carnage",
           "minutes": 5
         },
         {
           "game": "YGO Omega",
           "minutes": 5
-        },
-        {
-          "game": "Chill with You : Lo-Fi Story",
-          "minutes": 4
         },
         {
           "game": "MoriyaRhythm",
@@ -335,6 +327,10 @@
         {
           "game": "MapleStory",
           "minutes": 2
+        },
+        {
+          "game": "Chill with You : Lo-Fi Story",
+          "minutes": 1
         },
         {
           "game": "Genshin Impact",
@@ -1923,17 +1919,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-08-26",
-      "end_date": "2026-08-26",
-      "items": [
-        {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 106
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-08-27",
       "end_date": "2026-08-27",
       "items": [
@@ -2066,13 +2051,23 @@
       "items": [
         {
           "game": "Wuthering Waves",
-          "minutes": 15
+          "minutes": 44
+        },
+        {
+          "game": "Marvel Tokon: Fighting Souls",
+          "minutes": 29
         },
         {
           "game": "Neverness to Everness",
           "minutes": 1
         }
       ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-09-02",
+      "end_date": "2026-09-02",
+      "items": []
     }
   ]
 }
