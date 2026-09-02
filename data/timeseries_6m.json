@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T01:00:00+09:00",
+  "generated_at": "2026-09-03T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -14,7 +14,7 @@
       "items": [
         {
           "game": "DNF DUEL",
-          "minutes": 7803
+          "minutes": 7100
         },
         {
           "game": "Strinova",
@@ -26,15 +26,11 @@
         },
         {
           "game": "GUILTY GEAR -STRIVE-",
-          "minutes": 2076
+          "minutes": 1950
         },
         {
           "game": "Arknights:Endfield",
-          "minutes": 1934
-        },
-        {
-          "game": "Idol Showdown",
-          "minutes": 1136
+          "minutes": 1834
         },
         {
           "game": "Phantom Breaker: Omnia",
@@ -45,12 +41,16 @@
           "minutes": 807
         },
         {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 785
-        },
-        {
           "game": "Street Fighter™ 6",
           "minutes": 738
+        },
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 697
+        },
+        {
+          "game": "Idol Showdown",
+          "minutes": 676
         },
         {
           "game": "BlazBlue Centralfiction",
@@ -59,10 +59,6 @@
         {
           "game": "SAMURAI SHODOWN",
           "minutes": 535
-        },
-        {
-          "game": "FATAL FURY: City of the Wolves",
-          "minutes": 407
         },
         {
           "game": "Slay the Spire",
@@ -77,8 +73,8 @@
           "minutes": 385
         },
         {
-          "game": "Wuthering Waves",
-          "minutes": 371
+          "game": "FATAL FURY: City of the Wolves",
+          "minutes": 360
         },
         {
           "game": "Guilty Gear -Strive-",
@@ -93,12 +89,16 @@
           "minutes": 318
         },
         {
-          "game": "Rainbow Six Siege",
-          "minutes": 301
+          "game": "Wuthering Waves",
+          "minutes": 299
         },
         {
           "game": "AquaPazza: Aquaplus Dream Match",
           "minutes": 251
+        },
+        {
+          "game": "Rainbow Six Siege",
+          "minutes": 236
         },
         {
           "game": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH",
@@ -122,15 +122,7 @@
         },
         {
           "game": "Minecraft",
-          "minutes": 124
-        },
-        {
-          "game": "BlueStacks 5",
-          "minutes": 93
-        },
-        {
-          "game": "2XKO",
-          "minutes": 89
+          "minutes": 83
         },
         {
           "game": "ロックマンエグゼ アドバンスドコレクション Vol.2",
@@ -169,10 +161,6 @@
           "minutes": 54
         },
         {
-          "game": "Guns and Nuns: Storming Hell Demo",
-          "minutes": 53
-        },
-        {
           "game": "NARAKA: BLADEPOINT",
           "minutes": 49
         },
@@ -205,7 +193,7 @@
           "minutes": 36
         },
         {
-          "game": "TEKKEN 8",
+          "game": "BlueStacks 5",
           "minutes": 33
         },
         {
@@ -213,24 +201,16 @@
           "minutes": 33
         },
         {
-          "game": "PAPERHEAD Demo",
-          "minutes": 31
-        },
-        {
-          "game": "Touhou 12.3: Hisoutensoku",
-          "minutes": 31
-        },
-        {
           "game": "Battlefield 4",
-          "minutes": 28
-        },
-        {
-          "game": "Demonic Mahjong",
           "minutes": 28
         },
         {
           "game": "Nitroplus Blasterz: Heroines Infinite Duel",
           "minutes": 28
+        },
+        {
+          "game": "Guns and Nuns: Storming Hell Demo",
+          "minutes": 27
         },
         {
           "game": "Sakura Arms ~Radiant Duels~ Demo",
@@ -251,10 +231,6 @@
         {
           "game": "原神",
           "minutes": 24
-        },
-        {
-          "game": "Black Desert Online",
-          "minutes": 23
         },
         {
           "game": "TEKKEN™8",
@@ -297,12 +273,16 @@
           "minutes": 9
         },
         {
+          "game": "Black Desert Online",
+          "minutes": 7
+        },
+        {
           "game": "Tetris The Grand Master 4 -Absolute Eye-",
           "minutes": 7
         },
         {
           "game": "Tom Clancy's Rainbow Six Siege X",
-          "minutes": 7
+          "minutes": 6
         },
         {
           "game": "Nexus: FPV Drone Carnage",
@@ -1919,49 +1899,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-08-27",
-      "end_date": "2026-08-27",
-      "items": [
-        {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 68
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 51
-        },
-        {
-          "game": "Marvel Tokon: Fighting Souls",
-          "minutes": 40
-        },
-        {
-          "game": "Yu-Gi-Oh! Master Duel",
-          "minutes": 28
-        },
-        {
-          "game": "Strinova",
-          "minutes": 16
-        },
-        {
-          "game": "Dead by Daylight",
-          "minutes": 14
-        },
-        {
-          "game": "Origin of Storms Demo",
-          "minutes": 10
-        },
-        {
-          "game": "Arknights: Endfield",
-          "minutes": 3
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 1
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-08-28",
       "end_date": "2026-08-28",
       "items": [
@@ -2067,6 +2004,17 @@
       "bucket_type": "day",
       "start_date": "2026-09-02",
       "end_date": "2026-09-02",
+      "items": [
+        {
+          "game": "Avatar Legends: The Fighting Game",
+          "minutes": 33
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-09-03",
+      "end_date": "2026-09-03",
       "items": []
     }
   ]
