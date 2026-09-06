@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T01:00:00+09:00",
+  "generated_at": "2026-09-07T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -14,7 +14,7 @@
       "items": [
         {
           "game": "DNF DUEL",
-          "minutes": 4377
+          "minutes": 4140
         },
         {
           "game": "Strinova",
@@ -26,31 +26,31 @@
         },
         {
           "game": "Arknights:Endfield",
-          "minutes": 1741
+          "minutes": 1711
         },
         {
           "game": "GUILTY GEAR -STRIVE-",
-          "minutes": 1495
-        },
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 846
+          "minutes": 1406
         },
         {
           "game": "Marvel Rivals",
           "minutes": 807
         },
         {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 563
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 685
         },
         {
           "game": "SAMURAI SHODOWN",
           "minutes": 535
         },
         {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 490
+        },
+        {
           "game": "Street Fighter™ 6",
-          "minutes": 518
+          "minutes": 468
         },
         {
           "game": "GUILTY GEAR XX ACCENT CORE PLUS R",
@@ -65,10 +65,6 @@
           "minutes": 328
         },
         {
-          "game": "Slay the Spire",
-          "minutes": 328
-        },
-        {
           "game": "GUILTY GEAR 2 -OVERTURE-",
           "minutes": 318
         },
@@ -77,16 +73,16 @@
           "minutes": 308
         },
         {
+          "game": "Slay the Spire",
+          "minutes": 284
+        },
+        {
           "game": "FATAL FURY: City of the Wolves",
-          "minutes": 280
+          "minutes": 256
         },
         {
           "game": "BlazBlue Centralfiction",
-          "minutes": 277
-        },
-        {
-          "game": "Rainbow Six Siege",
-          "minutes": 236
+          "minutes": 245
         },
         {
           "game": "AquaPazza: Aquaplus Dream Match",
@@ -97,6 +93,10 @@
           "minutes": 208
         },
         {
+          "game": "Rainbow Six Siege",
+          "minutes": 190
+        },
+        {
           "game": "Shadow Warrior Classic Redux",
           "minutes": 154
         },
@@ -105,12 +105,12 @@
           "minutes": 126
         },
         {
-          "game": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH",
-          "minutes": 121
-        },
-        {
           "game": "Slay the Spire 2",
           "minutes": 115
+        },
+        {
+          "game": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH",
+          "minutes": 98
         },
         {
           "game": "ロックマンエグゼ アドバンスドコレクション Vol.2",
@@ -209,10 +209,6 @@
           "minutes": 21
         },
         {
-          "game": "Capcom Fighting Collection 2",
-          "minutes": 20
-        },
-        {
           "game": "Minecraft",
           "minutes": 20
         },
@@ -227,10 +223,6 @@
         {
           "game": "Guns and Nuns: Storming Hell Demo",
           "minutes": 15
-        },
-        {
-          "game": "Persona5: The Phantom X",
-          "minutes": 14
         },
         {
           "game": "Shadowverse: Worlds Beyond",
@@ -249,12 +241,12 @@
           "minutes": 7
         },
         {
-          "game": "Tetris The Grand Master 4 -Absolute Eye-",
+          "game": "Persona5: The Phantom X",
           "minutes": 7
         },
         {
-          "game": "Tom Clancy's Rainbow Six Siege X",
-          "minutes": 6
+          "game": "Tetris The Grand Master 4 -Absolute Eye-",
+          "minutes": 7
         },
         {
           "game": "Ultra Street Fighter IV",
@@ -270,6 +262,10 @@
         },
         {
           "game": "MoriyaRhythm",
+          "minutes": 4
+        },
+        {
+          "game": "Tom Clancy's Rainbow Six Siege X",
           "minutes": 4
         },
         {
@@ -1862,25 +1858,85 @@
       ]
     },
     {
-      "bucket_type": "day",
+      "bucket_type": "week",
       "start_date": "2026-08-31",
-      "end_date": "2026-08-31",
+      "end_date": "2026-09-06",
       "items": [
         {
-          "game": "Marvel Tokon: Fighting Souls",
-          "minutes": 152
+          "game": "Guilty Gear: Strive",
+          "minutes": 421
         },
         {
-          "game": "Neverness to Everness",
-          "minutes": 100
+          "game": "Marvel Tokon: Fighting Souls",
+          "minutes": 301
+        },
+        {
+          "game": "DNF DUEL",
+          "minutes": 246
+        },
+        {
+          "game": "Magic: The Gathering Arena",
+          "minutes": 193
         },
         {
           "game": "Wuthering Waves",
-          "minutes": 63
+          "minutes": 116
+        },
+        {
+          "game": "MTGA",
+          "minutes": 103
+        },
+        {
+          "game": "Neverness to Everness",
+          "minutes": 101
+        },
+        {
+          "game": "Dead by Daylight",
+          "minutes": 38
+        },
+        {
+          "game": "Yu-Gi-Oh! Master Duel",
+          "minutes": 36
+        },
+        {
+          "game": "Overwatch",
+          "minutes": 34
+        },
+        {
+          "game": "Avatar Legends: The Fighting Game",
+          "minutes": 33
+        },
+        {
+          "game": "Rivals of Aether",
+          "minutes": 29
+        },
+        {
+          "game": "The Idolmaster: Starlit Season",
+          "minutes": 28
+        },
+        {
+          "game": "AQUAPAZZA: Aquaplus Dream Match",
+          "minutes": 21
         },
         {
           "game": "Arknights: Endfield",
-          "minutes": 6
+          "minutes": 21
+        },
+        {
+          "game": "Backpack Battles",
+          "minutes": 16
+        },
+        {
+          "game": "StarWard",
+          "minutes": 15
+        },
+        {
+          "game": "MapleStory",
+          "minutes": 3
+        },
+        {
+          "game": "ARKNIGHTS: ENDFIELD",
+          "minutes": 1
         }
       ]
     },
@@ -1963,7 +2019,83 @@
       "bucket_type": "day",
       "start_date": "2026-09-06",
       "end_date": "2026-09-06",
-      "items": []
+      "items": [
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 300
+        },
+        {
+          "game": "Magic: The Gathering Arena",
+          "minutes": 193
+        },
+        {
+          "game": "MTGA",
+          "minutes": 103
+        },
+        {
+          "game": "Dead by Daylight",
+          "minutes": 38
+        },
+        {
+          "game": "Yu-Gi-Oh! Master Duel",
+          "minutes": 36
+        },
+        {
+          "game": "Overwatch",
+          "minutes": 34
+        },
+        {
+          "game": "Rivals of Aether",
+          "minutes": 29
+        },
+        {
+          "game": "The Idolmaster: Starlit Season",
+          "minutes": 28
+        },
+        {
+          "game": "AQUAPAZZA: Aquaplus Dream Match",
+          "minutes": 21
+        },
+        {
+          "game": "Backpack Battles",
+          "minutes": 16
+        },
+        {
+          "game": "Arknights: Endfield",
+          "minutes": 15
+        },
+        {
+          "game": "StarWard",
+          "minutes": 15
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 9
+        },
+        {
+          "game": "ARKNIGHTS: ENDFIELD",
+          "minutes": 1
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-09-07",
+      "end_date": "2026-09-07",
+      "items": [
+        {
+          "game": "Magic: The Gathering Arena",
+          "minutes": 82
+        },
+        {
+          "game": "MTGA",
+          "minutes": 22
+        },
+        {
+          "game": "Rivals of Aether",
+          "minutes": 6
+        }
+      ]
     }
   ]
 }
