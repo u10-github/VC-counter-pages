@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T01:00:00+09:00",
+  "generated_at": "2026-09-09T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -14,7 +14,7 @@
       "items": [
         {
           "game": "DNF DUEL",
-          "minutes": 3546
+          "minutes": 2980
         },
         {
           "game": "Strinova",
@@ -22,15 +22,15 @@
         },
         {
           "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 2212
-        },
-        {
-          "game": "Arknights:Endfield",
-          "minutes": 1527
+          "minutes": 2207
         },
         {
           "game": "GUILTY GEAR -STRIVE-",
           "minutes": 1406
+        },
+        {
+          "game": "Arknights:Endfield",
+          "minutes": 1046
         },
         {
           "game": "Marvel Rivals",
@@ -53,10 +53,6 @@
           "minutes": 373
         },
         {
-          "game": "SAMURAI SHODOWN",
-          "minutes": 366
-        },
-        {
           "game": "Guilty Gear -Strive-",
           "minutes": 346
         },
@@ -69,20 +65,24 @@
           "minutes": 318
         },
         {
+          "game": "SAMURAI SHODOWN",
+          "minutes": 306
+        },
+        {
           "game": "FATAL FURY: City of the Wolves",
-          "minutes": 256
+          "minutes": 241
         },
         {
           "game": "BlazBlue Centralfiction",
           "minutes": 236
         },
         {
-          "game": "AquaPazza: Aquaplus Dream Match",
-          "minutes": 229
-        },
-        {
           "game": "Slay the Spire",
           "minutes": 228
+        },
+        {
+          "game": "AquaPazza: Aquaplus Dream Match",
+          "minutes": 200
         },
         {
           "game": "Wuthering Waves",
@@ -109,20 +109,12 @@
           "minutes": 115
         },
         {
-          "game": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH",
-          "minutes": 98
-        },
-        {
           "game": "ロックマンエグゼ アドバンスドコレクション Vol.2",
           "minutes": 78
         },
         {
           "game": "ぷよぷよ™テトリス® ２",
           "minutes": 67
-        },
-        {
-          "game": "Like a Dragon: Pirate Yakuza in Hawaii",
-          "minutes": 66
         },
         {
           "game": "アークナイツ",
@@ -150,7 +142,7 @@
         },
         {
           "game": "Hunter×Hunter: Nen×Impact",
-          "minutes": 48
+          "minutes": 46
         },
         {
           "game": "One Step From Eden",
@@ -171,6 +163,10 @@
         {
           "game": "Killer Instinct",
           "minutes": 36
+        },
+        {
+          "game": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH",
+          "minutes": 30
         },
         {
           "game": "Battlefield 4",
@@ -199,10 +195,6 @@
         {
           "game": "ShatterRush Open Pre-Alpha",
           "minutes": 19
-        },
-        {
-          "game": "Guns and Nuns: Storming Hell Demo",
-          "minutes": 15
         },
         {
           "game": "Shadowverse: Worlds Beyond",
@@ -1855,17 +1847,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-09-02",
-      "end_date": "2026-09-02",
-      "items": [
-        {
-          "game": "Avatar Legends: The Fighting Game",
-          "minutes": 33
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-09-03",
       "end_date": "2026-09-03",
       "items": [
@@ -1995,6 +1976,12 @@
       "bucket_type": "day",
       "start_date": "2026-09-08",
       "end_date": "2026-09-08",
+      "items": []
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-09-09",
+      "end_date": "2026-09-09",
       "items": []
     }
   ]
