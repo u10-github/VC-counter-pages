@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T01:00:00+09:00",
+  "generated_at": "2026-09-11T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -13,12 +13,12 @@
       "end_date": "2026-03-31",
       "items": [
         {
-          "game": "DNF DUEL",
-          "minutes": 2478
-        },
-        {
           "game": "Strinova",
           "minutes": 2460
+        },
+        {
+          "game": "DNF DUEL",
+          "minutes": 2062
         },
         {
           "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
@@ -26,15 +26,11 @@
         },
         {
           "game": "GUILTY GEAR -STRIVE-",
-          "minutes": 1372
+          "minutes": 1354
         },
         {
           "game": "Marvel Rivals",
-          "minutes": 807
-        },
-        {
-          "game": "Arknights:Endfield",
-          "minutes": 489
+          "minutes": 571
         },
         {
           "game": "Phantom Breaker: Omnia",
@@ -42,11 +38,15 @@
         },
         {
           "game": "Street Fighter™ 6",
-          "minutes": 446
+          "minutes": 442
+        },
+        {
+          "game": "Arknights:Endfield",
+          "minutes": 441
         },
         {
           "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 445
+          "minutes": 434
         },
         {
           "game": "Guilty Gear -Strive-",
@@ -65,20 +65,8 @@
           "minutes": 236
         },
         {
-          "game": "SAMURAI SHODOWN",
-          "minutes": 236
-        },
-        {
-          "game": "Slay the Spire",
-          "minutes": 228
-        },
-        {
           "game": "FATAL FURY: City of the Wolves",
           "minutes": 219
-        },
-        {
-          "game": "AquaPazza: Aquaplus Dream Match",
-          "minutes": 200
         },
         {
           "game": "Rainbow Six Siege",
@@ -93,20 +81,28 @@
           "minutes": 172
         },
         {
-          "game": "Wuthering Waves",
-          "minutes": 169
-        },
-        {
           "game": "Shadow Warrior Classic Redux",
           "minutes": 154
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 133
         },
         {
           "game": "Koihime Enbu RyoRaiRai",
           "minutes": 126
         },
         {
+          "game": "SAMURAI SHODOWN",
+          "minutes": 124
+        },
+        {
           "game": "Slay the Spire 2",
           "minutes": 91
+        },
+        {
+          "game": "Slay the Spire",
+          "minutes": 88
         },
         {
           "game": "ロックマンエグゼ アドバンスドコレクション Vol.2",
@@ -175,10 +171,6 @@
         {
           "game": "SNK 40th Anniversary Collection",
           "minutes": 26
-        },
-        {
-          "game": "Pizza Tower",
-          "minutes": 25
         },
         {
           "game": "原神",
@@ -1835,25 +1827,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-09-04",
-      "end_date": "2026-09-04",
-      "items": [
-        {
-          "game": "DNF DUEL",
-          "minutes": 218
-        },
-        {
-          "game": "Marvel Tokon: Fighting Souls",
-          "minutes": 63
-        },
-        {
-          "game": "MapleStory",
-          "minutes": 3
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-09-05",
       "end_date": "2026-09-05",
       "items": [
@@ -1970,7 +1943,31 @@
       "bucket_type": "day",
       "start_date": "2026-09-10",
       "end_date": "2026-09-10",
-      "items": []
+      "items": [
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 40
+        },
+        {
+          "game": "Overwatch",
+          "minutes": 22
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-09-11",
+      "end_date": "2026-09-11",
+      "items": [
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 115
+        },
+        {
+          "game": "遊戯王 マスターデュエル",
+          "minutes": 1
+        }
+      ]
     }
   ]
 }
