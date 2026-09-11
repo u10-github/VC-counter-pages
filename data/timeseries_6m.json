@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T01:00:00+09:00",
+  "generated_at": "2026-09-12T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -17,10 +17,6 @@
           "minutes": 2460
         },
         {
-          "game": "DNF DUEL",
-          "minutes": 2062
-        },
-        {
           "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
           "minutes": 1766
         },
@@ -29,24 +25,28 @@
           "minutes": 1354
         },
         {
-          "game": "Marvel Rivals",
-          "minutes": 571
+          "game": "DNF DUEL",
+          "minutes": 1295
         },
         {
           "game": "Phantom Breaker: Omnia",
-          "minutes": 489
-        },
-        {
-          "game": "Street Fighter™ 6",
-          "minutes": 442
-        },
-        {
-          "game": "Arknights:Endfield",
-          "minutes": 441
+          "minutes": 479
         },
         {
           "game": "Granblue Fantasy Versus: Rising",
           "minutes": 434
+        },
+        {
+          "game": "Arknights:Endfield",
+          "minutes": 409
+        },
+        {
+          "game": "Marvel Rivals",
+          "minutes": 408
+        },
+        {
+          "game": "Street Fighter™ 6",
+          "minutes": 388
         },
         {
           "game": "Guilty Gear -Strive-",
@@ -66,11 +66,7 @@
         },
         {
           "game": "FATAL FURY: City of the Wolves",
-          "minutes": 219
-        },
-        {
-          "game": "Rainbow Six Siege",
-          "minutes": 186
+          "minutes": 199
         },
         {
           "game": "Guns of Icarus Alliance",
@@ -81,28 +77,20 @@
           "minutes": 172
         },
         {
-          "game": "Shadow Warrior Classic Redux",
-          "minutes": 154
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 133
-        },
-        {
           "game": "Koihime Enbu RyoRaiRai",
           "minutes": 126
         },
         {
-          "game": "SAMURAI SHODOWN",
-          "minutes": 124
+          "game": "Shadow Warrior Classic Redux",
+          "minutes": 126
+        },
+        {
+          "game": "Rainbow Six Siege",
+          "minutes": 125
         },
         {
           "game": "Slay the Spire 2",
           "minutes": 91
-        },
-        {
-          "game": "Slay the Spire",
-          "minutes": 88
         },
         {
           "game": "ロックマンエグゼ アドバンスドコレクション Vol.2",
@@ -133,10 +121,6 @@
           "minutes": 48
         },
         {
-          "game": "Hunter×Hunter: Nen×Impact",
-          "minutes": 46
-        },
-        {
           "game": "One Step From Eden",
           "minutes": 44
         },
@@ -165,16 +149,12 @@
           "minutes": 30
         },
         {
-          "game": "Battlefield 4",
-          "minutes": 28
-        },
-        {
-          "game": "SNK 40th Anniversary Collection",
-          "minutes": 26
-        },
-        {
           "game": "原神",
           "minutes": 24
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 23
         },
         {
           "game": "Arcana Heart 3 LOVEMAX SIXSTARS!!!!!! XTEND",
@@ -191,6 +171,10 @@
         {
           "game": "BlazBlue Cross Tag Battle",
           "minutes": 13
+        },
+        {
+          "game": "SNK 40th Anniversary Collection",
+          "minutes": 9
         },
         {
           "game": "Idol Showdown",
@@ -213,12 +197,12 @@
           "minutes": 4
         },
         {
-          "game": "Tom Clancy's Rainbow Six Siege X",
+          "game": "ヘブンバーンズレッド",
           "minutes": 4
         },
         {
-          "game": "ヘブンバーンズレッド",
-          "minutes": 4
+          "game": "Tom Clancy's Rainbow Six Siege X",
+          "minutes": 2
         },
         {
           "game": "Genshin Impact",
@@ -1827,21 +1811,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-09-05",
-      "end_date": "2026-09-05",
-      "items": [
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 121
-        },
-        {
-          "game": "DNF DUEL",
-          "minutes": 28
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-09-06",
       "end_date": "2026-09-06",
       "items": [
@@ -1961,13 +1930,19 @@
       "items": [
         {
           "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 115
+          "minutes": 597
         },
         {
           "game": "遊戯王 マスターデュエル",
           "minutes": 1
         }
       ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-09-12",
+      "end_date": "2026-09-12",
+      "items": []
     }
   ]
 }
