@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T01:00:00+09:00",
+  "generated_at": "2026-09-13T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -26,7 +26,7 @@
         },
         {
           "game": "DNF DUEL",
-          "minutes": 1295
+          "minutes": 1177
         },
         {
           "game": "Phantom Breaker: Omnia",
@@ -41,16 +41,8 @@
           "minutes": 409
         },
         {
-          "game": "Marvel Rivals",
-          "minutes": 408
-        },
-        {
           "game": "Street Fighter™ 6",
-          "minutes": 388
-        },
-        {
-          "game": "Guilty Gear -Strive-",
-          "minutes": 346
+          "minutes": 380
         },
         {
           "game": "Blade Strangers",
@@ -59,6 +51,10 @@
         {
           "game": "GUILTY GEAR 2 -OVERTURE-",
           "minutes": 318
+        },
+        {
+          "game": "Guilty Gear -Strive-",
+          "minutes": 279
         },
         {
           "game": "BlazBlue Centralfiction",
@@ -75,6 +71,10 @@
         {
           "game": "GUILTY GEAR XX ACCENT CORE PLUS R",
           "minutes": 172
+        },
+        {
+          "game": "Marvel Rivals",
+          "minutes": 144
         },
         {
           "game": "Koihime Enbu RyoRaiRai",
@@ -139,10 +139,6 @@
         {
           "game": "Killer Instinct",
           "minutes": 36
-        },
-        {
-          "game": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH",
-          "minutes": 30
         },
         {
           "game": "アークナイツ",
@@ -1811,69 +1807,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-09-06",
-      "end_date": "2026-09-06",
-      "items": [
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 300
-        },
-        {
-          "game": "Magic: The Gathering Arena",
-          "minutes": 193
-        },
-        {
-          "game": "MTGA",
-          "minutes": 103
-        },
-        {
-          "game": "Dead by Daylight",
-          "minutes": 38
-        },
-        {
-          "game": "Yu-Gi-Oh! Master Duel",
-          "minutes": 36
-        },
-        {
-          "game": "Overwatch",
-          "minutes": 34
-        },
-        {
-          "game": "Rivals of Aether",
-          "minutes": 29
-        },
-        {
-          "game": "The Idolmaster: Starlit Season",
-          "minutes": 28
-        },
-        {
-          "game": "AQUAPAZZA: Aquaplus Dream Match",
-          "minutes": 21
-        },
-        {
-          "game": "Backpack Battles",
-          "minutes": 16
-        },
-        {
-          "game": "Arknights: Endfield",
-          "minutes": 15
-        },
-        {
-          "game": "StarWard",
-          "minutes": 15
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 9
-        },
-        {
-          "game": "ARKNIGHTS: ENDFIELD",
-          "minutes": 1
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-09-07",
       "end_date": "2026-09-07",
       "items": [
@@ -1942,7 +1875,55 @@
       "bucket_type": "day",
       "start_date": "2026-09-12",
       "end_date": "2026-09-12",
-      "items": []
+      "items": [
+        {
+          "game": "Marvel Tokon: Fighting Souls",
+          "minutes": 138
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 43
+        },
+        {
+          "game": "DNF DUEL",
+          "minutes": 35
+        },
+        {
+          "game": "Avatar Legends: The Fighting Game",
+          "minutes": 8
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-09-13",
+      "end_date": "2026-09-13",
+      "items": [
+        {
+          "game": "Touhou Koumakyou: New Classic - the Embodiment of Scarlet Devil",
+          "minutes": 49
+        },
+        {
+          "game": "Magic: The Gathering Arena",
+          "minutes": 44
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 23
+        },
+        {
+          "game": "Marvel Tokon: Fighting Souls",
+          "minutes": 20
+        },
+        {
+          "game": "Avatar Legends: The Fighting Game",
+          "minutes": 10
+        },
+        {
+          "game": "BlueStacks 5",
+          "minutes": 3
+        }
+      ]
     }
   ]
 }
