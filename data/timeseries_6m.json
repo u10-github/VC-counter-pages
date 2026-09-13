@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T01:00:00+09:00",
+  "generated_at": "2026-09-14T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1806,21 +1806,69 @@
       ]
     },
     {
-      "bucket_type": "day",
+      "bucket_type": "week",
       "start_date": "2026-09-07",
-      "end_date": "2026-09-07",
+      "end_date": "2026-09-13",
       "items": [
         {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 637
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 436
+        },
+        {
+          "game": "Yu-Gi-Oh! Master Duel",
+          "minutes": 206
+        },
+        {
+          "game": "Marvel Tokon: Fighting Souls",
+          "minutes": 158
+        },
+        {
           "game": "Magic: The Gathering Arena",
-          "minutes": 89
+          "minutes": 137
+        },
+        {
+          "game": "Touhou Koumakyou: New Classic - the Embodiment of Scarlet Devil",
+          "minutes": 54
+        },
+        {
+          "game": "Arknights: Endfield",
+          "minutes": 44
+        },
+        {
+          "game": "DNF DUEL",
+          "minutes": 35
         },
         {
           "game": "MTGA",
           "minutes": 22
         },
         {
+          "game": "Overwatch",
+          "minutes": 22
+        },
+        {
+          "game": "Avatar Legends: The Fighting Game",
+          "minutes": 18
+        },
+        {
           "game": "Rivals of Aether",
           "minutes": 6
+        },
+        {
+          "game": "BlueStacks 5",
+          "minutes": 3
+        },
+        {
+          "game": "Strinova",
+          "minutes": 2
+        },
+        {
+          "game": "遊戯王 マスターデュエル",
+          "minutes": 1
         }
       ]
     },
@@ -1900,16 +1948,24 @@
       "end_date": "2026-09-13",
       "items": [
         {
+          "game": "Guilty Gear: Strive",
+          "minutes": 358
+        },
+        {
+          "game": "Yu-Gi-Oh! Master Duel",
+          "minutes": 206
+        },
+        {
           "game": "Touhou Koumakyou: New Classic - the Embodiment of Scarlet Devil",
-          "minutes": 49
+          "minutes": 54
         },
         {
           "game": "Magic: The Gathering Arena",
-          "minutes": 44
+          "minutes": 48
         },
         {
-          "game": "Guilty Gear: Strive",
-          "minutes": 23
+          "game": "Arknights: Endfield",
+          "minutes": 44
         },
         {
           "game": "Marvel Tokon: Fighting Souls",
@@ -1922,6 +1978,21 @@
         {
           "game": "BlueStacks 5",
           "minutes": 3
+        },
+        {
+          "game": "Strinova",
+          "minutes": 2
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-09-14",
+      "end_date": "2026-09-14",
+      "items": [
+        {
+          "game": "Yu-Gi-Oh! Master Duel",
+          "minutes": 60
         }
       ]
     }
