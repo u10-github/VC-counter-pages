@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T01:00:00+09:00",
+  "generated_at": "2026-09-15T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1551,57 +1551,6 @@
     },
     {
       "bucket_type": "week",
-      "start_date": "2026-08-10",
-      "end_date": "2026-08-16",
-      "items": [
-        {
-          "game": "Marvel Tokon: Fighting Souls",
-          "minutes": 3280
-        },
-        {
-          "game": "DNF Duel",
-          "minutes": 636
-        },
-        {
-          "game": "BlazBlue: Cross Tag Battle",
-          "minutes": 334
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 290
-        },
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 251
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 129
-        },
-        {
-          "game": "Strinova",
-          "minutes": 77
-        },
-        {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 52
-        },
-        {
-          "game": "Mushihimesama",
-          "minutes": 24
-        },
-        {
-          "game": "Dead by Daylight",
-          "minutes": 6
-        },
-        {
-          "game": "MapleStory",
-          "minutes": 4
-        }
-      ]
-    },
-    {
-      "bucket_type": "week",
       "start_date": "2026-08-17",
       "end_date": "2026-08-23",
       "items": [
@@ -1874,12 +1823,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-09-08",
-      "end_date": "2026-09-08",
-      "items": []
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-09-09",
       "end_date": "2026-09-09",
       "items": [
@@ -1992,9 +1935,15 @@
       "items": [
         {
           "game": "Yu-Gi-Oh! Master Duel",
-          "minutes": 60
+          "minutes": 150
         }
       ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-09-15",
+      "end_date": "2026-09-15",
+      "items": []
     }
   ]
 }
