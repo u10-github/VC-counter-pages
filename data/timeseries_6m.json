@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T01:00:00+09:00",
+  "generated_at": "2026-09-16T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1823,17 +1823,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-09-09",
-      "end_date": "2026-09-09",
-      "items": [
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 35
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-09-10",
       "end_date": "2026-09-10",
       "items": [
@@ -1943,6 +1932,25 @@
       "bucket_type": "day",
       "start_date": "2026-09-15",
       "end_date": "2026-09-15",
+      "items": [
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 70
+        },
+        {
+          "game": "DNF DUEL",
+          "minutes": 46
+        },
+        {
+          "game": "Overwatch",
+          "minutes": 6
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-09-16",
+      "end_date": "2026-09-16",
       "items": []
     }
   ]
