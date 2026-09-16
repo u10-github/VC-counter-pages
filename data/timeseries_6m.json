@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T01:00:00+09:00",
+  "generated_at": "2026-09-17T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1823,21 +1823,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-09-10",
-      "end_date": "2026-09-10",
-      "items": [
-        {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 40
-        },
-        {
-          "game": "Overwatch",
-          "minutes": 22
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-09-11",
       "end_date": "2026-09-11",
       "items": [
@@ -1951,7 +1936,27 @@
       "bucket_type": "day",
       "start_date": "2026-09-16",
       "end_date": "2026-09-16",
-      "items": []
+      "items": [
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 178
+        },
+        {
+          "game": "Strinova",
+          "minutes": 5
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-09-17",
+      "end_date": "2026-09-17",
+      "items": [
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 6
+        }
+      ]
     }
   ]
 }
