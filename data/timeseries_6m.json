@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T01:00:00+09:00",
+  "generated_at": "2026-09-18T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -1823,21 +1823,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-09-11",
-      "end_date": "2026-09-11",
-      "items": [
-        {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 597
-        },
-        {
-          "game": "遊戯王 マスターデュエル",
-          "minutes": 1
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-09-12",
       "end_date": "2026-09-12",
       "items": [
@@ -1953,8 +1938,39 @@
       "end_date": "2026-09-17",
       "items": [
         {
+          "game": "Wuthering Waves",
+          "minutes": 148
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 62
+        },
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 58
+        },
+        {
+          "game": "Strinova",
+          "minutes": 16
+        },
+        {
           "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
           "minutes": 6
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-09-18",
+      "end_date": "2026-09-18",
+      "items": [
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 186
+        },
+        {
+          "game": "[WoG] War of Genesis: Idle Loot",
+          "minutes": 1
         }
       ]
     }
