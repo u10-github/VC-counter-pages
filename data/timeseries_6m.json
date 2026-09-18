@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T01:00:00+09:00",
+  "generated_at": "2026-09-19T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -18,19 +18,19 @@
         },
         {
           "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 1766
-        },
-        {
-          "game": "GUILTY GEAR -STRIVE-",
-          "minutes": 1354
+          "minutes": 1755
         },
         {
           "game": "DNF DUEL",
-          "minutes": 1177
+          "minutes": 1132
+        },
+        {
+          "game": "GUILTY GEAR -STRIVE-",
+          "minutes": 768
         },
         {
           "game": "Phantom Breaker: Omnia",
-          "minutes": 479
+          "minutes": 453
         },
         {
           "game": "Granblue Fantasy Versus: Rising",
@@ -50,15 +50,11 @@
         },
         {
           "game": "GUILTY GEAR 2 -OVERTURE-",
-          "minutes": 318
+          "minutes": 282
         },
         {
           "game": "Guilty Gear -Strive-",
           "minutes": 279
-        },
-        {
-          "game": "BlazBlue Centralfiction",
-          "minutes": 236
         },
         {
           "game": "FATAL FURY: City of the Wolves",
@@ -73,6 +69,10 @@
           "minutes": 172
         },
         {
+          "game": "BlazBlue Centralfiction",
+          "minutes": 145
+        },
+        {
           "game": "Marvel Rivals",
           "minutes": 144
         },
@@ -81,12 +81,8 @@
           "minutes": 126
         },
         {
-          "game": "Shadow Warrior Classic Redux",
-          "minutes": 126
-        },
-        {
           "game": "Rainbow Six Siege",
-          "minutes": 125
+          "minutes": 91
         },
         {
           "game": "Slay the Spire 2",
@@ -95,10 +91,6 @@
         {
           "game": "ロックマンエグゼ アドバンスドコレクション Vol.2",
           "minutes": 78
-        },
-        {
-          "game": "ぷよぷよ™テトリス® ２",
-          "minutes": 67
         },
         {
           "game": "Puyo Puyo Champions - ぷよぷよ eスポーツ",
@@ -121,6 +113,10 @@
           "minutes": 48
         },
         {
+          "game": "Shadow Warrior Classic Redux",
+          "minutes": 47
+        },
+        {
           "game": "One Step From Eden",
           "minutes": 44
         },
@@ -135,10 +131,6 @@
         {
           "game": "Mirage Feathers",
           "minutes": 38
-        },
-        {
-          "game": "Killer Instinct",
-          "minutes": 36
         },
         {
           "game": "アークナイツ",
@@ -161,6 +153,10 @@
           "minutes": 19
         },
         {
+          "game": "Killer Instinct",
+          "minutes": 18
+        },
+        {
           "game": "Shadowverse: Worlds Beyond",
           "minutes": 14
         },
@@ -169,15 +165,7 @@
           "minutes": 13
         },
         {
-          "game": "SNK 40th Anniversary Collection",
-          "minutes": 9
-        },
-        {
           "game": "Idol Showdown",
-          "minutes": 7
-        },
-        {
-          "game": "Tetris The Grand Master 4 -Absolute Eye-",
           "minutes": 7
         },
         {
@@ -1823,29 +1811,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-09-12",
-      "end_date": "2026-09-12",
-      "items": [
-        {
-          "game": "Marvel Tokon: Fighting Souls",
-          "minutes": 138
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 43
-        },
-        {
-          "game": "DNF DUEL",
-          "minutes": 35
-        },
-        {
-          "game": "Avatar Legends: The Fighting Game",
-          "minutes": 8
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-09-13",
       "end_date": "2026-09-13",
       "items": [
@@ -1966,13 +1931,43 @@
       "items": [
         {
           "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 186
+          "minutes": 464
+        },
+        {
+          "game": "Yu-Gi-Oh! Master Duel",
+          "minutes": 201
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 106
+        },
+        {
+          "game": "DNF DUEL",
+          "minutes": 74
+        },
+        {
+          "game": "Strinova",
+          "minutes": 62
+        },
+        {
+          "game": "Palworld",
+          "minutes": 31
+        },
+        {
+          "game": "Overwatch",
+          "minutes": 12
         },
         {
           "game": "[WoG] War of Genesis: Idle Loot",
           "minutes": 1
         }
       ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-09-19",
+      "end_date": "2026-09-19",
+      "items": []
     }
   ]
 }
