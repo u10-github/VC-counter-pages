@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T01:00:00+09:00",
+  "generated_at": "2026-09-20T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -18,15 +18,11 @@
         },
         {
           "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 1755
+          "minutes": 1494
         },
         {
           "game": "DNF DUEL",
-          "minutes": 1132
-        },
-        {
-          "game": "GUILTY GEAR -STRIVE-",
-          "minutes": 768
+          "minutes": 1068
         },
         {
           "game": "Phantom Breaker: Omnia",
@@ -34,11 +30,11 @@
         },
         {
           "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 434
+          "minutes": 413
         },
         {
           "game": "Arknights:Endfield",
-          "minutes": 409
+          "minutes": 397
         },
         {
           "game": "Street Fighter™ 6",
@@ -57,28 +53,28 @@
           "minutes": 279
         },
         {
-          "game": "FATAL FURY: City of the Wolves",
-          "minutes": 199
-        },
-        {
-          "game": "Guns of Icarus Alliance",
-          "minutes": 184
-        },
-        {
-          "game": "GUILTY GEAR XX ACCENT CORE PLUS R",
-          "minutes": 172
-        },
-        {
-          "game": "BlazBlue Centralfiction",
-          "minutes": 145
+          "game": "GUILTY GEAR -STRIVE-",
+          "minutes": 182
         },
         {
           "game": "Marvel Rivals",
           "minutes": 144
         },
         {
-          "game": "Koihime Enbu RyoRaiRai",
-          "minutes": 126
+          "game": "Guns of Icarus Alliance",
+          "minutes": 139
+        },
+        {
+          "game": "BlazBlue Centralfiction",
+          "minutes": 128
+        },
+        {
+          "game": "GUILTY GEAR XX ACCENT CORE PLUS R",
+          "minutes": 124
+        },
+        {
+          "game": "FATAL FURY: City of the Wolves",
+          "minutes": 107
         },
         {
           "game": "Rainbow Six Siege",
@@ -113,10 +109,6 @@
           "minutes": 48
         },
         {
-          "game": "Shadow Warrior Classic Redux",
-          "minutes": 47
-        },
-        {
           "game": "One Step From Eden",
           "minutes": 44
         },
@@ -137,10 +129,6 @@
           "minutes": 30
         },
         {
-          "game": "原神",
-          "minutes": 24
-        },
-        {
           "game": "Wuthering Waves",
           "minutes": 23
         },
@@ -153,10 +141,6 @@
           "minutes": 19
         },
         {
-          "game": "Killer Instinct",
-          "minutes": 18
-        },
-        {
           "game": "Shadowverse: Worlds Beyond",
           "minutes": 14
         },
@@ -165,8 +149,12 @@
           "minutes": 13
         },
         {
-          "game": "Idol Showdown",
-          "minutes": 7
+          "game": "Shadow Warrior Classic Redux",
+          "minutes": 13
+        },
+        {
+          "game": "原神",
+          "minutes": 6
         },
         {
           "game": "Nexus: FPV Drone Carnage",
@@ -187,10 +175,6 @@
         {
           "game": "Tom Clancy's Rainbow Six Siege X",
           "minutes": 2
-        },
-        {
-          "game": "Genshin Impact",
-          "minutes": 1
         },
         {
           "game": "Lossless Scaling",
@@ -1811,49 +1795,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-09-13",
-      "end_date": "2026-09-13",
-      "items": [
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 358
-        },
-        {
-          "game": "Yu-Gi-Oh! Master Duel",
-          "minutes": 206
-        },
-        {
-          "game": "Touhou Koumakyou: New Classic - the Embodiment of Scarlet Devil",
-          "minutes": 54
-        },
-        {
-          "game": "Magic: The Gathering Arena",
-          "minutes": 48
-        },
-        {
-          "game": "Arknights: Endfield",
-          "minutes": 44
-        },
-        {
-          "game": "Marvel Tokon: Fighting Souls",
-          "minutes": 20
-        },
-        {
-          "game": "Avatar Legends: The Fighting Game",
-          "minutes": 10
-        },
-        {
-          "game": "BlueStacks 5",
-          "minutes": 3
-        },
-        {
-          "game": "Strinova",
-          "minutes": 2
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-09-14",
       "end_date": "2026-09-14",
       "items": [
@@ -1967,7 +1908,27 @@
       "bucket_type": "day",
       "start_date": "2026-09-19",
       "end_date": "2026-09-19",
-      "items": []
+      "items": [
+        {
+          "game": "Yu-Gi-Oh! Master Duel",
+          "minutes": 513
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 54
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-09-20",
+      "end_date": "2026-09-20",
+      "items": [
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 28
+        }
+      ]
     }
   ]
 }
