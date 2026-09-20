@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T01:00:00+09:00",
+  "generated_at": "2026-09-21T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -18,15 +18,11 @@
         },
         {
           "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 1494
+          "minutes": 1439
         },
         {
           "game": "DNF DUEL",
-          "minutes": 1068
-        },
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 453
+          "minutes": 1048
         },
         {
           "game": "Granblue Fantasy Versus: Rising",
@@ -34,11 +30,7 @@
         },
         {
           "game": "Arknights:Endfield",
-          "minutes": 397
-        },
-        {
-          "game": "Street Fighter™ 6",
-          "minutes": 380
+          "minutes": 335
         },
         {
           "game": "Blade Strangers",
@@ -53,12 +45,12 @@
           "minutes": 279
         },
         {
-          "game": "GUILTY GEAR -STRIVE-",
-          "minutes": 182
+          "game": "Street Fighter™ 6",
+          "minutes": 263
         },
         {
-          "game": "Marvel Rivals",
-          "minutes": 144
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 146
         },
         {
           "game": "Guns of Icarus Alliance",
@@ -73,8 +65,12 @@
           "minutes": 124
         },
         {
+          "game": "GUILTY GEAR -STRIVE-",
+          "minutes": 111
+        },
+        {
           "game": "FATAL FURY: City of the Wolves",
-          "minutes": 107
+          "minutes": 101
         },
         {
           "game": "Rainbow Six Siege",
@@ -87,10 +83,6 @@
         {
           "game": "ロックマンエグゼ アドバンスドコレクション Vol.2",
           "minutes": 78
-        },
-        {
-          "game": "Puyo Puyo Champions - ぷよぷよ eスポーツ",
-          "minutes": 63
         },
         {
           "game": "Backpack Battles",
@@ -109,27 +101,27 @@
           "minutes": 48
         },
         {
-          "game": "One Step From Eden",
-          "minutes": 44
+          "game": "Puyo Puyo Champions - ぷよぷよ eスポーツ",
+          "minutes": 45
         },
         {
           "game": "Apex Legends",
           "minutes": 42
         },
         {
-          "game": "Apewar",
-          "minutes": 40
-        },
-        {
           "game": "Mirage Feathers",
           "minutes": 38
+        },
+        {
+          "game": "Marvel Rivals",
+          "minutes": 34
         },
         {
           "game": "アークナイツ",
           "minutes": 30
         },
         {
-          "game": "Wuthering Waves",
+          "game": "Apewar",
           "minutes": 23
         },
         {
@@ -149,19 +141,11 @@
           "minutes": 13
         },
         {
-          "game": "Shadow Warrior Classic Redux",
+          "game": "Wuthering Waves",
           "minutes": 13
         },
         {
-          "game": "原神",
-          "minutes": 6
-        },
-        {
           "game": "Nexus: FPV Drone Carnage",
-          "minutes": 5
-        },
-        {
-          "game": "YGO Omega",
           "minutes": 5
         },
         {
@@ -1794,13 +1778,53 @@
       ]
     },
     {
-      "bucket_type": "day",
+      "bucket_type": "week",
       "start_date": "2026-09-14",
-      "end_date": "2026-09-14",
+      "end_date": "2026-09-20",
       "items": [
         {
           "game": "Yu-Gi-Oh! Master Duel",
-          "minutes": 150
+          "minutes": 939
+        },
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 522
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 366
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 238
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 148
+        },
+        {
+          "game": "DNF DUEL",
+          "minutes": 120
+        },
+        {
+          "game": "Strinova",
+          "minutes": 83
+        },
+        {
+          "game": "Palworld",
+          "minutes": 31
+        },
+        {
+          "game": "Overwatch",
+          "minutes": 18
+        },
+        {
+          "game": "Marvel Tokon: Fighting Souls",
+          "minutes": 3
+        },
+        {
+          "game": "[WoG] War of Genesis: Idle Loot",
+          "minutes": 1
         }
       ]
     },
@@ -1926,7 +1950,30 @@
       "items": [
         {
           "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 28
+          "minutes": 128
+        },
+        {
+          "game": "Yu-Gi-Oh! Master Duel",
+          "minutes": 75
+        },
+        {
+          "game": "Marvel Tokon: Fighting Souls",
+          "minutes": 3
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-09-21",
+      "end_date": "2026-09-21",
+      "items": [
+        {
+          "game": "Marvel Tokon: Fighting Souls",
+          "minutes": 60
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 60
         }
       ]
     }
