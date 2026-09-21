@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T01:00:00+09:00",
+  "generated_at": "2026-09-22T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -18,19 +18,11 @@
         },
         {
           "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 1439
+          "minutes": 1278
         },
         {
           "game": "DNF DUEL",
           "minutes": 1048
-        },
-        {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 413
-        },
-        {
-          "game": "Arknights:Endfield",
-          "minutes": 335
         },
         {
           "game": "Blade Strangers",
@@ -45,20 +37,16 @@
           "minutes": 279
         },
         {
-          "game": "Street Fighter™ 6",
-          "minutes": 263
+          "game": "Arknights:Endfield",
+          "minutes": 267
         },
         {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 146
+          "game": "Street Fighter™ 6",
+          "minutes": 223
         },
         {
           "game": "Guns of Icarus Alliance",
           "minutes": 139
-        },
-        {
-          "game": "BlazBlue Centralfiction",
-          "minutes": 128
         },
         {
           "game": "GUILTY GEAR XX ACCENT CORE PLUS R",
@@ -69,20 +57,20 @@
           "minutes": 111
         },
         {
-          "game": "FATAL FURY: City of the Wolves",
-          "minutes": 101
-        },
-        {
-          "game": "Rainbow Six Siege",
-          "minutes": 91
-        },
-        {
-          "game": "Slay the Spire 2",
-          "minutes": 91
+          "game": "BlazBlue Centralfiction",
+          "minutes": 78
         },
         {
           "game": "ロックマンエグゼ アドバンスドコレクション Vol.2",
           "minutes": 78
+        },
+        {
+          "game": "Slay the Spire 2",
+          "minutes": 72
+        },
+        {
+          "game": "FATAL FURY: City of the Wolves",
+          "minutes": 63
         },
         {
           "game": "Backpack Battles",
@@ -101,7 +89,7 @@
           "minutes": 48
         },
         {
-          "game": "Puyo Puyo Champions - ぷよぷよ eスポーツ",
+          "game": "Rainbow Six Siege",
           "minutes": 45
         },
         {
@@ -111,14 +99,6 @@
         {
           "game": "Mirage Feathers",
           "minutes": 38
-        },
-        {
-          "game": "Marvel Rivals",
-          "minutes": 34
-        },
-        {
-          "game": "アークナイツ",
-          "minutes": 30
         },
         {
           "game": "Apewar",
@@ -142,7 +122,11 @@
         },
         {
           "game": "Wuthering Waves",
-          "minutes": 13
+          "minutes": 9
+        },
+        {
+          "game": "アークナイツ",
+          "minutes": 9
         },
         {
           "game": "Nexus: FPV Drone Carnage",
@@ -157,11 +141,11 @@
           "minutes": 4
         },
         {
-          "game": "Tom Clancy's Rainbow Six Siege X",
-          "minutes": 2
+          "game": "Lossless Scaling",
+          "minutes": 1
         },
         {
-          "game": "Lossless Scaling",
+          "game": "Tom Clancy's Rainbow Six Siege X",
           "minutes": 1
         }
       ]
@@ -1507,57 +1491,6 @@
     },
     {
       "bucket_type": "week",
-      "start_date": "2026-08-17",
-      "end_date": "2026-08-23",
-      "items": [
-        {
-          "game": "Marvel Tokon: Fighting Souls",
-          "minutes": 1640
-        },
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 451
-        },
-        {
-          "game": "DNF DUEL",
-          "minutes": 263
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 256
-        },
-        {
-          "game": "Palworld",
-          "minutes": 212
-        },
-        {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 162
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 119
-        },
-        {
-          "game": "Strinova",
-          "minutes": 87
-        },
-        {
-          "game": "Overwatch",
-          "minutes": 34
-        },
-        {
-          "game": "Neverness to Everness",
-          "minutes": 10
-        },
-        {
-          "game": "Cookie Clicker",
-          "minutes": 7
-        }
-      ]
-    },
-    {
-      "bucket_type": "week",
       "start_date": "2026-08-24",
       "end_date": "2026-08-30",
       "items": [
@@ -1830,25 +1763,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-09-15",
-      "end_date": "2026-09-15",
-      "items": [
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 70
-        },
-        {
-          "game": "DNF DUEL",
-          "minutes": 46
-        },
-        {
-          "game": "Overwatch",
-          "minutes": 6
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-09-16",
       "end_date": "2026-09-16",
       "items": [
@@ -1968,12 +1882,63 @@
       "end_date": "2026-09-21",
       "items": [
         {
+          "game": "Guilty Gear: Strive",
+          "minutes": 651
+        },
+        {
           "game": "Marvel Tokon: Fighting Souls",
-          "minutes": 60
+          "minutes": 287
         },
         {
           "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 60
+          "minutes": 182
+        },
+        {
+          "game": "Strinova",
+          "minutes": 38
+        },
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 35
+        },
+        {
+          "game": "Overwatch",
+          "minutes": 32
+        },
+        {
+          "game": "Metal Slug X",
+          "minutes": 30
+        },
+        {
+          "game": "Persona5: The Phantom X",
+          "minutes": 11
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-09-22",
+      "end_date": "2026-09-22",
+      "items": [
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 48
+        },
+        {
+          "game": "Dead by Daylight",
+          "minutes": 18
+        },
+        {
+          "game": "Marvel Tokon: Fighting Souls",
+          "minutes": 10
+        },
+        {
+          "game": "DNF DUEL",
+          "minutes": 9
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 4
         }
       ]
     }
