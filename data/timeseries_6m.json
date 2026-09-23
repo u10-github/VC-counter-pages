@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T01:00:00+09:00",
+  "generated_at": "2026-09-24T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -18,11 +18,11 @@
         },
         {
           "game": "DNF DUEL",
-          "minutes": 888
+          "minutes": 657
         },
         {
           "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 749
+          "minutes": 603
         },
         {
           "game": "GUILTY GEAR 2 -OVERTURE-",
@@ -37,12 +37,8 @@
           "minutes": 247
         },
         {
-          "game": "Street Fighter™ 6",
-          "minutes": 223
-        },
-        {
           "game": "Blade Strangers",
-          "minutes": 221
+          "minutes": 165
         },
         {
           "game": "Guns of Icarus Alliance",
@@ -50,11 +46,7 @@
         },
         {
           "game": "GUILTY GEAR -STRIVE-",
-          "minutes": 111
-        },
-        {
-          "game": "Slay the Spire 2",
-          "minutes": 72
+          "minutes": 60
         },
         {
           "game": "Backpack Battles",
@@ -69,10 +61,6 @@
           "minutes": 48
         },
         {
-          "game": "GUILTY GEAR XX ACCENT CORE PLUS R",
-          "minutes": 44
-        },
-        {
           "game": "Apex Legends",
           "minutes": 42
         },
@@ -85,8 +73,8 @@
           "minutes": 23
         },
         {
-          "game": "ロックマンエグゼ アドバンスドコレクション Vol.2",
-          "minutes": 23
+          "game": "GUILTY GEAR XX ACCENT CORE PLUS R",
+          "minutes": 22
         },
         {
           "game": "Arcana Heart 3 LOVEMAX SIXSTARS!!!!!! XTEND",
@@ -103,10 +91,6 @@
         {
           "game": "BlazBlue Cross Tag Battle",
           "minutes": 13
-        },
-        {
-          "game": "FATAL FURY: City of the Wolves",
-          "minutes": 12
         },
         {
           "game": "Wuthering Waves",
@@ -1747,33 +1731,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-09-17",
-      "end_date": "2026-09-17",
-      "items": [
-        {
-          "game": "Wuthering Waves",
-          "minutes": 148
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 62
-        },
-        {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 58
-        },
-        {
-          "game": "Strinova",
-          "minutes": 16
-        },
-        {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 6
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-09-18",
       "end_date": "2026-09-18",
       "items": [
@@ -1941,16 +1898,47 @@
       "end_date": "2026-09-23",
       "items": [
         {
-          "game": "Strinova",
-          "minutes": 111
+          "game": "DNF DUEL",
+          "minutes": 205
         },
         {
           "game": "Guilty Gear: Strive",
-          "minutes": 8
+          "minutes": 181
+        },
+        {
+          "game": "Duet Night Abyss",
+          "minutes": 167
+        },
+        {
+          "game": "Yu-Gi-Oh! Master Duel",
+          "minutes": 143
+        },
+        {
+          "game": "Strinova",
+          "minutes": 118
+        },
+        {
+          "game": "Marvel Tokon: Fighting Souls",
+          "minutes": 35
         },
         {
           "game": "StarWard",
-          "minutes": 4
+          "minutes": 12
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 10
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-09-24",
+      "end_date": "2026-09-24",
+      "items": [
+        {
+          "game": "Yu-Gi-Oh! Master Duel",
+          "minutes": 138
         }
       ]
     }
