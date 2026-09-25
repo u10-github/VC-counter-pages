@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T01:00:00+09:00",
+  "generated_at": "2026-09-26T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -14,19 +14,15 @@
       "items": [
         {
           "game": "Strinova",
-          "minutes": 1945
-        },
-        {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 441
+          "minutes": 1088
         },
         {
           "game": "DNF DUEL",
-          "minutes": 328
+          "minutes": 227
         },
         {
           "game": "Guilty Gear -Strive-",
-          "minutes": 279
+          "minutes": 174
         },
         {
           "game": "Blade Strangers",
@@ -37,20 +33,16 @@
           "minutes": 80
         },
         {
-          "game": "Arknights:Endfield",
-          "minutes": 53
-        },
-        {
-          "game": "Brotato",
-          "minutes": 48
-        },
-        {
           "game": "ShatterRush Open Pre-Alpha",
           "minutes": 19
         },
         {
           "game": "BlazBlue Cross Tag Battle",
           "minutes": 13
+        },
+        {
+          "game": "Arknights:Endfield",
+          "minutes": 10
         },
         {
           "game": "Nexus: FPV Drone Carnage",
@@ -1679,21 +1671,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-09-19",
-      "end_date": "2026-09-19",
-      "items": [
-        {
-          "game": "Yu-Gi-Oh! Master Duel",
-          "minutes": 513
-        },
-        {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 54
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-09-20",
       "end_date": "2026-09-20",
       "items": [
@@ -1873,34 +1850,48 @@
       "end_date": "2026-09-25",
       "items": [
         {
+          "game": "Guilty Gear: Strive",
+          "minutes": 453
+        },
+        {
           "game": "Duet Night Abyss",
-          "minutes": 60
+          "minutes": 115
+        },
+        {
+          "game": "Storm Striker",
+          "minutes": 90
+        },
+        {
+          "game": "Overwatch",
+          "minutes": 44
         },
         {
           "game": "StarSavior",
           "minutes": 33
         },
         {
-          "game": "Guilty Gear: Strive",
-          "minutes": 24
-        },
-        {
           "game": "StarWard",
           "minutes": 23
         },
         {
-          "game": "Overwatch",
-          "minutes": 16
+          "game": "Dead by Daylight",
+          "minutes": 15
         },
         {
           "game": "Strinova",
-          "minutes": 6
+          "minutes": 9
         },
         {
-          "game": "Dead by Daylight",
-          "minutes": 2
+          "game": "Yu-Gi-Oh! Master Duel",
+          "minutes": 6
         }
       ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-09-26",
+      "end_date": "2026-09-26",
+      "items": []
     }
   ]
 }
