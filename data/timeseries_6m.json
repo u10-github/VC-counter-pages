@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T01:00:00+09:00",
+  "generated_at": "2026-09-27T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -7,57 +7,6 @@
     "monthly_until_days": 180
   },
   "buckets": [
-    {
-      "bucket_type": "month",
-      "start_date": "2026-03-01",
-      "end_date": "2026-03-31",
-      "items": [
-        {
-          "game": "Strinova",
-          "minutes": 1088
-        },
-        {
-          "game": "DNF DUEL",
-          "minutes": 227
-        },
-        {
-          "game": "Guilty Gear -Strive-",
-          "minutes": 174
-        },
-        {
-          "game": "Blade Strangers",
-          "minutes": 165
-        },
-        {
-          "game": "GUILTY GEAR 2 -OVERTURE-",
-          "minutes": 80
-        },
-        {
-          "game": "ShatterRush Open Pre-Alpha",
-          "minutes": 19
-        },
-        {
-          "game": "BlazBlue Cross Tag Battle",
-          "minutes": 13
-        },
-        {
-          "game": "Arknights:Endfield",
-          "minutes": 10
-        },
-        {
-          "game": "Nexus: FPV Drone Carnage",
-          "minutes": 5
-        },
-        {
-          "game": "Apewar",
-          "minutes": 2
-        },
-        {
-          "game": "Starward",
-          "minutes": 2
-        }
-      ]
-    },
     {
       "bucket_type": "month",
       "start_date": "2026-04-01",
@@ -1671,25 +1620,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-09-20",
-      "end_date": "2026-09-20",
-      "items": [
-        {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 128
-        },
-        {
-          "game": "Yu-Gi-Oh! Master Duel",
-          "minutes": 75
-        },
-        {
-          "game": "Marvel Tokon: Fighting Souls",
-          "minutes": 3
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-09-21",
       "end_date": "2026-09-21",
       "items": [
@@ -1891,7 +1821,55 @@
       "bucket_type": "day",
       "start_date": "2026-09-26",
       "end_date": "2026-09-26",
-      "items": []
+      "items": [
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 129
+        },
+        {
+          "game": "Village in the Shade",
+          "minutes": 124
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 65
+        },
+        {
+          "game": "Strinova",
+          "minutes": 32
+        },
+        {
+          "game": "Slay the Spire",
+          "minutes": 28
+        },
+        {
+          "game": "MTGA",
+          "minutes": 25
+        },
+        {
+          "game": "Monster Hunter Wilds Prologue Demo",
+          "minutes": 16
+        },
+        {
+          "game": "Qliphah in Providence's Shadow",
+          "minutes": 12
+        },
+        {
+          "game": "Overwatch",
+          "minutes": 8
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-09-27",
+      "end_date": "2026-09-27",
+      "items": [
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 180
+        }
+      ]
     }
   ]
 }
