@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T01:00:00+09:00",
+  "generated_at": "2026-09-28T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -18,7 +18,7 @@
         },
         {
           "game": "Strinova",
-          "minutes": 9100
+          "minutes": 8769
         },
         {
           "game": "Guilty Gear: Strive",
@@ -30,15 +30,15 @@
         },
         {
           "game": "DNF DUEL",
-          "minutes": 1437
-        },
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 1105
+          "minutes": 1117
         },
         {
           "game": "Granblue Fantasy Versus: Rising",
           "minutes": 1087
+        },
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 964
         },
         {
           "game": "Fatal Fury: City of the Wolves",
@@ -78,7 +78,7 @@
         },
         {
           "game": "Wuthering Waves",
-          "minutes": 412
+          "minutes": 402
         },
         {
           "game": "Starward",
@@ -145,16 +145,16 @@
           "minutes": 152
         },
         {
-          "game": "Backpack Battles",
-          "minutes": 150
-        },
-        {
           "game": "ARKNIGHTS: ENDFIELD",
           "minutes": 147
         },
         {
           "game": "Aquapazza: Aquaplus Dream Match",
           "minutes": 145
+        },
+        {
+          "game": "Backpack Battles",
+          "minutes": 143
         },
         {
           "game": "Honkai: Star Rail",
@@ -167,10 +167,6 @@
         {
           "game": "Escape from Tarkov",
           "minutes": 121
-        },
-        {
-          "game": "Arknights:Endfield",
-          "minutes": 116
         },
         {
           "game": "Guilty Gear XX Accent Core Plus R",
@@ -247,6 +243,10 @@
         {
           "game": "The King of Fighters '98 Ultimate Match Final Edition",
           "minutes": 35
+        },
+        {
+          "game": "Arknights:Endfield",
+          "minutes": 34
         },
         {
           "game": "Street Fighter 30th Anniversary Collection",
@@ -1619,41 +1619,117 @@
       ]
     },
     {
-      "bucket_type": "day",
+      "bucket_type": "week",
       "start_date": "2026-09-21",
-      "end_date": "2026-09-21",
+      "end_date": "2026-09-27",
       "items": [
         {
           "game": "Guilty Gear: Strive",
-          "minutes": 651
+          "minutes": 2049
+        },
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 599
+        },
+        {
+          "game": "Yu-Gi-Oh! Master Duel",
+          "minutes": 548
         },
         {
           "game": "Marvel Tokon: Fighting Souls",
-          "minutes": 287
+          "minutes": 433
         },
         {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 182
+          "game": "Duet Night Abyss",
+          "minutes": 336
         },
         {
           "game": "Strinova",
-          "minutes": 38
+          "minutes": 240
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 240
+        },
+        {
+          "game": "DNF DUEL",
+          "minutes": 214
+        },
+        {
+          "game": "Shiren the Wanderer: The Tower of Fortune and the Dice of Fate",
+          "minutes": 198
+        },
+        {
+          "game": "Village in the Shade",
+          "minutes": 124
+        },
+        {
+          "game": "Storm Striker",
+          "minutes": 90
+        },
+        {
+          "game": "Overwatch",
+          "minutes": 84
+        },
+        {
+          "game": "Metal Slug X",
+          "minutes": 52
+        },
+        {
+          "game": "Idol Showdown",
+          "minutes": 44
         },
         {
           "game": "Phantom Breaker: Omnia",
           "minutes": 35
         },
         {
-          "game": "Overwatch",
-          "minutes": 32
+          "game": "StarWard",
+          "minutes": 35
         },
         {
-          "game": "Metal Slug X",
-          "minutes": 30
+          "game": "Dead by Daylight",
+          "minutes": 33
+        },
+        {
+          "game": "StarSavior",
+          "minutes": 33
+        },
+        {
+          "game": "Slay the Spire",
+          "minutes": 28
+        },
+        {
+          "game": "MTGA",
+          "minutes": 25
+        },
+        {
+          "game": "Monster Hunter Wilds",
+          "minutes": 23
         },
         {
           "game": "Persona5: The Phantom X",
-          "minutes": 11
+          "minutes": 17
+        },
+        {
+          "game": "Monster Hunter Wilds Prologue Demo",
+          "minutes": 16
+        },
+        {
+          "game": "Qliphah in Providence's Shadow",
+          "minutes": 12
+        },
+        {
+          "game": "SoulCalibur VI",
+          "minutes": 12
+        },
+        {
+          "game": "The King of Fighters '98 Ultimate Match Final Edition",
+          "minutes": 9
+        },
+        {
+          "game": "Rivals of Aether",
+          "minutes": 4
         }
       ]
     },
@@ -1867,9 +1943,31 @@
       "items": [
         {
           "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 180
+          "minutes": 470
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 460
+        },
+        {
+          "game": "Shiren the Wanderer: The Tower of Fortune and the Dice of Fate",
+          "minutes": 198
+        },
+        {
+          "game": "Marvel Tokon: Fighting Souls",
+          "minutes": 82
+        },
+        {
+          "game": "Rivals of Aether",
+          "minutes": 4
         }
       ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-09-28",
+      "end_date": "2026-09-28",
+      "items": []
     }
   ]
 }
