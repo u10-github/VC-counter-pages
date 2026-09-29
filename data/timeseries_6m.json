@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T01:00:00+09:00",
+  "generated_at": "2026-09-30T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -22,35 +22,35 @@
         },
         {
           "game": "Strinova",
-          "minutes": 7546
+          "minutes": 6867
         },
         {
           "game": "Arknights: Endfield",
           "minutes": 2070
         },
         {
-          "game": "DNF DUEL",
-          "minutes": 1117
-        },
-        {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 1045
+          "game": "Fatal Fury: City of the Wolves",
+          "minutes": 793
         },
         {
           "game": "Phantom Breaker: Omnia",
-          "minutes": 808
-        },
-        {
-          "game": "Fatal Fury: City of the Wolves",
-          "minutes": 793
+          "minutes": 744
         },
         {
           "game": "DRAGON BALL FighterZ",
           "minutes": 742
         },
         {
-          "game": "Street Fighter™ 6",
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 730
+        },
+        {
+          "game": "DNF DUEL",
           "minutes": 699
+        },
+        {
+          "game": "Street Fighter™ 6",
+          "minutes": 691
         },
         {
           "game": "Under Night In-Birth II Sys:Celes",
@@ -78,7 +78,7 @@
         },
         {
           "game": "Wuthering Waves",
-          "minutes": 402
+          "minutes": 393
         },
         {
           "game": "Starward",
@@ -105,16 +105,12 @@
           "minutes": 226
         },
         {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 226
-        },
-        {
-          "game": "卡拉彼丘",
-          "minutes": 200
-        },
-        {
           "game": "Mobile Suit Gundam Battle Operation 2",
           "minutes": 198
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 190
         },
         {
           "game": "MOBILE SUIT GUNDAM BATTLE OPERATION 2",
@@ -149,6 +145,10 @@
           "minutes": 147
         },
         {
+          "game": "卡拉彼丘",
+          "minutes": 147
+        },
+        {
           "game": "Aquapazza: Aquaplus Dream Match",
           "minutes": 145
         },
@@ -166,7 +166,7 @@
         },
         {
           "game": "Escape from Tarkov",
-          "minutes": 121
+          "minutes": 120
         },
         {
           "game": "Guilty Gear XX Accent Core Plus R",
@@ -245,10 +245,6 @@
           "minutes": 35
         },
         {
-          "game": "Arknights:Endfield",
-          "minutes": 34
-        },
-        {
           "game": "Street Fighter 30th Anniversary Collection",
           "minutes": 30
         },
@@ -267,10 +263,6 @@
         {
           "game": "Marvel Rivals",
           "minutes": 26
-        },
-        {
-          "game": "Guns of Icarus Alliance",
-          "minutes": 24
         },
         {
           "game": "Call of Duty® Black Ops 7",
@@ -343,10 +335,6 @@
         {
           "game": "Naraka: Bladepoint",
           "minutes": 3
-        },
-        {
-          "game": "GUILTY GEAR -STRIVE-",
-          "minutes": 2
         },
         {
           "game": "Yu-Gi-Oh! Master Duel",
@@ -1664,45 +1652,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-09-23",
-      "end_date": "2026-09-23",
-      "items": [
-        {
-          "game": "DNF DUEL",
-          "minutes": 205
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 181
-        },
-        {
-          "game": "Duet Night Abyss",
-          "minutes": 167
-        },
-        {
-          "game": "Yu-Gi-Oh! Master Duel",
-          "minutes": 143
-        },
-        {
-          "game": "Strinova",
-          "minutes": 118
-        },
-        {
-          "game": "Marvel Tokon: Fighting Souls",
-          "minutes": 35
-        },
-        {
-          "game": "StarWard",
-          "minutes": 12
-        },
-        {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 10
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-09-24",
       "end_date": "2026-09-24",
       "items": [
@@ -1872,7 +1821,43 @@
       "bucket_type": "day",
       "start_date": "2026-09-29",
       "end_date": "2026-09-29",
-      "items": []
+      "items": [
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 713
+        },
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 80
+        },
+        {
+          "game": "Strinova",
+          "minutes": 64
+        },
+        {
+          "game": "StarWard",
+          "minutes": 34
+        },
+        {
+          "game": "Arknights: Endfield",
+          "minutes": 10
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 9
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-09-30",
+      "end_date": "2026-09-30",
+      "items": [
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 158
+        }
+      ]
     }
   ]
 }
