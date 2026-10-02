@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T01:00:00+09:00",
+  "generated_at": "2026-10-03T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -14,7 +14,7 @@
       "items": [
         {
           "game": "DNF Duel",
-          "minutes": 9008
+          "minutes": 8493
         },
         {
           "game": "Guilty Gear: Strive",
@@ -22,7 +22,7 @@
         },
         {
           "game": "Strinova",
-          "minutes": 4695
+          "minutes": 3731
         },
         {
           "game": "Arknights: Endfield",
@@ -66,7 +66,7 @@
         },
         {
           "game": "MapleStory",
-          "minutes": 430
+          "minutes": 417
         },
         {
           "game": "Fatal Fury: City of the Wolves",
@@ -177,10 +177,6 @@
           "minutes": 60
         },
         {
-          "game": "Persona5: The Phantom X",
-          "minutes": 59
-        },
-        {
           "game": "VRChat",
           "minutes": 58
         },
@@ -198,6 +194,10 @@
         },
         {
           "game": "Mortal Kombat 1",
+          "minutes": 42
+        },
+        {
+          "game": "Persona5: The Phantom X",
           "minutes": 42
         },
         {
@@ -1795,49 +1795,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-09-26",
-      "end_date": "2026-09-26",
-      "items": [
-        {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 129
-        },
-        {
-          "game": "Village in the Shade",
-          "minutes": 124
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 65
-        },
-        {
-          "game": "Strinova",
-          "minutes": 32
-        },
-        {
-          "game": "Slay the Spire",
-          "minutes": 28
-        },
-        {
-          "game": "MTGA",
-          "minutes": 25
-        },
-        {
-          "game": "Monster Hunter Wilds Prologue Demo",
-          "minutes": 16
-        },
-        {
-          "game": "Qliphah in Providence's Shadow",
-          "minutes": 12
-        },
-        {
-          "game": "Overwatch",
-          "minutes": 8
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-09-27",
       "end_date": "2026-09-27",
       "items": [
@@ -1947,7 +1904,43 @@
       "bucket_type": "day",
       "start_date": "2026-10-02",
       "end_date": "2026-10-02",
-      "items": []
+      "items": [
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 378
+        },
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 148
+        },
+        {
+          "game": "Strinova",
+          "minutes": 22
+        },
+        {
+          "game": "Duet Night Abyss",
+          "minutes": 11
+        },
+        {
+          "game": "Overwatch",
+          "minutes": 8
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-10-03",
+      "end_date": "2026-10-03",
+      "items": [
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 120
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 9
+        }
+      ]
     }
   ]
 }
