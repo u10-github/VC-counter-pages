@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T01:00:00+09:00",
+  "generated_at": "2026-10-04T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -14,15 +14,15 @@
       "items": [
         {
           "game": "DNF Duel",
-          "minutes": 8493
+          "minutes": 8276
         },
         {
           "game": "Guilty Gear: Strive",
-          "minutes": 8083
+          "minutes": 8074
         },
         {
           "game": "Strinova",
-          "minutes": 3731
+          "minutes": 2929
         },
         {
           "game": "Arknights: Endfield",
@@ -38,7 +38,7 @@
         },
         {
           "game": "Phantom Breaker: Omnia",
-          "minutes": 690
+          "minutes": 678
         },
         {
           "game": "Street Fighter™ 6",
@@ -51,10 +51,6 @@
         {
           "game": "Dragon Ball FighterZ",
           "minutes": 610
-        },
-        {
-          "game": "Under Night In-Birth II Sys:Celes",
-          "minutes": 527
         },
         {
           "game": "Rainbow Six Siege",
@@ -73,8 +69,12 @@
           "minutes": 414
         },
         {
+          "game": "Under Night In-Birth II Sys:Celes",
+          "minutes": 411
+        },
+        {
           "game": "Starward",
-          "minutes": 368
+          "minutes": 346
         },
         {
           "game": "Wuthering Waves",
@@ -82,7 +82,7 @@
         },
         {
           "game": "Overwatch",
-          "minutes": 318
+          "minutes": 298
         },
         {
           "game": "Chill with You: Lo-Fi Story",
@@ -114,7 +114,7 @@
         },
         {
           "game": "Skullgirls",
-          "minutes": 168
+          "minutes": 164
         },
         {
           "game": "FATAL FRAME II: Crimson Butterfly REMAKE",
@@ -185,10 +185,6 @@
           "minutes": 55
         },
         {
-          "game": "Koihime Enbu RyoRaiRai",
-          "minutes": 54
-        },
-        {
           "game": "Resident Evil 4: Ultimate HD Edition",
           "minutes": 48
         },
@@ -211,10 +207,6 @@
         {
           "game": "Idol Showdown",
           "minutes": 34
-        },
-        {
-          "game": "Ultimate Marvel vs. Capcom 3",
-          "minutes": 30
         },
         {
           "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
@@ -289,6 +281,10 @@
           "minutes": 6
         },
         {
+          "game": "Koihime Enbu RyoRaiRai",
+          "minutes": 5
+        },
+        {
           "game": "Melty Blood: Type Lumina",
           "minutes": 5
         },
@@ -311,6 +307,10 @@
         {
           "game": "Naraka: Bladepoint",
           "minutes": 3
+        },
+        {
+          "game": "Ultimate Marvel vs. Capcom 3",
+          "minutes": 2
         },
         {
           "game": "ゼンレスゾーンゼロ",
@@ -1795,33 +1795,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-09-27",
-      "end_date": "2026-09-27",
-      "items": [
-        {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 470
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 460
-        },
-        {
-          "game": "Shiren the Wanderer: The Tower of Fortune and the Dice of Fate",
-          "minutes": 198
-        },
-        {
-          "game": "Marvel Tokon: Fighting Souls",
-          "minutes": 82
-        },
-        {
-          "game": "Rivals of Aether",
-          "minutes": 4
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-09-28",
       "end_date": "2026-09-28",
       "items": [
@@ -1934,11 +1907,54 @@
       "items": [
         {
           "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 120
+          "minutes": 178
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 146
+        },
+        {
+          "game": "Street Fighter V",
+          "minutes": 83
+        },
+        {
+          "game": "Monster Hunter: World",
+          "minutes": 44
         },
         {
           "game": "Wuthering Waves",
-          "minutes": 9
+          "minutes": 40
+        },
+        {
+          "game": "Strinova",
+          "minutes": 24
+        },
+        {
+          "game": "StarWard",
+          "minutes": 16
+        },
+        {
+          "game": "Dynasty Warriors 3: Complete Edition Remastered",
+          "minutes": 11
+        },
+        {
+          "game": "DNF DUEL",
+          "minutes": 5
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-10-04",
+      "end_date": "2026-10-04",
+      "items": [
+        {
+          "game": "Street Fighter V",
+          "minutes": 120
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 16
         }
       ]
     }
