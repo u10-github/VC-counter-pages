@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T01:00:00+09:00",
+  "generated_at": "2026-10-05T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -13,20 +13,20 @@
       "end_date": "2026-04-30",
       "items": [
         {
-          "game": "DNF Duel",
-          "minutes": 8276
+          "game": "Guilty Gear: Strive",
+          "minutes": 7997
         },
         {
-          "game": "Guilty Gear: Strive",
-          "minutes": 8074
+          "game": "DNF Duel",
+          "minutes": 7409
         },
         {
           "game": "Strinova",
-          "minutes": 2929
+          "minutes": 2171
         },
         {
           "game": "Arknights: Endfield",
-          "minutes": 1904
+          "minutes": 1893
         },
         {
           "game": "DRAGON BALL FighterZ",
@@ -35,10 +35,6 @@
         {
           "game": "Granblue Fantasy Versus: Rising",
           "minutes": 730
-        },
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 678
         },
         {
           "game": "Street Fighter™ 6",
@@ -57,6 +53,10 @@
           "minutes": 506
         },
         {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 482
+        },
+        {
           "game": "Magic: The Gathering Arena",
           "minutes": 444
         },
@@ -69,10 +69,6 @@
           "minutes": 414
         },
         {
-          "game": "Under Night In-Birth II Sys:Celes",
-          "minutes": 411
-        },
-        {
           "game": "Starward",
           "minutes": 346
         },
@@ -83,6 +79,10 @@
         {
           "game": "Overwatch",
           "minutes": 298
+        },
+        {
+          "game": "Under Night In-Birth II Sys:Celes",
+          "minutes": 290
         },
         {
           "game": "Chill with You: Lo-Fi Story",
@@ -137,16 +137,8 @@
           "minutes": 145
         },
         {
-          "game": "Backpack Battles",
-          "minutes": 129
-        },
-        {
           "game": "Escape from Tarkov",
           "minutes": 111
-        },
-        {
-          "game": "Guilty Gear XX Accent Core Plus R",
-          "minutes": 91
         },
         {
           "game": "Guns and Nuns: Storming Hell",
@@ -159,6 +151,10 @@
         {
           "game": "Desktop Mate",
           "minutes": 87
+        },
+        {
+          "game": "Guilty Gear XX Accent Core Plus R",
+          "minutes": 81
         },
         {
           "game": "Guilty Gear -Strive-",
@@ -201,11 +197,11 @@
           "minutes": 38
         },
         {
-          "game": "The King of Fighters '98 Ultimate Match Final Edition",
-          "minutes": 35
+          "game": "Idol Showdown",
+          "minutes": 34
         },
         {
-          "game": "Idol Showdown",
+          "game": "The King of Fighters '98 Ultimate Match Final Edition",
           "minutes": 34
         },
         {
@@ -243,10 +239,6 @@
         {
           "game": "Them's Fightin' Herds",
           "minutes": 18
-        },
-        {
-          "game": "Dragon Quest X: Inishie no Ryuu no Denshou Online",
-          "minutes": 17
         },
         {
           "game": "MGCM Combat Edition",
@@ -307,10 +299,6 @@
         {
           "game": "Naraka: Bladepoint",
           "minutes": 3
-        },
-        {
-          "game": "Ultimate Marvel vs. Capcom 3",
-          "minutes": 2
         },
         {
           "game": "ゼンレスゾーンゼロ",
@@ -1794,29 +1782,77 @@
       ]
     },
     {
-      "bucket_type": "day",
+      "bucket_type": "week",
       "start_date": "2026-09-28",
-      "end_date": "2026-09-28",
+      "end_date": "2026-10-04",
       "items": [
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 1787
+        },
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 406
+        },
+        {
+          "game": "Strinova",
+          "minutes": 297
+        },
+        {
+          "game": "Street Fighter V",
+          "minutes": 263
+        },
+        {
+          "game": "Monster Hunter: World",
+          "minutes": 88
+        },
+        {
+          "game": "Overwatch",
+          "minutes": 70
+        },
         {
           "game": "Village in the Shade",
           "minutes": 68
         },
         {
-          "game": "Guilty Gear: Strive",
-          "minutes": 59
+          "game": "StarWard",
+          "minutes": 50
         },
         {
-          "game": "Overwatch",
-          "minutes": 39
+          "game": "Wuthering Waves",
+          "minutes": 40
+        },
+        {
+          "game": "Bleach: Rebirth of Souls",
+          "minutes": 19
+        },
+        {
+          "game": "GODDESS OF VICTORY: NIKKE",
+          "minutes": 13
         },
         {
           "game": "Dead by Daylight",
           "minutes": 11
         },
         {
-          "game": "Strinova",
+          "game": "Duet Night Abyss",
+          "minutes": 11
+        },
+        {
+          "game": "Dynasty Warriors 3: Complete Edition Remastered",
+          "minutes": 11
+        },
+        {
+          "game": "Arknights: Endfield",
+          "minutes": 10
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
           "minutes": 9
+        },
+        {
+          "game": "DNF DUEL",
+          "minutes": 5
         }
       ]
     },
@@ -1950,11 +1986,46 @@
       "items": [
         {
           "game": "Street Fighter V",
-          "minutes": 120
+          "minutes": 180
+        },
+        {
+          "game": "Strinova",
+          "minutes": 178
         },
         {
           "game": "Guilty Gear: Strive",
-          "minutes": 16
+          "minutes": 75
+        },
+        {
+          "game": "Monster Hunter: World",
+          "minutes": 44
+        },
+        {
+          "game": "Overwatch",
+          "minutes": 23
+        },
+        {
+          "game": "Bleach: Rebirth of Souls",
+          "minutes": 19
+        },
+        {
+          "game": "GODDESS OF VICTORY: NIKKE",
+          "minutes": 13
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-05",
+      "items": [
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 96
+        },
+        {
+          "game": "Street Fighter V",
+          "minutes": 68
         }
       ]
     }
