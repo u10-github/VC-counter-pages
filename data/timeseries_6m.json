@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T01:00:00+09:00",
+  "generated_at": "2026-10-06T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -14,19 +14,19 @@
       "items": [
         {
           "game": "Guilty Gear: Strive",
-          "minutes": 7997
+          "minutes": 7012
         },
         {
           "game": "DNF Duel",
-          "minutes": 7409
+          "minutes": 6805
         },
         {
           "game": "Strinova",
-          "minutes": 2171
+          "minutes": 2093
         },
         {
           "game": "Arknights: Endfield",
-          "minutes": 1893
+          "minutes": 1870
         },
         {
           "game": "DRAGON BALL FighterZ",
@@ -53,12 +53,12 @@
           "minutes": 506
         },
         {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 482
-        },
-        {
           "game": "Magic: The Gathering Arena",
           "minutes": 444
+        },
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 429
         },
         {
           "game": "MapleStory",
@@ -70,19 +70,15 @@
         },
         {
           "game": "Starward",
-          "minutes": 346
+          "minutes": 337
         },
         {
           "game": "Wuthering Waves",
-          "minutes": 326
+          "minutes": 320
         },
         {
           "game": "Overwatch",
           "minutes": 298
-        },
-        {
-          "game": "Under Night In-Birth II Sys:Celes",
-          "minutes": 290
         },
         {
           "game": "Chill with You: Lo-Fi Story",
@@ -95,6 +91,10 @@
         {
           "game": "Puyo Puyo Tetris 2",
           "minutes": 226
+        },
+        {
+          "game": "Under Night In-Birth II Sys:Celes",
+          "minutes": 205
         },
         {
           "game": "Mobile Suit Gundam Battle Operation 2",
@@ -141,28 +141,20 @@
           "minutes": 111
         },
         {
-          "game": "Guns and Nuns: Storming Hell",
-          "minutes": 90
-        },
-        {
           "game": "MTGA",
           "minutes": 88
-        },
-        {
-          "game": "Desktop Mate",
-          "minutes": 87
-        },
-        {
-          "game": "Guilty Gear XX Accent Core Plus R",
-          "minutes": 81
         },
         {
           "game": "Guilty Gear -Strive-",
           "minutes": 73
         },
         {
-          "game": "Guilty Gear Xrd: Revelator",
-          "minutes": 69
+          "game": "Guns and Nuns: Storming Hell",
+          "minutes": 71
+        },
+        {
+          "game": "Guilty Gear XX Accent Core Plus R",
+          "minutes": 66
         },
         {
           "game": "Staffer Case - Case1 & 2",
@@ -191,6 +183,10 @@
         {
           "game": "Persona5: The Phantom X",
           "minutes": 42
+        },
+        {
+          "game": "Guilty Gear Xrd: Revelator",
+          "minutes": 40
         },
         {
           "game": "Vampire Survivors",
@@ -1467,89 +1463,6 @@
     },
     {
       "bucket_type": "week",
-      "start_date": "2026-08-31",
-      "end_date": "2026-09-06",
-      "items": [
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 421
-        },
-        {
-          "game": "Marvel Tokon: Fighting Souls",
-          "minutes": 301
-        },
-        {
-          "game": "DNF DUEL",
-          "minutes": 246
-        },
-        {
-          "game": "Magic: The Gathering Arena",
-          "minutes": 193
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 116
-        },
-        {
-          "game": "MTGA",
-          "minutes": 103
-        },
-        {
-          "game": "Neverness to Everness",
-          "minutes": 101
-        },
-        {
-          "game": "Dead by Daylight",
-          "minutes": 38
-        },
-        {
-          "game": "Yu-Gi-Oh! Master Duel",
-          "minutes": 36
-        },
-        {
-          "game": "Overwatch",
-          "minutes": 34
-        },
-        {
-          "game": "Avatar Legends: The Fighting Game",
-          "minutes": 33
-        },
-        {
-          "game": "Rivals of Aether",
-          "minutes": 29
-        },
-        {
-          "game": "The Idolmaster: Starlit Season",
-          "minutes": 28
-        },
-        {
-          "game": "AQUAPAZZA: Aquaplus Dream Match",
-          "minutes": 21
-        },
-        {
-          "game": "Arknights: Endfield",
-          "minutes": 21
-        },
-        {
-          "game": "Backpack Battles",
-          "minutes": 16
-        },
-        {
-          "game": "StarWard",
-          "minutes": 15
-        },
-        {
-          "game": "MapleStory",
-          "minutes": 3
-        },
-        {
-          "game": "ARKNIGHTS: ENDFIELD",
-          "minutes": 1
-        }
-      ]
-    },
-    {
-      "bucket_type": "week",
       "start_date": "2026-09-07",
       "end_date": "2026-09-13",
       "items": [
@@ -1858,37 +1771,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-09-29",
-      "end_date": "2026-09-29",
-      "items": [
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 713
-        },
-        {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 80
-        },
-        {
-          "game": "Strinova",
-          "minutes": 64
-        },
-        {
-          "game": "StarWard",
-          "minutes": 34
-        },
-        {
-          "game": "Arknights: Endfield",
-          "minutes": 10
-        },
-        {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 9
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-09-30",
       "end_date": "2026-09-30",
       "items": [
@@ -2021,11 +1903,50 @@
       "items": [
         {
           "game": "Guilty Gear: Strive",
-          "minutes": 96
+          "minutes": 407
+        },
+        {
+          "game": "Yu-Gi-Oh! Master Duel",
+          "minutes": 133
+        },
+        {
+          "game": "Dynasty Warriors 3: Complete Edition Remastered",
+          "minutes": 113
         },
         {
           "game": "Street Fighter V",
-          "minutes": 68
+          "minutes": 100
+        },
+        {
+          "game": "Overwatch",
+          "minutes": 29
+        },
+        {
+          "game": "StarWard",
+          "minutes": 21
+        },
+        {
+          "game": "Strinova",
+          "minutes": 1
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-10-06",
+      "end_date": "2026-10-06",
+      "items": [
+        {
+          "game": "Yu-Gi-Oh! Master Duel",
+          "minutes": 60
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 8
+        },
+        {
+          "game": "Ultra Street Fighter IV",
+          "minutes": 1
         }
       ]
     }
