@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T01:00:00+09:00",
+  "generated_at": "2026-10-07T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -13,20 +13,20 @@
       "end_date": "2026-04-30",
       "items": [
         {
-          "game": "Guilty Gear: Strive",
-          "minutes": 7012
+          "game": "DNF Duel",
+          "minutes": 6788
         },
         {
-          "game": "DNF Duel",
-          "minutes": 6805
+          "game": "Guilty Gear: Strive",
+          "minutes": 6123
         },
         {
           "game": "Strinova",
-          "minutes": 2093
+          "minutes": 1897
         },
         {
           "game": "Arknights: Endfield",
-          "minutes": 1870
+          "minutes": 1852
         },
         {
           "game": "DRAGON BALL FighterZ",
@@ -74,23 +74,15 @@
         },
         {
           "game": "Wuthering Waves",
-          "minutes": 320
+          "minutes": 317
         },
         {
           "game": "Overwatch",
           "minutes": 298
         },
         {
-          "game": "Chill with You: Lo-Fi Story",
-          "minutes": 288
-        },
-        {
           "game": "Resident Evil",
           "minutes": 255
-        },
-        {
-          "game": "Puyo Puyo Tetris 2",
-          "minutes": 226
         },
         {
           "game": "Under Night In-Birth II Sys:Celes",
@@ -99,6 +91,10 @@
         {
           "game": "Mobile Suit Gundam Battle Operation 2",
           "minutes": 198
+        },
+        {
+          "game": "Puyo Puyo Tetris 2",
+          "minutes": 197
         },
         {
           "game": "MOBILE SUIT GUNDAM BATTLE OPERATION 2",
@@ -153,6 +149,10 @@
           "minutes": 71
         },
         {
+          "game": "Chill with You: Lo-Fi Story",
+          "minutes": 68
+        },
+        {
           "game": "Guilty Gear XX Accent Core Plus R",
           "minutes": 66
         },
@@ -167,10 +167,6 @@
         {
           "game": "VRChat",
           "minutes": 58
-        },
-        {
-          "game": "Sky's The Limit: Mah-jong",
-          "minutes": 55
         },
         {
           "game": "Resident Evil 4: Ultimate HD Edition",
@@ -1771,17 +1767,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-09-30",
-      "end_date": "2026-09-30",
-      "items": [
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 218
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-10-01",
       "end_date": "2026-10-01",
       "items": [
@@ -1938,15 +1923,26 @@
       "items": [
         {
           "game": "Yu-Gi-Oh! Master Duel",
-          "minutes": 60
+          "minutes": 306
+        },
+        {
+          "game": "Ultra Street Fighter IV",
+          "minutes": 11
         },
         {
           "game": "Guilty Gear: Strive",
           "minutes": 8
-        },
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-10-07",
+      "end_date": "2026-10-07",
+      "items": [
         {
-          "game": "Ultra Street Fighter IV",
-          "minutes": 1
+          "game": "Yu-Gi-Oh! Master Duel",
+          "minutes": 60
         }
       ]
     }
