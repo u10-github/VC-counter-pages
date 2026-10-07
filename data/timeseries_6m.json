@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T01:00:00+09:00",
+  "generated_at": "2026-10-08T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -14,19 +14,19 @@
       "items": [
         {
           "game": "DNF Duel",
-          "minutes": 6788
+          "minutes": 6767
         },
         {
           "game": "Guilty Gear: Strive",
-          "minutes": 6123
-        },
-        {
-          "game": "Strinova",
-          "minutes": 1897
+          "minutes": 4435
         },
         {
           "game": "Arknights: Endfield",
           "minutes": 1852
+        },
+        {
+          "game": "Strinova",
+          "minutes": 1800
         },
         {
           "game": "DRAGON BALL FighterZ",
@@ -85,10 +85,6 @@
           "minutes": 255
         },
         {
-          "game": "Under Night In-Birth II Sys:Celes",
-          "minutes": 205
-        },
-        {
           "game": "Mobile Suit Gundam Battle Operation 2",
           "minutes": 198
         },
@@ -101,12 +97,12 @@
           "minutes": 189
         },
         {
-          "game": "BlazBlue Centralfiction",
-          "minutes": 187
-        },
-        {
           "game": "Guilty Gear 2: Overture",
           "minutes": 185
+        },
+        {
+          "game": "Under Night In-Birth II Sys:Celes",
+          "minutes": 166
         },
         {
           "game": "Skullgirls",
@@ -129,6 +125,10 @@
           "minutes": 147
         },
         {
+          "game": "BlazBlue Centralfiction",
+          "minutes": 147
+        },
+        {
           "game": "Aquapazza: Aquaplus Dream Match",
           "minutes": 145
         },
@@ -141,16 +141,8 @@
           "minutes": 88
         },
         {
-          "game": "Guilty Gear -Strive-",
-          "minutes": 73
-        },
-        {
           "game": "Guns and Nuns: Storming Hell",
           "minutes": 71
-        },
-        {
-          "game": "Chill with You: Lo-Fi Story",
-          "minutes": 68
         },
         {
           "game": "Guilty Gear XX Accent Core Plus R",
@@ -169,10 +161,6 @@
           "minutes": 58
         },
         {
-          "game": "Resident Evil 4: Ultimate HD Edition",
-          "minutes": 48
-        },
-        {
           "game": "Mortal Kombat 1",
           "minutes": 42
         },
@@ -187,6 +175,10 @@
         {
           "game": "Vampire Survivors",
           "minutes": 38
+        },
+        {
+          "game": "Chill with You: Lo-Fi Story",
+          "minutes": 36
         },
         {
           "game": "Idol Showdown",
@@ -225,11 +217,11 @@
           "minutes": 20
         },
         {
-          "game": "Street Fighter 30th Anniversary Collection",
+          "game": "Resident Evil 4: Ultimate HD Edition",
           "minutes": 18
         },
         {
-          "game": "Them's Fightin' Herds",
+          "game": "Street Fighter 30th Anniversary Collection",
           "minutes": 18
         },
         {
@@ -241,16 +233,8 @@
           "minutes": 15
         },
         {
-          "game": "Invincible VS Beta",
-          "minutes": 11
-        },
-        {
           "game": "Hunter x Hunter: Nen x Impact",
           "minutes": 8
-        },
-        {
-          "game": "Honkai: Star Rail",
-          "minutes": 7
         },
         {
           "game": "MELTY BLOOD: TYPE LUMINA",
@@ -270,10 +254,6 @@
         },
         {
           "game": "Melty Blood: Type Lumina",
-          "minutes": 5
-        },
-        {
-          "game": "Monster Hunter Rise",
           "minutes": 5
         },
         {
@@ -1767,17 +1747,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-10-01",
-      "end_date": "2026-10-01",
-      "items": [
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 198
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-10-02",
       "end_date": "2026-10-02",
       "items": [
@@ -1942,7 +1911,42 @@
       "items": [
         {
           "game": "Yu-Gi-Oh! Master Duel",
-          "minutes": 60
+          "minutes": 97
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 37
+        },
+        {
+          "game": "Sakura Arms ~Radiant Duels~ Demo",
+          "minutes": 29
+        },
+        {
+          "game": "Gears of War: E-Day",
+          "minutes": 18
+        },
+        {
+          "game": "Hex Reverse",
+          "minutes": 1
+        },
+        {
+          "game": "Overwatch",
+          "minutes": 1
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-10-08",
+      "end_date": "2026-10-08",
+      "items": [
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 120
+        },
+        {
+          "game": "Gears of War: E-Day",
+          "minutes": 57
         }
       ]
     }
