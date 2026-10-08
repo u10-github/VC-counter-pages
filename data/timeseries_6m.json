@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T01:00:00+09:00",
+  "generated_at": "2026-10-09T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -14,19 +14,19 @@
       "items": [
         {
           "game": "DNF Duel",
-          "minutes": 6767
+          "minutes": 6111
         },
         {
           "game": "Guilty Gear: Strive",
-          "minutes": 4435
+          "minutes": 4134
         },
         {
           "game": "Arknights: Endfield",
-          "minutes": 1852
+          "minutes": 1713
         },
         {
           "game": "Strinova",
-          "minutes": 1800
+          "minutes": 1500
         },
         {
           "game": "DRAGON BALL FighterZ",
@@ -69,16 +69,16 @@
           "minutes": 414
         },
         {
-          "game": "Starward",
-          "minutes": 337
+          "game": "Wuthering Waves",
+          "minutes": 312
         },
         {
-          "game": "Wuthering Waves",
-          "minutes": 317
+          "game": "Starward",
+          "minutes": 294
         },
         {
           "game": "Overwatch",
-          "minutes": 298
+          "minutes": 275
         },
         {
           "game": "Resident Evil",
@@ -97,14 +97,6 @@
           "minutes": 189
         },
         {
-          "game": "Guilty Gear 2: Overture",
-          "minutes": 185
-        },
-        {
-          "game": "Under Night In-Birth II Sys:Celes",
-          "minutes": 166
-        },
-        {
           "game": "Skullgirls",
           "minutes": 164
         },
@@ -121,11 +113,11 @@
           "minutes": 152
         },
         {
-          "game": "ARKNIGHTS: ENDFIELD",
-          "minutes": 147
+          "game": "Under Night In-Birth II Sys:Celes",
+          "minutes": 150
         },
         {
-          "game": "BlazBlue Centralfiction",
+          "game": "ARKNIGHTS: ENDFIELD",
           "minutes": 147
         },
         {
@@ -137,12 +129,16 @@
           "minutes": 111
         },
         {
+          "game": "Guilty Gear 2: Overture",
+          "minutes": 89
+        },
+        {
           "game": "MTGA",
           "minutes": 88
         },
         {
-          "game": "Guns and Nuns: Storming Hell",
-          "minutes": 71
+          "game": "BlazBlue Centralfiction",
+          "minutes": 80
         },
         {
           "game": "Guilty Gear XX Accent Core Plus R",
@@ -177,8 +173,8 @@
           "minutes": 38
         },
         {
-          "game": "Chill with You: Lo-Fi Story",
-          "minutes": 36
+          "game": "Guns and Nuns: Storming Hell",
+          "minutes": 37
         },
         {
           "game": "Idol Showdown",
@@ -221,15 +217,7 @@
           "minutes": 18
         },
         {
-          "game": "Street Fighter 30th Anniversary Collection",
-          "minutes": 18
-        },
-        {
           "game": "MGCM Combat Edition",
-          "minutes": 15
-        },
-        {
-          "game": "Slay the Spire II",
           "minutes": 15
         },
         {
@@ -263,10 +251,6 @@
         {
           "game": "Rabbit & Steel",
           "minutes": 4
-        },
-        {
-          "game": "BlazBlue: Central Fiction",
-          "minutes": 3
         },
         {
           "game": "Naraka: Bladepoint",
@@ -1747,33 +1731,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-10-02",
-      "end_date": "2026-10-02",
-      "items": [
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 378
-        },
-        {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 148
-        },
-        {
-          "game": "Strinova",
-          "minutes": 22
-        },
-        {
-          "game": "Duet Night Abyss",
-          "minutes": 11
-        },
-        {
-          "game": "Overwatch",
-          "minutes": 8
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-10-03",
       "end_date": "2026-10-03",
       "items": [
@@ -1942,11 +1899,66 @@
       "items": [
         {
           "game": "Guilty Gear: Strive",
-          "minutes": 120
+          "minutes": 269
         },
         {
           "game": "Gears of War: E-Day",
-          "minutes": 57
+          "minutes": 166
+        },
+        {
+          "game": "Yu-Gi-Oh! Master Duel",
+          "minutes": 147
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 24
+        },
+        {
+          "game": "Sakura Arms ~Radiant Duels~ Demo",
+          "minutes": 22
+        },
+        {
+          "game": "Overwatch",
+          "minutes": 9
+        },
+        {
+          "game": "StarWard",
+          "minutes": 6
+        },
+        {
+          "game": "VRChat",
+          "minutes": 4
+        },
+        {
+          "game": "Strinova",
+          "minutes": 2
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-10-09",
+      "end_date": "2026-10-09",
+      "items": [
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 54
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 48
+        },
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 14
+        },
+        {
+          "game": "War of Genesis: Idle Loot",
+          "minutes": 12
+        },
+        {
+          "game": "Magic: The Gathering Arena",
+          "minutes": 1
         }
       ]
     }
