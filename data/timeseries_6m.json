@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T01:00:00+09:00",
+  "generated_at": "2026-10-10T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -14,19 +14,19 @@
       "items": [
         {
           "game": "DNF Duel",
-          "minutes": 6111
+          "minutes": 4871
         },
         {
           "game": "Guilty Gear: Strive",
-          "minutes": 4134
+          "minutes": 3634
         },
         {
           "game": "Arknights: Endfield",
-          "minutes": 1713
+          "minutes": 1644
         },
         {
           "game": "Strinova",
-          "minutes": 1500
+          "minutes": 1301
         },
         {
           "game": "DRAGON BALL FighterZ",
@@ -61,20 +61,20 @@
           "minutes": 429
         },
         {
-          "game": "MapleStory",
-          "minutes": 417
-        },
-        {
           "game": "Fatal Fury: City of the Wolves",
           "minutes": 414
         },
         {
-          "game": "Wuthering Waves",
-          "minutes": 312
+          "game": "MapleStory",
+          "minutes": 372
         },
         {
           "game": "Starward",
           "minutes": 294
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 290
         },
         {
           "game": "Overwatch",
@@ -1731,49 +1731,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-10-03",
-      "end_date": "2026-10-03",
-      "items": [
-        {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 178
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 146
-        },
-        {
-          "game": "Street Fighter V",
-          "minutes": 83
-        },
-        {
-          "game": "Monster Hunter: World",
-          "minutes": 44
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 40
-        },
-        {
-          "game": "Strinova",
-          "minutes": 24
-        },
-        {
-          "game": "StarWard",
-          "minutes": 16
-        },
-        {
-          "game": "Dynasty Warriors 3: Complete Edition Remastered",
-          "minutes": 11
-        },
-        {
-          "game": "DNF DUEL",
-          "minutes": 5
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-10-04",
       "end_date": "2026-10-04",
       "items": [
@@ -1941,26 +1898,40 @@
       "end_date": "2026-10-09",
       "items": [
         {
+          "game": "DNF DUEL",
+          "minutes": 170
+        },
+        {
           "game": "Guilty Gear: Strive",
-          "minutes": 54
+          "minutes": 170
         },
         {
           "game": "Wuthering Waves",
           "minutes": 48
         },
         {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 14
+          "game": "War of Genesis: Idle Loot",
+          "minutes": 32
         },
         {
-          "game": "War of Genesis: Idle Loot",
-          "minutes": 12
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 28
+        },
+        {
+          "game": "Dragon Ball: The Breakers",
+          "minutes": 15
         },
         {
           "game": "Magic: The Gathering Arena",
           "minutes": 1
         }
       ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-10-10",
+      "end_date": "2026-10-10",
+      "items": []
     }
   ]
 }
