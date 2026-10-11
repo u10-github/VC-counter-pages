@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T01:00:00+09:00",
+  "generated_at": "2026-10-12T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -14,11 +14,11 @@
       "items": [
         {
           "game": "DNF Duel",
-          "minutes": 4115
+          "minutes": 3920
         },
         {
           "game": "Guilty Gear: Strive",
-          "minutes": 3094
+          "minutes": 2960
         },
         {
           "game": "Arknights: Endfield",
@@ -26,7 +26,7 @@
         },
         {
           "game": "Strinova",
-          "minutes": 1265
+          "minutes": 1172
         },
         {
           "game": "DRAGON BALL FighterZ",
@@ -66,7 +66,7 @@
         },
         {
           "game": "MapleStory",
-          "minutes": 372
+          "minutes": 371
         },
         {
           "game": "Wuthering Waves",
@@ -78,7 +78,7 @@
         },
         {
           "game": "Starward",
-          "minutes": 234
+          "minutes": 233
         },
         {
           "game": "Overwatch",
@@ -89,12 +89,12 @@
           "minutes": 198
         },
         {
-          "game": "Puyo Puyo Tetris 2",
-          "minutes": 197
-        },
-        {
           "game": "MOBILE SUIT GUNDAM BATTLE OPERATION 2",
           "minutes": 189
+        },
+        {
+          "game": "Puyo Puyo Tetris 2",
+          "minutes": 176
         },
         {
           "game": "FATAL FRAME II: Crimson Butterfly REMAKE",
@@ -123,10 +123,6 @@
         {
           "game": "Escape from Tarkov",
           "minutes": 111
-        },
-        {
-          "game": "Guilty Gear 2: Overture",
-          "minutes": 89
         },
         {
           "game": "MTGA",
@@ -173,10 +169,6 @@
           "minutes": 26
         },
         {
-          "game": "Tetris: The Grand Master 4 - Absolute Eye",
-          "minutes": 25
-        },
-        {
           "game": "Call of Duty® Black Ops 7",
           "minutes": 20
         },
@@ -210,6 +202,10 @@
         },
         {
           "game": "Hunter x Hunter: Nen x Impact",
+          "minutes": 8
+        },
+        {
+          "game": "Tetris: The Grand Master 4 - Absolute Eye",
           "minutes": 8
         },
         {
@@ -1718,36 +1714,96 @@
       ]
     },
     {
-      "bucket_type": "day",
+      "bucket_type": "week",
       "start_date": "2026-10-05",
-      "end_date": "2026-10-05",
+      "end_date": "2026-10-11",
       "items": [
         {
           "game": "Guilty Gear: Strive",
-          "minutes": 407
+          "minutes": 1051
         },
         {
           "game": "Yu-Gi-Oh! Master Duel",
-          "minutes": 133
+          "minutes": 1031
+        },
+        {
+          "game": "Street Fighter V",
+          "minutes": 274
+        },
+        {
+          "game": "Gears of War: E-Day",
+          "minutes": 184
+        },
+        {
+          "game": "DNF DUEL",
+          "minutes": 170
+        },
+        {
+          "game": "Monster Hunter: World",
+          "minutes": 150
         },
         {
           "game": "Dynasty Warriors 3: Complete Edition Remastered",
           "minutes": 113
         },
         {
-          "game": "Street Fighter V",
-          "minutes": 100
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 89
         },
         {
-          "game": "Overwatch",
-          "minutes": 29
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 84
         },
         {
-          "game": "StarWard",
-          "minutes": 21
+          "game": "Wuthering Waves",
+          "minutes": 81
+        },
+        {
+          "game": "Marvel Tokon: Fighting Souls",
+          "minutes": 71
         },
         {
           "game": "Strinova",
+          "minutes": 71
+        },
+        {
+          "game": "Sakura Arms ~Radiant Duels~ Demo",
+          "minutes": 51
+        },
+        {
+          "game": "Overwatch",
+          "minutes": 40
+        },
+        {
+          "game": "War of Genesis: Idle Loot",
+          "minutes": 32
+        },
+        {
+          "game": "StarWard",
+          "minutes": 27
+        },
+        {
+          "game": "Dragon Ball: The Breakers",
+          "minutes": 15
+        },
+        {
+          "game": "Ultra Street Fighter IV",
+          "minutes": 11
+        },
+        {
+          "game": "MTGA",
+          "minutes": 4
+        },
+        {
+          "game": "VRChat",
+          "minutes": 4
+        },
+        {
+          "game": "Hex Reverse",
+          "minutes": 1
+        },
+        {
+          "game": "Magic: The Gathering Arena",
           "minutes": 1
         }
       ]
@@ -1925,8 +1981,36 @@
       "end_date": "2026-10-11",
       "items": [
         {
+          "game": "Yu-Gi-Oh! Master Duel",
+          "minutes": 167
+        },
+        {
+          "game": "Marvel Tokon: Fighting Souls",
+          "minutes": 71
+        },
+        {
+          "game": "Strinova",
+          "minutes": 63
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 53
+        },
+        {
+          "game": "Monster Hunter: World",
+          "minutes": 46
+        },
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 46
+        },
+        {
           "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 22
+          "minutes": 29
+        },
+        {
+          "game": "MTGA",
+          "minutes": 4
         },
         {
           "game": "Overwatch",
@@ -1935,6 +2019,29 @@
         {
           "game": "Street Fighter V",
           "minutes": 1
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-10-12",
+      "end_date": "2026-10-12",
+      "items": [
+        {
+          "game": "Marvel Tokon: Fighting Souls",
+          "minutes": 91
+        },
+        {
+          "game": "Yu-Gi-Oh! Master Duel",
+          "minutes": 60
+        },
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 34
+        },
+        {
+          "game": "Shadowverse: Worlds Beyond",
+          "minutes": 11
         }
       ]
     }
