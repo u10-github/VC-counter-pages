@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T01:00:00+09:00",
+  "generated_at": "2026-10-13T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -14,19 +14,19 @@
       "items": [
         {
           "game": "DNF Duel",
-          "minutes": 3920
+          "minutes": 3827
         },
         {
           "game": "Guilty Gear: Strive",
-          "minutes": 2960
+          "minutes": 2794
         },
         {
           "game": "Arknights: Endfield",
-          "minutes": 1644
+          "minutes": 1623
         },
         {
           "game": "Strinova",
-          "minutes": 1172
+          "minutes": 1080
         },
         {
           "game": "DRAGON BALL FighterZ",
@@ -38,7 +38,7 @@
         },
         {
           "game": "Street Fighter™ 6",
-          "minutes": 655
+          "minutes": 625
         },
         {
           "game": "Sakura Arms ~Radiant Duels~ Demo",
@@ -62,7 +62,7 @@
         },
         {
           "game": "Fatal Fury: City of the Wolves",
-          "minutes": 414
+          "minutes": 384
         },
         {
           "game": "MapleStory",
@@ -77,36 +77,28 @@
           "minutes": 255
         },
         {
-          "game": "Starward",
-          "minutes": 233
-        },
-        {
           "game": "Overwatch",
           "minutes": 226
         },
         {
-          "game": "Mobile Suit Gundam Battle Operation 2",
-          "minutes": 198
+          "game": "Starward",
+          "minutes": 223
         },
         {
           "game": "MOBILE SUIT GUNDAM BATTLE OPERATION 2",
           "minutes": 189
         },
         {
-          "game": "Puyo Puyo Tetris 2",
-          "minutes": 176
-        },
-        {
           "game": "FATAL FRAME II: Crimson Butterfly REMAKE",
           "minutes": 163
         },
         {
-          "game": "Puyo Puyo Champions",
-          "minutes": 162
-        },
-        {
           "game": "THE KING OF FIGHTERS XV",
           "minutes": 152
+        },
+        {
+          "game": "Puyo Puyo Tetris 2",
+          "minutes": 150
         },
         {
           "game": "ARKNIGHTS: ENDFIELD",
@@ -117,12 +109,16 @@
           "minutes": 145
         },
         {
-          "game": "Skullgirls",
-          "minutes": 128
+          "game": "Mobile Suit Gundam Battle Operation 2",
+          "minutes": 118
         },
         {
           "game": "Escape from Tarkov",
           "minutes": 111
+        },
+        {
+          "game": "Skullgirls",
+          "minutes": 95
         },
         {
           "game": "MTGA",
@@ -131,10 +127,6 @@
         {
           "game": "BlazBlue Centralfiction",
           "minutes": 80
-        },
-        {
-          "game": "Staffer Case - Case1 & 2",
-          "minutes": 61
         },
         {
           "game": "VRChat",
@@ -153,10 +145,6 @@
           "minutes": 34
         },
         {
-          "game": "Persona5: The Phantom X",
-          "minutes": 33
-        },
-        {
           "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
           "minutes": 28
         },
@@ -165,15 +153,15 @@
           "minutes": 27
         },
         {
+          "game": "Puyo Puyo Champions",
+          "minutes": 27
+        },
+        {
           "game": "Marvel Rivals",
           "minutes": 26
         },
         {
           "game": "Call of Duty® Black Ops 7",
-          "minutes": 20
-        },
-        {
-          "game": "One Turn Kill",
           "minutes": 20
         },
         {
@@ -199,6 +187,10 @@
         {
           "game": "Guns and Nuns: Storming Hell",
           "minutes": 14
+        },
+        {
+          "game": "Persona5: The Phantom X",
+          "minutes": 10
         },
         {
           "game": "Hunter x Hunter: Nen x Impact",
@@ -1407,73 +1399,6 @@
     },
     {
       "bucket_type": "week",
-      "start_date": "2026-09-07",
-      "end_date": "2026-09-13",
-      "items": [
-        {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 637
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 436
-        },
-        {
-          "game": "Yu-Gi-Oh! Master Duel",
-          "minutes": 206
-        },
-        {
-          "game": "Marvel Tokon: Fighting Souls",
-          "minutes": 158
-        },
-        {
-          "game": "Magic: The Gathering Arena",
-          "minutes": 137
-        },
-        {
-          "game": "Touhou Koumakyou: New Classic - the Embodiment of Scarlet Devil",
-          "minutes": 54
-        },
-        {
-          "game": "Arknights: Endfield",
-          "minutes": 44
-        },
-        {
-          "game": "DNF DUEL",
-          "minutes": 35
-        },
-        {
-          "game": "MTGA",
-          "minutes": 22
-        },
-        {
-          "game": "Overwatch",
-          "minutes": 22
-        },
-        {
-          "game": "Avatar Legends: The Fighting Game",
-          "minutes": 18
-        },
-        {
-          "game": "Rivals of Aether",
-          "minutes": 6
-        },
-        {
-          "game": "BlueStacks 5",
-          "minutes": 3
-        },
-        {
-          "game": "Strinova",
-          "minutes": 2
-        },
-        {
-          "game": "遊戯王 マスターデュエル",
-          "minutes": 1
-        }
-      ]
-    },
-    {
-      "bucket_type": "week",
       "start_date": "2026-09-14",
       "end_date": "2026-09-20",
       "items": [
@@ -1810,25 +1735,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-10-06",
-      "end_date": "2026-10-06",
-      "items": [
-        {
-          "game": "Yu-Gi-Oh! Master Duel",
-          "minutes": 306
-        },
-        {
-          "game": "Ultra Street Fighter IV",
-          "minutes": 11
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 8
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-10-07",
       "end_date": "2026-10-07",
       "items": [
@@ -2028,22 +1934,68 @@
       "end_date": "2026-10-12",
       "items": [
         {
+          "game": "Yu-Gi-Oh! Master Duel",
+          "minutes": 316
+        },
+        {
+          "game": "Monster Hunter: World",
+          "minutes": 288
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 123
+        },
+        {
           "game": "Marvel Tokon: Fighting Souls",
           "minutes": 91
         },
         {
-          "game": "Yu-Gi-Oh! Master Duel",
-          "minutes": 60
+          "game": "Wuthering Waves",
+          "minutes": 76
+        },
+        {
+          "game": "Duet Night Abyss",
+          "minutes": 53
         },
         {
           "game": "Granblue Fantasy Versus: Rising",
           "minutes": 34
         },
         {
+          "game": "Touhou Danmaku Kagura: Phantasia Lost",
+          "minutes": 20
+        },
+        {
+          "game": "BlazBlue: Central Fiction",
+          "minutes": 15
+        },
+        {
+          "game": "Arknights: Endfield",
+          "minutes": 13
+        },
+        {
+          "game": "Neverness to Everness",
+          "minutes": 13
+        },
+        {
           "game": "Shadowverse: Worlds Beyond",
           "minutes": 11
+        },
+        {
+          "game": "Heaven Burns Red",
+          "minutes": 6
+        },
+        {
+          "game": "NTE: Neverness to Everness",
+          "minutes": 3
         }
       ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-10-13",
+      "end_date": "2026-10-13",
+      "items": []
     }
   ]
 }
