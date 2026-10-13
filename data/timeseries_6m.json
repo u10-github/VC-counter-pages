@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T01:00:00+09:00",
+  "generated_at": "2026-10-14T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -26,7 +26,7 @@
         },
         {
           "game": "Strinova",
-          "minutes": 1080
+          "minutes": 1027
         },
         {
           "game": "DRAGON BALL FighterZ",
@@ -37,16 +37,16 @@
           "minutes": 730
         },
         {
-          "game": "Street Fighter™ 6",
-          "minutes": 625
-        },
-        {
           "game": "Sakura Arms ~Radiant Duels~ Demo",
           "minutes": 616
         },
         {
           "game": "Dragon Ball FighterZ",
           "minutes": 610
+        },
+        {
+          "game": "Street Fighter™ 6",
+          "minutes": 593
         },
         {
           "game": "Rainbow Six Siege",
@@ -78,15 +78,15 @@
         },
         {
           "game": "Overwatch",
-          "minutes": 226
-        },
-        {
-          "game": "Starward",
-          "minutes": 223
+          "minutes": 198
         },
         {
           "game": "MOBILE SUIT GUNDAM BATTLE OPERATION 2",
           "minutes": 189
+        },
+        {
+          "game": "Starward",
+          "minutes": 173
         },
         {
           "game": "FATAL FRAME II: Crimson Butterfly REMAKE",
@@ -117,12 +117,12 @@
           "minutes": 111
         },
         {
-          "game": "Skullgirls",
-          "minutes": 95
-        },
-        {
           "game": "MTGA",
           "minutes": 88
+        },
+        {
+          "game": "Skullgirls",
+          "minutes": 86
         },
         {
           "game": "BlazBlue Centralfiction",
@@ -159,10 +159,6 @@
         {
           "game": "Marvel Rivals",
           "minutes": 26
-        },
-        {
-          "game": "Call of Duty® Black Ops 7",
-          "minutes": 20
         },
         {
           "game": "PO'ed: Definitive Edition",
@@ -231,6 +227,10 @@
         {
           "game": "Naraka: Bladepoint",
           "minutes": 3
+        },
+        {
+          "game": "Call of Duty® Black Ops 7",
+          "minutes": 2
         },
         {
           "game": "ゼンレスゾーンゼロ",
@@ -1735,37 +1735,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-10-07",
-      "end_date": "2026-10-07",
-      "items": [
-        {
-          "game": "Yu-Gi-Oh! Master Duel",
-          "minutes": 97
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 37
-        },
-        {
-          "game": "Sakura Arms ~Radiant Duels~ Demo",
-          "minutes": 29
-        },
-        {
-          "game": "Gears of War: E-Day",
-          "minutes": 18
-        },
-        {
-          "game": "Hex Reverse",
-          "minutes": 1
-        },
-        {
-          "game": "Overwatch",
-          "minutes": 1
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-10-08",
       "end_date": "2026-10-08",
       "items": [
@@ -1995,7 +1964,27 @@
       "bucket_type": "day",
       "start_date": "2026-10-13",
       "end_date": "2026-10-13",
-      "items": []
+      "items": [
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 420
+        },
+        {
+          "game": "Strinova",
+          "minutes": 25
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-10-14",
+      "end_date": "2026-10-14",
+      "items": [
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 13
+        }
+      ]
     }
   ]
 }
