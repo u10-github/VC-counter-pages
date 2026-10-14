@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T01:00:00+09:00",
+  "generated_at": "2026-10-15T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -14,19 +14,19 @@
       "items": [
         {
           "game": "DNF Duel",
-          "minutes": 3827
+          "minutes": 3813
         },
         {
           "game": "Guilty Gear: Strive",
-          "minutes": 2794
+          "minutes": 2478
         },
         {
           "game": "Arknights: Endfield",
-          "minutes": 1623
+          "minutes": 1130
         },
         {
           "game": "Strinova",
-          "minutes": 1027
+          "minutes": 950
         },
         {
           "game": "DRAGON BALL FighterZ",
@@ -35,10 +35,6 @@
         {
           "game": "Granblue Fantasy Versus: Rising",
           "minutes": 730
-        },
-        {
-          "game": "Sakura Arms ~Radiant Duels~ Demo",
-          "minutes": 616
         },
         {
           "game": "Dragon Ball FighterZ",
@@ -50,7 +46,7 @@
         },
         {
           "game": "Rainbow Six Siege",
-          "minutes": 506
+          "minutes": 453
         },
         {
           "game": "Magic: The Gathering Arena",
@@ -61,12 +57,16 @@
           "minutes": 429
         },
         {
-          "game": "Fatal Fury: City of the Wolves",
-          "minutes": 384
+          "game": "Sakura Arms ~Radiant Duels~ Demo",
+          "minutes": 406
         },
         {
           "game": "MapleStory",
           "minutes": 371
+        },
+        {
+          "game": "Fatal Fury: City of the Wolves",
+          "minutes": 348
         },
         {
           "game": "Wuthering Waves",
@@ -85,10 +85,6 @@
           "minutes": 189
         },
         {
-          "game": "Starward",
-          "minutes": 173
-        },
-        {
           "game": "FATAL FRAME II: Crimson Butterfly REMAKE",
           "minutes": 163
         },
@@ -105,8 +101,8 @@
           "minutes": 147
         },
         {
-          "game": "Aquapazza: Aquaplus Dream Match",
-          "minutes": 145
+          "game": "Starward",
+          "minutes": 142
         },
         {
           "game": "Mobile Suit Gundam Battle Operation 2",
@@ -119,10 +115,6 @@
         {
           "game": "MTGA",
           "minutes": 88
-        },
-        {
-          "game": "Skullgirls",
-          "minutes": 86
         },
         {
           "game": "BlazBlue Centralfiction",
@@ -169,12 +161,12 @@
           "minutes": 18
         },
         {
-          "game": "Under Night In-Birth II Sys:Celes",
-          "minutes": 18
-        },
-        {
           "game": "Guilty Gear XX Accent Core Plus R",
           "minutes": 17
+        },
+        {
+          "game": "Under Night In-Birth II Sys:Celes",
+          "minutes": 16
         },
         {
           "game": "MGCM Combat Edition",
@@ -227,10 +219,6 @@
         {
           "game": "Naraka: Bladepoint",
           "minutes": 3
-        },
-        {
-          "game": "Call of Duty® Black Ops 7",
-          "minutes": 2
         },
         {
           "game": "ゼンレスゾーンゼロ",
@@ -1735,49 +1723,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-10-08",
-      "end_date": "2026-10-08",
-      "items": [
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 269
-        },
-        {
-          "game": "Gears of War: E-Day",
-          "minutes": 166
-        },
-        {
-          "game": "Yu-Gi-Oh! Master Duel",
-          "minutes": 147
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 24
-        },
-        {
-          "game": "Sakura Arms ~Radiant Duels~ Demo",
-          "minutes": 22
-        },
-        {
-          "game": "Overwatch",
-          "minutes": 9
-        },
-        {
-          "game": "StarWard",
-          "minutes": 6
-        },
-        {
-          "game": "VRChat",
-          "minutes": 4
-        },
-        {
-          "game": "Strinova",
-          "minutes": 2
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-10-09",
       "end_date": "2026-10-09",
       "items": [
@@ -1981,8 +1926,47 @@
       "end_date": "2026-10-14",
       "items": [
         {
+          "game": "VRChat",
+          "minutes": 146
+        },
+        {
+          "game": "StarWard",
+          "minutes": 123
+        },
+        {
+          "game": "Yu-Gi-Oh! Master Duel",
+          "minutes": 120
+        },
+        {
           "game": "Guilty Gear: Strive",
+          "minutes": 80
+        },
+        {
+          "game": "Idol Showdown",
+          "minutes": 15
+        },
+        {
+          "game": "Wuthering Waves",
           "minutes": 13
+        },
+        {
+          "game": "Strinova",
+          "minutes": 6
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-10-15",
+      "end_date": "2026-10-15",
+      "items": [
+        {
+          "game": "StarWard",
+          "minutes": 180
+        },
+        {
+          "game": "Idol Showdown",
+          "minutes": 8
         }
       ]
     }
