@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T01:00:00+09:00",
+  "generated_at": "2026-10-16T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -14,19 +14,11 @@
       "items": [
         {
           "game": "DNF Duel",
-          "minutes": 3813
+          "minutes": 3215
         },
         {
           "game": "Guilty Gear: Strive",
-          "minutes": 2478
-        },
-        {
-          "game": "Arknights: Endfield",
-          "minutes": 1130
-        },
-        {
-          "game": "Strinova",
-          "minutes": 950
+          "minutes": 2410
         },
         {
           "game": "DRAGON BALL FighterZ",
@@ -37,6 +29,10 @@
           "minutes": 730
         },
         {
+          "game": "Strinova",
+          "minutes": 674
+        },
+        {
           "game": "Dragon Ball FighterZ",
           "minutes": 610
         },
@@ -45,44 +41,48 @@
           "minutes": 593
         },
         {
-          "game": "Rainbow Six Siege",
-          "minutes": 453
-        },
-        {
           "game": "Magic: The Gathering Arena",
           "minutes": 444
+        },
+        {
+          "game": "Rainbow Six Siege",
+          "minutes": 430
         },
         {
           "game": "Phantom Breaker: Omnia",
           "minutes": 429
         },
         {
-          "game": "Sakura Arms ~Radiant Duels~ Demo",
-          "minutes": 406
-        },
-        {
           "game": "MapleStory",
           "minutes": 371
         },
         {
-          "game": "Fatal Fury: City of the Wolves",
-          "minutes": 348
+          "game": "Sakura Arms ~Radiant Duels~ Demo",
+          "minutes": 352
         },
         {
-          "game": "Wuthering Waves",
-          "minutes": 288
+          "game": "Arknights: Endfield",
+          "minutes": 342
+        },
+        {
+          "game": "Fatal Fury: City of the Wolves",
+          "minutes": 302
         },
         {
           "game": "Resident Evil",
           "minutes": 255
         },
         {
-          "game": "Overwatch",
+          "game": "Wuthering Waves",
           "minutes": 198
         },
         {
           "game": "MOBILE SUIT GUNDAM BATTLE OPERATION 2",
           "minutes": 189
+        },
+        {
+          "game": "Overwatch",
+          "minutes": 166
         },
         {
           "game": "FATAL FRAME II: Crimson Butterfly REMAKE",
@@ -102,11 +102,7 @@
         },
         {
           "game": "Starward",
-          "minutes": 142
-        },
-        {
-          "game": "Mobile Suit Gundam Battle Operation 2",
-          "minutes": 118
+          "minutes": 114
         },
         {
           "game": "Escape from Tarkov",
@@ -121,8 +117,8 @@
           "minutes": 80
         },
         {
-          "game": "VRChat",
-          "minutes": 58
+          "game": "Mobile Suit Gundam Battle Operation 2",
+          "minutes": 64
         },
         {
           "game": "Vampire Survivors",
@@ -137,15 +133,15 @@
           "minutes": 34
         },
         {
+          "game": "VRChat",
+          "minutes": 29
+        },
+        {
           "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
           "minutes": 28
         },
         {
           "game": "ALTF4",
-          "minutes": 27
-        },
-        {
-          "game": "Puyo Puyo Champions",
           "minutes": 27
         },
         {
@@ -169,14 +165,6 @@
           "minutes": 16
         },
         {
-          "game": "MGCM Combat Edition",
-          "minutes": 15
-        },
-        {
-          "game": "Guns and Nuns: Storming Hell",
-          "minutes": 14
-        },
-        {
           "game": "Persona5: The Phantom X",
           "minutes": 10
         },
@@ -193,19 +181,11 @@
           "minutes": 7
         },
         {
-          "game": "Melty Blood Actress Again Current Code",
-          "minutes": 6
-        },
-        {
           "game": "Valkyrie of Phantasm",
           "minutes": 6
         },
         {
           "game": "Koihime Enbu RyoRaiRai",
-          "minutes": 5
-        },
-        {
-          "game": "Melty Blood: Type Lumina",
           "minutes": 5
         },
         {
@@ -218,7 +198,7 @@
         },
         {
           "game": "Naraka: Bladepoint",
-          "minutes": 3
+          "minutes": 2
         },
         {
           "game": "ゼンレスゾーンゼロ",
@@ -1723,41 +1703,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-10-09",
-      "end_date": "2026-10-09",
-      "items": [
-        {
-          "game": "DNF DUEL",
-          "minutes": 170
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 170
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 48
-        },
-        {
-          "game": "War of Genesis: Idle Loot",
-          "minutes": 32
-        },
-        {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 28
-        },
-        {
-          "game": "Dragon Ball: The Breakers",
-          "minutes": 15
-        },
-        {
-          "game": "Magic: The Gathering Arena",
-          "minutes": 1
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-10-10",
       "end_date": "2026-10-10",
       "items": [
@@ -1962,11 +1907,70 @@
       "items": [
         {
           "game": "StarWard",
-          "minutes": 180
+          "minutes": 882
+        },
+        {
+          "game": "Monster Hunter: World",
+          "minutes": 151
+        },
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 32
+        },
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 29
+        },
+        {
+          "game": "Star Wars Battlefront II: Celebration Edition",
+          "minutes": 18
+        },
+        {
+          "game": "AQUAPAZZA: Aquaplus Dream Match",
+          "minutes": 17
+        },
+        {
+          "game": "Strinova",
+          "minutes": 16
+        },
+        {
+          "game": "Overwatch",
+          "minutes": 12
         },
         {
           "game": "Idol Showdown",
           "minutes": 8
+        },
+        {
+          "game": "Solitaire & Casual Games",
+          "minutes": 7
+        },
+        {
+          "game": "Dead by Daylight",
+          "minutes": 3
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 2
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-10-16",
+      "end_date": "2026-10-16",
+      "items": [
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 31
+        },
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 6
+        },
+        {
+          "game": "StarWard",
+          "minutes": 2
         }
       ]
     }
