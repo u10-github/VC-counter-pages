@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T01:00:00+09:00",
+  "generated_at": "2026-10-18T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -14,27 +14,27 @@
       "items": [
         {
           "game": "DNF Duel",
-          "minutes": 2483
+          "minutes": 2345
         },
         {
           "game": "Guilty Gear: Strive",
-          "minutes": 2026
+          "minutes": 1630
         },
         {
           "game": "DRAGON BALL FighterZ",
           "minutes": 730
         },
         {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 730
-        },
-        {
           "game": "Strinova",
-          "minutes": 673
+          "minutes": 648
         },
         {
           "game": "Dragon Ball FighterZ",
           "minutes": 610
+        },
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 529
         },
         {
           "game": "Street Fighter™ 6",
@@ -49,16 +49,12 @@
           "minutes": 429
         },
         {
-          "game": "Rainbow Six Siege",
-          "minutes": 383
-        },
-        {
           "game": "MapleStory",
           "minutes": 371
         },
         {
           "game": "Sakura Arms ~Radiant Duels~ Demo",
-          "minutes": 352
+          "minutes": 341
         },
         {
           "game": "Fatal Fury: City of the Wolves",
@@ -74,7 +70,7 @@
         },
         {
           "game": "Wuthering Waves",
-          "minutes": 189
+          "minutes": 176
         },
         {
           "game": "FATAL FRAME II: Crimson Butterfly REMAKE",
@@ -93,18 +89,6 @@
           "minutes": 147
         },
         {
-          "game": "Escape from Tarkov",
-          "minutes": 111
-        },
-        {
-          "game": "Arknights: Endfield",
-          "minutes": 101
-        },
-        {
-          "game": "Starward",
-          "minutes": 96
-        },
-        {
           "game": "MTGA",
           "minutes": 88
         },
@@ -113,8 +97,8 @@
           "minutes": 80
         },
         {
-          "game": "Mobile Suit Gundam Battle Operation 2",
-          "minutes": 63
+          "game": "Starward",
+          "minutes": 78
         },
         {
           "game": "Overwatch",
@@ -157,8 +141,12 @@
           "minutes": 17
         },
         {
-          "game": "Under Night In-Birth II Sys:Celes",
-          "minutes": 16
+          "game": "Mobile Suit Gundam Battle Operation 2",
+          "minutes": 15
+        },
+        {
+          "game": "Escape from Tarkov",
+          "minutes": 14
         },
         {
           "game": "Hunter x Hunter: Nen x Impact",
@@ -179,10 +167,6 @@
         {
           "game": "Rabbit & Steel",
           "minutes": 4
-        },
-        {
-          "game": "Naraka: Bladepoint",
-          "minutes": 2
         }
       ]
     },
@@ -1679,53 +1663,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-10-11",
-      "end_date": "2026-10-11",
-      "items": [
-        {
-          "game": "Yu-Gi-Oh! Master Duel",
-          "minutes": 167
-        },
-        {
-          "game": "Marvel Tokon: Fighting Souls",
-          "minutes": 71
-        },
-        {
-          "game": "Strinova",
-          "minutes": 63
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 53
-        },
-        {
-          "game": "Monster Hunter: World",
-          "minutes": 46
-        },
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 46
-        },
-        {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 29
-        },
-        {
-          "game": "MTGA",
-          "minutes": 4
-        },
-        {
-          "game": "Overwatch",
-          "minutes": 1
-        },
-        {
-          "game": "Street Fighter V",
-          "minutes": 1
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-10-12",
       "end_date": "2026-10-12",
       "items": [
@@ -1926,7 +1863,54 @@
       "items": [
         {
           "game": "DNF DUEL",
-          "minutes": 120
+          "minutes": 230
+        },
+        {
+          "game": "Lost Judgment",
+          "minutes": 119
+        },
+        {
+          "game": "Rainbow Six Siege",
+          "minutes": 46
+        },
+        {
+          "game": "Escape from Tarkov",
+          "minutes": 30
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 30
+        },
+        {
+          "game": "GODDESS OF VICTORY: NIKKE",
+          "minutes": 16
+        },
+        {
+          "game": "StarWard",
+          "minutes": 13
+        },
+        {
+          "game": "The King of Fighters '98 Ultimate Match Final Edition",
+          "minutes": 10
+        },
+        {
+          "game": "Monster Hunter: World",
+          "minutes": 2
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-10-18",
+      "end_date": "2026-10-18",
+      "items": [
+        {
+          "game": "StarWard",
+          "minutes": 29
+        },
+        {
+          "game": "GODDESS OF VICTORY: NIKKE",
+          "minutes": 24
         }
       ]
     }
