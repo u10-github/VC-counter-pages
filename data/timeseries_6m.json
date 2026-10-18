@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T01:00:00+09:00",
+  "generated_at": "2026-10-19T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -14,31 +14,23 @@
       "items": [
         {
           "game": "DNF Duel",
-          "minutes": 2345
+          "minutes": 2018
         },
         {
           "game": "Guilty Gear: Strive",
-          "minutes": 1630
-        },
-        {
-          "game": "DRAGON BALL FighterZ",
-          "minutes": 730
+          "minutes": 1356
         },
         {
           "game": "Strinova",
-          "minutes": 648
+          "minutes": 647
         },
         {
           "game": "Dragon Ball FighterZ",
-          "minutes": 610
-        },
-        {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 529
+          "minutes": 607
         },
         {
           "game": "Street Fighter™ 6",
-          "minutes": 512
+          "minutes": 489
         },
         {
           "game": "Magic: The Gathering Arena",
@@ -49,8 +41,8 @@
           "minutes": 429
         },
         {
-          "game": "MapleStory",
-          "minutes": 371
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 374
         },
         {
           "game": "Sakura Arms ~Radiant Duels~ Demo",
@@ -63,6 +55,10 @@
         {
           "game": "Resident Evil",
           "minutes": 255
+        },
+        {
+          "game": "MapleStory",
+          "minutes": 243
         },
         {
           "game": "MOBILE SUIT GUNDAM BATTLE OPERATION 2",
@@ -98,7 +94,7 @@
         },
         {
           "game": "Starward",
-          "minutes": 78
+          "minutes": 76
         },
         {
           "game": "Overwatch",
@@ -133,24 +129,16 @@
           "minutes": 26
         },
         {
+          "game": "DRAGON BALL FighterZ",
+          "minutes": 20
+        },
+        {
           "game": "PO'ed: Definitive Edition",
           "minutes": 20
         },
         {
           "game": "Guilty Gear XX Accent Core Plus R",
           "minutes": 17
-        },
-        {
-          "game": "Mobile Suit Gundam Battle Operation 2",
-          "minutes": 15
-        },
-        {
-          "game": "Escape from Tarkov",
-          "minutes": 14
-        },
-        {
-          "game": "Hunter x Hunter: Nen x Impact",
-          "minutes": 8
         },
         {
           "game": "MELTY BLOOD: TYPE LUMINA",
@@ -163,10 +151,6 @@
         {
           "game": "Koihime Enbu RyoRaiRai",
           "minutes": 5
-        },
-        {
-          "game": "Rabbit & Steel",
-          "minutes": 4
         }
       ]
     },
@@ -1662,41 +1646,89 @@
       ]
     },
     {
-      "bucket_type": "day",
+      "bucket_type": "week",
       "start_date": "2026-10-12",
-      "end_date": "2026-10-12",
+      "end_date": "2026-10-18",
       "items": [
         {
-          "game": "Yu-Gi-Oh! Master Duel",
-          "minutes": 316
-        },
-        {
-          "game": "Monster Hunter: World",
-          "minutes": 288
+          "game": "StarWard",
+          "minutes": 1435
         },
         {
           "game": "Guilty Gear: Strive",
-          "minutes": 123
+          "minutes": 897
+        },
+        {
+          "game": "Monster Hunter: World",
+          "minutes": 640
+        },
+        {
+          "game": "Yu-Gi-Oh! Master Duel",
+          "minutes": 436
+        },
+        {
+          "game": "DNF DUEL",
+          "minutes": 374
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 247
+        },
+        {
+          "game": "VRChat",
+          "minutes": 146
+        },
+        {
+          "game": "Duet Night Abyss",
+          "minutes": 128
+        },
+        {
+          "game": "Lost Judgment",
+          "minutes": 119
         },
         {
           "game": "Marvel Tokon: Fighting Souls",
           "minutes": 91
         },
         {
-          "game": "Wuthering Waves",
-          "minutes": 76
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 63
         },
         {
-          "game": "Duet Night Abyss",
+          "game": "Strinova",
+          "minutes": 58
+        },
+        {
+          "game": "Star Wars Battlefront II: Celebration Edition",
           "minutes": 53
         },
         {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 34
+          "game": "Rainbow Six Siege",
+          "minutes": 46
+        },
+        {
+          "game": "GODDESS OF VICTORY: NIKKE",
+          "minutes": 40
+        },
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 38
+        },
+        {
+          "game": "Escape from Tarkov",
+          "minutes": 30
+        },
+        {
+          "game": "Idol Showdown",
+          "minutes": 23
         },
         {
           "game": "Touhou Danmaku Kagura: Phantasia Lost",
           "minutes": 20
+        },
+        {
+          "game": "AQUAPAZZA: Aquaplus Dream Match",
+          "minutes": 17
         },
         {
           "game": "BlazBlue: Central Fiction",
@@ -1711,12 +1743,32 @@
           "minutes": 13
         },
         {
+          "game": "Overwatch",
+          "minutes": 12
+        },
+        {
           "game": "Shadowverse: Worlds Beyond",
           "minutes": 11
         },
         {
+          "game": "The King of Fighters '98 Ultimate Match Final Edition",
+          "minutes": 10
+        },
+        {
+          "game": "Gears of War: E-Day",
+          "minutes": 9
+        },
+        {
+          "game": "Solitaire & Casual Games",
+          "minutes": 7
+        },
+        {
           "game": "Heaven Burns Red",
           "minutes": 6
+        },
+        {
+          "game": "Dead by Daylight",
+          "minutes": 3
         },
         {
           "game": "NTE: Neverness to Everness",
@@ -1906,13 +1958,47 @@
       "items": [
         {
           "game": "StarWard",
-          "minutes": 29
+          "minutes": 386
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 211
+        },
+        {
+          "game": "Monster Hunter: World",
+          "minutes": 199
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 158
+        },
+        {
+          "game": "Duet Night Abyss",
+          "minutes": 75
+        },
+        {
+          "game": "Star Wars Battlefront II: Celebration Edition",
+          "minutes": 35
         },
         {
           "game": "GODDESS OF VICTORY: NIKKE",
           "minutes": 24
+        },
+        {
+          "game": "Strinova",
+          "minutes": 10
+        },
+        {
+          "game": "Gears of War: E-Day",
+          "minutes": 9
         }
       ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-10-19",
+      "end_date": "2026-10-19",
+      "items": []
     }
   ]
 }
