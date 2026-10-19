@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T01:00:00+09:00",
+  "generated_at": "2026-10-20T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -18,19 +18,15 @@
         },
         {
           "game": "Guilty Gear: Strive",
-          "minutes": 1356
+          "minutes": 1247
         },
         {
           "game": "Strinova",
-          "minutes": 647
+          "minutes": 619
         },
         {
           "game": "Dragon Ball FighterZ",
-          "minutes": 607
-        },
-        {
-          "game": "Street Fighter™ 6",
-          "minutes": 489
+          "minutes": 490
         },
         {
           "game": "Magic: The Gathering Arena",
@@ -38,11 +34,7 @@
         },
         {
           "game": "Phantom Breaker: Omnia",
-          "minutes": 429
-        },
-        {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 374
+          "minutes": 390
         },
         {
           "game": "Sakura Arms ~Radiant Duels~ Demo",
@@ -50,19 +42,15 @@
         },
         {
           "game": "Fatal Fury: City of the Wolves",
-          "minutes": 302
-        },
-        {
-          "game": "Resident Evil",
-          "minutes": 255
+          "minutes": 277
         },
         {
           "game": "MapleStory",
           "minutes": 243
         },
         {
-          "game": "MOBILE SUIT GUNDAM BATTLE OPERATION 2",
-          "minutes": 189
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 200
         },
         {
           "game": "Wuthering Waves",
@@ -73,6 +61,10 @@
           "minutes": 163
         },
         {
+          "game": "Resident Evil",
+          "minutes": 159
+        },
+        {
           "game": "THE KING OF FIGHTERS XV",
           "minutes": 152
         },
@@ -81,28 +73,32 @@
           "minutes": 150
         },
         {
+          "game": "MOBILE SUIT GUNDAM BATTLE OPERATION 2",
+          "minutes": 134
+        },
+        {
           "game": "ARKNIGHTS: ENDFIELD",
-          "minutes": 147
+          "minutes": 100
         },
         {
           "game": "MTGA",
           "minutes": 88
         },
         {
-          "game": "BlazBlue Centralfiction",
-          "minutes": 80
+          "game": "Street Fighter™ 6",
+          "minutes": 83
         },
         {
-          "game": "Starward",
-          "minutes": 76
+          "game": "BlazBlue Centralfiction",
+          "minutes": 80
         },
         {
           "game": "Overwatch",
           "minutes": 57
         },
         {
-          "game": "Vampire Survivors",
-          "minutes": 38
+          "game": "Starward",
+          "minutes": 51
         },
         {
           "game": "Idol Showdown",
@@ -123,14 +119,6 @@
         {
           "game": "ALTF4",
           "minutes": 27
-        },
-        {
-          "game": "Marvel Rivals",
-          "minutes": 26
-        },
-        {
-          "game": "DRAGON BALL FighterZ",
-          "minutes": 20
         },
         {
           "game": "PO'ed: Definitive Edition",
@@ -1311,57 +1299,6 @@
     },
     {
       "bucket_type": "week",
-      "start_date": "2026-09-14",
-      "end_date": "2026-09-20",
-      "items": [
-        {
-          "game": "Yu-Gi-Oh! Master Duel",
-          "minutes": 939
-        },
-        {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 522
-        },
-        {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 366
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 238
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 148
-        },
-        {
-          "game": "DNF DUEL",
-          "minutes": 120
-        },
-        {
-          "game": "Strinova",
-          "minutes": 83
-        },
-        {
-          "game": "Palworld",
-          "minutes": 31
-        },
-        {
-          "game": "Overwatch",
-          "minutes": 18
-        },
-        {
-          "game": "Marvel Tokon: Fighting Souls",
-          "minutes": 3
-        },
-        {
-          "game": "[WoG] War of Genesis: Idle Loot",
-          "minutes": 1
-        }
-      ]
-    },
-    {
-      "bucket_type": "week",
       "start_date": "2026-09-21",
       "end_date": "2026-09-27",
       "items": [
@@ -1778,21 +1715,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-10-13",
-      "end_date": "2026-10-13",
-      "items": [
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 420
-        },
-        {
-          "game": "Strinova",
-          "minutes": 25
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-10-14",
       "end_date": "2026-10-14",
       "items": [
@@ -1998,7 +1920,39 @@
       "bucket_type": "day",
       "start_date": "2026-10-19",
       "end_date": "2026-10-19",
-      "items": []
+      "items": [
+        {
+          "game": "StarWard",
+          "minutes": 106
+        },
+        {
+          "game": "Yu-Gi-Oh! Master Duel",
+          "minutes": 29
+        },
+        {
+          "game": "Strinova",
+          "minutes": 23
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 20
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-10-20",
+      "end_date": "2026-10-20",
+      "items": [
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 15
+        },
+        {
+          "game": "StarWard",
+          "minutes": 14
+        }
+      ]
     }
   ]
 }
