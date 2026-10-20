@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T01:00:00+09:00",
+  "generated_at": "2026-10-21T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -18,71 +18,63 @@
         },
         {
           "game": "Guilty Gear: Strive",
-          "minutes": 1247
+          "minutes": 1223
         },
         {
           "game": "Strinova",
-          "minutes": 619
+          "minutes": 578
         },
         {
           "game": "Dragon Ball FighterZ",
-          "minutes": 490
-        },
-        {
-          "game": "Magic: The Gathering Arena",
-          "minutes": 444
+          "minutes": 475
         },
         {
           "game": "Phantom Breaker: Omnia",
           "minutes": 390
         },
         {
-          "game": "Sakura Arms ~Radiant Duels~ Demo",
-          "minutes": 341
+          "game": "Magic: The Gathering Arena",
+          "minutes": 385
         },
         {
-          "game": "Fatal Fury: City of the Wolves",
-          "minutes": 277
+          "game": "Sakura Arms ~Radiant Duels~ Demo",
+          "minutes": 341
         },
         {
           "game": "MapleStory",
           "minutes": 243
         },
         {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 200
-        },
-        {
           "game": "Wuthering Waves",
           "minutes": 176
+        },
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 168
         },
         {
           "game": "FATAL FRAME II: Crimson Butterfly REMAKE",
           "minutes": 163
         },
         {
-          "game": "Resident Evil",
-          "minutes": 159
-        },
-        {
-          "game": "THE KING OF FIGHTERS XV",
-          "minutes": 152
-        },
-        {
           "game": "Puyo Puyo Tetris 2",
           "minutes": 150
         },
         {
-          "game": "MOBILE SUIT GUNDAM BATTLE OPERATION 2",
-          "minutes": 134
+          "game": "THE KING OF FIGHTERS XV",
+          "minutes": 117
+        },
+        {
+          "game": "Fatal Fury: City of the Wolves",
+          "minutes": 102
         },
         {
           "game": "ARKNIGHTS: ENDFIELD",
           "minutes": 100
         },
         {
-          "game": "MTGA",
-          "minutes": 88
+          "game": "MOBILE SUIT GUNDAM BATTLE OPERATION 2",
+          "minutes": 87
         },
         {
           "game": "Street Fighter™ 6",
@@ -97,15 +89,19 @@
           "minutes": 57
         },
         {
+          "game": "MTGA",
+          "minutes": 42
+        },
+        {
+          "game": "Resident Evil",
+          "minutes": 35
+        },
+        {
           "game": "Starward",
-          "minutes": 51
+          "minutes": 35
         },
         {
           "game": "Idol Showdown",
-          "minutes": 34
-        },
-        {
-          "game": "The King of Fighters '98 Ultimate Match Final Edition",
           "minutes": 34
         },
         {
@@ -1715,41 +1711,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-10-14",
-      "end_date": "2026-10-14",
-      "items": [
-        {
-          "game": "VRChat",
-          "minutes": 146
-        },
-        {
-          "game": "StarWard",
-          "minutes": 123
-        },
-        {
-          "game": "Yu-Gi-Oh! Master Duel",
-          "minutes": 120
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 80
-        },
-        {
-          "game": "Idol Showdown",
-          "minutes": 15
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 13
-        },
-        {
-          "game": "Strinova",
-          "minutes": 6
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-10-15",
       "end_date": "2026-10-15",
       "items": [
@@ -1946,11 +1907,22 @@
       "items": [
         {
           "game": "Guilty Gear: Strive",
-          "minutes": 15
+          "minutes": 359
         },
         {
           "game": "StarWard",
-          "minutes": 14
+          "minutes": 49
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-10-21",
+      "end_date": "2026-10-21",
+      "items": [
+        {
+          "game": "StarWard",
+          "minutes": 31
         }
       ]
     }
