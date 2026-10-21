@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T01:00:00+09:00",
+  "generated_at": "2026-10-22T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -14,39 +14,35 @@
       "items": [
         {
           "game": "DNF Duel",
-          "minutes": 2018
+          "minutes": 1541
         },
         {
           "game": "Guilty Gear: Strive",
-          "minutes": 1223
-        },
-        {
-          "game": "Strinova",
-          "minutes": 578
+          "minutes": 1177
         },
         {
           "game": "Dragon Ball FighterZ",
-          "minutes": 475
+          "minutes": 422
         },
         {
           "game": "Phantom Breaker: Omnia",
           "minutes": 390
         },
         {
-          "game": "Magic: The Gathering Arena",
-          "minutes": 385
-        },
-        {
           "game": "Sakura Arms ~Radiant Duels~ Demo",
           "minutes": 341
         },
         {
-          "game": "MapleStory",
-          "minutes": 243
+          "game": "Magic: The Gathering Arena",
+          "minutes": 244
         },
         {
-          "game": "Wuthering Waves",
-          "minutes": 176
+          "game": "MapleStory",
+          "minutes": 240
+        },
+        {
+          "game": "Strinova",
+          "minutes": 201
         },
         {
           "game": "Granblue Fantasy Versus: Rising",
@@ -55,18 +51,6 @@
         {
           "game": "FATAL FRAME II: Crimson Butterfly REMAKE",
           "minutes": 163
-        },
-        {
-          "game": "Puyo Puyo Tetris 2",
-          "minutes": 150
-        },
-        {
-          "game": "THE KING OF FIGHTERS XV",
-          "minutes": 117
-        },
-        {
-          "game": "Fatal Fury: City of the Wolves",
-          "minutes": 102
         },
         {
           "game": "ARKNIGHTS: ENDFIELD",
@@ -85,19 +69,19 @@
           "minutes": 80
         },
         {
+          "game": "Fatal Fury: City of the Wolves",
+          "minutes": 77
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 65
+        },
+        {
           "game": "Overwatch",
           "minutes": 57
         },
         {
-          "game": "MTGA",
-          "minutes": 42
-        },
-        {
           "game": "Resident Evil",
-          "minutes": 35
-        },
-        {
-          "game": "Starward",
           "minutes": 35
         },
         {
@@ -117,12 +101,16 @@
           "minutes": 27
         },
         {
+          "game": "THE KING OF FIGHTERS XV",
+          "minutes": 25
+        },
+        {
           "game": "PO'ed: Definitive Edition",
           "minutes": 20
         },
         {
-          "game": "Guilty Gear XX Accent Core Plus R",
-          "minutes": 17
+          "game": "Starward",
+          "minutes": 19
         },
         {
           "game": "MELTY BLOOD: TYPE LUMINA",
@@ -1711,61 +1699,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-10-15",
-      "end_date": "2026-10-15",
-      "items": [
-        {
-          "game": "StarWard",
-          "minutes": 882
-        },
-        {
-          "game": "Monster Hunter: World",
-          "minutes": 151
-        },
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 32
-        },
-        {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 29
-        },
-        {
-          "game": "Star Wars Battlefront II: Celebration Edition",
-          "minutes": 18
-        },
-        {
-          "game": "AQUAPAZZA: Aquaplus Dream Match",
-          "minutes": 17
-        },
-        {
-          "game": "Strinova",
-          "minutes": 16
-        },
-        {
-          "game": "Overwatch",
-          "minutes": 12
-        },
-        {
-          "game": "Idol Showdown",
-          "minutes": 8
-        },
-        {
-          "game": "Solitaire & Casual Games",
-          "minutes": 7
-        },
-        {
-          "game": "Dead by Daylight",
-          "minutes": 3
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 2
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-10-16",
       "end_date": "2026-10-16",
       "items": [
@@ -1922,7 +1855,42 @@
       "items": [
         {
           "game": "StarWard",
-          "minutes": 31
+          "minutes": 153
+        },
+        {
+          "game": "Antivirus Survivors 2003 Professional",
+          "minutes": 65
+        },
+        {
+          "game": "Strinova",
+          "minutes": 41
+        },
+        {
+          "game": "Monster Hunter: World",
+          "minutes": 15
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-10-22",
+      "end_date": "2026-10-22",
+      "items": [
+        {
+          "game": "Antivirus Survivors 2003 Professional",
+          "minutes": 28
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 27
+        },
+        {
+          "game": "Star Wars Battlefront II: Celebration Edition",
+          "minutes": 24
+        },
+        {
+          "game": "StarWard",
+          "minutes": 2
         }
       ]
     }
