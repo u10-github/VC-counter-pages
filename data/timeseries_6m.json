@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T01:00:00+09:00",
+  "generated_at": "2026-10-25T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -14,39 +14,31 @@
       "items": [
         {
           "game": "DNF Duel",
-          "minutes": 895
+          "minutes": 868
         },
         {
           "game": "Guilty Gear: Strive",
-          "minutes": 708
+          "minutes": 407
         },
         {
           "game": "Sakura Arms ~Radiant Duels~ Demo",
-          "minutes": 341
-        },
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 280
-        },
-        {
-          "game": "Dragon Ball FighterZ",
-          "minutes": 248
+          "minutes": 295
         },
         {
           "game": "MapleStory",
           "minutes": 238
         },
         {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 150
-        },
-        {
           "game": "Magic: The Gathering Arena",
-          "minutes": 120
+          "minutes": 99
         },
         {
-          "game": "ARKNIGHTS: ENDFIELD",
-          "minutes": 100
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 99
+        },
+        {
+          "game": "Dragon Ball FighterZ",
+          "minutes": 89
         },
         {
           "game": "FATAL FRAME II: Crimson Butterfly REMAKE",
@@ -57,16 +49,12 @@
           "minutes": 65
         },
         {
-          "game": "Street Fighter™ 6",
-          "minutes": 53
+          "game": "ARKNIGHTS: ENDFIELD",
+          "minutes": 48
         },
         {
           "game": "Strinova",
           "minutes": 46
-        },
-        {
-          "game": "MOBILE SUIT GUNDAM BATTLE OPERATION 2",
-          "minutes": 42
         },
         {
           "game": "Idol Showdown",
@@ -81,20 +69,12 @@
           "minutes": 27
         },
         {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 27
-        },
-        {
-          "game": "Fatal Fury: City of the Wolves",
-          "minutes": 15
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 20
         },
         {
           "game": "MELTY BLOOD: TYPE LUMINA",
           "minutes": 7
-        },
-        {
-          "game": "Overwatch",
-          "minutes": 6
         },
         {
           "game": "Valkyrie of Phantasm",
@@ -1679,49 +1659,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-10-18",
-      "end_date": "2026-10-18",
-      "items": [
-        {
-          "game": "StarWard",
-          "minutes": 386
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 211
-        },
-        {
-          "game": "Monster Hunter: World",
-          "minutes": 199
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 158
-        },
-        {
-          "game": "Duet Night Abyss",
-          "minutes": 75
-        },
-        {
-          "game": "Star Wars Battlefront II: Celebration Edition",
-          "minutes": 35
-        },
-        {
-          "game": "GODDESS OF VICTORY: NIKKE",
-          "minutes": 24
-        },
-        {
-          "game": "Strinova",
-          "minutes": 10
-        },
-        {
-          "game": "Gears of War: E-Day",
-          "minutes": 9
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-10-19",
       "end_date": "2026-10-19",
       "items": [
@@ -1847,7 +1784,39 @@
       "bucket_type": "day",
       "start_date": "2026-10-24",
       "end_date": "2026-10-24",
-      "items": []
+      "items": [
+        {
+          "game": "Street Fighter 6",
+          "minutes": 256
+        },
+        {
+          "game": "Yu-Gi-Oh! Master Duel",
+          "minutes": 67
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 53
+        },
+        {
+          "game": "Monster Hunter: World",
+          "minutes": 48
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-10-25",
+      "end_date": "2026-10-25",
+      "items": [
+        {
+          "game": "Street Fighter 6",
+          "minutes": 47
+        },
+        {
+          "game": "BlazBlue: Continuum Shift Extend",
+          "minutes": 45
+        }
+      ]
     }
   ]
 }
