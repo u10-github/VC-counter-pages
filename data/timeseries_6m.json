@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T01:00:00+09:00",
+  "generated_at": "2026-10-26T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -14,75 +14,31 @@
       "items": [
         {
           "game": "DNF Duel",
-          "minutes": 868
+          "minutes": 333
         },
         {
           "game": "Guilty Gear: Strive",
-          "minutes": 407
+          "minutes": 299
         },
         {
           "game": "Sakura Arms ~Radiant Duels~ Demo",
-          "minutes": 295
+          "minutes": 145
         },
         {
           "game": "MapleStory",
-          "minutes": 238
-        },
-        {
-          "game": "Magic: The Gathering Arena",
-          "minutes": 99
-        },
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 99
-        },
-        {
-          "game": "Dragon Ball FighterZ",
-          "minutes": 89
+          "minutes": 115
         },
         {
           "game": "FATAL FRAME II: Crimson Butterfly REMAKE",
           "minutes": 83
         },
         {
-          "game": "Wuthering Waves",
-          "minutes": 65
-        },
-        {
-          "game": "ARKNIGHTS: ENDFIELD",
-          "minutes": 48
-        },
-        {
           "game": "Strinova",
           "minutes": 46
         },
         {
-          "game": "Idol Showdown",
-          "minutes": 34
-        },
-        {
-          "game": "VRChat",
-          "minutes": 29
-        },
-        {
-          "game": "ALTF4",
-          "minutes": 27
-        },
-        {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 20
-        },
-        {
           "game": "MELTY BLOOD: TYPE LUMINA",
           "minutes": 7
-        },
-        {
-          "game": "Valkyrie of Phantasm",
-          "minutes": 6
-        },
-        {
-          "game": "Koihime Enbu RyoRaiRai",
-          "minutes": 5
         }
       ]
     },
@@ -1658,25 +1614,69 @@
       ]
     },
     {
-      "bucket_type": "day",
+      "bucket_type": "week",
       "start_date": "2026-10-19",
-      "end_date": "2026-10-19",
+      "end_date": "2026-10-25",
       "items": [
         {
-          "game": "StarWard",
-          "minutes": 106
+          "game": "Guilty Gear: Strive",
+          "minutes": 1122
         },
         {
-          "game": "Yu-Gi-Oh! Master Duel",
-          "minutes": 29
+          "game": "StarWard",
+          "minutes": 632
+        },
+        {
+          "game": "Street Fighter 6",
+          "minutes": 303
+        },
+        {
+          "game": "BlazBlue: Continuum Shift Extend",
+          "minutes": 230
         },
         {
           "game": "Strinova",
-          "minutes": 23
+          "minutes": 209
         },
         {
-          "game": "Guilty Gear: Strive",
-          "minutes": 20
+          "game": "Antivirus Survivors 2003 Professional",
+          "minutes": 159
+        },
+        {
+          "game": "Yu-Gi-Oh! Master Duel",
+          "minutes": 96
+        },
+        {
+          "game": "Arknights: Endfield",
+          "minutes": 80
+        },
+        {
+          "game": "Monster Hunter: World",
+          "minutes": 79
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 45
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 32
+        },
+        {
+          "game": "Star Wars Battlefront II: Celebration Edition",
+          "minutes": 24
+        },
+        {
+          "game": "Fatal Fury: City of the Wolves",
+          "minutes": 15
+        },
+        {
+          "game": "Overwatch",
+          "minutes": 7
+        },
+        {
+          "game": "DNF DUEL",
+          "minutes": 6
         }
       ]
     },
@@ -1809,12 +1809,51 @@
       "end_date": "2026-10-25",
       "items": [
         {
+          "game": "StarWard",
+          "minutes": 258
+        },
+        {
+          "game": "BlazBlue: Continuum Shift Extend",
+          "minutes": 230
+        },
+        {
+          "game": "Strinova",
+          "minutes": 88
+        },
+        {
+          "game": "Arknights: Endfield",
+          "minutes": 80
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 79
+        },
+        {
           "game": "Street Fighter 6",
           "minutes": 47
         },
         {
+          "game": "Monster Hunter: World",
+          "minutes": 16
+        },
+        {
+          "game": "Fatal Fury: City of the Wolves",
+          "minutes": 15
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-10-26",
+      "end_date": "2026-10-26",
+      "items": [
+        {
+          "game": "StarWard",
+          "minutes": 180
+        },
+        {
           "game": "BlazBlue: Continuum Shift Extend",
-          "minutes": 45
+          "minutes": 53
         }
       ]
     }
