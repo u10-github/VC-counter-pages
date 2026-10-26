@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T01:00:00+09:00",
+  "generated_at": "2026-10-27T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -7,41 +7,6 @@
     "monthly_until_days": 180
   },
   "buckets": [
-    {
-      "bucket_type": "month",
-      "start_date": "2026-04-01",
-      "end_date": "2026-04-30",
-      "items": [
-        {
-          "game": "DNF Duel",
-          "minutes": 333
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 299
-        },
-        {
-          "game": "Sakura Arms ~Radiant Duels~ Demo",
-          "minutes": 145
-        },
-        {
-          "game": "MapleStory",
-          "minutes": 115
-        },
-        {
-          "game": "FATAL FRAME II: Crimson Butterfly REMAKE",
-          "minutes": 83
-        },
-        {
-          "game": "Strinova",
-          "minutes": 46
-        },
-        {
-          "game": "MELTY BLOOD: TYPE LUMINA",
-          "minutes": 7
-        }
-      ]
-    },
     {
       "bucket_type": "month",
       "start_date": "2026-05-01",
@@ -1199,121 +1164,6 @@
     },
     {
       "bucket_type": "week",
-      "start_date": "2026-09-21",
-      "end_date": "2026-09-27",
-      "items": [
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 2049
-        },
-        {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 599
-        },
-        {
-          "game": "Yu-Gi-Oh! Master Duel",
-          "minutes": 548
-        },
-        {
-          "game": "Marvel Tokon: Fighting Souls",
-          "minutes": 433
-        },
-        {
-          "game": "Duet Night Abyss",
-          "minutes": 336
-        },
-        {
-          "game": "Strinova",
-          "minutes": 240
-        },
-        {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 240
-        },
-        {
-          "game": "DNF DUEL",
-          "minutes": 214
-        },
-        {
-          "game": "Shiren the Wanderer: The Tower of Fortune and the Dice of Fate",
-          "minutes": 198
-        },
-        {
-          "game": "Village in the Shade",
-          "minutes": 124
-        },
-        {
-          "game": "Storm Striker",
-          "minutes": 90
-        },
-        {
-          "game": "Overwatch",
-          "minutes": 84
-        },
-        {
-          "game": "Metal Slug X",
-          "minutes": 52
-        },
-        {
-          "game": "Idol Showdown",
-          "minutes": 44
-        },
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 35
-        },
-        {
-          "game": "StarWard",
-          "minutes": 35
-        },
-        {
-          "game": "Dead by Daylight",
-          "minutes": 33
-        },
-        {
-          "game": "StarSavior",
-          "minutes": 33
-        },
-        {
-          "game": "Slay the Spire",
-          "minutes": 28
-        },
-        {
-          "game": "MTGA",
-          "minutes": 25
-        },
-        {
-          "game": "Monster Hunter Wilds",
-          "minutes": 23
-        },
-        {
-          "game": "Persona5: The Phantom X",
-          "minutes": 17
-        },
-        {
-          "game": "Monster Hunter Wilds Prologue Demo",
-          "minutes": 16
-        },
-        {
-          "game": "Qliphah in Providence's Shadow",
-          "minutes": 12
-        },
-        {
-          "game": "SoulCalibur VI",
-          "minutes": 12
-        },
-        {
-          "game": "The King of Fighters '98 Ultimate Match Final Edition",
-          "minutes": 9
-        },
-        {
-          "game": "Rivals of Aether",
-          "minutes": 4
-        }
-      ]
-    },
-    {
-      "bucket_type": "week",
       "start_date": "2026-09-28",
       "end_date": "2026-10-04",
       "items": [
@@ -1682,21 +1532,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-10-20",
-      "end_date": "2026-10-20",
-      "items": [
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 359
-        },
-        {
-          "game": "StarWard",
-          "minutes": 49
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-10-21",
       "end_date": "2026-10-21",
       "items": [
@@ -1849,11 +1684,42 @@
       "items": [
         {
           "game": "StarWard",
-          "minutes": 180
+          "minutes": 309
+        },
+        {
+          "game": "DNF DUEL",
+          "minutes": 68
         },
         {
           "game": "BlazBlue: Continuum Shift Extend",
           "minutes": 53
+        },
+        {
+          "game": "Strinova",
+          "minutes": 47
+        },
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 27
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 12
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 10
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-10-27",
+      "end_date": "2026-10-27",
+      "items": [
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 49
         }
       ]
     }
