@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T01:00:00+09:00",
+  "generated_at": "2026-10-28T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -18,7 +18,7 @@
         },
         {
           "game": "DNF Duel",
-          "minutes": 8649
+          "minutes": 8359
         },
         {
           "game": "Guilty Gear: Strive",
@@ -26,19 +26,19 @@
         },
         {
           "game": "Wuthering Waves",
-          "minutes": 3746
+          "minutes": 3568
         },
         {
           "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 2922
+          "minutes": 2795
         },
         {
           "game": "Strinova",
-          "minutes": 2632
+          "minutes": 2615
         },
         {
           "game": "Sakura Arms ~Radiant Duels~ Demo",
-          "minutes": 2536
+          "minutes": 2519
         },
         {
           "game": "Granblue Fantasy Versus: Rising",
@@ -66,7 +66,7 @@
         },
         {
           "game": "ARKNIGHTS: ENDFIELD",
-          "minutes": 802
+          "minutes": 741
         },
         {
           "game": "Persona 4 Arena Ultimax",
@@ -149,10 +149,6 @@
           "minutes": 92
         },
         {
-          "game": "Invincible VS",
-          "minutes": 90
-        },
-        {
           "game": "Battle Fantasia -Revised Edition-",
           "minutes": 86
         },
@@ -181,6 +177,10 @@
           "minutes": 62
         },
         {
+          "game": "Invincible VS",
+          "minutes": 61
+        },
+        {
           "game": "FANTASY LIFE i: The Girl Who Steals Time",
           "minutes": 58
         },
@@ -207,10 +207,6 @@
         {
           "game": "MTGA",
           "minutes": 46
-        },
-        {
-          "game": "Blade Strangers",
-          "minutes": 44
         },
         {
           "game": "Dragon Quest X: Inishie no Ryuu no Denshou Online",
@@ -273,6 +269,10 @@
           "minutes": 18
         },
         {
+          "game": "Blade Strangers",
+          "minutes": 17
+        },
+        {
           "game": "Million Arthur: Arcana Blood",
           "minutes": 12
         },
@@ -290,10 +290,6 @@
         },
         {
           "game": "Call of Duty® Black Ops 7",
-          "minutes": 4
-        },
-        {
-          "game": "Hellsinker.",
           "minutes": 4
         },
         {
@@ -1532,29 +1528,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-10-21",
-      "end_date": "2026-10-21",
-      "items": [
-        {
-          "game": "StarWard",
-          "minutes": 153
-        },
-        {
-          "game": "Antivirus Survivors 2003 Professional",
-          "minutes": 65
-        },
-        {
-          "game": "Strinova",
-          "minutes": 41
-        },
-        {
-          "game": "Monster Hunter: World",
-          "minutes": 15
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-10-22",
       "end_date": "2026-10-22",
       "items": [
@@ -1718,8 +1691,47 @@
       "end_date": "2026-10-27",
       "items": [
         {
+          "game": "BlazBlue: Continuum Shift Extend",
+          "minutes": 462
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 297
+        },
+        {
           "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 49
+          "minutes": 81
+        },
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 24
+        },
+        {
+          "game": "StarWard",
+          "minutes": 15
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-10-28",
+      "end_date": "2026-10-28",
+      "items": [
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 83
+        },
+        {
+          "game": "Street Fighter 6",
+          "minutes": 32
+        },
+        {
+          "game": "Fatal Fury: City of the Wolves",
+          "minutes": 27
+        },
+        {
+          "game": "BlazBlue: Continuum Shift Extend",
+          "minutes": 18
         }
       ]
     }
