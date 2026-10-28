@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T01:00:00+09:00",
+  "generated_at": "2026-10-29T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -18,27 +18,27 @@
         },
         {
           "game": "DNF Duel",
-          "minutes": 8359
+          "minutes": 7705
         },
         {
           "game": "Guilty Gear: Strive",
-          "minutes": 5617
+          "minutes": 5528
         },
         {
           "game": "Wuthering Waves",
-          "minutes": 3568
+          "minutes": 3465
         },
         {
           "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 2795
+          "minutes": 2662
         },
         {
           "game": "Strinova",
-          "minutes": 2615
+          "minutes": 2575
         },
         {
           "game": "Sakura Arms ~Radiant Duels~ Demo",
-          "minutes": 2519
+          "minutes": 2500
         },
         {
           "game": "Granblue Fantasy Versus: Rising",
@@ -46,7 +46,7 @@
         },
         {
           "game": "WORLD HEROES PERFECT",
-          "minutes": 2065
+          "minutes": 1834
         },
         {
           "game": "Neverness to Everness",
@@ -54,7 +54,7 @@
         },
         {
           "game": "MapleStory",
-          "minutes": 1513
+          "minutes": 1244
         },
         {
           "game": "BlazBlue Centralfiction",
@@ -177,10 +177,6 @@
           "minutes": 62
         },
         {
-          "game": "Invincible VS",
-          "minutes": 61
-        },
-        {
           "game": "FANTASY LIFE i: The Girl Who Steals Time",
           "minutes": 58
         },
@@ -267,10 +263,6 @@
         {
           "game": "Resident Evil 2 (1998)",
           "minutes": 18
-        },
-        {
-          "game": "Blade Strangers",
-          "minutes": 17
         },
         {
           "game": "Million Arthur: Arcana Blood",
@@ -1528,41 +1520,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-10-22",
-      "end_date": "2026-10-22",
-      "items": [
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 586
-        },
-        {
-          "game": "Antivirus Survivors 2003 Professional",
-          "minutes": 94
-        },
-        {
-          "game": "StarWard",
-          "minutes": 58
-        },
-        {
-          "game": "Strinova",
-          "minutes": 57
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 32
-        },
-        {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 27
-        },
-        {
-          "game": "Star Wars Battlefront II: Celebration Edition",
-          "minutes": 24
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-10-23",
       "end_date": "2026-10-23",
       "items": [
@@ -1718,20 +1675,31 @@
       "end_date": "2026-10-28",
       "items": [
         {
+          "game": "Street Fighter 6",
+          "minutes": 111
+        },
+        {
           "game": "Guilty Gear: Strive",
           "minutes": 83
         },
         {
-          "game": "Street Fighter 6",
-          "minutes": 32
-        },
-        {
           "game": "Fatal Fury: City of the Wolves",
-          "minutes": 27
+          "minutes": 36
         },
         {
           "game": "BlazBlue: Continuum Shift Extend",
           "minutes": 18
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-10-29",
+      "end_date": "2026-10-29",
+      "items": [
+        {
+          "game": "BlazBlue: Continuum Shift Extend",
+          "minutes": 37
         }
       ]
     }
