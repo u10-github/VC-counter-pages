@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T01:00:00+09:00",
+  "generated_at": "2026-10-30T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -18,7 +18,7 @@
         },
         {
           "game": "DNF Duel",
-          "minutes": 7705
+          "minutes": 7148
         },
         {
           "game": "Guilty Gear: Strive",
@@ -26,39 +26,39 @@
         },
         {
           "game": "Wuthering Waves",
-          "minutes": 3465
+          "minutes": 3242
         },
         {
           "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
           "minutes": 2662
         },
         {
-          "game": "Strinova",
-          "minutes": 2575
-        },
-        {
-          "game": "Sakura Arms ~Radiant Duels~ Demo",
-          "minutes": 2500
-        },
-        {
           "game": "Granblue Fantasy Versus: Rising",
           "minutes": 2462
         },
         {
-          "game": "WORLD HEROES PERFECT",
-          "minutes": 1834
+          "game": "Strinova",
+          "minutes": 2433
+        },
+        {
+          "game": "Sakura Arms ~Radiant Duels~ Demo",
+          "minutes": 2425
         },
         {
           "game": "Neverness to Everness",
           "minutes": 1525
         },
         {
-          "game": "MapleStory",
-          "minutes": 1244
+          "game": "WORLD HEROES PERFECT",
+          "minutes": 1298
         },
         {
           "game": "BlazBlue Centralfiction",
           "minutes": 1166
+        },
+        {
+          "game": "MapleStory",
+          "minutes": 1097
         },
         {
           "game": "DNF DUEL",
@@ -157,10 +157,6 @@
           "minutes": 85
         },
         {
-          "game": "Backpack Battles",
-          "minutes": 84
-        },
-        {
           "game": "アラド戦記",
           "minutes": 75
         },
@@ -171,6 +167,10 @@
         {
           "game": "Koihime Enbu RyoRaiRai",
           "minutes": 69
+        },
+        {
+          "game": "Backpack Battles",
+          "minutes": 65
         },
         {
           "game": "Touhou Hisoutensoku: Choudokyuu Ginyoru no Nazo wo Oe",
@@ -273,10 +273,6 @@
           "minutes": 9
         },
         {
-          "game": "ゼンレスゾーンゼロ",
-          "minutes": 7
-        },
-        {
           "game": "Grand Theft Auto III",
           "minutes": 6
         },
@@ -286,6 +282,10 @@
         },
         {
           "game": "PRAGMATA",
+          "minutes": 3
+        },
+        {
+          "game": "ゼンレスゾーンゼロ",
           "minutes": 3
         },
         {
@@ -1520,33 +1520,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-10-23",
-      "end_date": "2026-10-23",
-      "items": [
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 25
-        },
-        {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 18
-        },
-        {
-          "game": "StarWard",
-          "minutes": 8
-        },
-        {
-          "game": "Overwatch",
-          "minutes": 7
-        },
-        {
-          "game": "DNF DUEL",
-          "minutes": 6
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-10-24",
       "end_date": "2026-10-24",
       "items": [
@@ -1699,7 +1672,34 @@
       "items": [
         {
           "game": "BlazBlue: Continuum Shift Extend",
-          "minutes": 37
+          "minutes": 225
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 107
+        },
+        {
+          "game": "StarWard",
+          "minutes": 34
+        },
+        {
+          "game": "Shadowverse: Worlds Beyond",
+          "minutes": 17
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-10-30",
+      "end_date": "2026-10-30",
+      "items": [
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 60
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 52
         }
       ]
     }
