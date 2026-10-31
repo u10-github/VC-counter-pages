@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T01:00:00+09:00",
+  "generated_at": "2026-11-01T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -14,15 +14,15 @@
       "items": [
         {
           "game": "Phantom Breaker: Omnia",
-          "minutes": 10238
+          "minutes": 9708
         },
         {
           "game": "DNF Duel",
-          "minutes": 7148
+          "minutes": 7013
         },
         {
           "game": "Guilty Gear: Strive",
-          "minutes": 5437
+          "minutes": 5231
         },
         {
           "game": "Wuthering Waves",
@@ -34,23 +34,19 @@
         },
         {
           "game": "Sakura Arms ~Radiant Duels~ Demo",
-          "minutes": 2423
-        },
-        {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 2384
+          "minutes": 2323
         },
         {
           "game": "Strinova",
-          "minutes": 2235
+          "minutes": 2052
+        },
+        {
+          "game": "Granblue Fantasy Versus: Rising",
+          "minutes": 1900
         },
         {
           "game": "Neverness to Everness",
           "minutes": 1458
-        },
-        {
-          "game": "WORLD HEROES PERFECT",
-          "minutes": 1119
         },
         {
           "game": "MapleStory",
@@ -61,16 +57,16 @@
           "minutes": 1060
         },
         {
-          "game": "BlazBlue Centralfiction",
-          "minutes": 914
-        },
-        {
           "game": "ARKNIGHTS: ENDFIELD",
           "minutes": 741
         },
         {
-          "game": "Street Fighter™ 6",
-          "minutes": 382
+          "game": "BlazBlue Centralfiction",
+          "minutes": 705
+        },
+        {
+          "game": "WORLD HEROES PERFECT",
+          "minutes": 694
         },
         {
           "game": "NARAKA: BLADEPOINT",
@@ -79,6 +75,10 @@
         {
           "game": "TEKKEN 8",
           "minutes": 368
+        },
+        {
+          "game": "Street Fighter™ 6",
+          "minutes": 361
         },
         {
           "game": "Ultimate Marvel vs. Capcom 3",
@@ -90,7 +90,7 @@
         },
         {
           "game": "StarWard",
-          "minutes": 291
+          "minutes": 290
         },
         {
           "game": "Overwatch",
@@ -101,14 +101,6 @@
           "minutes": 262
         },
         {
-          "game": "Call of Duty®",
-          "minutes": 241
-        },
-        {
-          "game": "MELTY BLOOD: TYPE LUMINA",
-          "minutes": 191
-        },
-        {
           "game": "Yu-Gi-Oh! Master Duel",
           "minutes": 173
         },
@@ -117,20 +109,12 @@
           "minutes": 133
         },
         {
-          "game": "Persona 4 Arena Ultimax",
-          "minutes": 126
-        },
-        {
           "game": "Fatal Fury: City of the Wolves",
           "minutes": 120
         },
         {
-          "game": "R-TYPE DX: Music Encore",
-          "minutes": 108
-        },
-        {
           "game": "MISERY",
-          "minutes": 105
+          "minutes": 102
         },
         {
           "game": "Microsoft​ Edge",
@@ -153,10 +137,6 @@
           "minutes": 86
         },
         {
-          "game": "Quantum Protocol",
-          "minutes": 85
-        },
-        {
           "game": "アラド戦記",
           "minutes": 75
         },
@@ -169,12 +149,20 @@
           "minutes": 65
         },
         {
+          "game": "MELTY BLOOD: TYPE LUMINA",
+          "minutes": 65
+        },
+        {
           "game": "Touhou Hisoutensoku: Choudokyuu Ginyoru no Nazo wo Oe",
           "minutes": 62
         },
         {
           "game": "FANTASY LIFE i: The Girl Who Steals Time",
           "minutes": 58
+        },
+        {
+          "game": "Call of Duty®",
+          "minutes": 56
         },
         {
           "game": "Koihime Enbu RyoRaiRai",
@@ -197,12 +185,12 @@
           "minutes": 43
         },
         {
-          "game": "Dragon Quest X: Inishie no Ryuu no Denshou Online",
-          "minutes": 41
+          "game": "Persona 4 Arena Ultimax",
+          "minutes": 43
         },
         {
-          "game": "MOBILE SUIT GUNDAM BATTLE OPERATION 2",
-          "minutes": 37
+          "game": "Dragon Quest X: Inishie no Ryuu no Denshou Online",
+          "minutes": 41
         },
         {
           "game": "Black Desert",
@@ -219,10 +207,6 @@
         {
           "game": "Celeste",
           "minutes": 33
-        },
-        {
-          "game": "Capcom Fighting Collection",
-          "minutes": 27
         },
         {
           "game": "Dragon Ball FighterZ",
@@ -253,7 +237,7 @@
           "minutes": 19
         },
         {
-          "game": "Resident Evil 2 (1998)",
+          "game": "R-TYPE DX: Music Encore",
           "minutes": 18
         },
         {
@@ -269,19 +253,11 @@
           "minutes": 6
         },
         {
-          "game": "Call of Duty® Black Ops 7",
-          "minutes": 4
-        },
-        {
           "game": "ゼンレスゾーンゼロ",
           "minutes": 3
         },
         {
           "game": "Aaero",
-          "minutes": 2
-        },
-        {
-          "game": "Call of Duty: Black Ops 7",
           "minutes": 2
         },
         {
@@ -298,6 +274,10 @@
         },
         {
           "game": "BlazBlue: Central Fiction",
+          "minutes": 1
+        },
+        {
+          "game": "Call of Duty® Black Ops 7",
           "minutes": 1
         },
         {
@@ -1145,19 +1125,19 @@
       "items": [
         {
           "game": "Guilty Gear: Strive",
-          "minutes": 4464
+          "minutes": 4480
         },
         {
           "game": "StarWard",
           "minutes": 2468
         },
         {
-          "game": "Yu-Gi-Oh! Master Duel",
-          "minutes": 1563
+          "game": "BlazBlue: Continuum Shift Extend",
+          "minutes": 1685
         },
         {
-          "game": "BlazBlue: Continuum Shift Extend",
-          "minutes": 997
+          "game": "Yu-Gi-Oh! Master Duel",
+          "minutes": 1599
         },
         {
           "game": "Monster Hunter: World",
@@ -1318,6 +1298,10 @@
         {
           "game": "NTE: Neverness to Everness",
           "minutes": 3
+        },
+        {
+          "game": "Avatar Legends: The Fighting Game",
+          "minutes": 2
         },
         {
           "game": "Hex Reverse",
@@ -1699,45 +1683,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-10-25",
-      "end_date": "2026-10-25",
-      "items": [
-        {
-          "game": "StarWard",
-          "minutes": 258
-        },
-        {
-          "game": "BlazBlue: Continuum Shift Extend",
-          "minutes": 230
-        },
-        {
-          "game": "Strinova",
-          "minutes": 88
-        },
-        {
-          "game": "Arknights: Endfield",
-          "minutes": 80
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 79
-        },
-        {
-          "game": "Street Fighter 6",
-          "minutes": 47
-        },
-        {
-          "game": "Monster Hunter: World",
-          "minutes": 16
-        },
-        {
-          "game": "Fatal Fury: City of the Wolves",
-          "minutes": 15
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-10-26",
       "end_date": "2026-10-26",
       "items": [
@@ -1869,20 +1814,24 @@
       "end_date": "2026-10-31",
       "items": [
         {
+          "game": "BlazBlue: Continuum Shift Extend",
+          "minutes": 697
+        },
+        {
           "game": "Antivirus Survivors 2003 Professional",
           "minutes": 38
         },
         {
-          "game": "Monster Hunter: World",
-          "minutes": 32
+          "game": "Yu-Gi-Oh! Master Duel",
+          "minutes": 36
         },
         {
           "game": "Guilty Gear: Strive",
-          "minutes": 16
+          "minutes": 32
         },
         {
-          "game": "BlazBlue: Continuum Shift Extend",
-          "minutes": 9
+          "game": "Monster Hunter: World",
+          "minutes": 32
         },
         {
           "game": "Street Fighter V",
@@ -1891,6 +1840,21 @@
         {
           "game": "Arknights: Endfield",
           "minutes": 4
+        },
+        {
+          "game": "Avatar Legends: The Fighting Game",
+          "minutes": 2
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-11-01",
+      "end_date": "2026-11-01",
+      "items": [
+        {
+          "game": "BlazBlue: Continuum Shift Extend",
+          "minutes": 81
         }
       ]
     }
