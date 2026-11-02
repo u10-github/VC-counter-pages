@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T01:00:00+09:00",
+  "generated_at": "2026-11-03T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -14,23 +14,23 @@
       "items": [
         {
           "game": "Phantom Breaker: Omnia",
-          "minutes": 9106
+          "minutes": 8142
         },
         {
           "game": "DNF Duel",
-          "minutes": 5177
+          "minutes": 5023
         },
         {
           "game": "Guilty Gear: Strive",
-          "minutes": 4617
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 2715
+          "minutes": 4597
         },
         {
           "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
           "minutes": 2624
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 2277
         },
         {
           "game": "Sakura Arms ~Radiant Duels~ Demo",
@@ -38,35 +38,27 @@
         },
         {
           "game": "Strinova",
-          "minutes": 2051
+          "minutes": 1957
         },
         {
           "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 1820
+          "minutes": 1781
         },
         {
           "game": "Neverness to Everness",
-          "minutes": 1431
+          "minutes": 1132
         },
         {
           "game": "DNF DUEL",
           "minutes": 1060
         },
         {
-          "game": "MapleStory",
-          "minutes": 737
-        },
-        {
           "game": "BlazBlue Centralfiction",
           "minutes": 705
         },
         {
-          "game": "WORLD HEROES PERFECT",
-          "minutes": 498
-        },
-        {
-          "game": "ARKNIGHTS: ENDFIELD",
-          "minutes": 492
+          "game": "MapleStory",
+          "minutes": 643
         },
         {
           "game": "NARAKA: BLADEPOINT",
@@ -77,8 +69,16 @@
           "minutes": 368
         },
         {
+          "game": "WORLD HEROES PERFECT",
+          "minutes": 364
+        },
+        {
           "game": "Street Fighter™ 6",
           "minutes": 361
+        },
+        {
+          "game": "ARKNIGHTS: ENDFIELD",
+          "minutes": 340
         },
         {
           "game": "Ultimate Marvel vs. Capcom 3",
@@ -103,10 +103,6 @@
         {
           "game": "Yu-Gi-Oh! Master Duel",
           "minutes": 173
-        },
-        {
-          "game": "R-Type Dimensions EX",
-          "minutes": 133
         },
         {
           "game": "Fatal Fury: City of the Wolves",
@@ -161,11 +157,11 @@
           "minutes": 56
         },
         {
-          "game": "FINAL FANTASY XIV ONLINE",
-          "minutes": 55
+          "game": "R-Type Dimensions EX",
+          "minutes": 56
         },
         {
-          "game": "MISERY",
+          "game": "FINAL FANTASY XIV ONLINE",
           "minutes": 55
         },
         {
@@ -177,10 +173,6 @@
           "minutes": 41
         },
         {
-          "game": "Zenless Zone Zero",
-          "minutes": 36
-        },
-        {
           "game": "Black Desert",
           "minutes": 35
         },
@@ -189,16 +181,8 @@
           "minutes": 34
         },
         {
-          "game": "原神",
-          "minutes": 34
-        },
-        {
           "game": "Celeste",
           "minutes": 33
-        },
-        {
-          "game": "Forza Horizon 4",
-          "minutes": 24
         },
         {
           "game": "Star Wars Battlefront II: Celebration Edition",
@@ -217,8 +201,8 @@
           "minutes": 19
         },
         {
-          "game": "R-TYPE DX: Music Encore",
-          "minutes": 18
+          "game": "原神",
+          "minutes": 17
         },
         {
           "game": "MTGA",
@@ -231,10 +215,6 @@
         {
           "game": "Fallout 4",
           "minutes": 9
-        },
-        {
-          "game": "Grand Theft Auto III",
-          "minutes": 6
         },
         {
           "game": "ゼンレスゾーンゼロ",
@@ -1295,81 +1275,6 @@
     },
     {
       "bucket_type": "week",
-      "start_date": "2026-09-28",
-      "end_date": "2026-10-04",
-      "items": [
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 1787
-        },
-        {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 406
-        },
-        {
-          "game": "Strinova",
-          "minutes": 297
-        },
-        {
-          "game": "Street Fighter V",
-          "minutes": 263
-        },
-        {
-          "game": "Monster Hunter: World",
-          "minutes": 88
-        },
-        {
-          "game": "Overwatch",
-          "minutes": 70
-        },
-        {
-          "game": "Village in the Shade",
-          "minutes": 68
-        },
-        {
-          "game": "StarWard",
-          "minutes": 50
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 40
-        },
-        {
-          "game": "Bleach: Rebirth of Souls",
-          "minutes": 19
-        },
-        {
-          "game": "GODDESS OF VICTORY: NIKKE",
-          "minutes": 13
-        },
-        {
-          "game": "Dead by Daylight",
-          "minutes": 11
-        },
-        {
-          "game": "Duet Night Abyss",
-          "minutes": 11
-        },
-        {
-          "game": "Dynasty Warriors 3: Complete Edition Remastered",
-          "minutes": 11
-        },
-        {
-          "game": "Arknights: Endfield",
-          "minutes": 10
-        },
-        {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 9
-        },
-        {
-          "game": "DNF DUEL",
-          "minutes": 5
-        }
-      ]
-    },
-    {
-      "bucket_type": "week",
       "start_date": "2026-10-05",
       "end_date": "2026-10-11",
       "items": [
@@ -1750,33 +1655,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-10-27",
-      "end_date": "2026-10-27",
-      "items": [
-        {
-          "game": "BlazBlue: Continuum Shift Extend",
-          "minutes": 462
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 297
-        },
-        {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 81
-        },
-        {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 24
-        },
-        {
-          "game": "StarWard",
-          "minutes": 15
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-10-28",
       "end_date": "2026-10-28",
       "items": [
@@ -1929,23 +1807,50 @@
       "items": [
         {
           "game": "BlazBlue: Continuum Shift Extend",
-          "minutes": 99
+          "minutes": 484
+        },
+        {
+          "game": "DNF DUEL",
+          "minutes": 121
         },
         {
           "game": "Guilty Gear: Strive",
-          "minutes": 52
+          "minutes": 79
         },
         {
           "game": "Duet Night Abyss",
           "minutes": 31
         },
         {
+          "game": "Strinova",
+          "minutes": 24
+        },
+        {
           "game": "Atelier Resleriana: The Red Alchemist & The White Guardian",
           "minutes": 21
         },
         {
-          "game": "Strinova",
-          "minutes": 18
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 19
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-11-03",
+      "end_date": "2026-11-03",
+      "items": [
+        {
+          "game": "DNF DUEL",
+          "minutes": 140
+        },
+        {
+          "game": "BlazBlue: Continuum Shift Extend",
+          "minutes": 33
+        },
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 29
         }
       ]
     }
