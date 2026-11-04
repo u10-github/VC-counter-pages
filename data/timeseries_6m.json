@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T01:00:00+09:00",
+  "generated_at": "2026-11-05T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -14,19 +14,19 @@
       "items": [
         {
           "game": "Phantom Breaker: Omnia",
-          "minutes": 7799
+          "minutes": 7712
         },
         {
           "game": "DNF Duel",
-          "minutes": 4867
+          "minutes": 4485
         },
         {
           "game": "Guilty Gear: Strive",
-          "minutes": 4597
+          "minutes": 4448
         },
         {
           "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 2579
+          "minutes": 2380
         },
         {
           "game": "Sakura Arms ~Radiant Duels~ Demo",
@@ -34,11 +34,11 @@
         },
         {
           "game": "Wuthering Waves",
-          "minutes": 2056
+          "minutes": 1887
         },
         {
           "game": "Strinova",
-          "minutes": 1894
+          "minutes": 1865
         },
         {
           "game": "Granblue Fantasy Versus: Rising",
@@ -50,7 +50,7 @@
         },
         {
           "game": "Neverness to Everness",
-          "minutes": 988
+          "minutes": 915
         },
         {
           "game": "MapleStory",
@@ -70,11 +70,7 @@
         },
         {
           "game": "Street Fighter™ 6",
-          "minutes": 361
-        },
-        {
-          "game": "WORLD HEROES PERFECT",
-          "minutes": 333
+          "minutes": 335
         },
         {
           "game": "ARKNIGHTS: ENDFIELD",
@@ -93,12 +89,12 @@
           "minutes": 290
         },
         {
-          "game": "Overwatch",
-          "minutes": 275
-        },
-        {
           "game": "The Rumble Fish +",
           "minutes": 262
+        },
+        {
+          "game": "Overwatch",
+          "minutes": 231
         },
         {
           "game": "Yu-Gi-Oh! Master Duel",
@@ -127,10 +123,6 @@
         {
           "game": "アラド戦記",
           "minutes": 75
-        },
-        {
-          "game": "Melty Blood Actress Again Current Code",
-          "minutes": 74
         },
         {
           "game": "Backpack Battles",
@@ -181,6 +173,10 @@
           "minutes": 24
         },
         {
+          "game": "WORLD HEROES PERFECT",
+          "minutes": 22
+        },
+        {
           "game": "Duelists of Eden",
           "minutes": 19
         },
@@ -195,10 +191,6 @@
         {
           "game": "Million Arthur: Arcana Blood",
           "minutes": 12
-        },
-        {
-          "game": "Fallout 4",
-          "minutes": 9
         },
         {
           "game": "ゼンレスゾーンゼロ",
@@ -1635,29 +1627,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-10-29",
-      "end_date": "2026-10-29",
-      "items": [
-        {
-          "game": "BlazBlue: Continuum Shift Extend",
-          "minutes": 225
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 107
-        },
-        {
-          "game": "StarWard",
-          "minutes": 34
-        },
-        {
-          "game": "Shadowverse: Worlds Beyond",
-          "minutes": 17
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-10-30",
       "end_date": "2026-10-30",
       "items": [
@@ -1830,11 +1799,42 @@
       "items": [
         {
           "game": "BlazBlue: Continuum Shift Extend",
-          "minutes": 70
+          "minutes": 386
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 110
+        },
+        {
+          "game": "StarWard",
+          "minutes": 42
+        },
+        {
+          "game": "Overwatch",
+          "minutes": 38
         },
         {
           "game": "Guilty Gear: Strive",
           "minutes": 18
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-11-05",
+      "end_date": "2026-11-05",
+      "items": [
+        {
+          "game": "Atelier Resleriana: The Red Alchemist & The White Guardian",
+          "minutes": 35
+        },
+        {
+          "game": "Strinova",
+          "minutes": 15
+        },
+        {
+          "game": "Overwatch",
+          "minutes": 12
         }
       ]
     }
