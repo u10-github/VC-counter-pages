@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T01:00:00+09:00",
+  "generated_at": "2026-11-06T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -17,12 +17,12 @@
           "minutes": 7712
         },
         {
-          "game": "DNF Duel",
-          "minutes": 4485
+          "game": "Guilty Gear: Strive",
+          "minutes": 4366
         },
         {
-          "game": "Guilty Gear: Strive",
-          "minutes": 4448
+          "game": "DNF Duel",
+          "minutes": 4341
         },
         {
           "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
@@ -33,16 +33,16 @@
           "minutes": 2262
         },
         {
-          "game": "Wuthering Waves",
-          "minutes": 1887
+          "game": "Strinova",
+          "minutes": 1803
         },
         {
-          "game": "Strinova",
-          "minutes": 1865
+          "game": "Wuthering Waves",
+          "minutes": 1574
         },
         {
           "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 1490
+          "minutes": 1383
         },
         {
           "game": "DNF DUEL",
@@ -50,7 +50,7 @@
         },
         {
           "game": "Neverness to Everness",
-          "minutes": 915
+          "minutes": 799
         },
         {
           "game": "MapleStory",
@@ -70,11 +70,7 @@
         },
         {
           "game": "Street Fighter™ 6",
-          "minutes": 335
-        },
-        {
-          "game": "ARKNIGHTS: ENDFIELD",
-          "minutes": 319
+          "minutes": 324
         },
         {
           "game": "Ultimate Marvel vs. Capcom 3",
@@ -85,8 +81,12 @@
           "minutes": 296
         },
         {
+          "game": "ARKNIGHTS: ENDFIELD",
+          "minutes": 278
+        },
+        {
           "game": "StarWard",
-          "minutes": 290
+          "minutes": 265
         },
         {
           "game": "The Rumble Fish +",
@@ -94,7 +94,7 @@
         },
         {
           "game": "Overwatch",
-          "minutes": 231
+          "minutes": 204
         },
         {
           "game": "Yu-Gi-Oh! Master Duel",
@@ -175,10 +175,6 @@
         {
           "game": "WORLD HEROES PERFECT",
           "minutes": 22
-        },
-        {
-          "game": "Duelists of Eden",
-          "minutes": 19
         },
         {
           "game": "原神",
@@ -1627,25 +1623,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-10-30",
-      "end_date": "2026-10-30",
-      "items": [
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 84
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 78
-        },
-        {
-          "game": "DNF DUEL",
-          "minutes": 7
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-10-31",
       "end_date": "2026-10-31",
       "items": [
@@ -1825,16 +1802,63 @@
       "end_date": "2026-11-05",
       "items": [
         {
-          "game": "Atelier Resleriana: The Red Alchemist & The White Guardian",
-          "minutes": 35
+          "game": "BlazBlue: Continuum Shift Extend",
+          "minutes": 319
         },
         {
           "game": "Strinova",
-          "minutes": 15
+          "minutes": 64
+        },
+        {
+          "game": "Atelier Resleriana: The Red Alchemist & The White Guardian",
+          "minutes": 63
+        },
+        {
+          "game": "StarWard",
+          "minutes": 44
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 24
         },
         {
           "game": "Overwatch",
           "minutes": 12
+        },
+        {
+          "game": "Avatar Legends: The Fighting Game",
+          "minutes": 6
+        },
+        {
+          "game": "Arknights: Endfield",
+          "minutes": 2
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-11-06",
+      "end_date": "2026-11-06",
+      "items": [
+        {
+          "game": "Strinova",
+          "minutes": 48
+        },
+        {
+          "game": "Atelier Resleriana: The Red Alchemist & The White Guardian",
+          "minutes": 34
+        },
+        {
+          "game": "BlazBlue: Continuum Shift Extend",
+          "minutes": 29
+        },
+        {
+          "game": "Arknights: Endfield",
+          "minutes": 17
+        },
+        {
+          "game": "StarWard",
+          "minutes": 11
         }
       ]
     }
