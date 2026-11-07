@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T01:00:00+09:00",
+  "generated_at": "2026-11-08T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -14,11 +14,11 @@
       "items": [
         {
           "game": "Phantom Breaker: Omnia",
-          "minutes": 7540
+          "minutes": 7202
         },
         {
           "game": "Guilty Gear: Strive",
-          "minutes": 4366
+          "minutes": 4002
         },
         {
           "game": "DNF Duel",
@@ -30,19 +30,19 @@
         },
         {
           "game": "Sakura Arms ~Radiant Duels~ Demo",
-          "minutes": 2262
+          "minutes": 2169
         },
         {
           "game": "Strinova",
-          "minutes": 1738
+          "minutes": 1737
         },
         {
           "game": "Wuthering Waves",
-          "minutes": 1574
+          "minutes": 1559
         },
         {
           "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 1340
+          "minutes": 1192
         },
         {
           "game": "DNF DUEL",
@@ -69,10 +69,6 @@
           "minutes": 368
         },
         {
-          "game": "Street Fighter™ 6",
-          "minutes": 324
-        },
-        {
           "game": "Ultimate Marvel vs. Capcom 3",
           "minutes": 298
         },
@@ -82,15 +78,15 @@
         },
         {
           "game": "ARKNIGHTS: ENDFIELD",
-          "minutes": 278
-        },
-        {
-          "game": "StarWard",
-          "minutes": 265
+          "minutes": 271
         },
         {
           "game": "The Rumble Fish +",
           "minutes": 262
+        },
+        {
+          "game": "StarWard",
+          "minutes": 234
         },
         {
           "game": "Overwatch",
@@ -153,6 +149,10 @@
           "minutes": 41
         },
         {
+          "game": "Street Fighter™ 6",
+          "minutes": 41
+        },
+        {
           "game": "Black Desert",
           "minutes": 35
         },
@@ -177,10 +177,6 @@
           "minutes": 22
         },
         {
-          "game": "原神",
-          "minutes": 17
-        },
-        {
           "game": "MTGA",
           "minutes": 16
         },
@@ -198,10 +194,6 @@
         },
         {
           "game": "Desktop Mate",
-          "minutes": 2
-        },
-        {
-          "game": "Genshin Impact",
           "minutes": 2
         }
       ]
@@ -1615,49 +1607,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-11-01",
-      "end_date": "2026-11-01",
-      "items": [
-        {
-          "game": "BlazBlue: Continuum Shift Extend",
-          "minutes": 494
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 177
-        },
-        {
-          "game": "Strinova",
-          "minutes": 146
-        },
-        {
-          "game": "StarWard",
-          "minutes": 95
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 55
-        },
-        {
-          "game": "Minecraft",
-          "minutes": 47
-        },
-        {
-          "game": "Atelier Resleriana: The Red Alchemist & The White Guardian",
-          "minutes": 26
-        },
-        {
-          "game": "Yu-Gi-Oh! Master Duel",
-          "minutes": 3
-        },
-        {
-          "game": "Monster Hunter: World",
-          "minutes": 1
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-11-02",
       "end_date": "2026-11-02",
       "items": [
@@ -1826,7 +1775,26 @@
       "items": [
         {
           "game": "BlazBlue: Continuum Shift Extend",
-          "minutes": 60
+          "minutes": 191
+        },
+        {
+          "game": "DNF DUEL",
+          "minutes": 142
+        },
+        {
+          "game": "KIOU",
+          "minutes": 20
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-11-08",
+      "end_date": "2026-11-08",
+      "items": [
+        {
+          "game": "DNF DUEL",
+          "minutes": 105
         }
       ]
     }
