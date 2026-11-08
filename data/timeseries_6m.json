@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T01:00:00+09:00",
+  "generated_at": "2026-11-09T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -14,15 +14,15 @@
       "items": [
         {
           "game": "Phantom Breaker: Omnia",
-          "minutes": 7202
+          "minutes": 7070
         },
         {
           "game": "Guilty Gear: Strive",
-          "minutes": 4002
+          "minutes": 3766
         },
         {
           "game": "DNF Duel",
-          "minutes": 3749
+          "minutes": 3281
         },
         {
           "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
@@ -30,15 +30,15 @@
         },
         {
           "game": "Sakura Arms ~Radiant Duels~ Demo",
-          "minutes": 2169
+          "minutes": 1972
         },
         {
           "game": "Strinova",
-          "minutes": 1737
+          "minutes": 1724
         },
         {
           "game": "Wuthering Waves",
-          "minutes": 1559
+          "minutes": 1516
         },
         {
           "game": "Granblue Fantasy Versus: Rising",
@@ -54,7 +54,7 @@
         },
         {
           "game": "MapleStory",
-          "minutes": 643
+          "minutes": 608
         },
         {
           "game": "BlazBlue Centralfiction",
@@ -89,12 +89,12 @@
           "minutes": 234
         },
         {
-          "game": "Overwatch",
-          "minutes": 204
-        },
-        {
           "game": "Yu-Gi-Oh! Master Duel",
           "minutes": 173
+        },
+        {
+          "game": "Overwatch",
+          "minutes": 158
         },
         {
           "game": "Microsoft​ Edge",
@@ -121,10 +121,6 @@
           "minutes": 75
         },
         {
-          "game": "Backpack Battles",
-          "minutes": 65
-        },
-        {
           "game": "MELTY BLOOD: TYPE LUMINA",
           "minutes": 65
         },
@@ -146,10 +142,6 @@
         },
         {
           "game": "Dragon Quest X: Inishie no Ryuu no Denshou Online",
-          "minutes": 41
-        },
-        {
-          "game": "Street Fighter™ 6",
           "minutes": 41
         },
         {
@@ -183,6 +175,10 @@
         {
           "game": "Million Arthur: Arcana Blood",
           "minutes": 12
+        },
+        {
+          "game": "Backpack Battles",
+          "minutes": 4
         },
         {
           "game": "ゼンレスゾーンゼロ",
@@ -1606,37 +1602,65 @@
       ]
     },
     {
-      "bucket_type": "day",
+      "bucket_type": "week",
       "start_date": "2026-11-02",
-      "end_date": "2026-11-02",
+      "end_date": "2026-11-08",
       "items": [
         {
           "game": "BlazBlue: Continuum Shift Extend",
-          "minutes": 484
+          "minutes": 1546
         },
         {
           "game": "DNF DUEL",
-          "minutes": 121
+          "minutes": 894
         },
         {
           "game": "Guilty Gear: Strive",
-          "minutes": 79
+          "minutes": 417
+        },
+        {
+          "game": "Atelier Resleriana: The Red Alchemist & The White Guardian",
+          "minutes": 142
+        },
+        {
+          "game": "StarWard",
+          "minutes": 138
+        },
+        {
+          "game": "Strinova",
+          "minutes": 136
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 110
+        },
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 81
+        },
+        {
+          "game": "Overwatch",
+          "minutes": 50
+        },
+        {
+          "game": "Avatar Legends: The Fighting Game",
+          "minutes": 44
         },
         {
           "game": "Duet Night Abyss",
           "minutes": 31
         },
         {
-          "game": "Strinova",
-          "minutes": 24
+          "game": "KIOU",
+          "minutes": 20
         },
         {
-          "game": "Atelier Resleriana: The Red Alchemist & The White Guardian",
-          "minutes": 21
-        },
-        {
-          "game": "Phantom Breaker: Omnia",
+          "game": "Arknights: Endfield",
           "minutes": 19
+        },
+        {
+          "game": "Sakura Arms ~Radiant Duels~ Demo",
+          "minutes": 9
         }
       ]
     },
@@ -1793,10 +1817,28 @@
       "end_date": "2026-11-08",
       "items": [
         {
+          "game": "Guilty Gear: Strive",
+          "minutes": 175
+        },
+        {
           "game": "DNF DUEL",
-          "minutes": 105
+          "minutes": 139
+        },
+        {
+          "game": "BlazBlue: Continuum Shift Extend",
+          "minutes": 78
+        },
+        {
+          "game": "StarWard",
+          "minutes": 41
         }
       ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-11-09",
+      "end_date": "2026-11-09",
+      "items": []
     }
   ]
 }
