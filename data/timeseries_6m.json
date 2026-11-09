@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T01:00:00+09:00",
+  "generated_at": "2026-11-10T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -14,15 +14,15 @@
       "items": [
         {
           "game": "Phantom Breaker: Omnia",
-          "minutes": 7070
+          "minutes": 7045
         },
         {
           "game": "Guilty Gear: Strive",
-          "minutes": 3766
+          "minutes": 3736
         },
         {
           "game": "DNF Duel",
-          "minutes": 3281
+          "minutes": 2472
         },
         {
           "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
@@ -34,7 +34,7 @@
         },
         {
           "game": "Strinova",
-          "minutes": 1724
+          "minutes": 1694
         },
         {
           "game": "Wuthering Waves",
@@ -54,11 +54,7 @@
         },
         {
           "game": "MapleStory",
-          "minutes": 608
-        },
-        {
-          "game": "BlazBlue Centralfiction",
-          "minutes": 436
+          "minutes": 447
         },
         {
           "game": "NARAKA: BLADEPOINT",
@@ -77,12 +73,12 @@
           "minutes": 296
         },
         {
-          "game": "ARKNIGHTS: ENDFIELD",
-          "minutes": 271
-        },
-        {
           "game": "The Rumble Fish +",
           "minutes": 262
+        },
+        {
+          "game": "ARKNIGHTS: ENDFIELD",
+          "minutes": 258
         },
         {
           "game": "StarWard",
@@ -133,10 +129,6 @@
           "minutes": 58
         },
         {
-          "game": "FINAL FANTASY XIV ONLINE",
-          "minutes": 55
-        },
-        {
           "game": "mtch.gg",
           "minutes": 50
         },
@@ -155,6 +147,10 @@
         {
           "game": "Celeste",
           "minutes": 33
+        },
+        {
+          "game": "BlazBlue Centralfiction",
+          "minutes": 31
         },
         {
           "game": "Koihime Enbu RyoRaiRai",
@@ -1223,101 +1219,6 @@
     },
     {
       "bucket_type": "week",
-      "start_date": "2026-10-05",
-      "end_date": "2026-10-11",
-      "items": [
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 1051
-        },
-        {
-          "game": "Yu-Gi-Oh! Master Duel",
-          "minutes": 1031
-        },
-        {
-          "game": "Street Fighter V",
-          "minutes": 274
-        },
-        {
-          "game": "Gears of War: E-Day",
-          "minutes": 184
-        },
-        {
-          "game": "DNF DUEL",
-          "minutes": 170
-        },
-        {
-          "game": "Monster Hunter: World",
-          "minutes": 150
-        },
-        {
-          "game": "Dynasty Warriors 3: Complete Edition Remastered",
-          "minutes": 113
-        },
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 89
-        },
-        {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 84
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 81
-        },
-        {
-          "game": "Marvel Tokon: Fighting Souls",
-          "minutes": 71
-        },
-        {
-          "game": "Strinova",
-          "minutes": 71
-        },
-        {
-          "game": "Sakura Arms ~Radiant Duels~ Demo",
-          "minutes": 51
-        },
-        {
-          "game": "Overwatch",
-          "minutes": 40
-        },
-        {
-          "game": "War of Genesis: Idle Loot",
-          "minutes": 32
-        },
-        {
-          "game": "StarWard",
-          "minutes": 27
-        },
-        {
-          "game": "Dragon Ball: The Breakers",
-          "minutes": 15
-        },
-        {
-          "game": "Ultra Street Fighter IV",
-          "minutes": 11
-        },
-        {
-          "game": "MTGA",
-          "minutes": 4
-        },
-        {
-          "game": "VRChat",
-          "minutes": 4
-        },
-        {
-          "game": "Hex Reverse",
-          "minutes": 1
-        },
-        {
-          "game": "Magic: The Gathering Arena",
-          "minutes": 1
-        }
-      ]
-    },
-    {
-      "bucket_type": "week",
       "start_date": "2026-10-12",
       "end_date": "2026-10-18",
       "items": [
@@ -1666,37 +1567,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-11-03",
-      "end_date": "2026-11-03",
-      "items": [
-        {
-          "game": "DNF DUEL",
-          "minutes": 449
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 121
-        },
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 62
-        },
-        {
-          "game": "Avatar Legends: The Fighting Game",
-          "minutes": 38
-        },
-        {
-          "game": "BlazBlue: Continuum Shift Extend",
-          "minutes": 33
-        },
-        {
-          "game": "Sakura Arms ~Radiant Duels~ Demo",
-          "minutes": 9
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-11-04",
       "end_date": "2026-11-04",
       "items": [
@@ -1838,7 +1708,51 @@
       "bucket_type": "day",
       "start_date": "2026-11-09",
       "end_date": "2026-11-09",
-      "items": []
+      "items": [
+        {
+          "game": "FINAL FANTASY XIV ONLINE",
+          "minutes": 304
+        },
+        {
+          "game": "BlazBlue: Continuum Shift Extend",
+          "minutes": 65
+        },
+        {
+          "game": "TBH: Task Bar Hero",
+          "minutes": 56
+        },
+        {
+          "game": "Fatal Fury: City of the Wolves",
+          "minutes": 48
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 41
+        },
+        {
+          "game": "DNF DUEL",
+          "minutes": 37
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-11-10",
+      "end_date": "2026-11-10",
+      "items": [
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 36
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 16
+        },
+        {
+          "game": "Fatal Fury: City of the Wolves",
+          "minutes": 6
+        }
+      ]
     }
   ]
 }
