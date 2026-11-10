@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T01:00:00+09:00",
+  "generated_at": "2026-11-11T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -18,15 +18,15 @@
         },
         {
           "game": "Guilty Gear: Strive",
-          "minutes": 3736
-        },
-        {
-          "game": "DNF Duel",
-          "minutes": 2472
+          "minutes": 3655
         },
         {
           "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
           "minutes": 2380
+        },
+        {
+          "game": "DNF Duel",
+          "minutes": 2181
         },
         {
           "game": "Sakura Arms ~Radiant Duels~ Demo",
@@ -34,7 +34,7 @@
         },
         {
           "game": "Strinova",
-          "minutes": 1694
+          "minutes": 1676
         },
         {
           "game": "Wuthering Waves",
@@ -54,7 +54,7 @@
         },
         {
           "game": "MapleStory",
-          "minutes": 447
+          "minutes": 373
         },
         {
           "game": "NARAKA: BLADEPOINT",
@@ -90,7 +90,7 @@
         },
         {
           "game": "Overwatch",
-          "minutes": 158
+          "minutes": 117
         },
         {
           "game": "Microsoft​ Edge",
@@ -153,10 +153,6 @@
           "minutes": 31
         },
         {
-          "game": "Koihime Enbu RyoRaiRai",
-          "minutes": 31
-        },
-        {
           "game": "Star Wars Battlefront II: Celebration Edition",
           "minutes": 24
         },
@@ -171,10 +167,6 @@
         {
           "game": "Million Arthur: Arcana Blood",
           "minutes": 12
-        },
-        {
-          "game": "Backpack Battles",
-          "minutes": 4
         },
         {
           "game": "ゼンレスゾーンゼロ",
@@ -1567,33 +1559,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-11-04",
-      "end_date": "2026-11-04",
-      "items": [
-        {
-          "game": "BlazBlue: Continuum Shift Extend",
-          "minutes": 386
-        },
-        {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 110
-        },
-        {
-          "game": "StarWard",
-          "minutes": 42
-        },
-        {
-          "game": "Overwatch",
-          "minutes": 38
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 18
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-11-05",
       "end_date": "2026-11-05",
       "items": [
@@ -1741,16 +1706,39 @@
       "end_date": "2026-11-10",
       "items": [
         {
+          "game": "DNF DUEL",
+          "minutes": 227
+        },
+        {
           "game": "Guilty Gear: Strive",
           "minutes": 36
         },
         {
           "game": "Wuthering Waves",
-          "minutes": 16
+          "minutes": 24
+        },
+        {
+          "game": "Street Fighter 30th Anniversary Collection",
+          "minutes": 9
         },
         {
           "game": "Fatal Fury: City of the Wolves",
           "minutes": 6
+        },
+        {
+          "game": "Overwatch",
+          "minutes": 2
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-11-11",
+      "end_date": "2026-11-11",
+      "items": [
+        {
+          "game": "DNF DUEL",
+          "minutes": 86
         }
       ]
     }
