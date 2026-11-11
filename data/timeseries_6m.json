@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T01:00:00+09:00",
+  "generated_at": "2026-11-12T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -18,15 +18,15 @@
         },
         {
           "game": "Guilty Gear: Strive",
-          "minutes": 3655
+          "minutes": 3556
         },
         {
           "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 2380
+          "minutes": 2314
         },
         {
           "game": "DNF Duel",
-          "minutes": 2181
+          "minutes": 2106
         },
         {
           "game": "Sakura Arms ~Radiant Duels~ Demo",
@@ -46,15 +46,11 @@
         },
         {
           "game": "DNF DUEL",
-          "minutes": 1060
+          "minutes": 896
         },
         {
           "game": "Neverness to Everness",
           "minutes": 799
-        },
-        {
-          "game": "MapleStory",
-          "minutes": 373
         },
         {
           "game": "NARAKA: BLADEPOINT",
@@ -71,6 +67,10 @@
         {
           "game": "TOHOTOPIA",
           "minutes": 296
+        },
+        {
+          "game": "MapleStory",
+          "minutes": 282
         },
         {
           "game": "The Rumble Fish +",
@@ -1559,45 +1559,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-11-05",
-      "end_date": "2026-11-05",
-      "items": [
-        {
-          "game": "BlazBlue: Continuum Shift Extend",
-          "minutes": 319
-        },
-        {
-          "game": "Strinova",
-          "minutes": 64
-        },
-        {
-          "game": "Atelier Resleriana: The Red Alchemist & The White Guardian",
-          "minutes": 63
-        },
-        {
-          "game": "StarWard",
-          "minutes": 44
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 24
-        },
-        {
-          "game": "Overwatch",
-          "minutes": 12
-        },
-        {
-          "game": "Avatar Legends: The Fighting Game",
-          "minutes": 6
-        },
-        {
-          "game": "Arknights: Endfield",
-          "minutes": 2
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-11-06",
       "end_date": "2026-11-06",
       "items": [
@@ -1737,8 +1698,47 @@
       "end_date": "2026-11-11",
       "items": [
         {
+          "game": "FINAL FANTASY XIV ONLINE",
+          "minutes": 224
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 151
+        },
+        {
+          "game": "Atelier Resleriana: The Red Alchemist & The White Guardian",
+          "minutes": 129
+        },
+        {
           "game": "DNF DUEL",
           "minutes": 86
+        },
+        {
+          "game": "FINAL FANTASY XIV Online Free Trial",
+          "minutes": 46
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 3
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-11-12",
+      "end_date": "2026-11-12",
+      "items": [
+        {
+          "game": "Atelier Resleriana: The Red Alchemist & The White Guardian",
+          "minutes": 60
+        },
+        {
+          "game": "FINAL FANTASY XIV ONLINE",
+          "minutes": 60
+        },
+        {
+          "game": "TEKKEN 8",
+          "minutes": 9
         }
       ]
     }
