@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T01:00:00+09:00",
+  "generated_at": "2026-11-14T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -14,15 +14,15 @@
       "items": [
         {
           "game": "Phantom Breaker: Omnia",
-          "minutes": 7045
+          "minutes": 6775
         },
         {
           "game": "Guilty Gear: Strive",
-          "minutes": 3419
+          "minutes": 3368
         },
         {
           "game": "DNF Duel",
-          "minutes": 2106
+          "minutes": 2086
         },
         {
           "game": "Sakura Arms ~Radiant Duels~ Demo",
@@ -30,19 +30,19 @@
         },
         {
           "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 1810
+          "minutes": 1792
         },
         {
           "game": "Strinova",
-          "minutes": 1655
+          "minutes": 1628
         },
         {
           "game": "Wuthering Waves",
-          "minutes": 1352
+          "minutes": 1181
         },
         {
           "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 1132
+          "minutes": 1122
         },
         {
           "game": "DNF DUEL",
@@ -50,7 +50,7 @@
         },
         {
           "game": "Neverness to Everness",
-          "minutes": 774
+          "minutes": 767
         },
         {
           "game": "TEKKEN 8",
@@ -94,7 +94,7 @@
         },
         {
           "game": "Overwatch",
-          "minutes": 93
+          "minutes": 92
         },
         {
           "game": "Street Fighter 6",
@@ -1559,25 +1559,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-11-07",
-      "end_date": "2026-11-07",
-      "items": [
-        {
-          "game": "BlazBlue: Continuum Shift Extend",
-          "minutes": 191
-        },
-        {
-          "game": "DNF DUEL",
-          "minutes": 142
-        },
-        {
-          "game": "KIOU",
-          "minutes": 20
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-11-08",
       "end_date": "2026-11-08",
       "items": [
@@ -1737,8 +1718,39 @@
       "end_date": "2026-11-13",
       "items": [
         {
+          "game": "FINAL FANTASY XIV ONLINE",
+          "minutes": 114
+        },
+        {
+          "game": "DNF DUEL",
+          "minutes": 47
+        },
+        {
+          "game": "Strinova",
+          "minutes": 26
+        },
+        {
           "game": "StarWard",
-          "minutes": 12
+          "minutes": 14
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 3
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-11-14",
+      "end_date": "2026-11-14",
+      "items": [
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 69
+        },
+        {
+          "game": "FINAL FANTASY XIV ONLINE",
+          "minutes": 9
         }
       ]
     }
