@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T01:00:00+09:00",
+  "generated_at": "2026-11-16T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -14,11 +14,11 @@
       "items": [
         {
           "game": "Phantom Breaker: Omnia",
-          "minutes": 6158
+          "minutes": 6072
         },
         {
           "game": "Guilty Gear: Strive",
-          "minutes": 2518
+          "minutes": 2387
         },
         {
           "game": "DNF Duel",
@@ -26,15 +26,15 @@
         },
         {
           "game": "Sakura Arms ~Radiant Duels~ Demo",
-          "minutes": 1834
-        },
-        {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 1752
+          "minutes": 1701
         },
         {
           "game": "Strinova",
-          "minutes": 1587
+          "minutes": 1426
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 1275
         },
         {
           "game": "Granblue Fantasy Versus: Rising",
@@ -42,15 +42,11 @@
         },
         {
           "game": "Wuthering Waves",
-          "minutes": 1077
-        },
-        {
-          "game": "DNF DUEL",
-          "minutes": 744
+          "minutes": 910
         },
         {
           "game": "Neverness to Everness",
-          "minutes": 742
+          "minutes": 736
         },
         {
           "game": "TEKKEN 8",
@@ -58,15 +54,11 @@
         },
         {
           "game": "NARAKA: BLADEPOINT",
-          "minutes": 364
+          "minutes": 355
         },
         {
           "game": "Ultimate Marvel vs. Capcom 3",
           "minutes": 298
-        },
-        {
-          "game": "MapleStory",
-          "minutes": 282
         },
         {
           "game": "The Rumble Fish +",
@@ -74,19 +66,19 @@
         },
         {
           "game": "StarWard",
-          "minutes": 211
+          "minutes": 193
         },
         {
           "game": "ARKNIGHTS: ENDFIELD",
-          "minutes": 203
+          "minutes": 188
+        },
+        {
+          "game": "DNF DUEL",
+          "minutes": 137
         },
         {
           "game": "Yu-Gi-Oh! Master Duel",
-          "minutes": 140
-        },
-        {
-          "game": "TOHOTOPIA",
-          "minutes": 113
+          "minutes": 116
         },
         {
           "game": "Microsoft​ Edge",
@@ -103,6 +95,10 @@
         {
           "game": "Battle Fantasia -Revised Edition-",
           "minutes": 86
+        },
+        {
+          "game": "MapleStory",
+          "minutes": 84
         },
         {
           "game": "アラド戦記",
@@ -126,7 +122,11 @@
         },
         {
           "game": "mtch.gg",
-          "minutes": 50
+          "minutes": 49
+        },
+        {
+          "game": "TOHOTOPIA",
+          "minutes": 44
         },
         {
           "game": "Dragon Quest X: Inishie no Ryuu no Denshou Online",
@@ -1554,33 +1554,93 @@
       ]
     },
     {
-      "bucket_type": "day",
+      "bucket_type": "week",
       "start_date": "2026-11-09",
-      "end_date": "2026-11-09",
+      "end_date": "2026-11-15",
       "items": [
         {
           "game": "FINAL FANTASY XIV ONLINE",
-          "minutes": 304
+          "minutes": 886
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 796
+        },
+        {
+          "game": "DNF DUEL",
+          "minutes": 455
+        },
+        {
+          "game": "Fatal Fury: City of the Wolves",
+          "minutes": 230
+        },
+        {
+          "game": "Atelier Resleriana: The Red Alchemist & The White Guardian",
+          "minutes": 218
+        },
+        {
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 144
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 103
         },
         {
           "game": "BlazBlue: Continuum Shift Extend",
           "minutes": 65
         },
         {
+          "game": "Ultra Street Fighter IV",
+          "minutes": 61
+        },
+        {
+          "game": "StarWard",
+          "minutes": 56
+        },
+        {
           "game": "TBH: Task Bar Hero",
           "minutes": 56
         },
         {
-          "game": "Fatal Fury: City of the Wolves",
-          "minutes": 48
+          "game": "FINAL FANTASY XIV Online Free Trial",
+          "minutes": 46
         },
         {
-          "game": "Guilty Gear: Strive",
-          "minutes": 41
+          "game": "Duet Night Abyss",
+          "minutes": 32
         },
         {
-          "game": "DNF DUEL",
-          "minutes": 37
+          "game": "Strinova",
+          "minutes": 26
+        },
+        {
+          "game": "TEKKEN 8",
+          "minutes": 14
+        },
+        {
+          "game": "Arknights: Endfield",
+          "minutes": 11
+        },
+        {
+          "game": "Street Fighter 30th Anniversary Collection",
+          "minutes": 9
+        },
+        {
+          "game": "Yu-Gi-Oh! Master Duel",
+          "minutes": 8
+        },
+        {
+          "game": "Overwatch",
+          "minutes": 2
+        },
+        {
+          "game": "ARKNIGHTS: ENDFIELD",
+          "minutes": 1
+        },
+        {
+          "game": "Antivirus Survivors 2003 Professional",
+          "minutes": 1
         }
       ]
     },
@@ -1741,11 +1801,54 @@
       "end_date": "2026-11-15",
       "items": [
         {
+          "game": "Guilty Gear: Strive",
+          "minutes": 204
+        },
+        {
           "game": "Fatal Fury: City of the Wolves",
-          "minutes": 99
+          "minutes": 157
         },
         {
           "game": "Phantom Breaker: Omnia",
+          "minutes": 110
+        },
+        {
+          "game": "Ultra Street Fighter IV",
+          "minutes": 61
+        },
+        {
+          "game": "DNF DUEL",
+          "minutes": 58
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 50
+        },
+        {
+          "game": "StarWard",
+          "minutes": 42
+        },
+        {
+          "game": "Duet Night Abyss",
+          "minutes": 32
+        },
+        {
+          "game": "Atelier Resleriana: The Red Alchemist & The White Guardian",
+          "minutes": 17
+        },
+        {
+          "game": "Antivirus Survivors 2003 Professional",
+          "minutes": 1
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-11-16",
+      "end_date": "2026-11-16",
+      "items": [
+        {
+          "game": "Atelier Resleriana: The Red Alchemist & The White Guardian",
           "minutes": 60
         }
       ]
