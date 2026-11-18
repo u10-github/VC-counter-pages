@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T01:00:00+09:00",
+  "generated_at": "2026-11-19T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -14,39 +14,39 @@
       "items": [
         {
           "game": "Phantom Breaker: Omnia",
-          "minutes": 5300
+          "minutes": 3986
         },
         {
           "game": "DNF Duel",
-          "minutes": 2086
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 1864
+          "minutes": 2070
         },
         {
           "game": "Sakura Arms ~Radiant Duels~ Demo",
-          "minutes": 1650
+          "minutes": 1466
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 1337
         },
         {
           "game": "Strinova",
-          "minutes": 1085
+          "minutes": 1083
         },
         {
           "game": "Wuthering Waves",
-          "minutes": 910
-        },
-        {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 809
-        },
-        {
-          "game": "Neverness to Everness",
-          "minutes": 732
+          "minutes": 898
         },
         {
           "game": "Granblue Fantasy Versus: Rising",
           "minutes": 675
+        },
+        {
+          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+          "minutes": 645
+        },
+        {
+          "game": "Neverness to Everness",
+          "minutes": 465
         },
         {
           "game": "TEKKEN 8",
@@ -54,7 +54,7 @@
         },
         {
           "game": "NARAKA: BLADEPOINT",
-          "minutes": 355
+          "minutes": 332
         },
         {
           "game": "Ultimate Marvel vs. Capcom 3",
@@ -66,7 +66,7 @@
         },
         {
           "game": "ARKNIGHTS: ENDFIELD",
-          "minutes": 176
+          "minutes": 153
         },
         {
           "game": "Yu-Gi-Oh! Master Duel",
@@ -81,16 +81,12 @@
           "minutes": 92
         },
         {
-          "game": "StarWard",
-          "minutes": 89
-        },
-        {
           "game": "Battle Fantasia -Revised Edition-",
           "minutes": 86
         },
         {
-          "game": "Fatal Fury: City of the Wolves",
-          "minutes": 62
+          "game": "StarWard",
+          "minutes": 67
         },
         {
           "game": "アラド戦記",
@@ -103,6 +99,10 @@
         {
           "game": "FANTASY LIFE i: The Girl Who Steals Time",
           "minutes": 58
+        },
+        {
+          "game": "Fatal Fury: City of the Wolves",
+          "minutes": 49
         },
         {
           "game": "mtch.gg",
@@ -145,12 +145,12 @@
           "minutes": 16
         },
         {
-          "game": "Overwatch",
-          "minutes": 15
-        },
-        {
           "game": "Million Arthur: Arcana Blood",
           "minutes": 12
+        },
+        {
+          "game": "Overwatch",
+          "minutes": 3
         },
         {
           "game": "ゼンレスゾーンゼロ",
@@ -1499,45 +1499,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-11-12",
-      "end_date": "2026-11-12",
-      "items": [
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 253
-        },
-        {
-          "game": "FINAL FANTASY XIV ONLINE",
-          "minutes": 235
-        },
-        {
-          "game": "Atelier Resleriana: The Red Alchemist & The White Guardian",
-          "minutes": 72
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 26
-        },
-        {
-          "game": "TEKKEN 8",
-          "minutes": 14
-        },
-        {
-          "game": "Arknights: Endfield",
-          "minutes": 11
-        },
-        {
-          "game": "Yu-Gi-Oh! Master Duel",
-          "minutes": 8
-        },
-        {
-          "game": "ARKNIGHTS: ENDFIELD",
-          "minutes": 1
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-11-13",
       "end_date": "2026-11-13",
       "items": [
@@ -1693,14 +1654,24 @@
       "end_date": "2026-11-18",
       "items": [
         {
-          "game": "DNF DUEL",
-          "minutes": 78
+          "game": "Guilty Gear: Strive",
+          "minutes": 233
         },
         {
           "game": "Fatal Fury: City of the Wolves",
-          "minutes": 60
+          "minutes": 205
+        },
+        {
+          "game": "DNF DUEL",
+          "minutes": 78
         }
       ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-11-19",
+      "end_date": "2026-11-19",
+      "items": []
     }
   ]
 }
