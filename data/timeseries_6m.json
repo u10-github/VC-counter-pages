@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T01:00:00+09:00",
+  "generated_at": "2026-11-21T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -14,27 +14,27 @@
       "items": [
         {
           "game": "Phantom Breaker: Omnia",
-          "minutes": 2825
+          "minutes": 2095
         },
         {
           "game": "DNF Duel",
-          "minutes": 1983
-        },
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 1281
+          "minutes": 1845
         },
         {
           "game": "Strinova",
-          "minutes": 1055
+          "minutes": 1020
         },
         {
           "game": "Sakura Arms ~Radiant Duels~ Demo",
-          "minutes": 1033
+          "minutes": 871
         },
         {
           "game": "Wuthering Waves",
-          "minutes": 843
+          "minutes": 839
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 652
         },
         {
           "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
@@ -61,10 +61,6 @@
           "minutes": 262
         },
         {
-          "game": "ARKNIGHTS: ENDFIELD",
-          "minutes": 123
-        },
-        {
           "game": "Yu-Gi-Oh! Master Duel",
           "minutes": 116
         },
@@ -77,8 +73,8 @@
           "minutes": 92
         },
         {
-          "game": "アラド戦記",
-          "minutes": 60
+          "game": "ARKNIGHTS: ENDFIELD",
+          "minutes": 71
         },
         {
           "game": "FANTASY LIFE i: The Girl Who Steals Time",
@@ -93,10 +89,6 @@
           "minutes": 41
         },
         {
-          "game": "StarWard",
-          "minutes": 40
-        },
-        {
           "game": "Ultra Fight Da! Kyanta 2",
           "minutes": 34
         },
@@ -109,7 +101,15 @@
           "minutes": 24
         },
         {
+          "game": "アラド戦記",
+          "minutes": 17
+        },
+        {
           "game": "MTGA",
+          "minutes": 16
+        },
+        {
+          "game": "StarWard",
           "minutes": 16
         },
         {
@@ -1471,29 +1471,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-11-14",
-      "end_date": "2026-11-14",
-      "items": [
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 108
-        },
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 34
-        },
-        {
-          "game": "Fatal Fury: City of the Wolves",
-          "minutes": 19
-        },
-        {
-          "game": "FINAL FANTASY XIV ONLINE",
-          "minutes": 9
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-11-15",
       "end_date": "2026-11-15",
       "items": [
@@ -1662,17 +1639,23 @@
         },
         {
           "game": "FINAL FANTASY XIV ONLINE",
-          "minutes": 60
+          "minutes": 115
         },
         {
           "game": "Wuthering Waves",
-          "minutes": 60
+          "minutes": 84
         },
         {
           "game": "Fatal Fury: City of the Wolves",
-          "minutes": 15
+          "minutes": 69
         }
       ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-11-21",
+      "end_date": "2026-11-21",
+      "items": []
     }
   ]
 }
