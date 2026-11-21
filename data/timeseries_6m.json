@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T01:00:00+09:00",
+  "generated_at": "2026-11-22T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -13,44 +13,44 @@
       "end_date": "2026-05-31",
       "items": [
         {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 2095
+          "game": "DNF Duel",
+          "minutes": 1710
         },
         {
-          "game": "DNF Duel",
-          "minutes": 1845
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 1606
         },
         {
           "game": "Strinova",
-          "minutes": 1020
-        },
-        {
-          "game": "Sakura Arms ~Radiant Duels~ Demo",
-          "minutes": 871
+          "minutes": 756
         },
         {
           "game": "Wuthering Waves",
-          "minutes": 839
+          "minutes": 676
         },
         {
           "game": "Guilty Gear: Strive",
-          "minutes": 652
+          "minutes": 646
         },
         {
           "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 645
+          "minutes": 639
+        },
+        {
+          "game": "Sakura Arms ~Radiant Duels~ Demo",
+          "minutes": 532
         },
         {
           "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 514
-        },
-        {
-          "game": "Neverness to Everness",
-          "minutes": 464
+          "minutes": 500
         },
         {
           "game": "TEKKEN 8",
           "minutes": 368
+        },
+        {
+          "game": "Neverness to Everness",
+          "minutes": 338
         },
         {
           "game": "Ultimate Marvel vs. Capcom 3",
@@ -73,14 +73,6 @@
           "minutes": 92
         },
         {
-          "game": "ARKNIGHTS: ENDFIELD",
-          "minutes": 71
-        },
-        {
-          "game": "FANTASY LIFE i: The Girl Who Steals Time",
-          "minutes": 58
-        },
-        {
           "game": "mtch.gg",
           "minutes": 49
         },
@@ -89,8 +81,12 @@
           "minutes": 41
         },
         {
-          "game": "Ultra Fight Da! Kyanta 2",
-          "minutes": 34
+          "game": "ARKNIGHTS: ENDFIELD",
+          "minutes": 40
+        },
+        {
+          "game": "FANTASY LIFE i: The Girl Who Steals Time",
+          "minutes": 39
         },
         {
           "game": "MELTY BLOOD: TYPE LUMINA",
@@ -115,10 +111,6 @@
         {
           "game": "Million Arthur: Arcana Blood",
           "minutes": 12
-        },
-        {
-          "game": "Black Desert",
-          "minutes": 5
         },
         {
           "game": "Overwatch",
@@ -1471,53 +1463,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-11-15",
-      "end_date": "2026-11-15",
-      "items": [
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 204
-        },
-        {
-          "game": "Fatal Fury: City of the Wolves",
-          "minutes": 157
-        },
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 110
-        },
-        {
-          "game": "Ultra Street Fighter IV",
-          "minutes": 61
-        },
-        {
-          "game": "DNF DUEL",
-          "minutes": 58
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 50
-        },
-        {
-          "game": "StarWard",
-          "minutes": 42
-        },
-        {
-          "game": "Duet Night Abyss",
-          "minutes": 32
-        },
-        {
-          "game": "Atelier Resleriana: The Red Alchemist & The White Guardian",
-          "minutes": 17
-        },
-        {
-          "game": "Antivirus Survivors 2003 Professional",
-          "minutes": 1
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-11-16",
       "end_date": "2026-11-16",
       "items": [
@@ -1655,7 +1600,23 @@
       "bucket_type": "day",
       "start_date": "2026-11-21",
       "end_date": "2026-11-21",
-      "items": []
+      "items": [
+        {
+          "game": "Atelier Resleriana: The Red Alchemist & The White Guardian",
+          "minutes": 25
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-11-22",
+      "end_date": "2026-11-22",
+      "items": [
+        {
+          "game": "Atelier Resleriana: The Red Alchemist & The White Guardian",
+          "minutes": 60
+        }
+      ]
     }
   ]
 }
