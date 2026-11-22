@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T01:00:00+09:00",
+  "generated_at": "2026-11-23T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -13,32 +13,32 @@
       "end_date": "2026-05-31",
       "items": [
         {
-          "game": "DNF Duel",
-          "minutes": 1710
+          "game": "Phantom Breaker: Omnia",
+          "minutes": 1400
         },
         {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 1606
+          "game": "DNF Duel",
+          "minutes": 1019
         },
         {
           "game": "Strinova",
-          "minutes": 756
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 676
+          "minutes": 625
         },
         {
           "game": "Guilty Gear: Strive",
-          "minutes": 646
+          "minutes": 620
         },
         {
           "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 639
+          "minutes": 599
         },
         {
           "game": "Sakura Arms ~Radiant Duels~ Demo",
-          "minutes": 532
+          "minutes": 528
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 518
         },
         {
           "game": "Granblue Fantasy Versus: Rising",
@@ -49,16 +49,16 @@
           "minutes": 368
         },
         {
-          "game": "Neverness to Everness",
-          "minutes": 338
-        },
-        {
           "game": "Ultimate Marvel vs. Capcom 3",
           "minutes": 298
         },
         {
           "game": "The Rumble Fish +",
           "minutes": 262
+        },
+        {
+          "game": "Neverness to Everness",
+          "minutes": 225
         },
         {
           "game": "Yu-Gi-Oh! Master Duel",
@@ -73,27 +73,19 @@
           "minutes": 92
         },
         {
-          "game": "mtch.gg",
-          "minutes": 49
-        },
-        {
           "game": "Dragon Quest X: Inishie no Ryuu no Denshou Online",
           "minutes": 41
-        },
-        {
-          "game": "ARKNIGHTS: ENDFIELD",
-          "minutes": 40
         },
         {
           "game": "FANTASY LIFE i: The Girl Who Steals Time",
           "minutes": 39
         },
         {
-          "game": "MELTY BLOOD: TYPE LUMINA",
-          "minutes": 24
+          "game": "ARKNIGHTS: ENDFIELD",
+          "minutes": 33
         },
         {
-          "game": "Star Wars Battlefront II: Celebration Edition",
+          "game": "MELTY BLOOD: TYPE LUMINA",
           "minutes": 24
         },
         {
@@ -123,6 +115,10 @@
         {
           "game": "Desktop Mate",
           "minutes": 2
+        },
+        {
+          "game": "mtch.gg",
+          "minutes": 1
         }
       ]
     },
@@ -1462,32 +1458,64 @@
       ]
     },
     {
-      "bucket_type": "day",
+      "bucket_type": "week",
       "start_date": "2026-11-16",
-      "end_date": "2026-11-16",
+      "end_date": "2026-11-22",
       "items": [
         {
           "game": "DNF DUEL",
-          "minutes": 161
+          "minutes": 1229
         },
         {
-          "game": "Atelier Resleriana: The Red Alchemist & The White Guardian",
-          "minutes": 69
+          "game": "Fatal Fury: City of the Wolves",
+          "minutes": 413
         },
         {
           "game": "FINAL FANTASY XIV ONLINE",
-          "minutes": 36
+          "minutes": 408
         },
         {
           "game": "Guilty Gear: Strive",
-          "minutes": 26
+          "minutes": 360
+        },
+        {
+          "game": "Atelier Resleriana: The Red Alchemist & The White Guardian",
+          "minutes": 236
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 130
+        },
+        {
+          "game": "Sakura Arms ~Radiant Duels~ Demo",
+          "minutes": 67
+        },
+        {
+          "game": "Yu-Gi-Oh! Master Duel",
+          "minutes": 43
+        },
+        {
+          "game": "StarWard",
+          "minutes": 37
+        },
+        {
+          "game": "Shadowverse: Worlds Beyond",
+          "minutes": 16
+        },
+        {
+          "game": "BlazBlue: Continuum Shift Extend",
+          "minutes": 15
+        },
+        {
+          "game": "Strinova",
+          "minutes": 12
         },
         {
           "game": "Bedrock Cosmos",
           "minutes": 2
         },
         {
-          "game": "Strinova",
+          "game": "Rivals of Aether",
           "minutes": 1
         }
       ]
@@ -1614,6 +1642,33 @@
       "items": [
         {
           "game": "Atelier Resleriana: The Red Alchemist & The White Guardian",
+          "minutes": 142
+        },
+        {
+          "game": "Fatal Fury: City of the Wolves",
+          "minutes": 112
+        },
+        {
+          "game": "DNF DUEL",
+          "minutes": 70
+        },
+        {
+          "game": "Yu-Gi-Oh! Master Duel",
+          "minutes": 43
+        },
+        {
+          "game": "Rivals of Aether",
+          "minutes": 1
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-23",
+      "items": [
+        {
+          "game": "Yu-Gi-Oh! Master Duel",
           "minutes": 60
         }
       ]
