@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T01:00:00+09:00",
+  "generated_at": "2026-11-27T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -7,69 +7,6 @@
     "monthly_until_days": 180
   },
   "buckets": [
-    {
-      "bucket_type": "month",
-      "start_date": "2026-05-01",
-      "end_date": "2026-05-31",
-      "items": [
-        {
-          "game": "Guilty Gear: Strive",
-          "minutes": 498
-        },
-        {
-          "game": "DNF Duel",
-          "minutes": 366
-        },
-        {
-          "game": "Ultimate Marvel vs. Capcom 3",
-          "minutes": 297
-        },
-        {
-          "game": "Strinova",
-          "minutes": 283
-        },
-        {
-          "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 232
-        },
-        {
-          "game": "Phantom Breaker: Omnia",
-          "minutes": 227
-        },
-        {
-          "game": "Sakura Arms ~Radiant Duels~ Demo",
-          "minutes": 227
-        },
-        {
-          "game": "Neverness to Everness",
-          "minutes": 175
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 111
-        },
-        {
-          "game": "Street Fighter 6",
-          "minutes": 70
-        },
-        {
-          "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 36
-        },
-        {
-          "game": "StarWard",
-          "minutes": 4
-        },
-        {
-          "game": "ゼンレスゾーンゼロ",
-          "minutes": 3
-        },
-        {
-          "game": "mtch.gg",
-          "minutes": 1
-        }
-      ]
-    },
     {
       "bucket_type": "month",
       "start_date": "2026-06-01",
@@ -1403,29 +1340,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-11-20",
-      "end_date": "2026-11-20",
-      "items": [
-        {
-          "game": "DNF DUEL",
-          "minutes": 146
-        },
-        {
-          "game": "FINAL FANTASY XIV ONLINE",
-          "minutes": 115
-        },
-        {
-          "game": "Wuthering Waves",
-          "minutes": 84
-        },
-        {
-          "game": "Fatal Fury: City of the Wolves",
-          "minutes": 69
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-11-21",
       "end_date": "2026-11-21",
       "items": [
@@ -1593,12 +1507,75 @@
       "end_date": "2026-11-26",
       "items": [
         {
+          "game": "Million Arthur: Arcana Blood",
+          "minutes": 275
+        },
+        {
+          "game": "ARKNIGHTS: ENDFIELD",
+          "minutes": 130
+        },
+        {
+          "game": "DNF DUEL",
+          "minutes": 73
+        },
+        {
+          "game": "Sakura Arms ~Radiant Duels~ Demo",
+          "minutes": 60
+        },
+        {
+          "game": "Atelier Resleriana: The Red Alchemist & The White Guardian",
+          "minutes": 57
+        },
+        {
           "game": "Guilty Gear: Strive",
           "minutes": 52
         },
         {
-          "game": "DNF DUEL",
-          "minutes": 51
+          "game": "Avatar Legends: The Fighting Game",
+          "minutes": 46
+        },
+        {
+          "game": "StarWard",
+          "minutes": 27
+        },
+        {
+          "game": "Atelier Yumia: The Alchemist of Memories & the Envisioned Land",
+          "minutes": 22
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 6
+        },
+        {
+          "game": "Arknights: Endfield",
+          "minutes": 5
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-11-27",
+      "end_date": "2026-11-27",
+      "items": [
+        {
+          "game": "Atelier Yumia: The Alchemist of Memories & the Envisioned Land",
+          "minutes": 45
+        },
+        {
+          "game": "Zenless Zone Zero",
+          "minutes": 16
+        },
+        {
+          "game": "StarWard",
+          "minutes": 15
+        },
+        {
+          "game": "Million Arthur: Arcana Blood",
+          "minutes": 7
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 7
         }
       ]
     }
