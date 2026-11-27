@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T01:00:00+09:00",
+  "generated_at": "2026-11-28T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -14,27 +14,27 @@
       "items": [
         {
           "game": "Phantom Breaker: Omnia",
-          "minutes": 8601
+          "minutes": 8179
         },
         {
           "game": "Guilty Gear: Strive",
-          "minutes": 6248
+          "minutes": 6120
         },
         {
           "game": "Wuthering Waves",
-          "minutes": 4414
-        },
-        {
-          "game": "Sakura Arms ~Radiant Duels~ Demo",
-          "minutes": 2947
+          "minutes": 4398
         },
         {
           "game": "DNF Duel",
-          "minutes": 2855
+          "minutes": 2849
+        },
+        {
+          "game": "Sakura Arms ~Radiant Duels~ Demo",
+          "minutes": 2607
         },
         {
           "game": "Strinova",
-          "minutes": 1828
+          "minutes": 1810
         },
         {
           "game": "Dead by Daylight",
@@ -42,7 +42,7 @@
         },
         {
           "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 1211
+          "minutes": 1155
         },
         {
           "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
@@ -50,15 +50,11 @@
         },
         {
           "game": "Neverness to Everness",
-          "minutes": 881
+          "minutes": 854
         },
         {
           "game": "TEVI",
           "minutes": 592
-        },
-        {
-          "game": "Ultimate Marvel vs. Capcom 3",
-          "minutes": 506
         },
         {
           "game": "BlazBlue Centralfiction",
@@ -66,10 +62,6 @@
         },
         {
           "game": "MELTY BLOOD: TYPE LUMINA",
-          "minutes": 417
-        },
-        {
-          "game": "ARKNIGHTS: ENDFIELD",
           "minutes": 405
         },
         {
@@ -79,6 +71,14 @@
         {
           "game": "Atelier Resleriana: The Red Alchemist & The White Guardian",
           "minutes": 382
+        },
+        {
+          "game": "Ultimate Marvel vs. Capcom 3",
+          "minutes": 381
+        },
+        {
+          "game": "ARKNIGHTS: ENDFIELD",
+          "minutes": 376
         },
         {
           "game": "Arcana Heart 3 LOVEMAX SIXSTARS!!!!!! XTEND",
@@ -91,10 +91,6 @@
         {
           "game": "BlazBlue: Cross Tag Battle",
           "minutes": 192
-        },
-        {
-          "game": "Street Fighter 6",
-          "minutes": 164
         },
         {
           "game": "StarWard",
@@ -157,6 +153,10 @@
           "minutes": 78
         },
         {
+          "game": "Street Fighter 6",
+          "minutes": 69
+        },
+        {
           "game": "Rainbow Six Siege",
           "minutes": 67
         },
@@ -195,10 +195,6 @@
         {
           "game": "Mortal Kombat 1",
           "minutes": 35
-        },
-        {
-          "game": "Under Night In-Birth Exe:Late[cl-r]",
-          "minutes": 34
         },
         {
           "game": "Hunter x Hunter: Nen x Impact",
@@ -247,6 +243,10 @@
         {
           "game": "Overwatch",
           "minutes": 14
+        },
+        {
+          "game": "Under Night In-Birth Exe:Late[cl-r]",
+          "minutes": 11
         },
         {
           "game": "Invincible VS",
@@ -1340,17 +1340,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-11-21",
-      "end_date": "2026-11-21",
-      "items": [
-        {
-          "game": "Atelier Resleriana: The Red Alchemist & The White Guardian",
-          "minutes": 25
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-11-22",
       "end_date": "2026-11-22",
       "items": [
@@ -1558,24 +1547,39 @@
       "end_date": "2026-11-27",
       "items": [
         {
+          "game": "DNF DUEL",
+          "minutes": 120
+        },
+        {
           "game": "Atelier Yumia: The Alchemist of Memories & the Envisioned Land",
-          "minutes": 45
+          "minutes": 107
+        },
+        {
+          "game": "Wuthering Waves",
+          "minutes": 39
+        },
+        {
+          "game": "StarWard",
+          "minutes": 21
         },
         {
           "game": "Zenless Zone Zero",
           "minutes": 16
         },
         {
-          "game": "StarWard",
-          "minutes": 15
-        },
-        {
           "game": "Million Arthur: Arcana Blood",
           "minutes": 7
-        },
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-11-28",
+      "end_date": "2026-11-28",
+      "items": [
         {
-          "game": "Wuthering Waves",
-          "minutes": 7
+          "game": "DNF DUEL",
+          "minutes": 114
         }
       ]
     }
