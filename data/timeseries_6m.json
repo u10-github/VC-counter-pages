@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T01:00:00+09:00",
+  "generated_at": "2026-11-29T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -14,11 +14,11 @@
       "items": [
         {
           "game": "Phantom Breaker: Omnia",
-          "minutes": 8179
+          "minutes": 7602
         },
         {
           "game": "Guilty Gear: Strive",
-          "minutes": 6120
+          "minutes": 6111
         },
         {
           "game": "Wuthering Waves",
@@ -26,15 +26,15 @@
         },
         {
           "game": "DNF Duel",
-          "minutes": 2849
+          "minutes": 2840
         },
         {
           "game": "Sakura Arms ~Radiant Duels~ Demo",
-          "minutes": 2607
+          "minutes": 2551
         },
         {
           "game": "Strinova",
-          "minutes": 1810
+          "minutes": 1697
         },
         {
           "game": "Dead by Daylight",
@@ -42,11 +42,11 @@
         },
         {
           "game": "Granblue Fantasy Versus: Rising",
-          "minutes": 1155
+          "minutes": 1108
         },
         {
           "game": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-          "minutes": 945
+          "minutes": 931
         },
         {
           "game": "Neverness to Everness",
@@ -65,20 +65,16 @@
           "minutes": 405
         },
         {
-          "game": "TEKKEN 8",
-          "minutes": 396
-        },
-        {
           "game": "Atelier Resleriana: The Red Alchemist & The White Guardian",
           "minutes": 382
         },
         {
           "game": "Ultimate Marvel vs. Capcom 3",
-          "minutes": 381
+          "minutes": 371
         },
         {
           "game": "ARKNIGHTS: ENDFIELD",
-          "minutes": 376
+          "minutes": 367
         },
         {
           "game": "Arcana Heart 3 LOVEMAX SIXSTARS!!!!!! XTEND",
@@ -93,12 +89,12 @@
           "minutes": 192
         },
         {
-          "game": "StarWard",
-          "minutes": 162
-        },
-        {
           "game": "Astral Party",
           "minutes": 157
+        },
+        {
+          "game": "StarWard",
+          "minutes": 150
         },
         {
           "game": "Yu-Gi-Oh! Master Duel",
@@ -129,10 +125,6 @@
           "minutes": 98
         },
         {
-          "game": "Backpack Battles",
-          "minutes": 84
-        },
-        {
           "game": "GRADIUS ORIGINS",
           "minutes": 82
         },
@@ -153,16 +145,16 @@
           "minutes": 78
         },
         {
-          "game": "Street Fighter 6",
-          "minutes": 69
-        },
-        {
           "game": "Rainbow Six Siege",
           "minutes": 67
         },
         {
           "game": "Kiou",
           "minutes": 65
+        },
+        {
+          "game": "Backpack Battles",
+          "minutes": 60
         },
         {
           "game": "Dragon Ball: The Breakers",
@@ -179,6 +171,10 @@
         {
           "game": "ゼンレスゾーンゼロ",
           "minutes": 49
+        },
+        {
+          "game": "Street Fighter 6",
+          "minutes": 47
         },
         {
           "game": "Fatal Fury: City of the Wolves",
@@ -209,6 +205,10 @@
           "minutes": 29
         },
         {
+          "game": "TEKKEN 8",
+          "minutes": 26
+        },
+        {
           "game": "Touhou Danmaku Kagura: Phantasia Lost",
           "minutes": 26
         },
@@ -222,10 +222,6 @@
         },
         {
           "game": "Dragon Quest X: Inishie no Ryuu no Denshou Online",
-          "minutes": 18
-        },
-        {
-          "game": "Guns of Icarus Alliance",
           "minutes": 18
         },
         {
@@ -245,8 +241,8 @@
           "minutes": 14
         },
         {
-          "game": "Under Night In-Birth Exe:Late[cl-r]",
-          "minutes": 11
+          "game": "Guns of Icarus Alliance",
+          "minutes": 10
         },
         {
           "game": "Invincible VS",
@@ -1340,33 +1336,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-11-22",
-      "end_date": "2026-11-22",
-      "items": [
-        {
-          "game": "Atelier Resleriana: The Red Alchemist & The White Guardian",
-          "minutes": 142
-        },
-        {
-          "game": "Fatal Fury: City of the Wolves",
-          "minutes": 112
-        },
-        {
-          "game": "DNF DUEL",
-          "minutes": 70
-        },
-        {
-          "game": "Yu-Gi-Oh! Master Duel",
-          "minutes": 43
-        },
-        {
-          "game": "Rivals of Aether",
-          "minutes": 1
-        }
-      ]
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-11-23",
       "end_date": "2026-11-23",
       "items": [
@@ -1578,8 +1547,35 @@
       "end_date": "2026-11-28",
       "items": [
         {
+          "game": "Million Arthur: Arcana Blood",
+          "minutes": 387
+        },
+        {
           "game": "DNF DUEL",
-          "minutes": 114
+          "minutes": 210
+        },
+        {
+          "game": "Arknights: Endfield",
+          "minutes": 95
+        },
+        {
+          "game": "Guilty Gear: Strive",
+          "minutes": 64
+        }
+      ]
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-11-29",
+      "end_date": "2026-11-29",
+      "items": [
+        {
+          "game": "DNF DUEL",
+          "minutes": 123
+        },
+        {
+          "game": "Street Fighter 6",
+          "minutes": 46
         }
       ]
     }
